@@ -2,8 +2,9 @@ name: Generate Daily Challenge
 
 on:
   schedule:
-    # Runs at 8:00 AM UTC every day
-    - cron: '0 8 * * *'
+    # Runs at 4:30 PM London time (16:30 UTC in winter, 15:30 UTC in summer)
+    # Using 16:30 UTC - will be 4:30 PM GMT or 5:30 PM BST
+    - cron: '30 16 * * *'
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
