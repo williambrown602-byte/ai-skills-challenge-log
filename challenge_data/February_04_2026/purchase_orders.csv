@@ -1,0 +1,46 @@
+PO_ID,Date,Department,Vendor_ID,Vendor_Name,Category,Item_Description,Quantity,Unit_Price,Total_Amount,Approver,Payment_Terms,Contract_ID
+PO-2024-001,2024-07-15,Manufacturing,V001,Industrial Supply Co,Raw Materials,Steel Rods 10mm,500,12.50,6250.00,John Miller,Net 30,C001
+PO-2024-002,2024-07-16,IT,V002,TechSource Ltd,Hardware,Laptops Dell Latitude,25,899.99,22499.75,Sarah Chen,Net 45,C002
+PO-2024-003,2024-07-16,Manufacturing,V003,Metal Works Inc,Raw Materials,Steel Rods 10mm,200,14.25,2850.00,John Miller,Net 15,
+PO-2024-004,2024-07-18,Facilities,V004,Office Plus,Office Supplies,Copy Paper A4,100,8.99,899.00,Mike Johnson,Net 30,C003
+PO-2024-005,2024-07-20,Manufacturing,V001,Industrial Supply Co,Raw Materials,Aluminum Sheets,300,25.75,7725.00,John Miller,Net 30,C001
+PO-2024-006,2024-07-22,IT,V005,CompuTech Solutions,Software,Adobe Creative Suite,10,599.00,5990.00,Sarah Chen,Net 30,
+PO-2024-007,2024-07-23,HR,V006,Recruitment Plus,Services,Executive Search,1,15000.00,15000.00,Lisa Wang,Net 15,
+PO-2024-008,2024-07-25,Manufacturing,V007,Quality Materials,Raw Materials,Steel Rods 10mm,150,13.80,2070.00,John Miller,Net 45,
+PO-2024-009,2024-07-26,Facilities,V008,Clean & Bright,Services,Janitorial Services,1,2500.00,2500.00,Mike Johnson,Net 30,C004
+PO-2024-010,2024-07-28,IT,V002,TechSource Ltd,Hardware,Network Switches,8,450.00,3600.00,Sarah Chen,Net 45,C002
+PO-2024-011,2024-07-30,Manufacturing,V001,Industrial Supply Co,Raw Materials,Copper Wire,1000,3.25,3250.00,John Miller,Net 30,C001
+PO-2024-012,2024-08-02,Marketing,V009,Print Masters,Marketing,Brochure Printing,5000,0.85,4250.00,Amy Rodriguez,Net 30,
+PO-2024-013,2024-08-05,Manufacturing,V003,Metal Works Inc,Raw Materials,Aluminum Sheets,250,27.50,6875.00,John Miller,Net 15,
+PO-2024-014,2024-08-07,IT,V010,Software Direct,Software,Microsoft Office 365,50,12.50,625.00,Sarah Chen,Net 30,C005
+PO-2024-015,2024-08-08,Facilities,V004,Office Plus,Office Supplies,Printer Cartridges,20,85.00,1700.00,Mike Johnson,Net 30,C003
+PO-2024-016,2024-08-10,Manufacturing,V001,Industrial Supply Co,Equipment,Drill Bits Set,25,45.00,1125.00,John Miller,Net 30,C001
+PO-2024-017,2024-08-12,HR,V011,Training Solutions,Services,Leadership Training,1,8500.00,8500.00,Lisa Wang,Net 15,
+PO-2024-018,2024-08-15,Manufacturing,V007,Quality Materials,Raw Materials,Copper Wire,800,3.45,2760.00,John Miller,Net 45,
+PO-2024-019,2024-08-16,IT,V012,Cloud Systems,Services,AWS Cloud Services,1,4500.00,4500.00,Sarah Chen,Net 30,
+PO-2024-020,2024-08-18,Facilities,V013,Security First,Services,Security System Upgrade,1,12000.00,12000.00,Mike Johnson,Net 30,
+PO-2024-021,2024-08-20,Manufacturing,V001,Industrial Supply Co,Raw Materials,Steel Rods 10mm,600,12.25,7350.00,John Miller,Net 30,C001
+PO-2024-022,2024-08-22,Marketing,V014,Digital Agency,Marketing,Website Redesign,1,25000.00,25000.00,Amy Rodriguez,Net 45,
+PO-2024-023,2024-08-25,Manufacturing,V015,Precision Tools,Equipment,Measuring Instruments,15,120.00,1800.00,John Miller,Net 30,
+PO-2024-024,2024-08-27,IT,V002,TechSource Ltd,Hardware,Monitors 24inch,30,285.00,8550.00,Sarah Chen,Net 45,C002
+PO-2024-025,2024-08-30,Facilities,V016,Green Energy Co,Utilities,Solar Panel Installation,1,35000.00,35000.00,Mike Johnson,Net 15,
+PO-2024-026,2024-09-02,Manufacturing,V003,Metal Works Inc,Raw Materials,Steel Rods 10mm,300,14.10,4230.00,John Miller,Net 15,
+PO-2024-027,2024-09-05,HR,V017,Benefits Admin,Services,Health Insurance Processing,1,3500.00,3500.00,Lisa Wang,Net 30,
+PO-2024-028,2024-09-07,Manufacturing,V001,Industrial Supply Co,Raw Materials,Aluminum Sheets,400,25.50,10200.00,John Miller,Net 30,C001
+PO-2024-029,2024-09-10,IT,V018,DataSafe Inc,Services,Backup Solutions,1,6500.00,6500.00,Sarah Chen,Net 30,
+PO-2024-030,2024-09-12,Facilities,V004,Office Plus,Office Supplies,Stationery Kit,50,25.00,1250.00,Mike Johnson,Net 30,C003
+PO-2024-031,2024-09-15,Manufacturing,V007,Quality Materials,Raw Materials,Steel Rods 10mm,180,13.95,2511.00,John Miller,Net 45,
+PO-2024-032,2024-09-18,Marketing,V019,Social Media Pro,Marketing,Social Media Management,1,4500.00,4500.00,Amy Rodriguez,Net 30,
+PO-2024-033,2024-09-20,Manufacturing,V001,Industrial Supply Co,Equipment,Safety Equipment,100,35.00,3500.00,John Miller,Net 30,C001
+PO-2024-034,2024-09-22,IT,V020,Cyber Shield,Services,Cybersecurity Audit,1,8500.00,8500.00,Sarah Chen,Net 15,
+PO-2024-035,2024-09-25,Facilities,V021,HVAC Solutions,Services,Air Conditioning Maintenance,1,2800.00,2800.00,Mike Johnson,Net 30,
+PO-2024-036,2024-09-28,Manufacturing,V003,Metal Works Inc,Raw Materials,Copper Wire,900,3.55,3195.00,John Miller,Net 15,
+PO-2024-037,2024-10-01,HR,V022,Legal Services Inc,Services,Employment Law Consultation,1,5500.00,5500.00,Lisa Wang,Net 30,
+PO-2024-038,2024-10-03,Manufacturing,V001,Industrial Supply Co,Raw Materials,Steel Rods 10mm,450,12.40,5580.00,John Miller,Net 30,C001
+PO-2024-039,2024-10-05,IT,V002,TechSource Ltd,Hardware,Servers Dell PowerEdge,3,2500.00,7500.00,Sarah Chen,Net 45,C002
+PO-2024-040,2024-10-08,Facilities,V023,Landscape Pro,Services,Grounds Maintenance,1,1800.00,1800.00,Mike Johnson,Net 30,
+PO-2024-041,2024-10-10,Manufacturing,V015,Precision Tools,Equipment,Calibration Services,1,2200.00,2200.00,John Miller,Net 30,
+PO-2024-042,2024-10-12,Marketing,V024,Event Planners,Marketing,Trade Show Booth,1,12000.00,12000.00,Amy Rodriguez,Net 15,
+PO-2024-043,2024-10-15,Manufacturing,V007,Quality Materials,Raw Materials,Aluminum Sheets,350,26.25,9187.50,John Miller,Net 45,
+PO-2024-044,2024-10-18,IT,V025,Network Pro,Services,Network Infrastructure Upgrade,1,15000.00,15000.00,Sarah Chen,Net 30,
+PO-2024-045,2024-10-20,Facilities,V004,Office Plus,Office Supplies,Office Furniture,25,450.00,11250.00,Mike Johnson,Net 30,C003

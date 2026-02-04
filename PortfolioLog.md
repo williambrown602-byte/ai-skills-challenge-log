@@ -48,3 +48,28 @@ Create an automated marketing attribution system that tracks campaigns from init
 - Executive summary with 3 key strategic recommendations
 
 ---
+# Daily AI Challenge – February 04, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent procurement optimization system that analyzes historical purchasing data to identify cost-saving opportunities and automate vendor consolidation recommendations. Enable 8-15% cost savings through data-driven procurement strategies and improved supplier negotiations.
+
+## Skills Trained
+- Financial data analysis and modeling
+- Pattern recognition in business processes
+- Cost optimization and strategic sourcing
+- Anomaly detection for operational efficiency
+- Executive-level business reporting and recommendations
+
+## Deliverables
+- Vendor consolidation analysis showing potential annual savings
+- Department-wise spending efficiency report with red flags
+- Automated purchase order anomaly detection system
+- Strategic sourcing recommendations with implementation timeline
+- Executive dashboard summarizing top 5 cost optimization opportunities
+
+---

@@ -1,0 +1,26 @@
+Vendor_ID,Vendor_Name,Category,Payment_Terms,Volume_Discount_Tier_1,Volume_Discount_Tier_2,Volume_Discount_Tier_3,Delivery_Rating,Quality_Rating,Contract_Expiry
+V001,Industrial Supply Co,Raw Materials,Net 30,5% over $10000,8% over $25000,12% over $50000,4.8,4.7,2025-12-31
+V002,TechSource Ltd,Hardware,Net 45,3% over $15000,6% over $30000,10% over $60000,4.6,4.8,2025-06-30
+V003,Metal Works Inc,Raw Materials,Net 15,4% over $8000,7% over $20000,11% over $40000,4.2,4.5,2024-12-31
+V004,Office Plus,Office Supplies,Net 30,2% over $5000,5% over $12000,8% over $25000,4.7,4.6,2025-03-31
+V005,CompuTech Solutions,Software,Net 30,5% over $10000,8% over $20000,12% over $35000,4.5,4.4,2024-11-30
+V006,Recruitment Plus,Services,Net 15,3% over $20000,6% over $50000,10% over $100000,4.3,4.7,2025-01-31
+V007,Quality Materials,Raw Materials,Net 45,4% over $7500,7% over $18000,10% over $35000,4.4,4.8,2025-02-28
+V008,Clean & Bright,Services,Net 30,2% over $15000,4% over $30000,7% over $60000,4.6,4.5,2025-05-31
+V009,Print Masters,Marketing,Net 30,3% over $5000,6% over $12000,9% over $25000,4.5,4.6,2024-10-31
+V010,Software Direct,Software,Net 30,4% over $8000,7% over $18000,11% over $35000,4.7,4.7,2025-08-31
+V011,Training Solutions,Services,Net 15,5% over $15000,8% over $30000,12% over $60000,4.4,4.8,2025-04-30
+V012,Cloud Systems,Services,Net 30,3% over $10000,6% over $25000,10% over $50000,4.8,4.6,2025-07-31
+V013,Security First,Services,Net 30,4% over $12000,7% over $25000,11% over $50000,4.5,4.7,2025-09-30
+V014,Digital Agency,Marketing,Net 45,2% over $20000,5% over $40000,8% over $80000,4.3,4.5,2024-12-31
+V015,Precision Tools,Equipment,Net 30,3% over $8000,6% over $18000,9% over $35000,4.7,4.9,2025-11-30
+V016,Green Energy Co,Utilities,Net 15,1% over $25000,3% over $50000,5% over $100000,4.2,4.4,2026-01-31
+V017,Benefits Admin,Services,Net 30,2% over $10000,4% over $25000,7% over $50000,4.6,4.6,2025-03-31
+V018,DataSafe Inc,Services,Net 30,4% over $12000,7% over $25000,10% over $50000,4.8,4.7,2025-06-30
+V019,Social Media Pro,Marketing,Net 30,3% over $8000,6% over $18000,9% over $35000,4.4,4.3,2025-02-28
+V020,Cyber Shield,Services,Net 15,5% over $15000,8% over $30000,12% over $60000,4.7,4.8,2025-05-31
+V021,HVAC Solutions,Services,Net 30,2% over $12000,5% over $25000,8% over $50000,4.5,4.6,2025-08-31
+V022,Legal Services Inc,Services,Net 30,3% over $15000,6% over $35000,10% over $70000,4.6,4.9,2025-10-31
+V023,Landscape Pro,Services,Net 30,2% over $8000,4% over $18000,7% over $35000,4.3,4.4,2025-01-31
+V024,Event Planners,Marketing,Net 15,3% over $10000,6% over $22000,9% over $45000,4.4,4.5,2024-11-30
+V025,Network Pro,Services,Net 30,4% over $12000,7% over $28000,11% over $55000,4.8,4.7,2025-07-31

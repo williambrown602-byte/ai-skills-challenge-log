@@ -1,0 +1,9 @@
+Department,Annual_Budget,Quarterly_Budget,Current_Quarter_Spent,Budget_Utilization,Approver,Approval_Limit,Department_Head
+Manufacturing,850000,212500,145680,68.5%,John Miller,25000,John Miller
+IT,450000,112500,89340,79.4%,Sarah Chen,20000,Sarah Chen
+Facilities,320000,80000,52180,65.2%,Mike Johnson,15000,Mike Johnson
+Marketing,280000,70000,58750,83.9%,Amy Rodriguez,18000,Amy Rodriguez
+HR,180000,45000,32500,72.2%,Lisa Wang,12000,Lisa Wang
+Operations,220000,55000,38920,70.8%,David Kim,15000,David Kim
+Finance,150000,37500,28450,75.9%,Robert Smith,10000,Robert Smith
+Quality,120000,30000,19580,65.3%,Maria Garcia,8000,Maria Garcia
