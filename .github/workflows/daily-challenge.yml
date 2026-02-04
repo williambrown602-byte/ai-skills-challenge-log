@@ -7,6 +7,9 @@ on:
     - cron: '30 16 * * *'
   workflow_dispatch:  # Allows manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   generate-challenge:
     runs-on: ubuntu-latest
