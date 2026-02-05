@@ -1,0 +1,77 @@
+[
+  {
+    "job_id": "JD001",
+    "title": "Senior Software Engineer",
+    "department": "Technology",
+    "level": "Senior",
+    "requirements": {
+      "technical_skills": ["Python", "Java", "React", "AWS", "Docker", "Kubernetes"],
+      "experience_years": 5,
+      "education": "Bachelor's in Computer Science or related field",
+      "soft_skills": ["Leadership", "Communication", "Problem-solving", "Team collaboration"]
+    },
+    "nice_to_have": ["Machine Learning", "DevOps", "Agile/Scrum", "GraphQL"],
+    "salary_range": "$90,000-$130,000",
+    "description": "Lead development of scalable web applications, mentor junior developers, and collaborate with cross-functional teams to deliver high-quality software solutions."
+  },
+  {
+    "job_id": "JD002",
+    "title": "Marketing Manager",
+    "department": "Marketing",
+    "level": "Mid-level",
+    "requirements": {
+      "technical_skills": ["Google Analytics", "HubSpot", "Social Media Platforms", "SEO", "Content Management"],
+      "experience_years": 4,
+      "education": "Bachelor's in Marketing, Business, or related field",
+      "soft_skills": ["Creativity", "Strategic thinking", "Communication", "Project management"]
+    },
+    "nice_to_have": ["Paid advertising", "Marketing automation", "A/B testing", "Data analysis"],
+    "salary_range": "$65,000-$85,000",
+    "description": "Develop and execute comprehensive marketing strategies, manage campaigns across multiple channels, and analyze performance metrics to drive business growth."
+  },
+  {
+    "job_id": "JD003",
+    "title": "Business Analyst",
+    "department": "Operations",
+    "level": "Mid-level",
+    "requirements": {
+      "technical_skills": ["SQL", "Excel", "Tableau", "Power BI", "Process mapping"],
+      "experience_years": 3,
+      "education": "Bachelor's in Business, Finance, or related field",
+      "soft_skills": ["Analytical thinking", "Communication", "Stakeholder management", "Problem-solving"]
+    },
+    "nice_to_have": ["Python", "R", "Agile methodology", "Project management certification"],
+    "salary_range": "$70,000-$95,000",
+    "description": "Analyze business processes, gather requirements, and work with stakeholders to identify opportunities for operational improvements and system enhancements."
+  },
+  {
+    "job_id": "JD004",
+    "title": "UX Designer",
+    "department": "Design",
+    "level": "Mid-level",
+    "requirements": {
+      "technical_skills": ["Figma", "Adobe Creative Suite", "Sketch", "Prototyping", "User research"],
+      "experience_years": 3,
+      "education": "Bachelor's in Design, HCI, or related field",
+      "soft_skills": ["Empathy", "Communication", "Collaboration", "Critical thinking"]
+    },
+    "nice_to_have": ["HTML/CSS", "Motion design", "Design systems", "Accessibility standards"],
+    "salary_range": "$75,000-$100,000",
+    "description": "Design intuitive user experiences, conduct user research, create wireframes and prototypes, and collaborate with development teams to implement designs."
+  },
+  {
+    "job_id": "JD005",
+    "title": "Data Scientist",
+    "department": "Analytics",
+    "level": "Senior",
+    "requirements": {
+      "technical_skills": ["Python", "R", "SQL", "Machine Learning", "Statistics", "Data visualization"],
+      "experience_years": 4,
+      "education": "Master's in Data Science, Statistics, or related field",
+      "soft_skills": ["Problem-solving", "Communication", "Business acumen", "Curiosity"]
+    },
+    "nice_to_have": ["Deep learning", "Cloud platforms", "Big data tools", "MLOps"],
+    "salary_range": "$95,000-$140,000",
+    "description": "Develop predictive models, analyze complex datasets, and provide data-driven insights to support strategic business decisions across the organization."
+  }
+]

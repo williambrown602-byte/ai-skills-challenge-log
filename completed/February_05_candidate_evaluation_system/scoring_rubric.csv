@@ -1,0 +1,7 @@
+Criteria,Weight,Score_1_Poor,Score_2_Fair,Score_3_Good,Score_4_Very_Good,Score_5_Excellent
+Technical Skills Match,0.30,0-20% match,21-40% match,41-60% match,61-80% match,81-100% match
+Relevant Experience,0.25,0-1 years below req,At minimum req,1-2 years above req,3-4 years above req,5+ years above req
+Education Alignment,0.15,No relevant education,Some relevant coursework,Meets minimum req,Exceeds minimum req,Advanced degree relevant
+Communication Skills,0.10,Poor writing/presentation,Basic communication,Clear communication,Strong communication,Exceptional communication
+Leadership Experience,0.10,No leadership shown,Informal leadership,Team lead experience,Management experience,Senior leadership
+Problem Solving,0.10,No examples shown,Basic examples,Good examples,Strong examples,Exceptional examples
