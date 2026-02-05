@@ -73,3 +73,28 @@ Build an intelligent procurement optimization system that analyzes historical pu
 - Executive dashboard summarizing top 5 cost optimization opportunities
 
 ---
+# Daily AI Challenge – February 05, 2026
+
+**Domain:** HR
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Create an automated candidate evaluation system that scores resumes against role requirements and generates interview-ready candidate profiles to reduce screening time by 80% while improving candidate quality. Transform a 15-minute manual process into 30-second automated screening for a consulting firm's major hiring push.
+
+## Skills Trained
+- Document processing and text extraction
+- Multi-criteria decision analysis
+- HR technology automation
+- Candidate assessment methodology
+- Process efficiency optimization
+
+## Deliverables
+- Automated resume scoring system with customizable criteria
+- Ranked candidate shortlists for each open position
+- Standardized candidate profiles with key strengths/concerns
+- Interview question suggestions based on candidate background
+- Weekly hiring pipeline dashboard with quality metrics
+
+---

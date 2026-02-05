@@ -1,0 +1,125 @@
+RESUME 1:
+Name: Sarah Chen
+Email: sarah.chen@email.com
+Phone: (555) 123-4567
+
+EXPERIENCE:
+Senior Software Developer, TechCorp (2020-2024)
+- Developed scalable web applications using Python, Django, and React
+- Led team of 4 junior developers on microservices architecture project
+- Implemented CI/CD pipelines using Docker and Kubernetes on AWS
+- Reduced application load time by 40% through performance optimization
+
+Software Developer, StartupXYZ (2018-2020)
+- Built RESTful APIs using Java Spring Boot
+- Collaborated with UX team to implement responsive frontend features
+- Managed database migrations and optimization in PostgreSQL
+
+EDUCATION:
+B.S. Computer Science, University of California (2018)
+
+SKILLS:
+Python, Java, React, AWS, Docker, Kubernetes, PostgreSQL, Git, Agile
+
+---
+
+RESUME 2:
+Name: Michael Rodriguez  
+Email: m.rodriguez@email.com
+Phone: (555) 234-5678
+
+EXPERIENCE:
+Marketing Specialist, GrowthCo (2021-2024)
+- Managed social media campaigns across Facebook, Instagram, LinkedIn
+- Increased website traffic by 65% through SEO optimization strategies  
+- Created content calendar and managed blog with 50+ articles
+- Analyzed campaign performance using Google Analytics and HubSpot
+
+Marketing Coordinator, LocalBiz (2019-2021) 
+- Assisted in development of email marketing campaigns
+- Coordinated trade show participation and promotional events
+- Maintained customer database and generated monthly reports
+
+EDUCATION:
+B.A. Marketing, State University (2019)
+
+SKILLS:
+Google Analytics, HubSpot, SEO, Social Media, Content Creation, Email Marketing
+
+---
+
+RESUME 3:
+Name: Jennifer Park
+Email: jennifer.park@email.com  
+Phone: (555) 345-6789
+
+EXPERIENCE:
+Business Analyst, ConsultingFirm (2022-2024)
+- Analyzed business processes for Fortune 500 clients
+- Created detailed requirements documentation and process maps
+- Built executive dashboards using Tableau and Power BI
+- Led stakeholder meetings and presented findings to C-level executives
+
+Data Analyst, RetailChain (2020-2022)
+- Performed data analysis using SQL and Excel for inventory optimization
+- Developed automated reporting solutions reducing manual work by 60%
+- Collaborated with IT to implement new POS system
+
+EDUCATION:
+B.S. Business Administration, Metro University (2020)
+Certified Business Analyst Professional (CBAP) (2023)
+
+SKILLS:
+SQL, Tableau, Power BI, Excel, Process Mapping, Stakeholder Management
+
+---
+
+RESUME 4:
+Name: Alex Thompson
+Email: alex.thompson@email.com
+Phone: (555) 456-7890
+
+EXPERIENCE:
+UX Designer, DesignStudio (2021-2024)
+- Designed user interfaces for mobile and web applications
+- Conducted user research and usability testing for 15+ projects  
+- Created wireframes, prototypes, and design systems using Figma
+- Collaborated with developers to ensure design implementation quality
+
+Junior UX Designer, AppCompany (2019-2021)
+- Assisted senior designers in creating user journey maps
+- Participated in design reviews and client presentations
+- Maintained design component library and style guides
+
+EDUCATION:
+B.F.A. Graphic Design, Art Institute (2019)
+UX Certification, General Assembly (2020)
+
+SKILLS:
+Figma, Sketch, Adobe Creative Suite, Prototyping, User Research, HTML/CSS
+
+---
+
+RESUME 5:
+Name: Dr. Rachel Kim
+Email: rachel.kim@email.com
+Phone: (555) 567-8901
+
+EXPERIENCE:
+Senior Data Scientist, AnalyticsPro (2021-2024)
+- Developed machine learning models for customer segmentation and churn prediction
+- Led cross-functional team to implement recommendation engine using Python and TensorFlow  
+- Built automated ML pipelines on AWS resulting in 30% faster model deployment
+- Presented insights to executive team driving $2M revenue optimization
+
+Data Scientist, FinTech Startup (2019-2021)
+- Created fraud detection algorithms reducing false positives by 45%
+- Performed statistical analysis on large datasets using R and SQL
+- Developed predictive models for credit risk assessment
+
+EDUCATION:
+Ph.D. Statistics, Stanford University (2019)
+M.S. Mathematics, UC Berkeley (2015)
+
+SKILLS:
+Python, R, SQL, Machine Learning, TensorFlow, AWS, Statistics, Deep Learning

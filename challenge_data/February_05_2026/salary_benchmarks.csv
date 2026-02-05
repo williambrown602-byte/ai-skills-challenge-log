@@ -1,0 +1,15 @@
+Position,Level,Min_Salary,Max_Salary,Median_Salary,Location_Factor,Market_Trend
+Software Engineer,Junior,65000,85000,75000,1.0,Increasing
+Software Engineer,Mid,80000,110000,95000,1.0,Increasing  
+Software Engineer,Senior,105000,150000,127500,1.0,Stable
+Marketing Manager,Mid,60000,90000,75000,1.0,Stable
+Marketing Director,Senior,85000,125000,105000,1.0,Stable
+Business Analyst,Junior,55000,70000,62500,1.0,Stable
+Business Analyst,Mid,70000,95000,82500,1.0,Increasing
+Business Analyst,Senior,90000,120000,105000,1.0,Increasing
+UX Designer,Junior,60000,80000,70000,1.0,Increasing
+UX Designer,Mid,75000,105000,90000,1.0,Increasing
+UX Designer,Senior,95000,130000,112500,1.0,Stable
+Data Scientist,Mid,85000,115000,100000,1.0,Increasing
+Data Scientist,Senior,110000,160000,135000,1.0,Increasing
+Data Scientist,Principal,140000,200000,170000,1.0,Stable

@@ -1,0 +1,31 @@
+{
+  "interview_template": {
+    "candidate_summary": {
+      "strengths": [],
+      "concerns": [],
+      "culture_fit_indicators": [],
+      "salary_expectation_alignment": ""
+    },
+    "technical_assessment": {
+      "skill_verification_questions": [],
+      "scenario_based_questions": [],
+      "hands_on_exercise_suggestions": []
+    },
+    "behavioral_questions": {
+      "leadership_examples": [],
+      "problem_solving_scenarios": [],
+      "communication_assessment": [],
+      "teamwork_evaluation": []
+    },
+    "role_specific_topics": {
+      "key_discussion_points": [],
+      "project_examples_to_explore": [],
+      "growth_potential_areas": []
+    },
+    "next_steps": {
+      "recommended_interview_panel": [],
+      "additional_assessments_needed": [],
+      "reference_check_focus_areas": []
+    }
+  }
+}

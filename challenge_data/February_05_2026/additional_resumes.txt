@@ -1,0 +1,127 @@
+RESUME 6:
+Name: David Wilson
+Email: d.wilson@email.com
+Phone: (555) 678-9012
+
+EXPERIENCE:
+Full Stack Developer, WebSolutions (2019-2024)
+- Developed e-commerce platforms using React, Node.js, and MongoDB
+- Implemented payment processing and inventory management systems
+- Mentored 2 junior developers and conducted code reviews
+- Migrated legacy applications to cloud infrastructure (AWS)
+
+Junior Developer, LocalTech (2017-2019)
+- Built responsive websites using HTML, CSS, JavaScript
+- Assisted in mobile app development using React Native
+- Participated in Agile development processes
+
+EDUCATION:
+B.S. Information Technology, Tech University (2017)
+
+SKILLS:
+JavaScript, React, Node.js, MongoDB, AWS, Git, HTML/CSS, Agile
+
+---
+
+RESUME 7:
+Name: Lisa Anderson
+Email: lisa.anderson@email.com
+Phone: (555) 789-0123
+
+EXPERIENCE:
+Digital Marketing Manager, E-commerce Plus (2020-2024)
+- Managed $500K annual digital advertising budget across Google Ads and Facebook
+- Implemented marketing automation workflows increasing lead conversion by 35%
+- Led rebranding initiative including website redesign and content strategy
+- Managed team of 3 marketing specialists
+
+Marketing Associate, RetailBrand (2018-2020)
+- Executed email marketing campaigns with average 25% open rate
+- Coordinated influencer partnerships and brand collaborations
+- Analyzed competitor strategies and market trends
+
+EDUCATION:
+B.A. Communications, State College (2018)
+Google Ads Certification (2020)
+HubSpot Inbound Marketing Certification (2021)
+
+SKILLS:
+Google Ads, Facebook Ads, Marketing Automation, Content Strategy, Team Management
+
+---
+
+RESUME 8:
+Name: Robert Chang
+Email: robert.chang@email.com
+Phone: (555) 890-1234
+
+EXPERIENCE:
+Senior Business Analyst, GlobalCorp (2021-2024)
+- Led digital transformation project affecting 1000+ employees
+- Designed and implemented new CRM system reducing data entry time by 50%
+- Facilitated workshops with stakeholders to gather requirements
+- Created business cases resulting in $3M cost savings approval
+
+Business Systems Analyst, MidSizeCorp (2019-2021)
+- Analyzed existing workflows and recommended process improvements
+- Developed user acceptance testing procedures for new software implementations
+- Created training materials and conducted end-user training sessions
+
+EDUCATION:
+M.B.A. Operations Management, Business School (2019)
+B.S. Industrial Engineering, Engineering College (2017)
+
+SKILLS:
+Process Improvement, CRM Systems, Project Management, Change Management, Training
+
+---
+
+RESUME 9:
+Name: Emma Davis
+Email: emma.davis@email.com
+Phone: (555) 901-2345
+
+EXPERIENCE:
+Product Designer, TechStartup (2020-2024)
+- Designed end-to-end user experiences for SaaS platform with 50K+ users
+- Conducted user interviews and usability tests to inform design decisions
+- Created and maintained comprehensive design system
+- Collaborated with product managers to define feature requirements
+
+UX/UI Designer, AgencyLife (2018-2020)
+- Designed websites and mobile apps for diverse client portfolio
+- Created brand identities and marketing materials
+- Presented design concepts to clients and stakeholders
+
+EDUCATION:
+B.A. Industrial Design, Design University (2018)
+Google UX Design Certificate (2019)
+
+SKILLS:
+User Experience Design, Figma, Adobe Creative Suite, User Research, Design Systems
+
+---
+
+RESUME 10:
+Name: Thomas Lee
+Email: thomas.lee@email.com
+Phone: (555) 012-3456
+
+EXPERIENCE:
+Machine Learning Engineer, AI Solutions (2022-2024)
+- Developed computer vision models for autonomous vehicle navigation
+- Implemented MLOps pipelines using Docker, Kubernetes, and MLflow
+- Optimized model performance achieving 95% accuracy in production
+- Collaborated with research team to publish 2 papers in AI conferences
+
+Data Scientist, HealthTech (2020-2022)
+- Built predictive models for patient outcome analysis using Python and scikit-learn
+- Created automated reporting dashboards for clinical research teams
+- Performed statistical analysis on clinical trial data
+
+EDUCATION:
+M.S. Computer Science - AI Track, Tech Institute (2020)
+B.S. Mathematics, University (2018)
+
+SKILLS:
+Python, TensorFlow, PyTorch, MLOps, Computer Vision, Statistical Analysis
