@@ -1,0 +1,31 @@
+project_id,project_name,client_name,start_date,planned_end_date,original_budget,spent_to_date,completion_percentage,project_type,complexity_score,team_size,project_manager,current_weekly_burn,projected_final_cost,risk_level
+A001,Digital Workplace Transformation,Future Tech Corp,2025-11-01,2026-04-15,185000,89500,48,Strategy,8,5,Sarah Chen,8500,187200,Medium
+A002,ESG Reporting Framework,Sustainable Industries,2025-12-15,2026-05-30,125000,45200,36,Compliance,7,3,Mike Rodriguez,6200,126800,Low
+A003,Agile Transformation,Software Innovations Ltd,2025-10-20,2026-03-20,156000,98400,63,Change Management,9,4,Emily Watson,7800,158900,Medium
+A004,Customer Journey Mapping,Retail Excellence Corp,2025-11-10,2026-02-28,89000,52100,58,Customer Strategy,6,3,David Park,5900,90200,Low
+A005,AI Strategy Implementation,Tech Pioneers Inc,2026-01-05,2026-06-20,245000,67800,28,Technology Strategy,9,6,Lisa Thompson,12300,251400,High
+A006,Operational Efficiency Review,Legacy Manufacturing,2025-12-01,2026-04-30,134000,71200,53,Operations,7,4,James Wilson,7200,135600,Low
+A007,Cybersecurity Assessment,Financial Security Ltd,2025-11-25,2026-03-15,98000,58900,60,Risk Management,8,3,Anna Martinez,6800,99400,Medium
+A008,Brand Repositioning Strategy,Consumer Dynamics,2026-01-15,2026-05-15,112000,28400,25,Marketing,6,3,Robert Kim,7400,113200,Medium
+A009,Supply Chain Resilience,Global Logistics Corp,2025-10-15,2026-03-30,167000,115800,69,Operations,8,5,Michelle Lee,8900,168900,Medium
+A010,Leadership Succession Planning,Family Enterprise Ltd,2025-12-10,2026-04-10,78000,39200,50,HR Development,5,2,Thomas Brown,4200,79600,Low
+A011,Process Digitization Initiative,Traditional Services,2025-11-05,2026-05-05,143000,82600,58,Process Improvement,8,4,Jennifer Davis,8100,144700,Medium
+A012,Market Expansion Study,Growing Retailer Inc,2026-01-20,2026-04-30,95000,21800,23,Market Research,5,2,Kevin Zhang,5600,96200,Low
+A013,Regulatory Compliance Upgrade,Healthcare Provider,2025-12-20,2026-05-15,108000,48300,45,Compliance,7,3,Rachel Green,6500,109400,Low
+A014,Performance Analytics Dashboard,Data Corp,2025-11-15,2026-03-25,89000,56700,64,Analytics,6,3,Mark Johnson,5800,90100,Low
+A015,Change Communication Strategy,Merger Partners LLC,2025-10-30,2026-02-15,67000,51200,76,Change Management,6,2,Susan White,3900,68200,Low
+A016,Cost Optimization Program,Struggling Industries,2026-01-10,2026-06-30,178000,42600,24,Cost Management,8,4,Daniel Liu,9200,182400,High
+A017,Innovation Lab Setup,Creative Solutions Ltd,2025-12-05,2026-04-20,124000,67800,55,Innovation,7,3,Maria Garcia,7100,125800,Medium
+A018,Vendor Consolidation Project,Procurement Excellence,2025-11-20,2026-03-05,86000,58400,68,Procurement,5,3,Alex Turner,5200,87100,Low
+A019,Risk Management Framework,Insurance Innovations,2025-10-25,2026-04-05,115000,89200,78,Risk Management,7,4,Nicole Adams,6700,116400,Low
+A020,Strategic Planning Retreat,Vision Corp,2026-01-25,2026-03-30,52000,15600,30,Strategy,4,2,Chris Evans,4100,53200,Low
+A021,Digital Marketing Overhaul,E-commerce Giant,2025-12-01,2026-05-20,139000,72400,52,Marketing,7,4,Patricia Moore,7900,141200,Medium
+A022,Talent Acquisition Strategy,Growing Tech Firm,2026-01-08,2026-04-25,93000,25100,27,HR Strategy,5,2,Steven Taylor,5800,94600,Low
+A023,Business Intelligence Implementation,Data Insights Corp,2025-11-12,2026-04-12,167000,102300,61,Analytics,8,5,Amanda Wilson,9100,169800,Medium
+A024,Crisis Response Planning,Volatile Markets Inc,2025-12-18,2026-03-20,76000,38900,51,Crisis Management,6,2,Brandon Lee,4300,77400,Low
+A025,Sustainability Roadmap,Green Future Ltd,2025-10-05,2026-03-10,101000,84200,83,Sustainability,6,3,Stephanie Chen,4800,102600,Low
+A026,Customer Experience Redesign,Service Excellence Corp,2026-01-12,2026-06-15,156000,39800,26,Customer Strategy,8,4,Jordan Martinez,8900,159200,High
+A027,Quality Management System,Precision Manufacturing,2025-11-28,2026-04-28,118000,64700,55,Quality Management,7,3,Taylor Johnson,6600,119800,Medium
+A028,Technology Infrastructure Audit,Legacy Systems Corp,2025-12-03,2026-03-18,87000,48200,55,IT Strategy,6,3,Morgan Davis,5400,88300,Low
+A029,Financial Controls Review,Investment Holdings,2025-10-18,2026-02-20,104000,82600,79,Financial Planning,6,3,Casey Thompson,5100,105800,Low
+A030,Organizational Culture Change,Traditional Corp,2026-01-03,2026-07-03,198000,49500,25,Organizational Change,9,5,Jamie Wilson,11200,203400,High

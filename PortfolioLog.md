@@ -98,3 +98,28 @@ Create an automated candidate evaluation system that scores resumes against role
 - Weekly hiring pipeline dashboard with quality metrics
 
 ---
+# Daily AI Challenge – February 06, 2026
+
+**Domain:** Finance
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent project health monitoring system that analyzes real-time project data to predict budget overruns, optimize resource allocation, and generate actionable insights for project managers and partners at a consulting firm.
+
+## Skills Trained
+- Predictive modeling for business operations
+- Multi-dimensional data analysis and visualization
+- Workflow automation and alert systems
+- Financial variance analysis and forecasting
+- Professional services business intelligence
+
+## Deliverables
+- Real-time project health dashboard with traffic light indicators
+- Budget overrun prediction model with 85%+ accuracy
+- Resource reallocation recommendations to optimize utilization
+- Weekly project risk report for managing partners
+- Automated email alerts for projects exceeding variance thresholds
+
+---

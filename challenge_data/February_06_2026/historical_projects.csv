@@ -1,0 +1,31 @@
+project_id,project_name,client_name,start_date,end_date,original_budget,final_cost,project_type,complexity_score,team_size,project_manager,status,client_satisfaction,overrun_percentage,duration_weeks
+P001,Digital Transformation Strategy,TechCorp Industries,2024-08-15,2024-12-20,125000,118500,Strategy,7,4,Sarah Chen,Completed,4.2,-5.2,18
+P002,Supply Chain Optimization,Global Manufacturing Ltd,2024-09-01,2025-01-15,89000,112300,Operations,8,3,Mike Rodriguez,Completed,3.8,26.2,19
+P003,Market Entry Analysis,StartupVentures Inc,2024-07-10,2024-10-25,65000,58900,Market Research,5,2,Emily Watson,Completed,4.5,-9.4,15
+P004,Process Reengineering,MedDevice Solutions,2024-10-01,2025-02-28,156000,178400,Process Improvement,9,5,David Park,Completed,3.2,14.4,22
+P005,Financial Systems Audit,Regional Bank Corp,2024-08-20,2024-11-30,95000,97200,Audit,6,3,Lisa Thompson,Completed,4.1,2.3,14
+P006,Change Management Initiative,Insurance Giant,2024-09-15,2025-01-20,110000,125600,Change Management,7,4,James Wilson,Completed,3.9,14.2,18
+P007,Competitive Intelligence Study,Retail Dynamics,2024-06-01,2024-09-15,45000,42800,Research,4,2,Anna Martinez,Completed,4.7,-4.9,15
+P008,Risk Assessment Framework,Financial Services Co,2024-07-25,2024-12-10,78000,88900,Risk Management,6,3,Robert Kim,Completed,3.6,14.0,20
+P009,Customer Experience Optimization,E-commerce Plus,2024-08-05,2024-11-25,92000,85600,Customer Strategy,5,3,Michelle Lee,Completed,4.4,-7.0,16
+P010,Merger Integration Planning,Consolidated Holdings,2024-09-20,2025-03-15,245000,267800,M&A,9,6,Thomas Brown,Completed,3.5,9.3,26
+P011,Operational Excellence Program,Manufacturing Corp,2024-06-15,2024-10-30,134000,151200,Operations,8,4,Jennifer Davis,Completed,3.7,12.8,19
+P012,Digital Marketing Strategy,Consumer Brands Ltd,2024-07-01,2024-10-15,72000,69300,Marketing,5,2,Kevin Zhang,Completed,4.3,-3.8,15
+P013,Sustainability Consulting,Green Energy Inc,2024-08-10,2024-12-05,88000,93400,Sustainability,6,3,Rachel Green,Completed,4.0,6.1,17
+P014,IT Infrastructure Review,Tech Solutions Ltd,2024-09-05,2025-01-10,115000,132700,IT Strategy,7,4,Mark Johnson,Completed,3.4,15.4,18
+P015,Regulatory Compliance Audit,Healthcare Systems,2024-07-20,2024-11-15,98000,89600,Compliance,6,3,Susan White,Completed,4.2,-8.6,17
+P016,Strategic Planning Workshop,Family Business Co,2024-06-25,2024-09-20,55000,61800,Strategy,4,2,Daniel Liu,Completed,4.1,12.4,13
+P017,Cost Reduction Analysis,Heavy Industries Corp,2024-08-01,2024-12-15,102000,118900,Cost Management,7,3,Maria Garcia,Completed,3.8,16.6,19
+P018,Leadership Development Program,Professional Services,2024-09-10,2025-01-25,67000,64200,HR Development,5,2,Alex Turner,Completed,4.6,-4.2,19
+P019,Business Process Automation,Service Industries,2024-07-15,2024-11-20,125000,139200,Process Improvement,8,4,Nicole Adams,Completed,3.9,11.4,18
+P020,Market Research Study,Consumer Goods Inc,2024-06-05,2024-09-10,58000,54700,Market Research,4,2,Chris Evans,Completed,4.5,-5.7,14
+P021,Organizational Restructure,Declining Industries Ltd,2024-08-25,2025-02-10,189000,223400,Organizational Change,9,5,Patricia Moore,Completed,3.1,18.2,24
+P022,Performance Management System,Growing Corp,2024-07-05,2024-10-25,76000,82300,HR Systems,6,3,Steven Taylor,Completed,4.0,8.3,16
+P023,Vendor Management Optimization,Procurement Plus,2024-09-01,2024-12-20,84000,78900,Procurement,5,3,Amanda Wilson,Completed,4.3,-6.1,16
+P024,Crisis Management Planning,Volatile Industries,2024-06-10,2024-09-25,69000,75600,Crisis Management,7,3,Brandon Lee,Completed,3.9,9.6,15
+P025,Data Analytics Implementation,Data Driven Corp,2024-08-15,2025-01-05,143000,156800,Analytics,8,4,Stephanie Chen,Completed,4.1,9.7,20
+P026,Customer Retention Strategy,Subscription Services,2024-07-10,2024-10-30,91000,86400,Customer Strategy,6,3,Jordan Martinez,Completed,4.4,-5.1,16
+P027,Quality Assurance Review,Manufacturing Excellence,2024-09-15,2025-01-30,108000,119700,Quality Management,7,4,Taylor Johnson,Completed,3.7,10.8,19
+P028,Innovation Workshop Series,Creative Industries,2024-06-20,2024-09-30,48000,51200,Innovation,4,2,Morgan Davis,Completed,4.6,6.7,14
+P029,Financial Planning Overhaul,Investment Firm,2024-08-05,2024-12-10,116000,108900,Financial Planning,6,3,Casey Thompson,Completed,4.2,-6.1,18
+P030,Technology Roadmap Planning,Software Company,2024-07-25,2024-11-10,95000,103400,Technology Strategy,7,3,Jamie Wilson,Completed,3.8,8.8,15
