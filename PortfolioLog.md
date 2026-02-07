@@ -123,3 +123,28 @@ Build an intelligent project health monitoring system that analyzes real-time pr
 - Automated email alerts for projects exceeding variance thresholds
 
 ---
+# Daily AI Challenge – February 07, 2026
+
+**Domain:** Customer Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent customer support analytics system to analyze ticket data, identify bottlenecks, predict resolution times, and generate optimization recommendations to reduce average resolution time from 4.2 days to under 2 days.
+
+## Skills Trained
+- Customer service analytics and optimization
+- Predictive modeling for operational efficiency
+- Text classification and pattern recognition
+- Workload balancing and resource allocation
+- Customer experience measurement and improvement
+
+## Deliverables
+- Ticket categorization system with automated priority scoring
+- Resolution time prediction model for incoming tickets
+- Agent workload optimization recommendations
+- Knowledge gap analysis identifying missing documentation
+- Customer satisfaction improvement action plan with projected impact
+
+---

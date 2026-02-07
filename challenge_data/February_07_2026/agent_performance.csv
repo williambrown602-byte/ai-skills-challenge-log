@@ -1,0 +1,11 @@
+agent_name,expertise_areas,avg_resolution_time_hours,customer_satisfaction_score,tickets_resolved_last_30_days,years_experience
+Sarah Johnson,"Technical Issues,Performance Issues,API Integration",72.5,4.2,28,5.2
+Mike Chen,"Billing Questions,Account Access,General Support",48.3,4.6,35,3.8
+Lisa Rodriguez,"Account Access,User Management,Security",36.7,4.4,42,4.1
+David Kim,"Billing Questions,Feature Requests,Basic Technical",56.2,4.1,31,2.3
+Alex Thompson,"Integration Issues,Advanced Technical,Enterprise Support",84.1,4.3,22,6.7
+Jennifer Walsh,"Performance Issues,Database Issues,System Administration",91.2,4.0,18,8.1
+Robert Martinez,"Mobile Support,UI Issues,User Experience",52.8,4.5,29,3.5
+Emily Foster,"Security Issues,Compliance,Enterprise Features",78.9,4.2,25,4.9
+Thomas Chen,"API Documentation,Developer Support,Integration",89.4,4.1,20,5.8
+Amanda Rodriguez,"Customer Success,Account Management,Training",42.1,4.7,38,3.2
