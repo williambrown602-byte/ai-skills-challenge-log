@@ -148,3 +148,28 @@ Build an intelligent customer support analytics system to analyze ticket data, i
 - Customer satisfaction improvement action plan with projected impact
 
 ---
+# Daily AI Challenge – February 08, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent inventory optimization system that analyzes historical sales data, seasonal patterns, and supplier lead times to recommend optimal reorder points and quantities. The goal is to reduce both stockout incidents and excess inventory costs for a manufacturing company with 4 warehouses and 200+ SKUs.
+
+## Skills Trained
+- Supply chain analytics and optimization
+- Multi-variable statistical analysis
+- Demand forecasting and predictive modeling
+- Financial impact assessment and ROI calculation
+- Business process automation and decision support
+
+## Deliverables
+- Optimized reorder point calculator for each SKU/warehouse combination
+- Automated weekly inventory reports flagging reorder needs
+- Cost impact analysis showing potential savings from optimization
+- Risk dashboard identifying high-stockout probability items
+- Implementation roadmap for inventory management improvements
+
+---

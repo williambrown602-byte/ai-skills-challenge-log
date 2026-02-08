@@ -1,0 +1,21 @@
+SKU,Product_Name,Category,Seasonal_Pattern,ABC_Classification,Storage_Requirements,Shelf_Life_Days
+SKU-001,Industrial Bearing,FastMoving,Stable,A,Standard,1095
+SKU-002,Specialty Gasket,SlowMoving,Stable,C,Climate_Controlled,730
+SKU-003,Holiday Widget,Seasonal,Winter_Peak,B,Standard,365
+SKU-004,Custom Bracket,SlowMoving,Stable,C,Standard,1460
+SKU-005,Standard Bolt,FastMoving,Stable,A,Standard,1825
+SKU-006,Power Component,FastMoving,Stable,B,Standard,1095
+SKU-007,Seasonal Filter,Seasonal,Winter_Peak,A,Standard,545
+SKU-008,Precision Tool,SlowMoving,Stable,C,Climate_Controlled,1095
+SKU-009,Motor Part,FastMoving,Stable,B,Standard,1460
+SKU-010,Display Unit,Seasonal,Summer_Peak,B,Standard,730
+SKU-011,Luxury Fitting,SlowMoving,Stable,C,Climate_Controlled,1095
+SKU-012,Mass Production Item,FastMoving,Stable,A,Standard,1825
+SKU-013,Winter Special,Seasonal,Winter_Peak,A,Standard,180
+SKU-014,Technical Component,SlowMoving,Stable,C,Standard,1095
+SKU-015,Quick Turn Part,FastMoving,Stable,A,Standard,1460
+SKU-016,Import Component,SlowMoving,Stable,C,Climate_Controlled,545
+SKU-017,Regional Product,FastMoving,Stable,B,Standard,1095
+SKU-018,Bulk Item,Seasonal,Winter_Peak,A,Standard,365
+SKU-019,Specialty Tool,SlowMoving,Stable,C,Climate_Controlled,730
+SKU-020,Standard Component,FastMoving,Stable,B,Standard,1460

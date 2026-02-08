@@ -1,0 +1,21 @@
+SKU,Supplier_Name,Lead_Time_Days,Lead_Time_Variance,Reliability_Score,Min_Order_Qty,Unit_Cost,On_Time_Delivery_Rate
+SKU-001,ABC Manufacturing,7,2,0.92,100,9.80,0.89
+SKU-002,XYZ Supplies,14,4,0.78,50,6.20,0.76
+SKU-003,Global Parts Co,10,3,0.85,75,11.40,0.82
+SKU-004,Premium Components,21,6,0.71,25,18.30,0.69
+SKU-005,FastTrack Industries,5,1,0.95,200,4.75,0.94
+SKU-006,Reliable Goods Inc,12,3,0.88,60,14.20,0.86
+SKU-007,Mega Supplier Ltd,8,2,0.91,150,3.15,0.89
+SKU-008,Specialty Parts Co,28,8,0.65,20,25.40,0.63
+SKU-009,Quick Supply Co,9,2,0.87,80,7.35,0.85
+SKU-010,Standard Materials,11,4,0.83,90,10.95,0.81
+SKU-011,Luxury Components,35,12,0.58,15,22.80,0.55
+SKU-012,Mass Production Inc,6,1,0.93,250,8.60,0.91
+SKU-013,Seasonal Specialists,15,5,0.79,100,2.85,0.77
+SKU-014,Quality First Ltd,18,5,0.74,40,12.90,0.72
+SKU-015,Express Manufacturing,4,1,0.96,120,9.95,0.95
+SKU-016,International Goods,42,15,0.52,30,19.60,0.48
+SKU-017,Local Supplier Co,8,2,0.90,70,5.98,0.88
+SKU-018,Volume Discounters,13,4,0.81,180,4.15,0.79
+SKU-019,Premium Select,45,18,0.49,12,28.75,0.46
+SKU-020,Standard Plus Inc,10,3,0.86,85,7.65,0.84
