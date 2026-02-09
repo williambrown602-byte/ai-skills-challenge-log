@@ -1,0 +1,16 @@
+client_id,client_industry,total_engagements,total_revenue,avg_project_margin,last_engagement_date,likelihood_repeat,avg_satisfaction
+C001,Financial Services,8,4250000,0.28,2025-01-15,0.85,4.4
+C002,Healthcare,6,3480000,0.32,2025-01-10,0.90,4.6
+C003,Technology,7,3920000,0.29,2024-12-15,0.80,4.5
+C004,Manufacturing,9,4680000,0.21,2025-02-28,0.65,3.9
+C005,Private Equity,12,2840000,0.35,2025-02-15,0.95,4.4
+C006,Energy,5,2650000,0.18,2025-03-30,0.45,3.8
+C007,Retail,6,3120000,0.25,2025-04-30,0.70,4.1
+C008,Consumer Goods,4,2180000,0.26,2025-02-28,0.75,4.3
+C009,Insurance,3,1590000,0.24,2025-01-15,0.60,4.1
+C010,Telecommunications,2,1630000,0.22,2025-04-15,0.55,3.95
+C011,Government,1,890000,0.12,2025-01-30,0.30,3.8
+C012,Financial Services,5,2980000,0.31,2025-05-15,0.88,4.3
+C013,Healthcare,4,2450000,0.29,2025-04-30,0.82,4.5
+C014,Technology,6,3680000,0.27,2025-05-30,0.78,4.6
+C015,Manufacturing,3,1840000,0.19,2025-05-30,0.50,3.7

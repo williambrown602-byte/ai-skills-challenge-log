@@ -1,0 +1,12 @@
+industry,avg_project_duration_weeks,typical_margin_range_low,typical_margin_range_high,market_growth_rate,competitive_intensity,avg_project_size,budget_sensitivity
+Financial Services,18,0.25,0.35,0.08,High,1200000,Medium
+Healthcare,22,0.28,0.38,0.12,Medium,1350000,Low
+Technology,20,0.24,0.32,0.15,Very High,1180000,High
+Manufacturing,24,0.18,0.28,0.06,Medium,1220000,High
+Private Equity,12,0.30,0.45,0.10,Low,480000,Low
+Energy,26,0.15,0.25,0.04,High,1100000,Very High
+Retail,24,0.20,0.30,0.07,High,1080000,Very High
+Consumer Goods,22,0.22,0.32,0.09,Medium,950000,Medium
+Insurance,20,0.22,0.30,0.05,Medium,850000,Medium
+Telecommunications,22,0.18,0.28,0.03,High,815000,High
+Government,28,0.10,0.20,0.02,Low,890000,Very High

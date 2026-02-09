@@ -173,3 +173,28 @@ Build an intelligent inventory optimization system that analyzes historical sale
 - Implementation roadmap for inventory management improvements
 
 ---
+# Daily AI Challenge – February 09, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent project profitability analysis system that identifies key drivers of engagement success and generates strategic recommendations for improving firm-wide margins from 22% to 35% within 18 months.
+
+## Skills Trained
+- Advanced financial modeling and profitability analysis
+- Multi-dimensional business data analysis
+- Strategic business intelligence and insights generation
+- Consulting industry knowledge and best practices
+- Executive-level recommendation development
+
+## Deliverables
+- Project profitability segmentation analysis with clear profit/loss drivers
+- Optimal team composition recommendations by engagement type
+- Client industry attractiveness matrix with margin potential rankings
+- Strategic pricing model for different engagement types
+- 12-month action plan to achieve target margin improvement
+
+---
