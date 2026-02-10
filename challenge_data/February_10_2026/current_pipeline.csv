@@ -1,0 +1,21 @@
+deal_id,deal_name,amount,stage,created_date,expected_close_date,sales_rep_id,industry,company_size,lead_source,days_in_current_stage,last_activity_date,contact_frequency,budget_confirmed,decision_maker_engaged,competitor_present
+P001,Nexus Corp Digital Transformation,285000,Proposal,2024-10-15,2024-12-20,SR001,Technology,Enterprise,Website,25,2024-12-05,High,Yes,Yes,Yes
+P002,Vertex Solutions CRM Upgrade,125000,Negotiation,2024-09-20,2024-12-15,SR002,Healthcare,Mid-Market,Referral,18,2024-12-03,Medium,Yes,Yes,No
+P003,Apex Manufacturing Analytics,195000,Qualification,2024-11-01,2025-01-30,SR003,Manufacturing,Enterprise,Trade Show,35,2024-12-02,Low,No,No,Unknown
+P004,Quantum Financial Platform,165000,Proposal,2024-08-30,2024-12-31,SR004,Financial Services,Enterprise,Partner Referral,22,2024-12-04,High,Yes,Yes,Yes
+P005,Stellar Retail Integration,95000,Negotiation,2024-10-10,2024-12-25,SR005,Retail,Mid-Market,Cold Outreach,15,2024-12-01,Medium,Yes,Yes,No
+P006,Prism Tech Security Suite,225000,Qualification,2024-11-15,2025-02-15,SR001,Technology,Enterprise,Website,18,2024-11-30,Medium,Yes,No,Yes
+P007,Zenith Healthcare Workflow,88000,Proposal,2024-09-25,2025-01-10,SR002,Healthcare,Mid-Market,Referral,28,2024-12-06,Low,No,Yes,No
+P008,Atlas Manufacturing ERP,315000,Qualification,2024-10-20,2025-03-15,SR003,Manufacturing,Enterprise,Cold Outreach,42,2024-11-28,Low,No,No,Unknown
+P009,Cosmos Financial Dashboard,75000,Negotiation,2024-11-05,2024-12-30,SR004,Financial Services,SMB,Website,12,2024-12-05,High,Yes,Yes,No
+P010,Orbit Retail Analytics,135000,Proposal,2024-08-15,2024-12-20,SR005,Retail,Mid-Market,Trade Show,35,2024-12-02,Medium,Yes,Yes,Yes
+P011,Phoenix Tech Platform,180000,Negotiation,2024-09-30,2025-01-15,SR001,Technology,Enterprise,Partner Referral,20,2024-12-04,High,Yes,Yes,No
+P012,Nova Healthcare CRM,105000,Qualification,2024-11-20,2025-02-28,SR002,Healthcare,Mid-Market,Website,12,2024-12-03,Medium,Yes,No,Yes
+P013,Eclipse Manufacturing Suite,245000,Proposal,2024-10-05,2025-01-20,SR003,Manufacturing,Enterprise,Referral,30,2024-12-01,Low,No,Yes,Yes
+P014,Vortex Financial Compliance,195000,Qualification,2024-11-10,2025-02-10,SR004,Financial Services,Enterprise,Trade Show,22,2024-12-06,Medium,Yes,Yes,Unknown
+P015,Comet Retail Automation,115000,Negotiation,2024-10-25,2025-01-05,SR005,Retail,Mid-Market,Cold Outreach,16,2024-12-05,High,Yes,Yes,No
+P016,Meteor Tech Integration,155000,Proposal,2024-09-15,2024-12-30,SR001,Technology,Mid-Market,Website,38,2024-11-29,Low,No,Yes,Yes
+P017,Galaxy Healthcare Platform,125000,Qualification,2024-11-25,2025-03-01,SR002,Healthcare,Mid-Market,Partner Referral,8,2024-12-04,High,Yes,No,No
+P018,Nebula Manufacturing Analytics,185000,Negotiation,2024-10-12,2025-01-25,SR003,Manufacturing,Mid-Market,Trade Show,25,2024-12-02,Medium,Yes,Yes,Yes
+P019,Pulsar Financial Workflow,85000,Proposal,2024-11-08,2025-01-15,SR004,Financial Services,SMB,Referral,26,2024-12-03,Low,No,Yes,No
+P020,Quasar Retail Dashboard,165000,Qualification,2024-10-30,2025-02-20,SR005,Retail,Enterprise,Website,30,2024-12-01,Medium,Yes,No,Unknown

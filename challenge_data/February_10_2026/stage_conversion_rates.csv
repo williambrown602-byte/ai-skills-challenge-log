@@ -1,0 +1,61 @@
+industry,company_size,stage,conversion_rate,avg_days_in_stage
+Technology,Enterprise,Qualification,0.85,12
+Technology,Enterprise,Proposal,0.72,18
+Technology,Enterprise,Negotiation,0.68,25
+Technology,Enterprise,Closed Won,1.00,5
+Technology,Mid-Market,Qualification,0.82,10
+Technology,Mid-Market,Proposal,0.75,15
+Technology,Mid-Market,Negotiation,0.71,20
+Technology,Mid-Market,Closed Won,1.00,3
+Technology,SMB,Qualification,0.78,8
+Technology,SMB,Proposal,0.73,12
+Technology,SMB,Negotiation,0.69,15
+Technology,SMB,Closed Won,1.00,2
+Healthcare,Enterprise,Qualification,0.80,15
+Healthcare,Enterprise,Proposal,0.68,22
+Healthcare,Enterprise,Negotiation,0.65,28
+Healthcare,Enterprise,Closed Won,1.00,7
+Healthcare,Mid-Market,Qualification,0.83,12
+Healthcare,Mid-Market,Proposal,0.71,18
+Healthcare,Mid-Market,Negotiation,0.67,22
+Healthcare,Mid-Market,Closed Won,1.00,5
+Healthcare,SMB,Qualification,0.79,9
+Healthcare,SMB,Proposal,0.74,14
+Healthcare,SMB,Negotiation,0.70,18
+Healthcare,SMB,Closed Won,1.00,3
+Manufacturing,Enterprise,Qualification,0.77,18
+Manufacturing,Enterprise,Proposal,0.64,25
+Manufacturing,Enterprise,Negotiation,0.61,32
+Manufacturing,Enterprise,Closed Won,1.00,8
+Manufacturing,Mid-Market,Qualification,0.81,14
+Manufacturing,Mid-Market,Proposal,0.69,20
+Manufacturing,Mid-Market,Negotiation,0.66,25
+Manufacturing,Mid-Market,Closed Won,1.00,6
+Manufacturing,SMB,Qualification,0.76,10
+Manufacturing,SMB,Proposal,0.72,16
+Manufacturing,SMB,Negotiation,0.68,20
+Manufacturing,SMB,Closed Won,1.00,4
+Financial Services,Enterprise,Qualification,0.84,16
+Financial Services,Enterprise,Proposal,0.71,23
+Financial Services,Enterprise,Negotiation,0.69,30
+Financial Services,Enterprise,Closed Won,1.00,8
+Financial Services,Mid-Market,Qualification,0.86,13
+Financial Services,Mid-Market,Proposal,0.74,19
+Financial Services,Mid-Market,Negotiation,0.71,24
+Financial Services,Mid-Market,Closed Won,1.00,5
+Financial Services,SMB,Qualification,0.82,9
+Financial Services,SMB,Proposal,0.77,15
+Financial Services,SMB,Negotiation,0.73,19
+Financial Services,SMB,Closed Won,1.00,3
+Retail,Enterprise,Qualification,0.79,14
+Retail,Enterprise,Proposal,0.66,21
+Retail,Enterprise,Negotiation,0.63,27
+Retail,Enterprise,Closed Won,1.00,6
+Retail,Mid-Market,Qualification,0.81,11
+Retail,Mid-Market,Proposal,0.70,17
+Retail,Mid-Market,Negotiation,0.67,21
+Retail,Mid-Market,Closed Won,1.00,4
+Retail,SMB,Qualification,0.78,8
+Retail,SMB,Proposal,0.74,13
+Retail,SMB,Negotiation,0.70,17
+Retail,SMB,Closed Won,1.00,2

@@ -1,0 +1,26 @@
+deal_id,deal_name,amount,stage,created_date,closed_date,sales_rep_id,industry,company_size,lead_source,days_in_stage,total_deal_duration,won_lost
+D001,Acme Corp CRM Implementation,125000,Closed Won,2024-08-15,2024-11-22,SR001,Technology,Enterprise,Website,15,99,Won
+D002,Beta Solutions Analytics Platform,85000,Closed Won,2024-07-20,2024-10-18,SR002,Healthcare,Mid-Market,Referral,22,90,Won
+D003,Gamma Inc Workflow Automation,45000,Closed Lost,2024-06-10,2024-08-25,SR001,Manufacturing,SMB,Cold Outreach,45,76,Lost
+D004,Delta Corp Data Integration,195000,Closed Won,2024-05-12,2024-09-15,SR003,Financial Services,Enterprise,Trade Show,18,126,Won
+D005,Epsilon Ltd Process Optimization,75000,Closed Won,2024-04-18,2024-07-30,SR002,Retail,Mid-Market,Partner Referral,12,103,Won
+D006,Zeta Systems Security Upgrade,155000,Closed Won,2024-03-25,2024-08-10,SR004,Technology,Enterprise,Website,25,138,Won
+D007,Eta Manufacturing ERP,220000,Closed Lost,2024-02-14,2024-06-20,SR001,Manufacturing,Enterprise,Cold Outreach,60,126,Lost
+D008,Theta Healthcare Platform,95000,Closed Won,2024-01-30,2024-05-15,SR002,Healthcare,Mid-Market,Referral,18,105,Won
+D009,Iota Financial Dashboard,65000,Closed Won,2023-12-15,2024-03-22,SR003,Financial Services,SMB,Website,14,98,Won
+D010,Kappa Retail Analytics,135000,Closed Won,2023-11-20,2024-04-05,SR004,Retail,Mid-Market,Trade Show,20,137,Won
+D011,Lambda Tech Integration,180000,Closed Lost,2023-10-25,2024-02-15,SR001,Technology,Enterprise,Partner Referral,75,113,Lost
+D012,Mu Corp Automation Suite,115000,Closed Won,2023-09-12,2024-01-18,SR002,Manufacturing,Mid-Market,Cold Outreach,16,128,Won
+D013,Nu Healthcare CRM,78000,Closed Won,2023-08-18,2023-12-10,SR003,Healthcare,SMB,Referral,19,114,Won
+D014,Xi Financial Compliance,205000,Closed Won,2023-07-22,2023-12-15,SR004,Financial Services,Enterprise,Website,28,146,Won
+D015,Omicron Retail Platform,88000,Closed Lost,2023-06-30,2023-10-25,SR001,Retail,Mid-Market,Trade Show,52,117,Lost
+D016,Pi Systems Security,145000,Closed Won,2023-05-15,2023-09-30,SR002,Technology,Enterprise,Partner Referral,21,138,Won
+D017,Rho Manufacturing Analytics,92000,Closed Won,2023-04-20,2023-08-15,SR003,Manufacturing,Mid-Market,Cold Outreach,15,117,Won
+D018,Sigma Healthcare Integration,165000,Closed Won,2023-03-25,2023-08-20,SR004,Healthcare,Enterprise,Referral,24,148,Won
+D019,Tau Financial Workflow,55000,Closed Won,2023-02-10,2023-06-15,SR001,Financial Services,SMB,Website,18,125,Won
+D020,Upsilon Retail Automation,125000,Closed Lost,2023-01-18,2023-05-30,SR002,Retail,Mid-Market,Cold Outreach,68,132,Lost
+D021,Phi Tech Dashboard,175000,Closed Won,2022-12-20,2023-05-15,SR003,Technology,Enterprise,Trade Show,22,146,Won
+D022,Chi Manufacturing CRM,98000,Closed Won,2022-11-15,2023-04-10,SR004,Manufacturing,Mid-Market,Partner Referral,17,146,Won
+D023,Psi Healthcare Analytics,118000,Closed Won,2022-10-25,2023-03-20,SR001,Healthcare,Mid-Market,Website,19,146,Won
+D024,Omega Financial Suite,235000,Closed Won,2022-09-12,2023-02-28,SR002,Financial Services,Enterprise,Referral,26,169,Won
+D025,Alpha Retail Integration,85000,Closed Lost,2022-08-20,2022-12-15,SR003,Retail,Mid-Market,Cold Outreach,58,117,Lost

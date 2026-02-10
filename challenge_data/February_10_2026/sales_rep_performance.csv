@@ -1,0 +1,6 @@
+sales_rep_id,rep_name,hire_date,total_deals,won_deals,win_rate,avg_deal_size,avg_sales_cycle,quota_attainment_q1,quota_attainment_q2,quota_attainment_q3,quota_attainment_q4,activity_score,territory
+SR001,John Mitchell,2022-03-15,45,28,0.62,142500,118,0.85,0.92,0.78,0.88,8.2,West Coast
+SR002,Sarah Chen,2021-08-20,52,38,0.73,118750,108,0.95,1.12,0.89,1.05,9.1,East Coast
+SR003,Michael Rodriguez,2020-11-10,48,35,0.73,156800,132,0.88,0.96,0.94,0.91,8.7,Central
+SR004,Emily Johnson,2022-01-12,41,29,0.71,138900,141,0.92,0.87,0.98,0.94,8.5,Northeast
+SR005,David Park,2023-06-15,18,12,0.67,95000,125,0.76,0.83,0.89,0.92,7.8,Southeast

@@ -198,3 +198,28 @@ Build an intelligent project profitability analysis system that identifies key d
 - 12-month action plan to achieve target margin improvement
 
 ---
+# Daily AI Challenge – February 10, 2026
+
+**Domain:** Sales/Revenue Operations
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent sales forecasting system that analyzes CRM pipeline data to predict monthly revenue with 85%+ accuracy and automatically flags deals requiring management intervention.
+
+## Skills Trained
+- Sales analytics and revenue forecasting
+- Probabilistic modeling for business decisions
+- CRM data analysis and pipeline management
+- Business process automation
+- Revenue operations and sales enablement
+
+## Deliverables
+- Revenue probability model for next 90 days with confidence intervals
+- Deal risk assessment flagging high-value opportunities needing attention
+- Sales rep performance dashboard with pipeline quality metrics
+- Monthly forecast accuracy tracking system
+- Executive summary with top 3 revenue risk mitigation strategies
+
+---
