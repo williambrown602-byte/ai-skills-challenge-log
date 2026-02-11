@@ -223,3 +223,28 @@ Build an intelligent sales forecasting system that analyzes CRM pipeline data to
 - Executive summary with top 3 revenue risk mitigation strategies
 
 ---
+# Daily AI Challenge – February 11, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an automated project health monitoring and resource optimization system for a professional services firm to reduce administrative overhead and improve delivery quality. The system will process project data to identify conflicts, predict risks, and generate coordination recommendations.
+
+## Skills Trained
+- Multi-constraint resource optimization
+- Project management analytics and automation
+- Business process integration and workflow design
+- Capacity planning and utilization analysis
+- Professional services industry expertise
+
+## Deliverables
+- Real-time project coordination dashboard
+- Automated weekly resource optimization recommendations
+- Risk-based project prioritization system
+- Client communication templates
+- Monthly practice area performance report
+
+---

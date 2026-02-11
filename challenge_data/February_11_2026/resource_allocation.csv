@@ -1,0 +1,43 @@
+consultant_id,name,practice_area,seniority_level,hourly_rate,max_weekly_hours,current_utilization_pct,skills,location,availability_start,availability_end
+CONS001,Sarah Johnson,Technology,Senior,185,40,85,ERP Systems|Cloud Migration|Project Management,New York,2026-01-01,2026-12-31
+CONS002,Michael Chen,Technology,Principal,220,35,92,Cybersecurity|Infrastructure|Risk Assessment,San Francisco,2026-01-01,2026-12-31
+CONS003,Emily Rodriguez,Technology,Manager,165,40,78,Software Development|Integration|Testing,Chicago,2026-01-01,2026-12-31
+CONS004,David Park,Technology,Senior,180,40,88,Data Analytics|Business Intelligence|Reporting,New York,2026-01-01,2026-12-31
+CONS005,Lisa Wang,Technology,Consultant,135,40,65,Web Development|UI/UX|Mobile Apps,San Francisco,2026-01-01,2026-12-31
+CONS012,Robert Thompson,Audit,Principal,210,40,95,Financial Audit|Risk Management|Compliance,Boston,2026-01-01,2026-12-31
+CONS013,Jennifer Martinez,Audit,Senior,175,40,82,Internal Audit|Process Review|Controls Testing,New York,2026-01-01,2026-12-31
+CONS014,James Wilson,Audit,Manager,155,40,76,Operational Audit|Data Analytics|Reporting,Chicago,2026-01-01,2026-12-31
+CONS015,Amanda Brown,Audit,Senior,170,40,89,Regulatory Compliance|Financial Analysis|Documentation,Boston,2026-01-01,2026-12-31
+CONS016,Kevin Lee,Audit,Consultant,125,40,58,Audit Support|Data Collection|Testing,New York,2026-01-01,2026-12-31
+CONS023,Maria Garcia,Human Resources,Principal,205,35,91,Organization Design|Change Management|Leadership Development,Los Angeles,2026-01-01,2026-12-31
+CONS024,Thomas Anderson,Human Resources,Senior,170,40,79,HR Technology|Performance Management|Analytics,Chicago,2026-01-01,2026-12-31
+CONS025,Rachel Davis,Human Resources,Manager,150,40,84,Talent Acquisition|Training|Policy Development,New York,2026-01-01,2026-12-31
+CONS026,Christopher Miller,Human Resources,Senior,165,40,73,Compensation|Benefits|HRIS,San Francisco,2026-01-01,2026-12-31
+CONS027,Nicole Taylor,Human Resources,Consultant,130,40,67,HR Operations|Employee Relations|Compliance,Los Angeles,2026-01-01,2026-12-31
+CONS034,Steven Johnson,Operations,Principal,215,40,93,Supply Chain|Process Optimization|Lean Six Sigma,Chicago,2026-01-01,2026-12-31
+CONS035,Ashley White,Operations,Senior,175,40,86,Quality Management|Process Improvement|Training,Boston,2026-01-01,2026-12-31
+CONS036,Daniel Harris,Operations,Manager,160,40,71,Operations Analysis|Cost Reduction|KPI Development,New York,2026-01-01,2026-12-31
+CONS037,Melissa Clark,Operations,Senior,170,40,88,Project Management|Change Management|Process Design,San Francisco,2026-01-01,2026-12-31
+CONS038,Ryan Lopez,Operations,Consultant,140,40,63,Data Analysis|Process Mapping|Documentation,Chicago,2026-01-01,2026-12-31
+CONS045,Laura Mitchell,Technology,Principal,225,35,94,Cybersecurity|Risk Assessment|Compliance,Washington DC,2026-01-01,2026-12-31
+CONS046,Jason Turner,Technology,Senior,185,40,81,Cloud Architecture|DevOps|Security,Boston,2026-01-01,2026-12-31
+CONS047,Sandra Phillips,Technology,Manager,165,40,77,Systems Integration|API Development|Testing,New York,2026-01-01,2026-12-31
+CONS048,Brian Campbell,Technology,Senior,180,40,85,Database Management|ETL|Performance Tuning,San Francisco,2026-01-01,2026-12-31
+CONS049,Kimberly Parker,Technology,Consultant,135,40,69,Technical Documentation|User Training|Support,Chicago,2026-01-01,2026-12-31
+CONS056,Andrew Evans,Strategy,Principal,240,35,96,M&A|Due Diligence|Strategic Planning,New York,2026-01-01,2026-12-31
+CONS057,Michelle Edwards,Strategy,Senior,185,40,87,Business Strategy|Market Analysis|Competitive Intelligence,San Francisco,2026-01-01,2026-12-31
+CONS058,Gregory Collins,Strategy,Manager,170,40,74,Financial Modeling|Valuation|Business Planning,Chicago,2026-01-01,2026-12-31
+CONS059,Stephanie Stewart,Strategy,Senior,180,40,83,Customer Strategy|Digital Transformation|Innovation,Boston,2026-01-01,2026-12-31
+CONS060,Patrick Morris,Strategy,Consultant,145,40,61,Market Research|Data Analysis|Presentation Development,New York,2026-01-01,2026-12-31
+CONS067,Catherine Rogers,Operations,Principal,220,40,89,Process Automation|Digital Transformation|Change Management,Los Angeles,2026-01-01,2026-12-31
+CONS068,Mark Peterson,Operations,Senior,175,40,92,Manufacturing Operations|Cost Management|Quality Systems,Chicago,2026-01-01,2026-12-31
+CONS069,Angela Reed,Operations,Manager,155,40,68,Business Process Design|Workflow Optimization|Training,Boston,2026-01-01,2026-12-31
+CONS070,Timothy Cook,Operations,Senior,170,40,85,Supply Chain Analytics|Procurement|Vendor Management,New York,2026-01-01,2026-12-31
+CONS078,Jennifer Bailey,Legal,Principal,250,35,88,Regulatory Compliance|Risk Management|Policy Development,Washington DC,2026-01-01,2026-12-31
+CONS079,Matthew Cooper,Legal,Senior,195,40,83,Contract Management|Corporate Law|Compliance Training,New York,2026-01-01,2026-12-31
+CONS080,Deborah Richardson,Legal,Manager,175,40,76,Employment Law|HR Compliance|Documentation,Chicago,2026-01-01,2026-12-31
+CONS081,Joseph Cox,Legal,Senior,185,40,79,Intellectual Property|Technology Law|Risk Assessment,San Francisco,2026-01-01,2026-12-31
+CONS089,Rebecca Ward,Marketing,Principal,200,40,84,Digital Strategy|Brand Management|Customer Experience,Los Angeles,2026-01-01,2026-12-31
+CONS090,Kenneth Torres,Marketing,Senior,165,40,72,Marketing Analytics|Campaign Management|SEO/SEM,New York,2026-01-01,2026-12-31
+CONS091,Sharon Peterson,Marketing,Manager,150,40,81,Content Marketing|Social Media|Email Marketing,San Francisco,2026-01-01,2026-12-31
+CONS092,Gary Gray,Marketing,Senior,160,40,75,Market Research|Competitive Analysis|Survey Design,Chicago,2026-01-01,2026-12-31

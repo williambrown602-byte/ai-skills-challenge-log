@@ -1,0 +1,21 @@
+project_id,project_name,client_name,practice_area,start_date,end_date,status,priority,lead_consultant_id,milestone_1,milestone_1_date,milestone_2,milestone_2_date,milestone_3,milestone_3_date,budget_hours,actual_hours_used,client_satisfaction_score,delivery_risk_level
+PRJ001,ERP Implementation Phase 2,TechCorp Industries,Technology,2026-01-15,2026-04-30,In Progress,High,CONS001,Requirements Complete,2026-02-15,System Testing,2026-03-30,Go Live,2026-04-30,1200,340,4.2,Medium
+PRJ002,Financial Audit Q4,MegaBank Financial,Audit,2026-02-01,2026-03-15,In Progress,Critical,CONS012,Fieldwork Complete,2026-02-20,Draft Report,2026-03-05,Final Report,2026-03-15,800,245,4.6,Low
+PRJ003,HR Transformation,GlobalManuf Corp,Human Resources,2026-01-20,2026-05-15,In Progress,Medium,CONS023,Current State Analysis,2026-02-28,Process Design,2026-04-10,Implementation,2026-05-15,1500,420,3.8,High
+PRJ004,Supply Chain Optimization,RetailGiant LLC,Operations,2026-02-05,2026-06-20,Planning,High,CONS034,Data Collection,2026-02-25,Analysis Complete,2026-04-15,Recommendations,2026-06-20,2000,180,0,Medium
+PRJ005,Cybersecurity Assessment,HealthSystem Inc,Technology,2026-01-10,2026-03-10,In Progress,Critical,CONS045,Vulnerability Scan,2026-01-25,Risk Assessment,2026-02-15,Final Report,2026-03-10,600,380,4.4,Low
+PRJ006,M&A Due Diligence,AcquireCorp,Strategy,2026-02-10,2026-03-25,In Progress,Critical,CONS056,Financial Analysis,2026-02-20,Operational Review,2026-03-05,Final Report,2026-03-25,900,220,0,Medium
+PRJ007,Process Automation,ManufacturingPlus,Operations,2026-01-25,2026-07-30,In Progress,Medium,CONS067,Process Mapping,2026-03-15,Solution Design,2026-05-20,Implementation,2026-07-30,2500,315,3.9,High
+PRJ008,Regulatory Compliance,PharmaCorp,Legal,2026-02-01,2026-04-15,In Progress,High,CONS078,Gap Analysis,2026-02-28,Policy Development,2026-03-30,Training Complete,2026-04-15,1100,295,4.1,Medium
+PRJ009,Digital Marketing Strategy,ConsumerBrands,Marketing,2026-01-30,2026-04-30,Planning,Medium,CONS089,Market Research,2026-02-28,Strategy Development,2026-03-31,Launch Plan,2026-04-30,800,125,0,Low
+PRJ010,Cloud Migration,DataServices Inc,Technology,2026-02-15,2026-08-15,Planning,High,CONS001,Infrastructure Assessment,2026-03-15,Migration Plan,2026-05-15,Go Live,2026-08-15,3000,85,0,Medium
+PRJ011,Financial Planning System,InvestmentFirm,Finance,2026-01-05,2026-03-30,In Progress,Medium,CONS012,Requirements,2026-01-20,System Config,2026-02-28,User Training,2026-03-30,750,485,4.3,Low
+PRJ012,Organizational Restructure,ServicesCorp,Human Resources,2026-02-08,2026-06-15,In Progress,High,CONS023,Impact Analysis,2026-03-10,Change Plan,2026-04-20,Implementation,2026-06-15,1800,245,3.7,High
+PRJ013,Quality Management,AutoParts Inc,Operations,2026-01-15,2026-04-25,In Progress,Medium,CONS034,Current State,2026-02-10,Process Design,2026-03-20,Rollout,2026-04-25,1300,398,4.0,Medium
+PRJ014,Tax Strategy Review,RealEstate Holdings,Finance,2026-02-12,2026-04-10,Planning,High,CONS078,Data Gathering,2026-02-25,Analysis,2026-03-15,Recommendations,2026-04-10,650,45,0,Low
+PRJ015,Customer Experience,RetailChain,Strategy,2026-01-28,2026-05-30,In Progress,High,CONS056,Customer Journey Mapping,2026-03-05,Solution Design,2026-04-15,Pilot Launch,2026-05-30,1650,278,3.6,High
+PRJ016,Data Analytics Platform,FinTech Startup,Technology,2026-02-05,2026-07-10,Planning,Medium,CONS045,Architecture Design,2026-03-05,Development,2026-05-30,Testing,2026-07-10,2200,156,0,Medium
+PRJ017,Compliance Training,Insurance Corp,Legal,2026-02-01,2026-03-20,In Progress,Critical,CONS078,Content Development,2026-02-15,Platform Setup,2026-03-01,Delivery,2026-03-20,400,245,4.5,Low
+PRJ018,Performance Management,TechServices,Human Resources,2026-01-20,2026-04-20,In Progress,Medium,CONS089,System Analysis,2026-02-20,Process Design,2026-03-25,Implementation,2026-04-20,950,325,3.9,Medium
+PRJ019,Risk Assessment,EnergyCompany,Audit,2026-02-10,2026-05-05,Planning,High,CONS012,Scope Definition,2026-02-28,Fieldwork,2026-04-10,Final Report,2026-05-05,1400,95,0,Medium
+PRJ020,Business Intelligence,LogisticsCorp,Strategy,2026-01-12,2026-06-12,In Progress,Medium,CONS056,Data Requirements,2026-02-25,Dashboard Design,2026-04-30,Deployment,2026-06-12,1750,412,4.1,Low
