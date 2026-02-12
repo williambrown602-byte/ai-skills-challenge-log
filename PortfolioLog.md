@@ -248,3 +248,28 @@ Build an automated project health monitoring and resource optimization system fo
 - Monthly practice area performance report
 
 ---
+# Daily AI Challenge – February 12, 2026
+
+**Domain:** Business Development/Consulting
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent proposal optimization system that analyzes historical bid data to identify win/loss patterns and generates data-driven bid/no-bid recommendations to increase win rates from 28% to industry average of 45%.
+
+## Skills Trained
+- Business development analytics
+- Statistical modeling for strategic decisions
+- Competitive intelligence analysis
+- Revenue strategy and pricing optimization
+- Consulting industry business acumen
+
+## Deliverables
+- Proposal win probability calculator
+- Optimal pricing recommendation engine
+- Bid/no-bid decision framework with scoring methodology
+- Competitive positioning analysis
+- Partner-ready presentation with strategic recommendations
+
+---

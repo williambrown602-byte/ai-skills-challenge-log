@@ -1,0 +1,21 @@
+industry,avg_project_value,price_sensitivity,decision_timeline_days,typical_competitor_count,growth_rate,budget_cycle
+Technology,385000,Medium,45,3.2,8.5,Calendar Year
+Healthcare,412000,Low,52,3.1,6.2,Fiscal Year
+Manufacturing,398000,High,38,3.8,4.1,Calendar Year
+Financial Services,425000,Low,48,2.9,5.8,Fiscal Year
+Energy,534000,Medium,55,4.2,7.3,Calendar Year
+Retail,298000,High,32,2.6,3.9,Calendar Year
+Transportation,465000,Medium,42,3.5,5.4,Fiscal Year
+Pharmaceuticals,445000,Low,58,3.0,9.1,Fiscal Year
+Government,620000,Low,78,4.1,2.8,Fiscal Year
+Aerospace,610000,Medium,65,4.8,6.7,Calendar Year
+Telecommunications,548000,Medium,48,4.5,7.8,Calendar Year
+Insurance,398000,Medium,44,3.2,4.6,Calendar Year
+Construction,385000,High,35,3.9,3.2,Calendar Year
+Food & Beverage,324000,High,28,2.8,4.5,Calendar Year
+Utilities,518000,Low,62,4.0,3.8,Fiscal Year
+Education,245000,High,40,2.4,5.2,Academic Year
+Automotive,445000,High,41,4.2,5.9,Calendar Year
+Agriculture,395000,Medium,36,3.1,6.4,Calendar Year
+Oil & Gas,598000,Medium,58,4.6,4.8,Calendar Year
+Biotechnology,488000,Low,54,3.4,10.2,Fiscal Year
