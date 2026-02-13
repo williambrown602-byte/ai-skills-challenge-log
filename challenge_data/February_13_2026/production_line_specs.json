@@ -1,0 +1,75 @@
+{
+  "production_lines": {
+    "LINE_A": {
+      "specifications": {
+        "temperature": {
+          "optimal_range": [180, 190],
+          "warning_range": [175, 195],
+          "critical_range": [170, 200],
+          "unit": "celsius"
+        },
+        "pressure": {
+          "optimal_range": [42, 48],
+          "warning_range": [40, 52],
+          "critical_range": [38, 55],
+          "unit": "psi"
+        },
+        "vibration": {
+          "optimal_range": [0.5, 2.5],
+          "warning_range": [0.3, 3.0],
+          "critical_range": [0.1, 3.5],
+          "unit": "mm/s"
+        },
+        "speed": {
+          "optimal_range": [1450, 1460],
+          "warning_range": [1440, 1470],
+          "critical_range": [1420, 1480],
+          "unit": "rpm"
+        }
+      },
+      "capacity": {
+        "max_units_per_batch": 120,
+        "target_cycle_time": 45,
+        "efficiency_target": 0.95
+      }
+    },
+    "LINE_B": {
+      "specifications": {
+        "temperature": {
+          "optimal_range": [180, 190],
+          "warning_range": [175, 195],
+          "critical_range": [170, 200],
+          "unit": "celsius"
+        },
+        "pressure": {
+          "optimal_range": [42, 48],
+          "warning_range": [40, 52],
+          "critical_range": [38, 55],
+          "unit": "psi"
+        },
+        "vibration": {
+          "optimal_range": [0.5, 2.5],
+          "warning_range": [0.3, 3.0],
+          "critical_range": [0.1, 3.5],
+          "unit": "mm/s"
+        },
+        "speed": {
+          "optimal_range": [1450, 1460],
+          "warning_range": [1440, 1470],
+          "critical_range": [1420, 1480],
+          "unit": "rpm"
+        }
+      },
+      "capacity": {
+        "max_units_per_batch": 120,
+        "target_cycle_time": 45,
+        "efficiency_target": 0.95
+      }
+    }
+  },
+  "maintenance_schedule": {
+    "daily_checks": ["temperature_calibration", "pressure_sensors", "vibration_monitoring"],
+    "weekly_maintenance": ["belt_tension", "lubrication", "filter_replacement"],
+    "monthly_maintenance": ["full_calibration", "wear_part_inspection", "software_updates"]
+  }
+}

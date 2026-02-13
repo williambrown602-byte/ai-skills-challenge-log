@@ -273,3 +273,28 @@ Build an intelligent proposal optimization system that analyzes historical bid d
 - Partner-ready presentation with strategic recommendations
 
 ---
+# Daily AI Challenge – February 13, 2026
+
+**Domain:** Manufacturing/Operations
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent quality control monitoring system that analyzes real-time production sensor data to predict defect probability and automatically triggers preventive interventions. Transform reactive quality control into predictive prevention to reduce warranty costs by 60%.
+
+## Skills Trained
+- IoT sensor data analysis
+- Predictive maintenance modeling
+- Real-time anomaly detection
+- Manufacturing process optimization
+- Quality management systems
+
+## Deliverables
+- Real-time production quality dashboard with defect probability alerts
+- Automated intervention recommendation system
+- Historical quality trend analysis identifying root cause patterns
+- Cost savings projection model showing ROI of preventive measures
+- Weekly quality performance report for production managers
+
+---

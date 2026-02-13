@@ -1,0 +1,16 @@
+batch_id,inspection_date,defect_found,defect_type,defect_severity,units_produced,defective_units,pass_rate,inspector_id,cost_of_defects
+B001,2025-08-15,No,None,None,100,0,100.0,INS001,0
+B002,2025-08-15,No,None,None,98,0,100.0,INS001,0
+B003,2025-08-15,Yes,Surface_Finish,High,95,12,87.4,INS001,2400
+B004,2025-08-15,No,None,None,102,1,99.0,INS001,150
+B005,2025-08-15,No,None,None,99,0,100.0,INS002,0
+B006,2025-08-15,Yes,Dimensional,Medium,97,3,96.9,INS002,450
+B007,2025-08-15,Yes,Surface_Finish,High,94,18,80.9,INS002,3600
+B008,2025-08-15,No,None,None,101,0,100.0,INS003,0
+B009,2025-08-15,No,None,None,100,0,100.0,INS003,0
+B010,2025-08-16,Yes,Material_Defect,High,96,15,84.4,INS003,3000
+B011,2025-08-16,No,None,None,103,1,99.0,INS003,150
+B012,2025-08-16,Yes,Dimensional,Medium,99,4,95.9,INS001,600
+B013,2025-08-16,Yes,Surface_Finish,Critical,92,25,72.8,INS001,5000
+B014,2025-08-16,No,None,None,101,0,100.0,INS001,0
+B015,2025-08-16,Yes,Dimensional,Medium,98,5,94.9,INS001,750
