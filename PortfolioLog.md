@@ -298,3 +298,28 @@ Build an intelligent quality control monitoring system that analyzes real-time p
 - Weekly quality performance report for production managers
 
 ---
+# Daily AI Challenge – February 20, 2026
+
+**Domain:** Customer Success
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent customer onboarding analytics system that identifies drop-off patterns, predicts completion likelihood, and generates actionable optimization recommendations to improve onboarding completion rates from 65% to 85%.
+
+## Skills Trained
+- Customer journey analytics and funnel optimization
+- Predictive modeling for customer behavior
+- Customer success metrics and KPI development
+- Data-driven process improvement methodology
+- SaaS business model understanding
+
+## Deliverables
+- Onboarding funnel analysis with drop-off rates by step and customer segment
+- Customer completion probability model for active onboarding cohorts
+- Top 5 optimization recommendations with projected impact on completion rates
+- Risk-based customer intervention priority list for customer success team
+- Executive dashboard showing current vs. projected performance metrics
+
+---

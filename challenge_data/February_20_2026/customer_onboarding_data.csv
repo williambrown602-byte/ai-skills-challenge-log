@@ -1,0 +1,36 @@
+customer_id,signup_date,company_name,industry,company_size,plan_type,account_setup,profile_completion,team_invitation,integration_setup,first_project,training_completion,go_live,payment_setup,completion_date,days_to_complete,completed_onboarding,mrr,acquisition_channel
+CUST001,2024-01-15,TechStart Inc,Technology,Small,Professional,2024-01-15,2024-01-16,2024-01-17,2024-01-20,2024-01-22,2024-01-25,2024-01-28,2024-01-16,2024-01-28,13,TRUE,299,Organic Search
+CUST002,2024-01-16,HealthCorp LLC,Healthcare,Medium,Enterprise,2024-01-16,2024-01-17,,2024-01-25,,,,2024-01-17,,45,FALSE,899,Paid Ads
+CUST003,2024-01-18,EduSoft Solutions,Education,Large,Enterprise,2024-01-18,2024-01-19,2024-01-20,2024-01-23,2024-01-26,2024-01-30,2024-02-02,2024-01-19,2024-02-02,15,TRUE,1299,Referral
+CUST004,2024-01-20,RetailMax Co,Retail,Medium,Professional,2024-01-20,2024-01-22,2024-01-24,2024-01-28,2024-02-01,2024-02-05,2024-02-08,2024-01-22,2024-02-08,19,TRUE,599,Content Marketing
+CUST005,2024-01-22,FinanceFlow Inc,Finance,Small,Starter,2024-01-22,2024-01-23,,,,,,2024-01-23,,42,FALSE,99,Social Media
+CUST006,2024-01-25,ManufacturePro,Manufacturing,Large,Enterprise,2024-01-25,2024-01-26,2024-01-27,2024-01-30,2024-02-02,2024-02-06,2024-02-09,2024-01-26,2024-02-09,15,TRUE,1899,Sales Outreach
+CUST007,2024-01-28,ConsultGroup Ltd,Consulting,Medium,Professional,2024-01-28,2024-01-29,2024-01-31,2024-02-03,2024-02-06,,,,38,FALSE,799,Webinar
+CUST008,2024-01-30,NonProfitOrg,Non-Profit,Small,Starter,2024-01-30,2024-02-01,2024-02-03,2024-02-06,2024-02-09,2024-02-12,2024-02-15,2024-02-01,2024-02-15,16,TRUE,49,Partnership
+CUST009,2024-02-01,LogisticsCorp,Logistics,Large,Enterprise,2024-02-01,2024-02-02,2024-02-04,2024-02-07,,,,2024-02-02,,35,FALSE,1599,Paid Ads
+CUST010,2024-02-03,MediaHouse Inc,Media,Medium,Professional,2024-02-03,2024-02-04,2024-02-06,2024-02-09,2024-02-12,2024-02-15,2024-02-18,2024-02-04,2024-02-18,15,TRUE,699,Organic Search
+CUST011,2024-02-05,AgriTech Solutions,Agriculture,Small,Professional,2024-02-05,2024-02-06,2024-02-08,2024-02-11,2024-02-14,2024-02-17,2024-02-20,2024-02-06,2024-02-20,15,TRUE,399,Content Marketing
+CUST012,2024-02-08,LegalFirm Partners,Legal,Medium,Enterprise,2024-02-08,2024-02-09,,,,,,2024-02-09,,40,FALSE,1199,Referral
+CUST013,2024-02-10,CloudServices Ltd,Technology,Large,Enterprise,2024-02-10,2024-02-11,2024-02-12,2024-02-15,2024-02-18,2024-02-22,2024-02-25,2024-02-11,2024-02-25,15,TRUE,2299,Sales Outreach
+CUST014,2024-02-12,RealEstate Group,Real Estate,Medium,Professional,2024-02-12,2024-02-14,2024-02-16,,,,2024-02-14,,33,FALSE,599,Social Media
+CUST015,2024-02-15,InsurancePlus Co,Insurance,Large,Enterprise,2024-02-15,2024-02-16,2024-02-18,2024-02-21,2024-02-24,2024-02-28,2024-03-03,2024-02-16,2024-03-03,16,TRUE,1599,Webinar
+CUST016,2024-02-18,StartupXYZ,Technology,Small,Starter,2024-02-18,2024-02-19,2024-02-21,2024-02-24,,,,2024-02-19,,35,FALSE,149,Organic Search
+CUST017,2024-02-20,EnergyCorpInc,Energy,Large,Enterprise,2024-02-20,2024-02-21,2024-02-23,2024-02-26,2024-03-01,2024-03-05,2024-03-08,2024-02-21,2024-03-08,16,TRUE,1999,Paid Ads
+CUST018,2024-02-22,RestaurantChain,Food & Beverage,Medium,Professional,2024-02-22,2024-02-24,,,,,,2024-02-24,,41,FALSE,499,Partnership
+CUST019,2024-02-25,AutoDealer Group,Automotive,Medium,Professional,2024-02-25,2024-02-26,2024-02-28,2024-03-03,2024-03-06,2024-03-10,2024-03-13,2024-02-26,2024-03-13,16,TRUE,799,Content Marketing
+CUST020,2024-02-28,PharmaCorp Ltd,Pharmaceutical,Large,Enterprise,2024-02-28,2024-03-01,2024-03-03,2024-03-06,2024-03-09,2024-03-13,2024-03-16,2024-03-01,2024-03-16,16,TRUE,2599,Sales Outreach
+CUST021,2024-03-01,SportsFacility Co,Sports & Recreation,Small,Professional,2024-03-01,2024-03-02,2024-03-04,2024-03-07,,,,2024-03-02,,36,FALSE,299,Social Media
+CUST022,2024-03-03,TravelAgency Inc,Travel,Medium,Professional,2024-03-03,2024-03-04,2024-03-06,2024-03-09,2024-03-12,2024-03-16,2024-03-19,2024-03-04,2024-03-19,16,TRUE,599,Referral
+CUST023,2024-03-05,ConstructCorp,Construction,Large,Enterprise,2024-03-05,2024-03-07,,,,,,2024-03-07,,39,FALSE,1399,Webinar
+CUST024,2024-03-08,GameStudio Ltd,Gaming,Small,Starter,2024-03-08,2024-03-09,2024-03-11,2024-03-14,2024-03-17,2024-03-21,2024-03-24,2024-03-09,2024-03-24,16,TRUE,199,Organic Search
+CUST025,2024-03-10,BankingServices,Finance,Large,Enterprise,2024-03-10,2024-03-11,2024-03-13,2024-03-16,2024-03-19,2024-03-23,2024-03-26,2024-03-11,2024-03-26,16,TRUE,2899,Sales Outreach
+CUST026,2024-03-12,FitnessChain Co,Fitness,Medium,Professional,2024-03-12,2024-03-14,2024-03-16,,,,2024-03-14,,34,FALSE,399,Paid Ads
+CUST027,2024-03-15,TelcomProvider,Telecommunications,Large,Enterprise,2024-03-15,2024-03-16,2024-03-18,2024-03-21,2024-03-24,2024-03-28,2024-03-31,2024-03-16,2024-03-31,16,TRUE,1799,Content Marketing
+CUST028,2024-03-18,EventPlanners Ltd,Events,Small,Professional,2024-03-18,2024-03-19,,,,,,2024-03-19,,37,FALSE,249,Partnership
+CUST029,2024-03-20,WholesaleDistrib,Wholesale,Medium,Professional,2024-03-20,2024-03-21,2024-03-23,2024-03-26,2024-03-29,2024-04-02,2024-04-05,2024-03-21,2024-04-05,16,TRUE,699,Social Media
+CUST030,2024-03-22,BiotechFirm Inc,Biotechnology,Large,Enterprise,2024-03-22,2024-03-23,2024-03-25,2024-03-28,2024-03-31,2024-04-04,2024-04-07,2024-03-23,2024-04-07,16,TRUE,2199,Webinar
+CUST031,2024-03-25,ArchitectFirm,Architecture,Small,Professional,2024-03-25,2024-03-27,2024-03-29,,,,2024-03-27,,32,FALSE,449,Referral
+CUST032,2024-03-28,PublishingHouse,Publishing,Medium,Professional,2024-03-28,2024-03-29,2024-03-31,2024-04-03,2024-04-06,2024-04-10,2024-04-13,2024-03-29,2024-04-13,16,TRUE,599,Organic Search
+CUST033,2024-03-30,ChemicalCorp,Chemical,Large,Enterprise,2024-03-30,2024-04-01,,,,,,2024-04-01,,38,FALSE,1699,Sales Outreach
+CUST034,2024-04-01,VeterinaryCare,Veterinary,Small,Starter,2024-04-01,2024-04-02,2024-04-04,2024-04-07,2024-04-10,2024-04-14,2024-04-17,2024-04-02,2024-04-17,16,TRUE,99,Paid Ads
+CUST035,2024-04-03,SecurityServices,Security,Medium,Professional,2024-04-03,2024-04-04,2024-04-06,2024-04-09,2024-04-12,2024-04-16,2024-04-19,2024-04-04,2024-04-19,16,TRUE,799,Content Marketing
