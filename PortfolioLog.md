@@ -323,3 +323,28 @@ Build an intelligent customer onboarding analytics system that identifies drop-o
 - Executive dashboard showing current vs. projected performance metrics
 
 ---
+# Daily AI Challenge – February 21, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent route optimization and performance tracking system for a logistics company to reduce fuel costs by 15% and improve on-time delivery rates from 82% to 95%. Create a comprehensive system that analyzes delivery data, traffic patterns, and driver constraints to generate optimized daily routes with real-time performance insights.
+
+## Skills Trained
+- Operations research and optimization algorithms
+- Geospatial data analysis and routing
+- Logistics and supply chain analytics
+- Multi-constraint problem solving
+- Fleet management and operational efficiency
+
+## Deliverables
+- Optimized daily route plans for all drivers with time estimates
+- Fuel cost savings analysis showing projected monthly reductions
+- Driver workload balancing recommendations to minimize overtime
+- Real-time delivery performance dashboard with KPI tracking
+- Route efficiency scoring system with benchmark comparisons
+
+---

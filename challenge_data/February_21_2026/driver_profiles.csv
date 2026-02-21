@@ -1,0 +1,16 @@
+driver_id,name,hire_date,max_hours_per_day,avg_delivery_time_minutes,customer_rating,overtime_hours_last_month,preferred_start_time,hub_location,experience_years,vehicle_assigned,fuel_efficiency_score
+D001,John Smith,2023-03-15,8,14.2,4.5,12.5,08:00,Hub_A,2.8,V001,8.7
+D002,Sarah Johnson,2022-08-20,8,16.8,4.3,18.2,08:30,Hub_A,3.2,V002,8.2
+D003,Mike Wilson,2021-11-10,8,19.5,4.1,22.7,09:00,Hub_B,4.1,V003,7.8
+D004,Emily Davis,2024-01-12,8,15.3,4.4,8.9,08:15,Hub_B,1.9,V004,8.5
+D005,Robert Brown,2023-07-05,8,17.1,4.2,15.6,08:00,Hub_C,2.3,V005,8.1
+D006,Lisa Martinez,2022-04-18,8,16.9,4.3,19.3,08:45,Hub_C,3.5,V006,8.3
+D007,David Lee,2023-12-03,8,18.2,4.0,25.1,09:00,Hub_A,1.8,V007,7.6
+D008,Amanda Clark,2021-09-25,8,14.7,4.6,11.4,08:30,Hub_B,4.3,V008,8.8
+D009,Kevin Rodriguez,2024-02-28,8,13.9,4.7,6.2,08:00,Hub_C,1.6,V009,9.1
+D010,Jessica White,2022-12-14,8,20.1,3.9,28.5,09:15,Hub_A,2.9,V010,7.4
+D011,Thomas Anderson,2023-05-22,8,15.8,4.4,14.7,08:15,Hub_B,2.1,V011,8.4
+D012,Nicole Taylor,2021-06-30,8,17.6,4.2,21.8,08:45,Hub_C,4.0,V012,8.0
+D013,Christopher Moore,2024-03-08,8,16.2,4.3,9.6,08:30,Hub_A,1.4,V013,8.6
+D014,Maria Garcia,2022-10-12,8,18.8,4.0,24.3,09:00,Hub_B,3.1,V014,7.7
+D015,James Thompson,2023-09-17,8,14.5,4.5,13.2,08:00,Hub_C,2.2,V015,8.9
