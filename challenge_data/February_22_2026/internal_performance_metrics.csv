@@ -1,0 +1,21 @@
+metric_category,metric_name,current_value,target_value,benchmark_vs_competitors,trend_direction,priority_level
+Financial,Monthly Recurring Revenue,12.5,15.8,below_average,improving,high
+Financial,Customer Acquisition Cost,3200,2500,above_average,stable,high
+Financial,Customer Lifetime Value,28500,35000,average,improving,medium
+Financial,Churn Rate,8.2,5.5,above_average,improving,high
+Financial,Gross Revenue Retention,94.3,96.0,average,stable,medium
+Product,Feature Release Velocity,2.3,3.5,below_average,improving,high
+Product,Bug Resolution Time,4.2,2.5,above_average,declining,high
+Product,API Response Time,145,100,above_average,stable,medium
+Product,Platform Uptime,99.7,99.9,average,stable,medium
+Product,Mobile App Rating,3.9,4.4,below_average,improving,medium
+Customer,Net Promoter Score,42,65,below_average,improving,high
+Customer,Customer Satisfaction,7.8,8.5,average,stable,medium
+Customer,Support Ticket Resolution,18.5,12.0,above_average,declining,medium
+Customer,Onboarding Completion Rate,78,85,below_average,improving,medium
+Customer,Feature Adoption Rate,56,70,below_average,stable,medium
+Market,Market Share,8.2,12.0,n/a,stable,high
+Market,Brand Awareness,23,35,below_average,improving,medium
+Market,Win Rate vs Competitors,34,45,below_average,declining,high
+Market,Average Deal Size,67000,85000,below_average,stable,medium
+Market,Sales Cycle Length,89,75,above_average,stable,medium

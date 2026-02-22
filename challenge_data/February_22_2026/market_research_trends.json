@@ -1,0 +1,88 @@
+{
+  "market_trends": {
+    "overall_market_size": {
+      "2024": 18500,
+      "2025_projected": 22100,
+      "2026_projected": 26800,
+      "currency": "millions_usd"
+    },
+    "growth_drivers": [
+      {
+        "trend": "AI/ML Integration",
+        "impact_score": 9.2,
+        "adoption_rate": 67,
+        "market_sentiment": "very_positive"
+      },
+      {
+        "trend": "Real-time Analytics Demand",
+        "impact_score": 8.7,
+        "adoption_rate": 73,
+        "market_sentiment": "positive"
+      },
+      {
+        "trend": "Cloud-first Architecture",
+        "impact_score": 8.9,
+        "adoption_rate": 81,
+        "market_sentiment": "positive"
+      },
+      {
+        "trend": "Data Privacy Regulations",
+        "impact_score": 7.8,
+        "adoption_rate": 89,
+        "market_sentiment": "neutral"
+      },
+      {
+        "trend": "Low-code/No-code Platforms",
+        "impact_score": 7.5,
+        "adoption_rate": 45,
+        "market_sentiment": "positive"
+      }
+    ],
+    "market_segments": [
+      {
+        "segment": "Enterprise (1000+ employees)",
+        "size_percentage": 42,
+        "growth_rate": 12.4,
+        "avg_deal_size": 285000
+      },
+      {
+        "segment": "Mid-market (100-999 employees)",
+        "size_percentage": 35,
+        "growth_rate": 18.7,
+        "avg_deal_size": 85000
+      },
+      {
+        "segment": "Small Business (<100 employees)",
+        "size_percentage": 23,
+        "growth_rate": 24.1,
+        "avg_deal_size": 25000
+      }
+    ],
+    "regional_analysis": [
+      {
+        "region": "North America",
+        "market_share": 48,
+        "growth_rate": 14.2,
+        "competitive_intensity": "high"
+      },
+      {
+        "region": "Europe",
+        "market_share": 28,
+        "growth_rate": 16.8,
+        "competitive_intensity": "medium"
+      },
+      {
+        "region": "Asia Pacific",
+        "market_share": 19,
+        "growth_rate": 22.3,
+        "competitive_intensity": "medium"
+      },
+      {
+        "region": "Other",
+        "market_share": 5,
+        "growth_rate": 19.7,
+        "competitive_intensity": "low"
+      }
+    ]
+  }
+}

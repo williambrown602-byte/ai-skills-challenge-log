@@ -1,0 +1,18 @@
+feature_category,feature_name,our_company,techRival_corp,innovatetech_solutions,datadyne_systems,cloudfirst_technologies,nextgen_analytics,weight_importance
+Core Platform,API Integration,4,5,3,4,5,3,9
+Core Platform,Data Processing Speed,4,4,3,3,5,4,8
+Core Platform,Scalability,3,4,4,3,5,3,9
+Core Platform,Security Features,5,4,4,4,5,3,10
+Analytics,Real-time Analytics,4,3,4,2,4,5,8
+Analytics,Predictive Modeling,3,4,3,3,4,4,7
+Analytics,Custom Dashboards,4,4,5,3,3,4,6
+Analytics,Data Visualization,4,3,4,4,4,5,7
+User Experience,Ease of Use,4,3,4,4,3,4,8
+User Experience,Mobile Support,3,4,3,3,4,3,6
+User Experience,Customization,3,4,4,3,3,3,5
+Integration,Third-party Connectors,4,5,3,4,5,2,7
+Integration,Cloud Compatibility,4,4,4,3,5,3,8
+Integration,Enterprise Systems,3,4,3,4,4,3,7
+Support,Documentation Quality,4,3,4,3,3,4,5
+Support,Customer Support,4,4,3,3,4,3,6
+Support,Training Resources,3,3,4,2,3,4,4

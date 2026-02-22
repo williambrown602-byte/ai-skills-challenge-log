@@ -348,3 +348,28 @@ Build an intelligent route optimization and performance tracking system for a lo
 - Route efficiency scoring system with benchmark comparisons
 
 ---
+# Daily AI Challenge – February 22, 2026
+
+**Domain:** Strategy/Business Intelligence
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent competitive intelligence and market positioning system that transforms scattered market data into actionable strategic insights and investment recommendations for annual planning decisions.
+
+## Skills Trained
+- Competitive intelligence and market analysis
+- Multi-source data integration and processing
+- Strategic planning and investment analysis
+- Executive-level business communication
+- Market research and business intelligence
+
+## Deliverables
+- Competitive positioning heatmap
+- Investment recommendation framework with ROI projections
+- Threat assessment dashboard
+- Strategic action plan with timeline priorities
+- Executive briefing document with budget allocation recommendations
+
+---
