@@ -1,0 +1,25 @@
+role,seniority_level,standard_hourly_rate,min_rate,max_rate,utilization_target,region
+Senior Partner,Senior,500,450,600,60,North America
+Senior Partner,Senior,480,430,580,60,Europe
+Senior Partner,Senior,450,400,550,60,Asia Pacific
+Partner,Senior,400,350,480,70,North America
+Partner,Senior,380,330,460,70,Europe
+Partner,Senior,360,310,440,70,Asia Pacific
+Principal,Mid,320,280,380,75,North America
+Principal,Mid,300,260,360,75,Europe
+Principal,Mid,280,240,340,75,Asia Pacific
+Senior Manager,Mid,250,220,300,80,North America
+Senior Manager,Mid,230,200,280,80,Europe
+Senior Manager,Mid,210,180,260,80,Asia Pacific
+Manager,Mid,200,180,240,85,North America
+Manager,Mid,180,160,220,85,Europe
+Manager,Mid,160,140,200,85,Asia Pacific
+Senior Consultant,Junior,150,130,180,90,North America
+Senior Consultant,Junior,140,120,170,90,Europe
+Senior Consultant,Junior,130,110,160,90,Asia Pacific
+Consultant,Junior,120,100,150,95,North America
+Consultant,Junior,110,90,140,95,Europe
+Consultant,Junior,100,80,130,95,Asia Pacific
+Analyst,Junior,80,70,100,95,North America
+Analyst,Junior,75,65,95,95,Europe
+Analyst,Junior,70,60,90,95,Asia Pacific

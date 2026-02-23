@@ -1,0 +1,25 @@
+industry,engagement_type,complexity,market_rate_low,market_rate_avg,market_rate_high,sample_size,last_updated
+Technology,Strategy Consulting,Low,200,280,400,45,2025-02-01
+Technology,Strategy Consulting,Medium,250,320,450,67,2025-02-01
+Technology,Strategy Consulting,High,300,380,500,34,2025-02-01
+Technology,Digital Transformation,Low,180,250,350,23,2025-02-01
+Technology,Digital Transformation,Medium,220,300,420,56,2025-02-01
+Technology,Digital Transformation,High,280,360,480,41,2025-02-01
+Financial Services,Risk Assessment,Low,220,300,420,32,2025-02-01
+Financial Services,Risk Assessment,Medium,280,350,450,48,2025-02-01
+Financial Services,Risk Assessment,High,320,400,520,28,2025-02-01
+Financial Services,Regulatory Compliance,Low,200,280,380,41,2025-02-01
+Financial Services,Regulatory Compliance,Medium,250,320,420,53,2025-02-01
+Financial Services,Regulatory Compliance,High,300,380,500,29,2025-02-01
+Healthcare,Operational Excellence,Low,180,240,320,38,2025-02-01
+Healthcare,Operational Excellence,Medium,220,280,360,44,2025-02-01
+Healthcare,Operational Excellence,High,260,330,420,25,2025-02-01
+Manufacturing,Process Optimization,Low,160,220,300,52,2025-02-01
+Manufacturing,Process Optimization,Medium,200,260,340,61,2025-02-01
+Manufacturing,Process Optimization,High,240,300,380,33,2025-02-01
+Energy,Market Analysis,Low,200,280,380,28,2025-02-01
+Energy,Market Analysis,Medium,250,320,420,35,2025-02-01
+Energy,Market Analysis,High,300,380,480,22,2025-02-01
+Retail,Digital Strategy,Low,150,210,290,47,2025-02-01
+Retail,Digital Strategy,Medium,190,250,330,55,2025-02-01
+Retail,Digital Strategy,High,230,290,370,31,2025-02-01

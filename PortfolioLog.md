@@ -373,3 +373,28 @@ Build an intelligent competitive intelligence and market positioning system that
 - Executive briefing document with budget allocation recommendations
 
 ---
+# Daily AI Challenge – February 23, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent pricing analytics system that processes historical engagement data to generate data-driven pricing recommendations and identify revenue optimization opportunities for a consulting firm. The system aims to reduce 40% pricing variance and increase engagement value by 12-18%.
+
+## Skills Trained
+- Advanced pricing strategy and revenue optimization
+- Statistical modeling and confidence interval analysis
+- Consulting industry business knowledge
+- Interactive business tool development
+- Strategic financial analysis and recommendations
+
+## Deliverables
+- Dynamic pricing recommendation engine with confidence intervals
+- Revenue opportunity analysis showing potential uplift by engagement type
+- Pricing variance analysis identifying consistently under/over-priced services
+- Interactive pricing scenario calculator for partner use
+- Risk-adjusted pricing framework incorporating win probability
+
+---

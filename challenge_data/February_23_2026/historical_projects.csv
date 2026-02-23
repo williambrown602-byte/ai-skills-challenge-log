@@ -1,0 +1,46 @@
+project_id,client_name,client_industry,engagement_type,project_duration_weeks,team_size,senior_partners,managers,analysts,total_hours,total_revenue,hourly_rate_achieved,proposal_rate,win_status,project_complexity,region,start_date,end_date
+P001,TechCorp Inc,Technology,Strategy Consulting,12,5,1,2,2,1920,576000,300,320,Won,High,North America,2024-08-15,2024-11-07
+P002,Global Manufacturing Ltd,Manufacturing,Process Optimization,8,4,1,1,2,1280,320000,250,280,Won,Medium,Europe,2024-09-01,2024-10-26
+P003,RetailChain Co,Retail,Digital Transformation,16,6,2,2,2,2560,640000,250,275,Won,High,North America,2024-07-10,2024-10-31
+P004,FinanceFirst Bank,Financial Services,Risk Assessment,6,3,1,1,1,720,216000,300,350,Won,Medium,North America,2024-10-15,2024-11-26
+P005,HealthSystem Regional,Healthcare,Operational Excellence,10,4,1,2,1,1600,400000,250,270,Won,Medium,North America,2024-08-01,2024-10-10
+P006,EnergyPower Corp,Energy,Market Analysis,4,2,1,0,1,320,112000,350,400,Won,Low,North America,2024-11-01,2024-11-29
+P007,AutoMotive Systems,Automotive,Supply Chain,14,5,1,2,2,2240,448000,200,220,Won,High,Europe,2024-06-15,2024-09-20
+P008,PharmaCeuticals Inc,Pharmaceuticals,Compliance Review,8,3,1,1,1,960,288000,300,320,Won,Medium,North America,2024-09-15,2024-11-10
+P009,TeleComm Networks,Telecommunications,Technology Strategy,12,4,1,2,1,1920,480000,250,280,Won,High,Europe,2024-07-01,2024-09-23
+P010,InsuranceGlobal Ltd,Insurance,Process Redesign,6,3,1,1,1,720,180000,250,300,Won,Medium,North America,2024-10-01,2024-11-12
+P011,LogisticsPro Inc,Logistics,Cost Reduction,10,4,1,2,1,1600,320000,200,250,Won,Medium,North America,2024-08-15,2024-10-24
+P012,MediaGroup Entertainment,Media,Digital Strategy,8,3,1,1,1,960,192000,200,240,Won,Low,North America,2024-09-01,2024-10-27
+P013,AeroSpace Dynamics,Aerospace,Innovation Strategy,16,6,2,2,2,2560,768000,300,330,Won,High,North America,2024-06-01,2024-09-23
+P014,ConsumerGoods Corp,Consumer Goods,Market Entry,12,5,1,2,2,1920,384000,200,230,Won,Medium,Asia Pacific,2024-07-15,2024-10-07
+P015,RealEstate Holdings,Real Estate,Investment Analysis,4,2,1,0,1,320,96000,300,350,Won,Low,North America,2024-11-15,2024-12-13
+P016,FoodBeverage Co,Food & Beverage,Brand Strategy,8,4,1,2,1,1280,256000,200,220,Won,Medium,Europe,2024-08-01,2024-09-26
+P017,ChemicalIndustries Ltd,Chemicals,Sustainability,10,3,1,1,1,1200,360000,300,320,Won,Medium,Europe,2024-07-01,2024-09-09
+P018,TransportSolutions,Transportation,Route Optimization,6,3,1,1,1,720,144000,200,250,Won,Low,North America,2024-10-15,2024-11-26
+P019,MiningOperations Corp,Mining,Safety Assessment,8,4,1,2,1,1280,320000,250,280,Won,High,Asia Pacific,2024-09-01,2024-10-27
+P020,UtilitiesRegional,Utilities,Grid Modernization,14,5,1,2,2,2240,560000,250,270,Won,High,North America,2024-06-15,2024-09-20
+P021,StartupTech Ventures,Technology,Growth Strategy,6,3,1,1,1,720,144000,200,250,Lost,Medium,North America,2024-11-01,2024-12-13
+P022,LegacyManufacturing,Manufacturing,Modernization,12,6,2,2,2,2400,480000,200,280,Lost,High,North America,2024-07-15,2024-10-07
+P023,RegionalBank Corp,Financial Services,Digital Banking,10,4,1,2,1,1600,320000,200,300,Lost,Medium,North America,2024-08-01,2024-10-10
+P024,HealthTech Solutions,Healthcare,Technology Integration,8,4,1,1,2,1280,256000,200,270,Lost,Medium,North America,2024-09-15,2024-11-10
+P025,GreenEnergy Ltd,Energy,Renewable Strategy,12,5,1,2,2,1920,384000,200,320,Lost,High,Europe,2024-07-01,2024-09-23
+P026,FastRetail Chain,Retail,E-commerce Platform,14,6,1,2,3,2240,448000,200,260,Lost,High,North America,2024-06-15,2024-09-20
+P027,GlobalLogistics Inc,Logistics,Automation Strategy,10,4,1,2,1,1600,320000,200,290,Lost,High,Europe,2024-08-15,2024-10-24
+P028,TechStartup Alpha,Technology,Product Strategy,4,2,1,0,1,320,64000,200,280,Lost,Low,North America,2024-11-15,2024-12-13
+P029,ManufacturingPlus,Manufacturing,Lean Implementation,8,4,1,2,1,1280,256000,200,240,Lost,Medium,Asia Pacific,2024-09-01,2024-10-27
+P030,FinTech Innovations,Financial Services,Regulatory Compliance,6,3,1,1,1,720,144000,200,320,Lost,Medium,North America,2024-10-01,2024-11-12
+P031,BioTech Research,Pharmaceuticals,Market Access,12,4,1,2,1,1920,576000,300,350,Won,High,North America,2025-01-15,2025-04-09
+P032,GlobalShipping Ltd,Logistics,Network Optimization,16,7,2,3,2,3200,800000,250,280,Won,High,Europe,2024-12-01,2025-03-28
+P033,SmartCity Solutions,Government,Urban Planning,20,8,2,3,3,4000,1000000,250,270,Won,High,North America,2024-11-15,2025-04-11
+P034,CleanTech Energy,Energy,Carbon Strategy,8,4,1,2,1,1280,384000,300,330,Won,Medium,Europe,2025-01-01,2025-02-26
+P035,RetailTech Corp,Retail,Omnichannel Strategy,12,5,1,2,2,1920,480000,250,280,Won,Medium,North America,2024-12-15,2025-03-07
+P036,HealthInsurance Co,Insurance,Claims Optimization,10,4,1,2,1,1600,480000,300,320,Won,Medium,North America,2025-01-01,2025-03-12
+P037,AgriTech Solutions,Agriculture,Supply Chain,14,5,1,2,2,2240,448000,200,230,Won,Medium,Asia Pacific,2024-12-01,2025-03-14
+P038,SpaceTech Ventures,Aerospace,Commercial Strategy,8,3,1,1,1,960,288000,300,350,Won,High,North America,2025-02-01,2025-03-29
+P039,WaterManagement Inc,Utilities,Infrastructure,12,6,2,2,2,2400,600000,250,270,Won,High,North America,2024-12-15,2025-03-21
+P040,FashionBrands Global,Consumer Goods,Sustainability,6,3,1,1,1,720,180000,250,300,Won,Low,Europe,2025-02-15,2025-03-29
+P041,CyberSecurity Pro,Technology,Risk Assessment,4,2,1,0,1,320,128000,400,450,Won,Medium,North America,2025-03-01,2025-03-29
+P042,ConstructionTech,Construction,Digital Transformation,16,6,1,3,2,2560,512000,200,250,Won,High,North America,2024-11-15,2025-03-07
+P043,EdTech Platform,Education,Growth Strategy,8,4,1,2,1,1280,256000,200,240,Won,Medium,North America,2025-01-15,2025-03-12
+P044,SportsTech Inc,Sports & Entertainment,Analytics Platform,10,4,1,2,1,1600,400000,250,280,Won,Medium,North America,2025-01-01,2025-03-12
+P045,LuxuryBrands Corp,Luxury Goods,Market Expansion,12,5,1,2,2,1920,576000,300,330,Won,Medium,Europe,2024-12-01,2025-02-21
