@@ -398,3 +398,28 @@ Build an intelligent pricing analytics system that processes historical engageme
 - Risk-adjusted pricing framework incorporating win probability
 
 ---
+# Daily AI Challenge – March 17, 2026
+
+**Domain:** E-commerce/Retail
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent product catalog optimization system that automatically enriches product data, generates optimized descriptions, and creates merchandising recommendations to reduce manual work by 75% while improving sales performance.
+
+## Skills Trained
+- Natural language processing and text generation
+- Product recommendation algorithms and similarity analysis
+- E-commerce analytics and merchandising strategy
+- Automated content creation and SEO optimization
+- Retail business intelligence and conversion optimization
+
+## Deliverables
+- Automated product description generator with SEO optimization
+- Cross-sell recommendation matrix showing high-affinity product pairs
+- Category optimization suggestions for improved product placement
+- Merchandising strategy report identifying high-potential products
+- Quality scoring system for existing product listings
+
+---

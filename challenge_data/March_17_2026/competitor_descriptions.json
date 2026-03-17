@@ -1,0 +1,36 @@
+{
+  "competitor_benchmarks": [
+    {
+      "category": "Electronics",
+      "sample_descriptions": [
+        "Experience premium audio with our advanced wireless headphones featuring industry-leading noise cancellation, 30-hour battery life, and crystal-clear sound quality that transforms your listening experience.",
+        "Revolutionary gaming keyboard designed for esports professionals, featuring ultra-responsive mechanical switches, customizable RGB lighting, and programmable macros for competitive advantage.",
+        "Ultra-fast wireless charger with intelligent temperature control and foreign object detection ensures safe, efficient charging for all Qi-enabled devices."
+      ]
+    },
+    {
+      "category": "Kitchen",
+      "sample_descriptions": [
+        "Professional-grade cookware crafted from premium materials, delivering exceptional heat distribution and non-stick performance that makes cooking effortless and cleanup quick.",
+        "Precision-engineered coffee maker with advanced brewing technology extracts optimal flavor from your favorite beans, featuring programmable settings for perfect coffee every time.",
+        "Razor-sharp knife set forged from premium German steel, designed for professional chefs and home cooking enthusiasts who demand precision and durability."
+      ]
+    },
+    {
+      "category": "Sports & Fitness",
+      "sample_descriptions": [
+        "Premium yoga mat engineered with superior grip technology and optimal cushioning, providing stability and comfort for practitioners of all levels during any pose or flow sequence.",
+        "Complete fitness solution featuring multiple resistance levels and professional-grade materials, perfect for strength training, rehabilitation, and full-body workouts anywhere.",
+        "Advanced fitness tracker combining cutting-edge sensors with intuitive design, monitoring heart rate, activity, sleep, and wellness metrics to optimize your health journey."
+      ]
+    },
+    {
+      "category": "Home & Garden",
+      "sample_descriptions": [
+        "Double-wall vacuum insulation technology keeps beverages at perfect temperature for hours, while the sleek design and leak-proof construction make it ideal for active lifestyles.",
+        "Transform any space into a personal wellness sanctuary with ultrasonic aromatherapy technology, customizable lighting, and whisper-quiet operation for ultimate relaxation.",
+        "Ergonomically designed memory foam provides personalized support and pressure relief, featuring cooling gel technology for temperature regulation throughout the night."
+      ]
+    }
+  ]
+}

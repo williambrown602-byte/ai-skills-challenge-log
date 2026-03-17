@@ -1,0 +1,26 @@
+product_id,name,category,price,brand,basic_specs,current_description,sku
+P001,Wireless Bluetooth Headphones,Electronics,79.99,SoundWave,"Bluetooth 5.0, 20hr battery, noise canceling",Basic wireless headphones with good sound quality,SW-BT-001
+P002,Organic Cotton T-Shirt,Clothing,24.99,EcoWear,"100% organic cotton, machine washable, crew neck",Comfortable organic cotton shirt,EW-CT-002
+P003,Stainless Steel Water Bottle,Home & Garden,34.99,HydroLife,"32oz capacity, double-wall insulated, BPA-free",Keeps drinks hot or cold for hours,HL-WB-003
+P004,Yoga Mat Premium,Sports & Fitness,89.99,FlexZone,"6mm thick, non-slip surface, eco-friendly TPE",High-quality yoga mat for all skill levels,FZ-YM-004
+P005,Coffee Maker Automatic,Kitchen,149.99,BrewMaster,"12-cup capacity, programmable, auto-shutoff",Makes perfect coffee every morning,BM-CM-005
+P006,Gaming Mechanical Keyboard,Electronics,124.99,TechForce,"RGB backlighting, Cherry MX switches, programmable",Professional gaming keyboard with tactile feedback,TF-KB-006
+P007,Leather Crossbody Bag,Fashion,129.99,StyleCraft,"Genuine leather, adjustable strap, multiple compartments",Elegant bag perfect for daily use,SC-CB-007
+P008,Protein Powder Vanilla,Health & Wellness,39.99,FitNutrition,"25g protein per serving, whey isolate, gluten-free",High-quality protein supplement for fitness,FN-PP-008
+P009,LED Desk Lamp,Home & Office,59.99,BrightSpace,"Adjustable brightness, USB charging port, touch control",Modern desk lamp with multiple features,BS-DL-009
+P010,Running Shoes Men,Footwear,119.99,SpeedRunner,"Breathable mesh, cushioned sole, lightweight design",Comfortable running shoes for daily training,SR-RS-010
+P011,Wireless Phone Charger,Electronics,29.99,PowerTech,"Qi-compatible, fast charging, LED indicator",Convenient wireless charging solution,PT-WC-011
+P012,Kitchen Knife Set,Kitchen,89.99,ChefPro,"8-piece set, German steel, wooden block included",Professional quality knives for home cooking,CP-KS-012
+P013,Bluetooth Speaker Portable,Electronics,69.99,SoundBlast,"Waterproof IPX7, 12hr battery, 360-degree sound",Portable speaker perfect for outdoor activities,SB-SP-013
+P014,Memory Foam Pillow,Home & Garden,49.99,ComfortRest,"Contoured design, hypoallergenic, cooling gel layer",Ergonomic pillow for better sleep quality,CR-MF-014
+P015,Fitness Tracker Watch,Electronics,199.99,ActiveLife,"Heart rate monitor, GPS, 7-day battery, water resistant",Advanced fitness tracking with smart features,AL-FT-015
+P016,Cast Iron Skillet,Kitchen,79.99,IronChef,"12-inch diameter, pre-seasoned, oven safe to 500F",Durable cookware that lasts generations,IC-CS-016
+P017,Backpack Laptop 15-inch,Bags & Luggage,74.99,TechCarry,"Padded compartment, USB charging port, water resistant",Professional backpack for work and travel,TC-BP-017
+P018,Essential Oil Diffuser,Home & Garden,44.99,AromaZen,"Ultrasonic, 300ml capacity, 7 LED colors, timer",Creates relaxing atmosphere with natural scents,AZ-ED-018
+P019,Resistance Bands Set,Sports & Fitness,34.99,FlexFit,"5 bands, different resistance levels, door anchor",Complete workout system for home fitness,FF-RB-019
+P020,Smartphone Case Clear,Electronics,19.99,ProtectPlus,"Shockproof, crystal clear, wireless charging compatible",Reliable protection without hiding phone design,PP-SC-020
+P021,Ceramic Non-Stick Pan,Kitchen,64.99,CookEasy,"10-inch, PFOA-free coating, dishwasher safe",Healthy cooking with easy food release,CE-NP-021
+P022,Blue Light Glasses,Health & Wellness,39.99,EyeGuard,"Anti-glare coating, lightweight frame, UV protection",Reduces eye strain from digital screens,EG-BL-022
+P023,Insulated Lunch Bag,Home & Garden,29.99,FreshKeep,"Leak-proof, thermal insulation, easy clean interior",Keeps meals fresh and at right temperature,FK-LB-023
+P024,Wireless Mouse Ergonomic,Electronics,49.99,ComputeComfort,"2.4GHz wireless, ergonomic design, long battery life",Comfortable mouse for extended computer use,CC-WM-024
+P025,Bamboo Cutting Board,Kitchen,39.99,EcoKitchen,"Large size, antimicrobial, sustainable bamboo",Eco-friendly cutting surface for food prep,EK-CB-025

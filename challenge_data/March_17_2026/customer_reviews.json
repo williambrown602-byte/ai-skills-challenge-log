@@ -1,0 +1,74 @@
+{
+  "reviews": [
+    {
+      "product_category": "Electronics",
+      "review_snippets": [
+        "Amazing sound quality and battery life exceeded expectations",
+        "Bluetooth connection is rock solid, no dropouts during workouts",
+        "Comfortable for long gaming sessions, RGB lighting is customizable",
+        "Fast charging feature is incredibly convenient for daily use",
+        "Crystal clear audio for both music and phone calls"
+      ]
+    },
+    {
+      "product_category": "Clothing",
+      "review_snippets": [
+        "Soft fabric that gets even better after washing",
+        "Perfect fit, true to size and very comfortable",
+        "Love the organic cotton, feels great on sensitive skin",
+        "Holds up well after multiple washes, no shrinking",
+        "Great quality for the price, will definitely buy more"
+      ]
+    },
+    {
+      "product_category": "Kitchen",
+      "review_snippets": [
+        "Makes cooking so much easier, food doesn't stick at all",
+        "Heats evenly, perfect for searing and slow cooking",
+        "Sharp blades that stay sharp, great for meal prep",
+        "Easy to clean and dishwasher safe as advertised",
+        "Professional quality that works great for home cooking"
+      ]
+    },
+    {
+      "product_category": "Sports & Fitness",
+      "review_snippets": [
+        "Perfect grip even during intense hot yoga sessions",
+        "Great resistance variety for full body workouts at home",
+        "Motivates me to exercise more, tracks everything accurately",
+        "Comfortable and supportive for daily runs and training",
+        "Durable construction that handles heavy use without issues"
+      ]
+    },
+    {
+      "product_category": "Home & Garden",
+      "review_snippets": [
+        "Keeps drinks cold for 12+ hours, hot for 8+ hours",
+        "Creates the perfect relaxing atmosphere after work",
+        "Improved my sleep quality significantly within days",
+        "Leak-proof design perfect for work lunches",
+        "LED colors are soothing, timer function works perfectly"
+      ]
+    },
+    {
+      "product_category": "Fashion",
+      "review_snippets": [
+        "Elegant design that goes with everything in my wardrobe",
+        "High quality leather that ages beautifully",
+        "Perfect size for daily essentials without being bulky",
+        "Adjustable strap makes it comfortable for all-day wear",
+        "Great craftsmanship and attention to detail"
+      ]
+    },
+    {
+      "product_category": "Health & Wellness",
+      "review_snippets": [
+        "Mixes easily with no chalky aftertaste",
+        "Noticed reduced eye strain during long work sessions",
+        "Great protein content helps with muscle recovery",
+        "Lightweight frames that don't slide down nose",
+        "Vanilla flavor is smooth and not artificially sweet"
+      ]
+    }
+  ]
+}
