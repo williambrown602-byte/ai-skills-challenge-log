@@ -1,0 +1,16 @@
+adjuster_id,name,specialization,years_experience,current_caseload,max_capacity,avg_processing_days,satisfaction_rating,performance_score,hourly_rate,availability_hours_per_week
+ADJ001,Sarah Mitchell,Auto/Personal Injury,8,24,30,14.2,3.4,78,65,40
+ADJ002,Marcus Chen,Auto/Commercial,6,18,28,11.8,4.1,85,58,40
+ADJ003,Lisa Rodriguez,Auto/Standard,4,22,35,8.6,4.3,92,52,40
+ADJ004,David Park,Auto/Minor Claims,3,28,40,7.2,4.4,89,48,40
+ADJ005,Jennifer Walsh,Property/Residential,7,16,25,16.5,3.8,82,62,40
+ADJ006,Robert Kim,Property/Commercial,10,12,20,19.3,3.2,75,68,35
+ADJ007,Amanda Thompson,Property/Major Loss,12,8,15,22.8,2.8,71,72,35
+ADJ008,Michael Brown,Property/Specialty,9,14,22,18.1,3.5,79,65,40
+ADJ009,Emily Davis,Health/Standard,5,32,45,9.4,4.2,88,55,40
+ADJ010,James Wilson,Health/Complex,8,20,30,12.7,4.0,84,60,40
+ADJ011,Rachel Green,Health/Routine,3,38,50,6.8,4.5,91,50,40
+ADJ012,Christopher Lee,Life Insurance,15,6,12,25.6,4.1,86,75,35
+ADJ013,Nicole Adams,Life/Investigations,11,4,8,31.2,3.6,77,78,30
+ADJ014,Kevin O'Connor,Fraud Investigation,13,8,12,28.5,3.9,83,70,35
+ADJ015,Stephanie Clark,Legal Liaison,9,10,15,24.8,3.7,80,68,35

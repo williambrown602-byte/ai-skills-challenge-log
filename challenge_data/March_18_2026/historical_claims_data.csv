@@ -1,0 +1,51 @@
+claim_id,claim_type,claim_amount,date_filed,date_resolved,processing_days,adjuster_id,customer_satisfaction,outcome,complexity_factors,fraud_risk_score,legal_review_required
+CLM001,Auto,4500,2024-08-15,2024-08-28,13,ADJ003,4.2,Approved,Minor damage;Clear liability,0.15,FALSE
+CLM002,Property,12000,2024-08-16,2024-09-05,20,ADJ007,2.8,Approved,Water damage;Multiple estimates needed,0.32,FALSE
+CLM003,Auto,25000,2024-08-17,2024-09-10,24,ADJ001,3.1,Approved,Total loss;Injury involved,0.28,TRUE
+CLM004,Life,150000,2024-08-18,2024-09-15,28,ADJ012,4.5,Approved,Natural death;Complete documentation,0.05,FALSE
+CLM005,Property,8500,2024-08-19,2024-08-30,11,ADJ005,4.0,Approved,Storm damage;Standard repair,0.18,FALSE
+CLM006,Auto,3200,2024-08-20,2024-08-25,5,ADJ003,4.8,Approved,Fender bender;No injuries,0.12,FALSE
+CLM007,Health,2800,2024-08-21,2024-09-08,18,ADJ009,3.5,Approved,Surgery claim;Pre-authorization needed,0.22,FALSE
+CLM008,Property,45000,2024-08-22,2024-10-02,41,ADJ008,2.1,Denied,Fire damage;Arson suspected,0.85,TRUE
+CLM009,Auto,15500,2024-08-23,2024-09-12,20,ADJ002,3.8,Approved,Multi-vehicle accident,0.35,TRUE
+CLM010,Life,75000,2024-08-24,2024-09-20,27,ADJ012,4.2,Approved,Accidental death;Investigation required,0.45,TRUE
+CLM011,Health,1200,2024-08-25,2024-08-30,5,ADJ010,4.6,Approved,Routine procedure;Standard claim,0.08,FALSE
+CLM012,Property,22000,2024-08-26,2024-09-18,23,ADJ006,3.2,Approved,Theft claim;Police report required,0.55,FALSE
+CLM013,Auto,8900,2024-08-27,2024-09-08,12,ADJ004,4.1,Approved,Collision;Clear fault determination,0.20,FALSE
+CLM014,Health,5600,2024-08-28,2024-09-15,18,ADJ011,3.7,Approved,Emergency room visit;Multiple procedures,0.25,FALSE
+CLM015,Property,95000,2024-08-29,2024-10-25,57,ADJ007,1.8,Partial,Hurricane damage;Disputed coverage,0.68,TRUE
+CLM016,Auto,6700,2024-08-30,2024-09-10,11,ADJ003,4.3,Approved,Rear-end collision;Minor injuries,0.18,FALSE
+CLM017,Life,200000,2024-09-01,2024-10-15,44,ADJ013,3.9,Approved,Suicide clause investigation,0.72,TRUE
+CLM018,Health,890,2024-09-02,2024-09-06,4,ADJ009,4.7,Approved,Prescription claim;Pre-approved,0.05,FALSE
+CLM019,Property,14500,2024-09-03,2024-09-22,19,ADJ005,3.6,Approved,Vandalism;Security footage available,0.42,FALSE
+CLM020,Auto,32000,2024-09-04,2024-10-08,34,ADJ001,2.9,Approved,DUI accident;Criminal charges filed,0.78,TRUE
+CLM021,Health,3400,2024-09-05,2024-09-18,13,ADJ010,4.0,Approved,Diagnostic tests;Specialist referral,0.15,FALSE
+CLM022,Property,7800,2024-09-06,2024-09-20,14,ADJ008,3.8,Approved,Hail damage;Multiple properties affected,0.25,FALSE
+CLM023,Auto,11200,2024-09-07,2024-09-25,18,ADJ002,3.4,Approved,Hit and run;Uninsured motorist coverage,0.48,FALSE
+CLM024,Life,125000,2024-09-08,2024-10-18,40,ADJ012,4.1,Approved,Heart attack;Medical records review,0.20,FALSE
+CLM025,Health,6700,2024-09-09,2024-09-28,19,ADJ011,3.2,Approved,Surgery complications;Additional treatment,0.35,FALSE
+CLM026,Property,18900,2024-09-10,2024-10-02,22,ADJ006,3.7,Approved,Pipe burst;Water restoration needed,0.28,FALSE
+CLM027,Auto,5400,2024-09-11,2024-09-20,9,ADJ004,4.4,Approved,Parking lot incident;Witnesses available,0.12,FALSE
+CLM028,Health,2100,2024-09-12,2024-09-18,6,ADJ009,4.5,Approved,Urgent care visit;Standard procedure,0.08,FALSE
+CLM029,Property,67000,2024-09-13,2024-11-05,53,ADJ007,2.3,Approved,Kitchen fire;Extensive damage,0.58,TRUE
+CLM030,Auto,19500,2024-09-14,2024-10-12,28,ADJ003,3.0,Approved,Commercial vehicle accident;Business interruption,0.45,TRUE
+CLM031,Life,180000,2024-09-15,2024-11-08,54,ADJ013,3.5,Denied,Missing beneficiary documentation,0.62,TRUE
+CLM032,Health,4200,2024-09-16,2024-10-01,15,ADJ010,3.9,Approved,Physical therapy;Long-term treatment,0.18,FALSE
+CLM033,Property,9800,2024-09-17,2024-10-05,18,ADJ005,4.2,Approved,Wind damage;Roof repair needed,0.22,FALSE
+CLM034,Auto,13600,2024-09-18,2024-10-15,27,ADJ001,2.7,Approved,Pedestrian accident;Serious injuries,0.68,TRUE
+CLM035,Health,1800,2024-09-19,2024-09-25,6,ADJ011,4.6,Approved,Outpatient procedure;Routine claim,0.10,FALSE
+CLM036,Property,28500,2024-09-20,2024-10-18,28,ADJ008,3.1,Approved,Burglary;Multiple items stolen,0.48,FALSE
+CLM037,Auto,7200,2024-09-21,2024-10-02,11,ADJ002,4.0,Approved,Weather-related accident;No fault,0.15,FALSE
+CLM038,Life,90000,2024-09-22,2024-10-28,36,ADJ012,4.3,Approved,Cancer-related death;Expected claim,0.12,FALSE
+CLM039,Health,5900,2024-09-23,2024-10-12,19,ADJ009,3.6,Approved,Specialist consultation;Multiple visits,0.25,FALSE
+CLM040,Property,155000,2024-09-24,2024-12-10,77,ADJ006,1.5,Partial,Total loss;Coverage dispute,0.82,TRUE
+CLM041,Auto,4100,2024-09-25,2024-10-08,13,ADJ004,4.1,Approved,Minor collision;Quick resolution,0.18,FALSE
+CLM042,Health,3600,2024-09-26,2024-10-15,19,ADJ010,3.8,Approved,Emergency treatment;Standard care,0.22,FALSE
+CLM043,Property,12400,2024-09-27,2024-10-20,23,ADJ007,3.3,Approved,Appliance fire;Electrical investigation,0.38,FALSE
+CLM044,Auto,21000,2024-09-28,2024-11-02,35,ADJ003,2.8,Approved,Multi-vehicle pileup;Complex liability,0.55,TRUE
+CLM045,Life,110000,2024-09-29,2024-11-15,47,ADJ013,3.7,Approved,Sudden death;Autopsy required,0.45,TRUE
+CLM046,Health,2400,2024-09-30,2024-10-08,8,ADJ011,4.4,Approved,Prescription adjustment;Doctor approval,0.12,FALSE
+CLM047,Property,16700,2024-10-01,2024-10-25,24,ADJ005,3.5,Approved,Tree damage;Storm-related,0.28,FALSE
+CLM048,Auto,8800,2024-10-02,2024-10-18,16,ADJ001,3.9,Approved,Intersection accident;Traffic cam footage,0.32,FALSE
+CLM049,Health,7300,2024-10-03,2024-10-22,19,ADJ009,3.4,Approved,Surgical follow-up;Complications,0.42,FALSE
+CLM050,Property,38900,2024-10-04,2024-11-12,39,ADJ008,2.9,Approved,Flood damage;FEMA coordination,0.58,TRUE

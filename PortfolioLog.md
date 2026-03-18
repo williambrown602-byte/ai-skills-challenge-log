@@ -423,3 +423,28 @@ Build an intelligent product catalog optimization system that automatically enri
 - Quality scoring system for existing product listings
 
 ---
+# Daily AI Challenge – March 18, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an automated claims triage and workload optimization system for an insurance company to reduce claim processing time from 12 days to under 7 days while improving adjuster utilization and customer satisfaction through intelligent case routing.
+
+## Skills Trained
+- Multi-criteria decision algorithms
+- Predictive modeling for operational forecasting
+- Insurance industry process knowledge
+- Workload balancing and capacity planning
+- Performance analytics and KPI development
+
+## Deliverables
+- Automated claims triage system with priority scoring
+- Intelligent workload distribution recommendations
+- Processing time prediction model
+- Real-time adjuster utilization dashboard
+- Customer satisfaction improvement action plan
+
+---
