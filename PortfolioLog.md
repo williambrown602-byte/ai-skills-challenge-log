@@ -448,3 +448,28 @@ Build an automated claims triage and workload optimization system for an insuran
 - Customer satisfaction improvement action plan
 
 ---
+# Daily AI Challenge – March 19, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent support knowledge optimization system that analyzes support ticket conversations to identify recurring issues, missing documentation, and opportunities for proactive customer education to reduce ticket volume by 35%.
+
+## Skills Trained
+- Natural language processing and conversation analysis
+- Content strategy and knowledge management optimization
+- Customer support analytics and operational efficiency
+- Workflow automation and business process integration
+- Support cost modeling and ROI calculation
+
+## Deliverables
+- Support conversation topic clustering with frequency and resolution difficulty scoring
+- Knowledge gap analysis identifying top 15 missing content opportunities
+- Automated content brief generator for technical writing team
+- Self-service opportunity assessment with projected ticket reduction impact
+- ROI calculator showing potential support cost savings from knowledge optimization
+
+---

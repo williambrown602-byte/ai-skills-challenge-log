@@ -1,0 +1,16 @@
+article_id,title,category,subcategory,views_last_30_days,helpfulness_score,last_updated,word_count,search_ranking,bounce_rate,time_on_page_seconds,linked_tickets
+KB-001,Getting Started with API Authentication,Technical,API Integration,1245,4.2,2024-08-15,850,2,0.35,180,TKT-2024-001
+KB-002,Understanding Your Bill,Billing,Invoice Questions,892,3.1,2024-07-20,650,5,0.68,95,TKT-2024-002
+KB-003,Exporting Reports and Data,Product,Reporting,567,4.0,2024-09-01,420,8,0.42,145,TKT-2024-003
+KB-004,User Management Best Practices,Account,User Management,734,3.8,2024-08-30,780,4,0.38,165,TKT-2024-005
+KB-005,Dashboard Performance Optimization,Product,Dashboard,423,3.5,2024-06-15,550,12,0.52,120,TKT-2024-007
+KB-006,Mobile App Synchronization,Product,Mobile App,298,4.1,2024-08-25,380,15,0.41,135,TKT-2024-009
+KB-007,Subscription Plan Changes,Billing,Subscription Changes,645,3.9,2024-09-10,490,7,0.36,155,TKT-2024-011
+KB-008,Email Notification Settings,Product,Notifications,387,4.3,2024-09-05,340,11,0.28,142,TKT-2024-015
+KB-009,Password Reset Instructions,Account,Password Reset,1123,4.5,2024-09-12,280,1,0.22,89,TKT-2024-020
+KB-010,Browser Compatibility Guide,Technical,Browser Compatibility,245,3.4,2024-05-20,450,18,0.61,98,TKT-2024-021
+KB-011,Search Tips and Tricks,Product,Search Function,189,3.7,2024-07-10,320,20,0.55,110,TKT-2024-024
+KB-012,Team Permissions Setup,Account,Team Permissions,512,3.6,2024-08-05,670,9,0.47,150,TKT-2024-026
+KB-013,File Upload Troubleshooting,Technical,File Upload,356,3.2,2024-06-30,520,14,0.59,105,TKT-2024-027
+KB-014,Data Backup and Recovery,Product,Data Backup,445,4.0,2024-09-08,610,10,0.39,170,TKT-2024-030
+KB-015,API Rate Limiting Guide,Security,API Security,334,3.3,2024-07-25,590,16,0.54,125,TKT-2024-025
