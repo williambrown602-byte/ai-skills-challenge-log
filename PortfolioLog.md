@@ -473,3 +473,28 @@ Build an intelligent support knowledge optimization system that analyzes support
 - ROI calculator showing potential support cost savings from knowledge optimization
 
 ---
+# Daily AI Challenge – March 20, 2026
+
+**Domain:** HR
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent team performance analysis system that identifies key drivers of high-performing teams and generates actionable recommendations for optimizing team composition, management effectiveness, and organizational structure.
+
+## Skills Trained
+- People analytics and organizational psychology
+- Multi-variate statistical analysis for team dynamics
+- Strategic HR recommendations and business impact modeling
+- Data-driven leadership development and team optimization
+- Executive communication for sensitive organizational topics
+
+## Deliverables
+- Team Performance Diagnostic Report
+- High-Performance Team Blueprint
+- Manager Development Priority Matrix
+- Organizational Restructuring Recommendations
+- ROI projections for team optimization strategies
+
+---
