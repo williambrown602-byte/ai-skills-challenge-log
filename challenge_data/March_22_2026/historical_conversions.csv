@@ -1,0 +1,21 @@
+lead_id,company_name,industry,company_size,annual_revenue,final_score,converted,conversion_date,deal_value,sales_cycle_days,lost_reason
+H001,TechCorp Solutions,Technology,300,18000000,87,Yes,2023-11-15,125000,45,
+H002,SmallShop Retail,Retail,25,1200000,32,No,,,"Budget constraints"
+H003,MegaManufacturing,Manufacturing,2000,150000000,94,Yes,2023-12-03,450000,62,
+H004,StartupABC,Technology,8,300000,28,No,,,"Not ready"
+H005,HealthSystem West,Healthcare,800,55000000,91,Yes,2024-01-20,280000,38,
+H006,LocalBank Corp,Financial Services,450,25000000,78,Yes,2023-10-28,95000,52,
+H007,ConsultingFirm Beta,Professional Services,120,8500000,65,No,,,"Chose competitor"
+H008,EnergyGiant Inc,Energy,1500,200000000,96,Yes,2024-02-14,620000,71,
+H009,SchoolDistrict North,Education,200,6000000,58,No,,,"Timing issues"
+H010,InsuranceMega Corp,Insurance,900,68000000,89,Yes,2023-12-18,340000,55,
+H011,TinyBiz Services,Professional Services,15,800000,25,No,,,"Budget constraints"
+H012,PharmaTech Global,Pharmaceuticals,1100,85000000,92,Yes,2024-01-08,380000,49,
+H013,RetailGiant Plus,Retail,3200,250000000,98,Yes,2023-11-22,750000,68,
+H014,MidSizeManuf,Manufacturing,180,12000000,71,Yes,2024-02-05,85000,43,
+H015,TelcoRegional,Telecommunications,650,38000000,84,Yes,2023-12-10,195000,57,
+H016,StartupDEF,Technology,12,650000,31,No,,,"Not ready"
+H017,HospitalGroup South,Healthcare,1200,95000000,93,Yes,2024-01-25,425000,41,
+H018,FinanceCorpABC,Financial Services,280,16000000,76,Yes,2023-11-30,110000,48,
+H019,LocalGovCity,Government,180,4500000,42,No,,,"Budget approval issues"
+H020,LogisticsCorp,Transportation,420,22000000,81,Yes,2024-02-08,145000,53,

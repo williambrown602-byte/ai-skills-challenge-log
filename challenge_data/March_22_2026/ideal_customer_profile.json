@@ -1,0 +1,98 @@
+{
+  "company_size_ranges": {
+    "high_value": {
+      "min_employees": 200,
+      "min_annual_revenue": 10000000,
+      "score_multiplier": 1.0
+    },
+    "medium_value": {
+      "min_employees": 50,
+      "min_annual_revenue": 2000000,
+      "score_multiplier": 0.7
+    },
+    "low_value": {
+      "min_employees": 0,
+      "min_annual_revenue": 0,
+      "score_multiplier": 0.3
+    }
+  },
+  "industry_fit_scores": {
+    "Technology": 1.0,
+    "Healthcare": 0.9,
+    "Financial Services": 0.9,
+    "Manufacturing": 0.8,
+    "Insurance": 0.7,
+    "Energy": 0.7,
+    "Telecommunications": 0.8,
+    "Transportation": 0.6,
+    "Education": 0.5,
+    "Retail": 0.4,
+    "Professional Services": 0.5,
+    "Government": 0.3,
+    "Aerospace": 0.7,
+    "Pharmaceuticals": 0.8,
+    "Media & Entertainment": 0.4,
+    "Construction": 0.3,
+    "Automotive": 0.6,
+    "Non-Profit": 0.2,
+    "Food & Beverage": 0.3
+  },
+  "high_value_job_titles": [
+    "CTO",
+    "Chief Technology Officer",
+    "VP Technology",
+    "VP Engineering",
+    "Chief Innovation Officer",
+    "Chief Digital Officer",
+    "Chief Information Officer",
+    "CIO",
+    "SVP Digital Transformation",
+    "Director of Engineering"
+  ],
+  "medium_value_job_titles": [
+    "IT Manager",
+    "Director of Operations",
+    "VP Operations",
+    "IT Director",
+    "Operations Manager",
+    "Director IT"
+  ],
+  "lead_source_quality": {
+    "Referral": 1.0,
+    "Trade Show": 0.9,
+    "Website": 0.7,
+    "LinkedIn": 0.6,
+    "Cold Email": 0.3
+  },
+  "engagement_thresholds": {
+    "high_engagement": {
+      "website_visits": 15,
+      "email_opens": 10,
+      "email_clicks": 4,
+      "score_boost": 15
+    },
+    "medium_engagement": {
+      "website_visits": 8,
+      "email_opens": 5,
+      "email_clicks": 2,
+      "score_boost": 8
+    },
+    "low_engagement": {
+      "website_visits": 0,
+      "email_opens": 0,
+      "email_clicks": 0,
+      "score_boost": 0
+    }
+  },
+  "buying_signal_scores": {
+    "demo_requested": 20,
+    "budget_disclosed": 15,
+    "decision_timeline_q1": 15,
+    "decision_timeline_q2": 10,
+    "decision_timeline_q3": 5,
+    "decision_timeline_q4": 2,
+    "decision_timeline_unknown": -5,
+    "whitepaper_download": 3,
+    "webinar_attendance": 5
+  }
+}

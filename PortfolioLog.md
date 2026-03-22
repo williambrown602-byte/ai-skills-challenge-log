@@ -523,3 +523,28 @@ Build an intelligent meeting optimization system that analyzes calendar data and
 - Executive dashboard
 
 ---
+# Daily AI Challenge – March 22, 2026
+
+**Domain:** Sales & Marketing
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent lead scoring and prioritization system that automatically evaluates prospect data and generates personalized outreach recommendations to increase qualified lead conversion rates from 12% to 22%. The system transforms sales productivity by eliminating manual qualification work and ensuring reps focus on highest-probability prospects.
+
+## Skills Trained
+- Sales analytics and lead qualification modeling
+- Multi-criteria scoring algorithm development
+- Sales process automation and efficiency optimization
+- Revenue operations and pipeline management
+- B2B sales intelligence and conversion optimization
+
+## Deliverables
+- Automated lead scoring model with 0-100 qualification scores
+- Daily prioritized lead lists for each sales rep with top 10 prospects
+- Personalized outreach message templates based on prospect profile
+- Lead quality analytics showing score distribution and conversion predictions
+- Weekly sales pipeline health report with recommended focus areas
+
+---
