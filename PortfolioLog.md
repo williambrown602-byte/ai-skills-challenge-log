@@ -548,3 +548,28 @@ Build an intelligent lead scoring and prioritization system that automatically e
 - Weekly sales pipeline health report with recommended focus areas
 
 ---
+# Daily AI Challenge – March 23, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent project scope monitoring system that analyzes project communications and metrics to predict scope creep risk and generate proactive intervention recommendations. The system aims to protect consulting firm margins and improve client relationships through early detection and prevention.
+
+## Skills Trained
+- Advanced project analytics and risk prediction
+- Multi-source data integration and pattern recognition
+- Proactive business process automation
+- Professional services industry expertise
+- Client relationship management through data insights
+
+## Deliverables
+- Real-time scope creep risk dashboard with traffic light indicators
+- Automated weekly risk reports
+- Client communication templates for proactive scope discussions
+- Historical analysis showing scope creep patterns and prevention opportunities
+- ROI projection model demonstrating potential margin protection
+
+---

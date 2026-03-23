@@ -1,0 +1,11 @@
+request_id,project_id,request_date,requested_by,request_type,description,estimated_hours,estimated_cost,status,impact_assessment,approved_date
+CR001,PRJ001,2026-03-02,john.client@acmecorp.com,Feature Addition,User authentication system,40,8000,Approved,Medium scope change,2026-03-03
+CR002,PRJ001,2026-03-06,john.client@acmecorp.com,Enhancement,Mobile responsive design,50,10000,Under Review,Significant technical change,
+CR003,PRJ001,2026-03-09,john.client@acmecorp.com,Feature Addition,Audit logging capability,30,6000,Pending,Additional security requirements,
+CR004,PRJ002,2026-02-16,mary.stakeholder@retailco.com,Major Addition,Inventory management module,80,16000,Approved,Major scope expansion,2026-02-18
+CR005,PRJ002,2026-02-22,mary.stakeholder@retailco.com,Integration,Multiple payment processors,35,7000,Approved,Technical complexity increase,2026-02-23
+CR006,PRJ003,2026-03-11,bob.ceo@startup.com,Feature Addition,Social media integration,60,12000,Under Review,Platform architecture impact,
+CR007,PRJ003,2026-03-13,bob.ceo@startup.com,Integration,Third-party API connections,40,8000,Pending,Integration complexity,
+CR008,PRJ004,2026-03-09,janet.director@healthcare.com,Compliance,HIPAA compliance features,120,24000,Approved,Critical requirement,2026-03-09
+CR009,PRJ005,2026-03-01,tom.manager@logistics.com,Enhancement,Real-time tracking system,90,18000,Approved,Architecture change required,2026-03-02
+CR010,PRJ006,2026-03-16,karen.vp@manufacturing.com,Major Addition,Supplier management system,100,20000,Under Review,Significant scope expansion,

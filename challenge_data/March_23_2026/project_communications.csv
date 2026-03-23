@@ -1,0 +1,16 @@
+project_id,date,communication_type,sender,recipient,subject,content_snippet,sentiment_score,urgency_level,scope_keywords_count
+PRJ001,2026-03-01,email,john.client@acmecorp.com,sarah.pm@consultingfirm.com,Quick addition to requirements,"Hey Sarah, just thought of one more feature we should add to the dashboard. It's pretty simple...",0.6,medium,3
+PRJ001,2026-03-03,slack,sarah.pm@consultingfirm.com,dev-team,Client request update,"Client wants to add user authentication. This wasn't in original scope but they're asking nicely.",0.4,high,2
+PRJ001,2026-03-05,meeting_notes,sarah.pm@consultingfirm.com,team,"Weekly standup - Mar 5","Client mentioned wanting mobile responsiveness. Team estimates 40+ hours additional work.",0.3,high,4
+PRJ002,2026-02-15,email,mary.stakeholder@retailco.com,mike.lead@consultingfirm.com,Expanding project scope,"We've been thinking about adding inventory management to the original POS system project.",0.7,medium,5
+PRJ002,2026-02-20,slack,mike.lead@consultingfirm.com,sarah.pm@consultingfirm.com,RetailCo concerns,"Client seems unhappy with current progress. Asking for more features than originally discussed.",0.2,high,3
+PRJ003,2026-03-10,email,bob.ceo@startup.com,alex.consultant@consultingfirm.com,Additional requirements,"Love what we're seeing! Can we also include social media integration and API connections?",0.8,low,6
+PRJ003,2026-03-12,meeting_notes,alex.consultant@consultingfirm.com,team,Client feedback session,"Client very excited but keeps adding 'small' requests. Social media integration alone is 2+ weeks work.",0.4,medium,4
+PRJ004,2026-03-08,email,janet.director@healthcare.com,lisa.pm@consultingfirm.com,Compliance requirements,"Just realized we need HIPAA compliance features. This should have been mentioned earlier but it's critical.",0.3,high,2
+PRJ004,2026-03-11,slack,lisa.pm@consultingfirm.com,compliance-team,URGENT - HIPAA requirements,"Client just dropped HIPAA compliance bomb. This changes everything about data handling.",0.1,critical,3
+PRJ005,2026-02-28,email,tom.manager@logistics.com,david.analyst@consultingfirm.com,Small tweak needed,"Can we adjust the reporting module to include real-time tracking? Shouldn't be too complex.",0.6,medium,2
+PRJ005,2026-03-07,meeting_notes,david.analyst@consultingfirm.com,team,Client requirements review,"Real-time tracking requires complete architecture change. Client doesn't understand complexity.",0.3,high,5
+PRJ006,2026-03-15,email,karen.vp@manufacturing.com,steve.senior@consultingfirm.com,Vision expansion,"The board loves the initial concept. They want to expand to include supplier management too.",0.8,medium,4
+PRJ001,2026-03-08,email,john.client@acmecorp.com,sarah.pm@consultingfirm.com,Another small request,"Hi again, our legal team says we need audit logging. This should be straightforward to add, right?",0.5,medium,3
+PRJ002,2026-02-25,slack,retailco-team,mike.lead@consultingfirm.com,Integration concerns,"The POS needs to integrate with 3 different payment processors now, not just one as originally planned.",0.4,high,4
+PRJ003,2026-03-18,email,bob.ceo@startup.com,alex.consultant@consultingfirm.com,Investor feedback,"Investors saw the demo and suggested adding AI-powered recommendations. This could be game-changing!",0.9,low,5

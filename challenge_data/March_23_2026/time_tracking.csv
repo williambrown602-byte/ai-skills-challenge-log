@@ -1,0 +1,21 @@
+project_id,task_category,planned_hours,actual_hours,week_ending,team_member,task_description,variance_percentage
+PRJ001,Frontend Development,40,52,2026-03-07,dev1@consultingfirm.com,Dashboard UI implementation,30.0
+PRJ001,Backend API,30,28,2026-03-07,dev2@consultingfirm.com,Core API development,-6.7
+PRJ001,Authentication,0,18,2026-03-14,dev1@consultingfirm.com,User login system - unplanned,100.0
+PRJ001,Mobile Responsive,0,25,2026-03-14,dev3@consultingfirm.com,Mobile optimization - client request,100.0
+PRJ001,Project Management,8,15,2026-03-14,sarah.pm@consultingfirm.com,Scope change discussions,87.5
+PRJ002,POS Core Features,60,58,2026-02-21,dev4@consultingfirm.com,Point of sale functionality,-3.3
+PRJ002,Inventory Module,0,35,2026-02-28,dev5@consultingfirm.com,Unplanned inventory management,100.0
+PRJ002,Payment Integration,20,45,2026-03-07,dev4@consultingfirm.com,Multiple payment processors,125.0
+PRJ002,Client Management,12,28,2026-03-07,mike.lead@consultingfirm.com,Additional scope discussions,133.3
+PRJ003,Core Platform,45,42,2026-03-14,dev6@consultingfirm.com,Main platform development,-6.7
+PRJ003,Social Media Integration,0,32,2026-03-21,dev7@consultingfirm.com,Social media features - new request,100.0
+PRJ003,API Connections,0,24,2026-03-21,dev6@consultingfirm.com,Third-party API integration,100.0
+PRJ004,Basic EHR System,80,75,2026-03-14,dev8@consultingfirm.com,Electronic health records,-6.3
+PRJ004,HIPAA Compliance,0,48,2026-03-21,compliance-team@consultingfirm.com,Compliance features - urgent add,100.0
+PRJ004,Security Audit,0,20,2026-03-21,security@consultingfirm.com,Security assessment for compliance,100.0
+PRJ005,Standard Reporting,35,32,2026-03-14,analyst1@consultingfirm.com,Basic reporting module,-8.6
+PRJ005,Real-time Tracking,0,56,2026-03-21,dev9@consultingfirm.com,Live tracking system architecture,100.0
+PRJ005,Database Redesign,0,28,2026-03-21,dba@consultingfirm.com,DB changes for real-time features,100.0
+PRJ006,Core System,50,48,2026-03-21,dev10@consultingfirm.com,Manufacturing system basics,-4.0
+PRJ006,Supplier Module,0,15,2026-03-21,analyst2@consultingfirm.com,Supplier management planning,100.0

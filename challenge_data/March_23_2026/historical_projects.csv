@@ -1,0 +1,13 @@
+project_id,client_name,start_date,end_date,original_budget,final_budget,scope_creep_occurred,creep_severity,early_warning_signals,final_margin_impact
+PRJ_H001,TechCorp Solutions,2025-08-01,2025-11-15,50000,72000,Yes,High,Client enthusiasm + frequent additions,44.0
+PRJ_H002,Local Retailer,2025-09-15,2025-12-20,30000,31500,No,None,Clear requirements + firm boundaries,5.0
+PRJ_H003,HealthSystem Inc,2025-10-01,2026-01-30,65000,98000,Yes,Critical,Compliance requirements emerged,50.7
+PRJ_H004,StartupCo,2025-07-01,2025-10-15,25000,45000,Yes,High,Investor pressure + feature requests,80.0
+PRJ_H005,Manufacturing LLC,2025-11-01,2026-02-28,40000,42000,No,Low,Well-defined scope + experienced PM,5.0
+PRJ_H006,ConsumerBrand,2025-06-01,2025-09-30,35000,58000,Yes,High,Marketing team involvement + creative changes,65.7
+PRJ_H007,LogisticsPro,2025-12-01,2026-03-15,55000,57500,No,Low,Technical team + clear specifications,4.5
+PRJ_H008,RetailChain,2025-05-01,2025-08-30,80000,125000,Yes,Critical,Multiple stakeholders + changing requirements,56.3
+PRJ_H009,FinanceGroup,2025-09-01,2025-12-15,45000,46800,No,None,Regulatory clarity + experienced client,4.0
+PRJ_H010,MediaCompany,2025-04-01,2025-08-15,60000,89000,Yes,High,Creative vision changes + platform additions,48.3
+PRJ_H011,EducationOrg,2025-10-15,2026-01-15,30000,28500,No,None,Fixed budget + clear deliverables,-5.0
+PRJ_H012,EcommerceCo,2025-08-15,2025-12-01,70000,102000,Yes,High,Feature creep + integration complexity,45.7
