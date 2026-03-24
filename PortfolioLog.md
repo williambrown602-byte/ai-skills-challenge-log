@@ -573,3 +573,28 @@ Build an intelligent project scope monitoring system that analyzes project commu
 - ROI projection model demonstrating potential margin protection
 
 ---
+# Daily AI Challenge – March 24, 2026
+
+**Domain:** HR
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent employee retention prediction system that identifies flight risk employees 60-90 days before they resign and generates targeted intervention recommendations to reduce voluntary turnover from 18% to under 12%.
+
+## Skills Trained
+- People analytics and predictive HR modeling
+- Multi-factor risk assessment and scoring algorithms
+- Change management and intervention strategy design
+- HR technology and employee lifecycle optimization
+- Strategic workforce planning and retention economics
+
+## Deliverables
+- Flight risk dashboard showing top 25 at-risk employees with risk scores
+- Manager action plans with specific retention interventions for each at-risk employee
+- Compensation gap analysis identifying underpaid high performers
+- Departmental retention health scorecard with trend analysis
+- ROI calculator showing cost savings from improved retention rates
+
+---

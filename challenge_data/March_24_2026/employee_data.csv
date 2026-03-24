@@ -1,0 +1,31 @@
+employee_id,name,department,role,hire_date,manager_id,salary,last_promotion_date,tenure_months
+E001,Sarah Chen,Engineering,Senior Software Engineer,2022-01-15,M101,95000,2023-06-01,26
+E002,Marcus Johnson,Sales,Account Executive,2021-08-20,M201,78000,2022-11-15,31
+E003,Elena Rodriguez,Marketing,Digital Marketing Manager,2023-03-10,M301,72000,,12
+E004,David Kim,Engineering,Principal Engineer,2020-05-12,M101,125000,2023-01-20,45
+E005,Jessica Taylor,Operations,Operations Coordinator,2022-09-08,M401,55000,,17
+E006,Robert Wilson,Sales,Sales Director,2019-11-03,M201,110000,2022-08-10,52
+E007,Amanda Foster,Engineering,Software Engineer,2023-01-25,M101,82000,,14
+E008,Carlos Martinez,Marketing,Content Specialist,2021-12-14,M301,58000,2023-04-01,27
+E009,Lisa Zhang,Engineering,Senior DevOps Engineer,2021-04-18,M101,98000,2022-12-05,35
+E010,Michael Brown,Operations,Process Manager,2020-09-22,M401,85000,2023-02-15,41
+E011,Jennifer Lee,Sales,Account Manager,2022-06-30,M201,68000,,21
+E012,Thomas Anderson,Engineering,Tech Lead,2019-03-15,M101,115000,2022-05-20,60
+E013,Rachel Green,Marketing,Brand Manager,2022-02-28,M301,74000,2023-09-12,25
+E014,Kevin O'Connor,Operations,Supply Chain Analyst,2023-05-15,M401,62000,,10
+E015,Priya Patel,Engineering,Data Scientist,2021-10-05,M101,92000,2023-07-01,29
+E016,James Wright,Sales,Business Development,2020-12-08,M201,71000,2022-10-30,39
+E017,Maria Gonzalez,Marketing,Marketing Coordinator,2023-04-12,M301,52000,,11
+E018,Daniel Lee,Engineering,DevOps Engineer,2022-11-20,M101,88000,,16
+E019,Ashley Davis,Operations,HR Generalist,2021-07-14,M401,64000,2023-01-10,32
+E020,Brandon Miller,Sales,Inside Sales Rep,2023-02-06,M201,59000,,13
+E021,Nicole Thompson,Engineering,QA Engineer,2021-01-12,M101,76000,2022-07-25,38
+E022,Ryan Clark,Marketing,Growth Marketing Lead,2020-08-30,M301,89000,2022-12-20,43
+E023,Stephanie Wong,Operations,Office Manager,2022-04-18,M401,58000,,23
+E024,Jonathan Harris,Engineering,Frontend Developer,2022-12-05,M101,84000,,15
+E025,Lauren Adams,Sales,Customer Success Manager,2021-05-25,M201,73000,2023-03-15,34
+E026,Gregory Moore,Engineering,Backend Developer,2023-06-01,M101,86000,,9
+E027,Melissa Turner,Marketing,SEO Specialist,2022-08-14,M301,61000,,19
+E028,Christopher Hall,Operations,Finance Analyst,2021-11-30,M401,69000,2023-05-08,28
+E029,Samantha White,Engineering,Mobile Developer,2020-10-25,M101,91000,2022-09-14,42
+E030,Andrew Jackson,Sales,Regional Sales Manager,2019-07-18,M201,96000,2021-12-03,56
