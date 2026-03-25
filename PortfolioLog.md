@@ -598,3 +598,28 @@ Build an intelligent employee retention prediction system that identifies flight
 - ROI calculator showing cost savings from improved retention rates
 
 ---
+# Daily AI Challenge – March 25, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent resource allocation optimization system that analyzes consultant skills, availability, project requirements, and historical performance to generate optimal team compositions and predict project success probability. Reduce resource planning time by 70% while improving project margin predictability.
+
+## Skills Trained
+- Multi-constraint optimization and operations research
+- Resource planning and capacity management analytics
+- Consulting industry business intelligence
+- Predictive modeling for project success
+- Executive decision support system design
+
+## Deliverables
+- Optimal team recommendations for all open projects with success probability scores
+- Resource utilization optimization showing improved consultant allocation
+- Risk-adjusted margin predictions for each proposed team composition
+- Consultant development recommendations identifying skill gaps and growth opportunities
+- Executive summary quantifying potential improvement in project outcomes
+
+---

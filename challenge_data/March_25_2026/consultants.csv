@@ -1,0 +1,51 @@
+consultant_id,name,seniority_level,hourly_rate,years_experience,specialty_1,specialty_2,specialty_3,current_utilization,availability_hours_week,performance_rating,client_feedback_score,location
+C001,Sarah Johnson,Senior Partner,450,12,Strategy,Digital Transformation,Change Management,0.75,30,4.8,9.2,New York
+C002,Michael Chen,Principal,380,9,Operations,Supply Chain,Analytics,0.85,35,4.6,8.9,Chicago
+C003,Emily Rodriguez,Senior Manager,280,7,Technology,Cloud Migration,Cybersecurity,0.70,40,4.7,9.1,San Francisco
+C004,David Thompson,Manager,220,5,Finance,Risk Management,Compliance,0.60,40,4.4,8.5,New York
+C005,Lisa Wang,Senior Consultant,180,4,Marketing,Customer Experience,Digital Marketing,0.80,40,4.5,8.7,Los Angeles
+C006,Robert Kim,Senior Partner,480,15,Strategy,M&A,Corporate Finance,0.90,25,4.9,9.5,New York
+C007,Jennifer Martinez,Principal,360,8,HR,Organizational Design,Leadership Development,0.65,35,4.6,8.8,Chicago
+C008,Thomas Anderson,Manager,240,6,Technology,Data Analytics,AI/ML,0.75,40,4.3,8.4,San Francisco
+C009,Amanda Foster,Senior Manager,290,8,Operations,Process Improvement,Lean Six Sigma,0.55,40,4.8,9.3,Boston
+C010,James Wilson,Senior Consultant,170,3,Finance,Financial Planning,Budgeting,0.70,40,4.2,8.1,New York
+C011,Maria Garcia,Principal,370,10,Strategy,International Business,Market Entry,0.80,35,4.7,9.0,Miami
+C012,Kevin Brown,Manager,230,5,Technology,ERP Implementation,System Integration,0.65,40,4.4,8.6,Chicago
+C013,Rachel Green,Senior Manager,270,7,Marketing,Brand Strategy,Market Research,0.85,40,4.5,8.8,Los Angeles
+C014,Daniel Lee,Senior Consultant,190,4,Operations,Quality Management,Manufacturing,0.60,40,4.6,8.9,Detroit
+C015,Nicole Taylor,Senior Partner,460,13,HR,Executive Coaching,Talent Management,0.70,30,4.8,9.4,Boston
+C016,Christopher Davis,Manager,250,6,Finance,Investment Analysis,Portfolio Management,0.75,40,4.3,8.3,New York
+C017,Stephanie Miller,Senior Consultant,185,3,Technology,Web Development,Mobile Apps,0.90,40,4.1,7.9,San Francisco
+C018,Mark Johnson,Principal,390,11,Strategy,Innovation,Product Development,0.80,35,4.7,9.1,Seattle
+C019,Laura Wilson,Senior Manager,275,7,Operations,Supply Chain,Logistics,0.65,40,4.6,8.7,Atlanta
+C020,Brian Clark,Manager,235,5,Marketing,Social Media,Content Strategy,0.70,40,4.2,8.2,Los Angeles
+C021,Jessica Moore,Senior Consultant,175,3,Finance,Accounting,Tax Strategy,0.85,40,4.4,8.5,Chicago
+C022,Andrew Taylor,Senior Partner,470,14,Technology,Enterprise Architecture,Digital Strategy,0.75,30,4.9,9.6,San Francisco
+C023,Michelle Lewis,Principal,375,9,HR,Compensation,Benefits,0.60,35,4.5,8.6,New York
+C024,Ryan Martinez,Manager,245,6,Operations,Project Management,Agile,0.80,40,4.4,8.4,Denver
+C025,Samantha Brown,Senior Manager,285,8,Strategy,Competitive Analysis,Business Development,0.70,40,4.7,9.2,Boston
+C026,Jonathan White,Senior Consultant,195,4,Technology,Database Management,Business Intelligence,0.65,40,4.3,8.1,Chicago
+C027,Melissa Johnson,Manager,225,5,Marketing,Public Relations,Communications,0.75,40,4.5,8.7,Washington DC
+C028,Adam Wilson,Principal,385,10,Finance,Corporate Development,Strategic Planning,0.85,35,4.6,8.9,New York
+C029,Christina Garcia,Senior Manager,280,7,Operations,Change Management,Training,0.60,40,4.8,9.1,Phoenix
+C030,Matthew Davis,Senior Consultant,180,3,Technology,Network Security,Infrastructure,0.90,40,4.2,8.0,San Francisco
+C031,Angela Rodriguez,Senior Partner,455,12,Strategy,Turnaround,Restructuring,0.80,30,4.8,9.3,Chicago
+C032,Scott Thompson,Manager,240,6,HR,Recruitment,Performance Management,0.70,40,4.4,8.5,Boston
+C033,Kelly Chen,Senior Consultant,185,4,Marketing,E-commerce,Digital Analytics,0.75,40,4.3,8.3,Los Angeles
+C034,Gregory Miller,Principal,365,9,Operations,Continuous Improvement,Operational Excellence,0.65,35,4.6,8.8,Detroit
+C035,Heather Moore,Senior Manager,275,7,Finance,Mergers & Acquisitions,Due Diligence,0.85,40,4.5,8.6,New York
+C036,Justin Taylor,Manager,230,5,Technology,Software Development,API Integration,0.80,40,4.2,8.2,Seattle
+C037,Kimberly Lewis,Senior Consultant,190,3,Strategy,Market Analysis,Competitive Intelligence,0.70,40,4.4,8.4,Miami
+C038,Alexander Martinez,Senior Partner,475,15,Operations,Supply Chain Optimization,Procurement,0.75,25,4.9,9.5,Chicago
+C039,Victoria Brown,Principal,380,11,HR,Culture Transformation,Employee Engagement,0.60,35,4.7,9.0,San Francisco
+C040,Brandon White,Manager,235,6,Marketing,Growth Hacking,Customer Acquisition,0.85,40,4.3,8.1,Austin
+C041,Natalie Johnson,Senior Manager,270,8,Technology,Cloud Computing,DevOps,0.65,40,4.6,8.9,Seattle
+C042,Eric Wilson,Senior Consultant,175,3,Finance,Cost Management,Financial Modeling,0.90,40,4.1,7.8,Boston
+C043,Allison Garcia,Manager,250,5,Operations,Vendor Management,Contract Negotiation,0.70,40,4.5,8.7,Denver
+C044,Tyler Davis,Principal,370,10,Strategy,Digital Disruption,Business Model Innovation,0.80,35,4.7,9.2,San Francisco
+C045,Rebecca Rodriguez,Senior Manager,285,7,HR,Diversity & Inclusion,Leadership Training,0.75,40,4.6,8.8,Washington DC
+C046,Jordan Thompson,Senior Consultant,195,4,Technology,Data Visualization,Reporting,0.65,40,4.4,8.5,Chicago
+C047,Megan Chen,Manager,225,5,Marketing,Influencer Marketing,Partnership Development,0.80,40,4.2,8.0,Los Angeles
+C048,Nathan Miller,Senior Partner,465,13,Finance,Private Equity,Venture Capital,0.85,30,4.8,9.4,New York
+C049,Ashley Moore,Principal,375,9,Operations,Business Process Re-engineering,Automation,0.70,35,4.5,8.6,Atlanta
+C050,Connor Taylor,Senior Manager,280,6,Technology,Artificial Intelligence,Machine Learning,0.75,40,4.7,9.1,San Francisco
