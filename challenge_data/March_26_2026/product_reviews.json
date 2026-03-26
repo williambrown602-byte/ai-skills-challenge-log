@@ -1,0 +1,57 @@
+[
+  {
+    "review_id": "REV-001",
+    "customer_id": "CUST-005",
+    "date": "2024-03-10",
+    "rating": 3,
+    "platform": "g2_crowd",
+    "title": "Good features but reliability issues",
+    "review_text": "We've been using this platform for 8 months now. The core functionality is solid and our team likes the user interface. However, we've experienced frequent downtime and the mobile app is buggy. Customer support is responsive but we shouldn't need to contact them so often. For the price we're paying, we expected better stability.",
+    "pros": ["User-friendly interface", "Good customer support", "Comprehensive feature set"],
+    "cons": ["Frequent downtime", "Mobile app bugs", "High support ticket volume needed"]
+  },
+  {
+    "review_id": "REV-002", 
+    "customer_id": "CUST-034",
+    "date": "2024-03-12",
+    "rating": 5,
+    "platform": "capterra",
+    "title": "Excellent platform for growing teams",
+    "review_text": "This has been a game-changer for our organization. The reporting capabilities are outstanding and the integration options cover all our needs. Implementation was smooth with great support from their team. We've seen a 40% improvement in our workflow efficiency since adopting this solution.",
+    "pros": ["Excellent reporting", "Smooth integrations", "Great implementation support", "Improved efficiency"],
+    "cons": ["Learning curve for advanced features"]
+  },
+  {
+    "review_id": "REV-003",
+    "customer_id": "CUST-019",
+    "date": "2024-03-14",
+    "rating": 2,
+    "platform": "trustpilot",
+    "title": "Disappointed with recent updates",
+    "review_text": "We were happy customers for over a year but recent updates have broken several key features we rely on. The new UI is confusing and our team productivity has actually decreased. Support says they're working on fixes but it's been weeks with no resolution. Considering switching to a competitor.",
+    "pros": ["Was good before recent changes"],
+    "cons": ["Broken features after updates", "Confusing new UI", "Slow bug fixes", "Decreased productivity"]
+  },
+  {
+    "review_id": "REV-004",
+    "customer_id": "CUST-067",
+    "date": "2024-03-16",
+    "rating": 4,
+    "platform": "software_advice",
+    "title": "Solid choice with room for improvement",
+    "review_text": "Overall we're satisfied with this platform. It handles our basic needs well and the customer service team is knowledgeable. The pricing is competitive for what you get. Main areas for improvement would be better customization options and faster performance during peak usage times.",
+    "pros": ["Meets basic needs", "Good customer service", "Competitive pricing"],
+    "cons": ["Limited customization", "Slow during peak times"]
+  },
+  {
+    "review_id": "REV-005",
+    "customer_id": "CUST-023",
+    "date": "2024-03-18",
+    "rating": 5,
+    "platform": "g2_crowd",
+    "title": "Best investment we've made",
+    "review_text": "Cannot recommend this highly enough! The platform has transformed how we manage our customer relationships. The automation features save us hours every week and the insights have helped us increase our close rate by 25%. Support team is fantastic and always goes above and beyond.",
+    "pros": ["Great automation", "Valuable insights", "Time savings", "Excellent support", "Increased sales"],
+    "cons": ["Initial setup takes time"]
+  }
+]

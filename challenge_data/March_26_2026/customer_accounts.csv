@@ -1,0 +1,17 @@
+customer_id,company_name,plan_type,monthly_revenue,signup_date,last_login,industry,company_size,contract_end_date,health_score
+CUST-001,TechFlow Solutions,Enterprise,2400,2022-08-15,2024-03-23,Technology,150,2024-08-15,85
+CUST-003,DataCorp Analytics,Professional,899,2023-01-22,2024-03-24,Analytics,45,2024-01-22,72
+CUST-005,MobileFirst Inc,Professional,899,2023-07-10,2024-03-22,Mobile Development,38,2024-07-10,68
+CUST-007,Enterprise Systems,Enterprise,3200,2022-11-03,2024-03-21,Consulting,280,2024-11-03,61
+CUST-009,GrowthHackers Co,Business,1299,2023-02-18,2024-03-23,Marketing,75,2024-02-18,78
+CUST-012,ScaleUp Ventures,Business,1299,2023-04-07,2024-03-24,Investment,52,2024-04-07,82
+CUST-018,SalesForce Pro,Enterprise,4800,2022-06-12,2024-03-20,Sales Software,420,2024-06-12,58
+CUST-019,InnovateTech,Professional,899,2022-12-05,2024-03-15,Technology,67,2024-12-05,45
+CUST-023,CustomerFirst Ltd,Business,1299,2023-03-25,2024-03-24,Customer Service,89,2024-03-25,91
+CUST-024,ReportingPro,Enterprise,2400,2023-05-14,2024-03-22,Business Intelligence,125,2024-05-14,55
+CUST-031,APIIntegrators,Professional,899,2023-08-30,2024-03-23,Integration Services,34,2024-08-30,74
+CUST-034,WorkflowExperts,Business,1299,2023-06-18,2024-03-24,Process Automation,95,2024-06-18,88
+CUST-045,StartupStars,Starter,299,2024-01-15,2024-03-24,Startup Incubator,12,2024-07-15,92
+CUST-052,RenewalSoft,Enterprise,3200,2022-09-22,2024-03-20,Software Development,195,2024-09-22,79
+CUST-067,FeatureFocus,Professional,899,2023-10-08,2024-03-23,Product Management,56,2024-10-08,86
+CUST-078,BillingSimple,Business,1299,2023-11-12,2024-03-22,Financial Services,78,2024-11-12,83
