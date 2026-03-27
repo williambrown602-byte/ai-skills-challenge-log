@@ -648,3 +648,28 @@ Build an intelligent customer feedback analysis system that automatically proces
 - Executive dashboard showing customer satisfaction trends and intervention priorities
 
 ---
+# Daily AI Challenge – March 27, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent project estimation system that analyzes historical project data to generate accurate time and resource estimates for new engagements while identifying key factors that drive estimation accuracy versus overruns.
+
+## Skills Trained
+- Predictive modeling and statistical analysis
+- Consulting industry business intelligence
+- Risk assessment and probability modeling
+- Project management analytics
+- Executive decision support tool development
+
+## Deliverables
+- Dynamic project estimation calculator with 80%+ accuracy
+- Risk-adjusted time estimates with confidence intervals
+- Historical estimation accuracy analysis
+- Team composition recommendations
+- Partner-ready estimation improvement strategy with projected margin impact
+
+---
