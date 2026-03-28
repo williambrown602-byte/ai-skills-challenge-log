@@ -1,0 +1,21 @@
+Asset_ID,Asset_Type,Brand,Model,Serial_Number,Purchase_Date,Purchase_Price,Warranty_End_Date,Status,Location,Assigned_Employee_ID,CPU,RAM_GB,Storage_GB,OS,Last_Maintenance_Date,Next_Maintenance_Due,Depreciation_Years,Current_Value
+LAP001,Laptop,Dell,Latitude 7420,DL7420001,2021-03-15,1299.99,2024-03-15,Active,New York Office,EMP001,Intel i7-1185G7,16,512,Windows 11 Pro,2023-11-15,2024-05-15,3,649.95
+LAP002,Laptop,Apple,MacBook Pro 13,MBA13002,2022-01-20,1999.99,2025-01-20,Active,Remote,EMP002,Apple M1,16,512,macOS Monterey,2023-12-01,2024-06-01,3,1333.33
+LAP003,Laptop,Lenovo,ThinkPad X1,TPX1003,2020-08-10,1599.99,2023-08-10,Needs Replacement,Chicago Office,EMP003,Intel i7-10610U,16,256,Windows 10 Pro,2023-08-15,2024-02-15,4,399.98
+DES001,Desktop,HP,EliteDesk 800,HPE800001,2021-06-01,899.99,2024-06-01,Active,New York Office,EMP004,Intel i5-11500,8,256,Windows 11 Pro,2023-10-20,2024-04-20,5,539.99
+DES002,Desktop,Dell,OptiPlex 7090,DO7090002,2022-03-10,1099.99,2025-03-10,Active,Austin Office,EMP005,Intel i7-11700,16,512,Windows 11 Pro,2023-09-12,2024-03-12,5,733.33
+SRV001,Server,Dell,PowerEdge R750,DPR750001,2021-01-15,4999.99,2026-01-15,Active,Data Center NY,IT_TEAM,Intel Xeon Silver,64,2048,Windows Server 2019,2023-12-01,2024-06-01,7,3571.42
+SRV002,Server,HP,ProLiant DL380,HPD380002,2020-11-20,5499.99,2025-11-20,Active,Data Center NY,IT_TEAM,Intel Xeon Gold,128,4096,VMware ESXi 7.0,2023-11-20,2024-05-20,7,3142.85
+MOB001,Mobile,Apple,iPhone 13 Pro,IP13P001,2021-09-24,1099.99,2023-09-24,Expired Warranty,Remote,EMP006,A15 Bionic,6,256,iOS 15,2023-06-15,2024-12-15,2,549.99
+MOB002,Mobile,Samsung,Galaxy S22,SGS22002,2022-02-25,899.99,2024-02-25,Active,Remote,EMP007,Snapdragon 8 Gen 1,8,128,Android 12,2023-08-20,2024-02-20,2,449.99
+TAB001,Tablet,Apple,iPad Pro 11,IPP11001,2021-05-15,799.99,2023-05-15,Expired Warranty,Los Angeles Office,EMP008,Apple M1,8,128,iPadOS 14,2023-05-15,2024-11-15,2,399.99
+NET001,Network Equipment,Cisco,Catalyst 2960,CC2960001,2020-01-10,1299.99,2025-01-10,Active,New York Office,IT_TEAM,N/A,N/A,N/A,IOS,2023-07-01,2024-01-01,7,742.85
+NET002,Network Equipment,Ubiquiti,UniFi Dream Machine,UDM002,2021-07-20,599.99,2024-07-20,Active,Chicago Office,IT_TEAM,ARM Cortex-A57,2,N/A,UniFi OS,2023-09-15,2024-03-15,5,359.99
+PRT001,Printer,HP,LaserJet Pro 4301,HLP4301001,2022-04-12,349.99,2025-04-12,Active,New York Office,SHARED,N/A,N/A,N/A,Embedded,2023-10-01,2024-04-01,5,233.33
+PRT002,Printer,Canon,imageCLASS MF445dw,CIM445002,2021-02-28,399.99,2024-02-28,Active,Austin Office,SHARED,N/A,N/A,N/A,Embedded,2023-11-10,2024-05-10,5,239.99
+MON001,Monitor,Dell,UltraSharp U2720Q,DU2720001,2021-08-05,449.99,2024-08-05,Active,New York Office,EMP009,N/A,N/A,N/A,N/A,N/A,N/A,5,269.99
+MON002,Monitor,LG,27UK850-W,LG27UK002,2020-12-15,499.99,2023-12-15,Expired Warranty,Chicago Office,EMP010,N/A,N/A,N/A,N/A,N/A,N/A,5,199.99
+LAP004,Laptop,HP,EliteBook 850,HPE850004,2023-01-10,1399.99,2026-01-10,Active,Remote,EMP011,Intel i7-1265U,16,512,Windows 11 Pro,2023-07-15,2024-01-15,3,1166.66
+LAP005,Laptop,Apple,MacBook Air M2,MBA2005,2022-07-15,1199.99,2025-07-15,Active,Los Angeles Office,EMP012,Apple M2,8,256,macOS Ventura,2023-12-10,2024-06-10,3,799.99
+DES003,Desktop,Apple,Mac Studio,AMS003,2022-05-20,1999.99,2025-05-20,Active,Los Angeles Office,EMP013,Apple M1 Max,32,512,macOS Monterey,2023-08-25,2024-02-25,5,1333.33
+SRV003,Server,HPE,ProLiant ML350,HPML350003,2019-06-30,3999.99,2024-06-30,Maintenance Required,Data Center Austin,IT_TEAM,Intel Xeon Bronze,32,1024,Windows Server 2016,2023-06-30,2024-12-30,7,1714.28

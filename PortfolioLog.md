@@ -673,3 +673,28 @@ Build an intelligent project estimation system that analyzes historical project 
 - Partner-ready estimation improvement strategy with projected margin impact
 
 ---
+# Daily AI Challenge – March 28, 2026
+
+**Domain:** IT Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent IT asset lifecycle management system that transforms scattered asset data into a comprehensive tracking and optimization platform, reducing IT administrative overhead by 65% while improving compliance and cost control.
+
+## Skills Trained
+- IT asset management and lifecycle planning
+- Predictive analytics for operational forecasting
+- Compliance monitoring and risk assessment
+- Cost optimization and budget planning
+- Multi-system integration and workflow automation
+
+## Deliverables
+- Comprehensive asset health dashboard with lifecycle status indicators
+- Automated license renewal alerts with 60/30/7 day notifications
+- Equipment replacement planning recommendations with budget impact
+- Compliance audit report showing policy adherence and risk areas
+- Cost optimization analysis identifying underutilized assets and redundant licenses
+
+---
