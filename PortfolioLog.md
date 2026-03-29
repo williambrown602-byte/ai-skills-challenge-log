@@ -698,3 +698,28 @@ Build an intelligent IT asset lifecycle management system that transforms scatte
 - Cost optimization analysis identifying underutilized assets and redundant licenses
 
 ---
+# Daily AI Challenge – March 29, 2026
+
+**Domain:** Business Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Create an intelligent proposal optimization system that analyzes historical proposals to identify high-performing content patterns and generates data-driven proposal templates with success probability indicators. Transform ad-hoc proposal writing into a strategic, data-informed process that reduces development time while improving win rates.
+
+## Skills Trained
+- Document processing and text extraction
+- Content similarity analysis and pattern matching
+- Business intelligence for professional services
+- Predictive modeling for proposal success
+- Knowledge management system design
+
+## Deliverables
+- Smart proposal component library with performance ratings
+- Template generator producing optimized proposal outlines
+- Win probability predictor based on content analysis
+- Content recommendation engine for proposal sections
+- Partner dashboard showing proposal efficiency metrics
+
+---

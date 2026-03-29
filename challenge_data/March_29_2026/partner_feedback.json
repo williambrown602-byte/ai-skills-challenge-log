@@ -1,0 +1,185 @@
+{
+  "feedback_data": [
+    {
+      "proposal_id": "PROP001",
+      "partner_lead": "Sarah Chen",
+      "feedback_date": "2025-03-01",
+      "strengths": [
+        "Clear value proposition in executive summary",
+        "Strong team credentials section",
+        "Detailed implementation timeline",
+        "Compelling ROI analysis"
+      ],
+      "weaknesses": [
+        "Pricing could have been more competitive",
+        "Limited industry-specific examples"
+      ],
+      "client_feedback": "Appreciated the thoroughness and clear communication of benefits",
+      "lessons_learned": "Technology clients value detailed technical approach sections",
+      "reusable_components": ["executive_summary", "team_bios", "implementation_timeline"]
+    },
+    {
+      "proposal_id": "PROP003",
+      "partner_lead": "Jennifer Walsh",
+      "feedback_date": "2025-03-16",
+      "strengths": [
+        "Comprehensive needs analysis",
+        "Good project methodology"
+      ],
+      "weaknesses": [
+        "Pricing was 40% higher than winning bid",
+        "Executive summary was too generic",
+        "Lacked healthcare industry expertise demonstration",
+        "Timeline was unrealistic"
+      ],
+      "client_feedback": "Proposal felt templated and didn't address specific healthcare challenges",
+      "lessons_learned": "Healthcare proposals need strong regulatory compliance focus and industry-specific case studies",
+      "reusable_components": ["methodology_section"]
+    },
+    {
+      "proposal_id": "PROP006",
+      "partner_lead": "Amanda Foster",
+      "feedback_date": "2025-04-06",
+      "strengths": [
+        "Excellent financial services expertise demonstration",
+        "Strong risk management framework",
+        "Competitive pricing structure",
+        "Clear phased approach",
+        "Outstanding team qualifications"
+      ],
+      "weaknesses": [
+        "Could have included more automation recommendations"
+      ],
+      "client_feedback": "Winning proposal showed deep understanding of regulatory requirements",
+      "lessons_learned": "Financial services clients prioritize regulatory compliance and risk mitigation",
+      "reusable_components": ["risk_framework", "regulatory_approach", "team_qualifications", "phased_methodology"]
+    },
+    {
+      "proposal_id": "PROP008",
+      "partner_lead": "Jennifer Walsh",
+      "feedback_date": "2025-04-21",
+      "strengths": [
+        "Good customer journey mapping approach",
+        "Solid measurement framework"
+      ],
+      "weaknesses": [
+        "Generic retail examples",
+        "Overengineered solution for client needs",
+        "Poor cost-benefit analysis",
+        "Timeline too aggressive",
+        "Team composition didn't match requirements"
+      ],
+      "client_feedback": "Solution seemed too complex and expensive for our current maturity level",
+      "lessons_learned": "Right-size solutions to client maturity and avoid over-engineering",
+      "reusable_components": ["customer_journey_mapping", "measurement_framework"]
+    },
+    {
+      "proposal_id": "PROP011",
+      "partner_lead": "Amanda Foster",
+      "feedback_date": "2025-05-11",
+      "strengths": [
+        "Exceptional M&A experience showcase",
+        "Proven integration methodology",
+        "Strong change management approach",
+        "Competitive team rates",
+        "Clear success metrics"
+      ],
+      "weaknesses": [
+        "Could have provided more post-integration support options"
+      ],
+      "client_feedback": "Team's M&A experience was exactly what we needed for this complex integration",
+      "lessons_learned": "M&A clients value proven experience over innovative approaches",
+      "reusable_components": ["ma_methodology", "integration_framework", "change_management", "success_metrics"]
+    },
+    {
+      "proposal_id": "PROP013",
+      "partner_lead": "Jennifer Walsh",
+      "feedback_date": "2025-05-21",
+      "strengths": [
+        "Comprehensive risk assessment framework",
+        "Good regulatory knowledge"
+      ],
+      "weaknesses": [
+        "Pricing 25% above budget",
+        "Implementation timeline too long",
+        "Limited technology integration approach",
+        "Generic risk examples"
+      ],
+      "client_feedback": "Approach was solid but timeline and cost didn't fit our urgent needs",
+      "lessons_learned": "Risk management projects often have tight timelines due to regulatory pressures",
+      "reusable_components": ["risk_assessment_framework"]
+    },
+    {
+      "proposal_id": "PROP016",
+      "partner_lead": "Amanda Foster",
+      "feedback_date": "2025-06-11",
+      "strengths": [
+        "Strong ESG expertise",
+        "Clear reporting framework",
+        "Efficient implementation approach",
+        "Reasonable pricing",
+        "Good stakeholder engagement plan"
+      ],
+      "weaknesses": [
+        "Could have included more automation tools"
+      ],
+      "client_feedback": "Perfect balance of expertise and pragmatic implementation",
+      "lessons_learned": "ESG projects benefit from clear frameworks and stakeholder buy-in strategies",
+      "reusable_components": ["esg_framework", "reporting_templates", "stakeholder_engagement"]
+    },
+    {
+      "proposal_id": "PROP019",
+      "partner_lead": "David Kim",
+      "feedback_date": "2025-06-26",
+      "strengths": [
+        "Cutting-edge digital twin expertise",
+        "Strong technical team",
+        "Phased implementation reduces risk",
+        "Good ROI projections",
+        "Industry-specific use cases"
+      ],
+      "weaknesses": [
+        "Could have included more change management support"
+      ],
+      "client_feedback": "Technical expertise was impressive and implementation plan was realistic",
+      "lessons_learned": "Advanced technology projects need balance of technical excellence and change management",
+      "reusable_components": ["digital_twin_methodology", "technical_architecture", "roi_calculator", "phased_approach"]
+    },
+    {
+      "proposal_id": "PROP024",
+      "partner_lead": "David Kim",
+      "feedback_date": "2025-07-21",
+      "strengths": [
+        "Excellent AI strategy framework",
+        "Strong data governance approach",
+        "Realistic implementation roadmap",
+        "Good ethical AI considerations",
+        "Competitive pricing"
+      ],
+      "weaknesses": [
+        "Could have included more industry benchmarks"
+      ],
+      "client_feedback": "AI expertise was exactly what we needed with practical implementation focus",
+      "lessons_learned": "AI strategy clients value ethical considerations and data governance expertise",
+      "reusable_components": ["ai_strategy_framework", "data_governance", "ethical_ai_guidelines", "implementation_roadmap"]
+    },
+    {
+      "proposal_id": "PROP028",
+      "partner_lead": "Jennifer Walsh",
+      "feedback_date": "2025-08-11",
+      "strengths": [
+        "Comprehensive security assessment approach",
+        "Good technical methodology"
+      ],
+      "weaknesses": [
+        "Team lacked specific cybersecurity certifications",
+        "Assessment scope was too broad",
+        "Didn't address specific threat landscape",
+        "Premium pricing without clear justification"
+      ],
+      "client_feedback": "Needed more specialized cybersecurity expertise and focused approach",
+      "lessons_learned": "Cybersecurity projects require highly specialized team credentials and threat-specific approaches",
+      "reusable_components": ["security_assessment_methodology"]
+    }
+  ]
+}

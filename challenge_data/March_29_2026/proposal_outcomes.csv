@@ -1,0 +1,46 @@
+proposal_id,proposal_name,client_name,industry,proposal_type,outcome,deal_value,submission_date,decision_date,partner_lead,total_hours_spent
+PROP001,Digital Transformation Strategy,TechCorp Industries,Technology,Strategy Consulting,Won,450000,2025-01-15,2025-02-28,Sarah Chen,12
+PROP002,Supply Chain Optimization,Global Manufacturing Ltd,Manufacturing,Operations,Won,320000,2025-01-22,2025-03-10,Michael Roberts,10
+PROP003,HR Modernization Project,People First Inc,Healthcare,HR Transformation,Lost,180000,2025-02-01,2025-03-15,Jennifer Walsh,14
+PROP004,Cloud Migration Strategy,StartupTech,Technology,IT Strategy,Won,275000,2025-02-10,2025-03-20,David Kim,8
+PROP005,Market Entry Analysis,European Expansion Co,Retail,Market Research,Lost,95000,2025-02-15,2025-03-25,Sarah Chen,11
+PROP006,Financial Process Reengineering,MegaBank Corp,Financial Services,Process Improvement,Won,680000,2025-02-20,2025-04-05,Amanda Foster,9
+PROP007,Sustainability Initiative,GreenEnergy Solutions,Energy,Sustainability,Won,420000,2025-03-01,2025-04-15,Michael Roberts,13
+PROP008,Customer Experience Transformation,RetailGiant,Retail,CX Strategy,Lost,340000,2025-03-05,2025-04-20,Jennifer Walsh,15
+PROP009,Operational Excellence Program,Manufacturing Plus,Manufacturing,Operations,Won,520000,2025-03-10,2025-04-25,David Kim,11
+PROP010,Data Analytics Platform,InsightCorp,Technology,Data Strategy,Lost,230000,2025-03-15,2025-05-01,Sarah Chen,16
+PROP011,Merger Integration Support,AcquireCo,Financial Services,M&A Advisory,Won,750000,2025-03-20,2025-05-10,Amanda Foster,10
+PROP012,Digital Marketing Overhaul,BrandBuilders,Marketing,Digital Strategy,Won,185000,2025-03-25,2025-05-15,Michael Roberts,9
+PROP013,Risk Management Framework,SecureFinance,Financial Services,Risk Advisory,Lost,290000,2025-04-01,2025-05-20,Jennifer Walsh,12
+PROP014,Innovation Lab Setup,FutureTech Industries,Technology,Innovation,Won,380000,2025-04-05,2025-06-01,David Kim,14
+PROP015,Workforce Planning Strategy,TalentCorp,Healthcare,HR Strategy,Lost,150000,2025-04-10,2025-06-05,Sarah Chen,13
+PROP016,ESG Reporting Implementation,PublicCorp,Energy,Compliance,Won,310000,2025-04-15,2025-06-10,Amanda Foster,8
+PROP017,Agile Transformation,SoftwareDev Inc,Technology,Agile Coaching,Won,265000,2025-04-20,2025-06-15,Michael Roberts,11
+PROP018,Cost Reduction Initiative,CostCutters Ltd,Manufacturing,Cost Management,Lost,420000,2025-04-25,2025-06-20,Jennifer Walsh,17
+PROP019,Digital Twin Implementation,SmartFactory,Manufacturing,Digital Strategy,Won,580000,2025-05-01,2025-06-25,David Kim,12
+PROP020,Brand Repositioning,NewImage Corp,Retail,Brand Strategy,Lost,125000,2025-05-05,2025-07-01,Sarah Chen,10
+PROP021,Regulatory Compliance Audit,CompliantBank,Financial Services,Compliance,Won,445000,2025-05-10,2025-07-05,Amanda Foster,9
+PROP022,E-commerce Platform Strategy,OnlineMart,Retail,Digital Commerce,Won,395000,2025-05-15,2025-07-10,Michael Roberts,13
+PROP023,Quality Management System,PrecisionMfg,Manufacturing,Quality Assurance,Lost,275000,2025-05-20,2025-07-15,Jennifer Walsh,14
+PROP024,AI Strategy Development,IntelligentSys,Technology,AI Advisory,Won,520000,2025-05-25,2025-07-20,David Kim,15
+PROP025,Patient Experience Improvement,HealthcarePlus,Healthcare,CX Healthcare,Lost,200000,2025-06-01,2025-07-25,Sarah Chen,11
+PROP026,Treasury Management Optimization,CashFlowCorp,Financial Services,Treasury,Won,365000,2025-06-05,2025-08-01,Amanda Foster,10
+PROP027,Lean Manufacturing Implementation,EfficientProd,Manufacturing,Lean Consulting,Won,440000,2025-06-10,2025-08-05,Michael Roberts,12
+PROP028,Cybersecurity Assessment,SecureTech,Technology,Security Advisory,Lost,180000,2025-06-15,2025-08-10,Jennifer Walsh,16
+PROP029,Change Management Program,TransformCorp,Healthcare,Change Management,Won,285000,2025-06-20,2025-08-15,David Kim,9
+PROP030,Market Intelligence Platform,CompetitiveEdge,Retail,Market Intelligence,Lost,165000,2025-06-25,2025-08-20,Sarah Chen,13
+PROP031,Performance Management Redesign,HighPerformers,Energy,Performance Mgmt,Won,325000,2025-07-01,2025-08-25,Amanda Foster,11
+PROP032,Omnichannel Strategy,MultiChannel Inc,Retail,Channel Strategy,Won,475000,2025-07-05,2025-09-01,Michael Roberts,14
+PROP033,Business Continuity Planning,ResilientCorp,Financial Services,Risk Management,Lost,195000,2025-07-10,2025-09-05,Jennifer Walsh,12
+PROP034,Product Portfolio Optimization,InnovateProd,Technology,Product Strategy,Won,390000,2025-07-15,2025-09-10,David Kim,13
+PROP035,Talent Acquisition Strategy,TopTalent,Healthcare,Recruitment,Lost,135000,2025-07-20,2025-09-15,Sarah Chen,15
+PROP036,Capital Allocation Model,InvestSmart,Financial Services,Investment Strategy,Won,615000,2025-07-25,2025-09-20,Amanda Foster,8
+PROP037,Industry 4.0 Roadmap,FutureMfg,Manufacturing,Digital Transformation,Won,685000,2025-08-01,2025-09-25,Michael Roberts,10
+PROP038,Customer Segmentation Analysis,TargetRight,Retail,Customer Analytics,Lost,145000,2025-08-05,2025-10-01,Jennifer Walsh,11
+PROP039,Cloud Security Framework,CloudSecure,Technology,Security Strategy,Won,355000,2025-08-10,2025-10-05,David Kim,12
+PROP040,Regulatory Technology Implementation,RegTechCorp,Financial Services,RegTech,Lost,285000,2025-08-15,2025-10-10,Sarah Chen,14
+PROP041,Supplier Relationship Management,SupplyChain Pro,Manufacturing,Supplier Strategy,Won,425000,2025-08-20,2025-10-15,Amanda Foster,9
+PROP042,Voice of Customer Program,ListenCorp,Healthcare,Customer Research,Won,215000,2025-08-25,2025-10-20,Michael Roberts,13
+PROP043,Technology Debt Assessment,LegacySystems,Technology,Tech Assessment,Lost,175000,2025-09-01,2025-10-25,Jennifer Walsh,16
+PROP044,Revenue Optimization Model,GrowthCorp,Retail,Revenue Strategy,Won,335000,2025-09-05,2025-11-01,David Kim,11
+PROP045,Corporate Strategy Review,StrategicVision,Energy,Corporate Strategy,Won,545000,2025-09-10,2025-11-05,Sarah Chen,12
