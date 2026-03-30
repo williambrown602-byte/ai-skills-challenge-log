@@ -723,3 +723,28 @@ Create an intelligent proposal optimization system that analyzes historical prop
 - Partner dashboard showing proposal efficiency metrics
 
 ---
+# Daily AI Challenge – March 30, 2026
+
+**Domain:** HR
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent workforce productivity analytics system that analyzes employee performance across different project types and generates strategic recommendations for improving overall team productivity by 20-25%. Create a comprehensive productivity analysis engine using statistical modeling and pattern recognition to optimize skill-project matches.
+
+## Skills Trained
+- HR analytics and workforce optimization
+- Multi-dimensional performance analysis
+- Statistical modeling for human resources
+- Strategic workforce planning
+- Executive-level business intelligence
+
+## Deliverables
+- Individual productivity profiles with skill-match analysis
+- Optimal team composition recommendations for upcoming projects
+- Productivity improvement action plan with projected ROI
+- Skills gap analysis identifying training priorities
+- Executive dashboard showing workforce optimization opportunities
+
+---

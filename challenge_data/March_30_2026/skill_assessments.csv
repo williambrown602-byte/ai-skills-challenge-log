@@ -1,0 +1,41 @@
+employee_id,skill_category,skill_name,proficiency_level,certification_date,certification_body,years_experience,self_assessment_score,manager_assessment_score,last_updated
+EMP001,Programming,JavaScript,Expert,2023-06-15,AWS,4.5,4.8,4.5,2024-03-01
+EMP001,Programming,React,Expert,2023-08-20,Meta,3.0,4.7,4.3,2024-03-01
+EMP001,Programming,Node.js,Advanced,2023-05-10,Node Foundation,3.5,4.2,4.0,2024-03-01
+EMP001,Soft Skills,Team Leadership,Intermediate,NULL,NULL,2.0,3.8,4.2,2024-03-01
+EMP002,Programming,Python,Expert,2022-11-30,Python Institute,6.0,4.9,4.8,2024-03-01
+EMP002,Programming,SQL,Expert,2023-01-15,Oracle,5.5,4.6,4.7,2024-03-01
+EMP002,Cloud,AWS,Advanced,2023-09-12,AWS,4.0,4.3,4.4,2024-03-01
+EMP002,Soft Skills,Technical Mentoring,Advanced,NULL,NULL,4.0,4.5,4.6,2024-03-01
+EMP003,Design,UI Design,Expert,2023-04-20,Adobe,5.0,4.6,4.4,2024-03-01
+EMP003,Design,UX Research,Advanced,2023-02-14,UX Institute,3.5,4.2,4.0,2024-03-01
+EMP003,Design,Figma,Expert,2023-07-08,Figma,4.0,4.8,4.6,2024-03-01
+EMP003,Soft Skills,Client Communication,Advanced,NULL,NULL,3.0,4.1,4.3,2024-03-01
+EMP004,Cloud,Docker,Advanced,2023-03-25,Docker Inc,3.5,4.0,3.8,2024-03-01
+EMP004,Cloud,Kubernetes,Intermediate,2023-11-18,CNCF,2.0,3.5,3.6,2024-03-01
+EMP004,Programming,Bash,Advanced,NULL,NULL,4.0,4.2,4.0,2024-03-01
+EMP004,Cloud,AWS,Intermediate,2023-12-05,AWS,2.5,3.4,3.7,2024-03-01
+EMP005,Product,Product Strategy,Expert,2022-08-30,Product School,5.0,4.7,4.5,2024-03-01
+EMP005,Analytics,Data Analysis,Advanced,2023-05-22,Tableau,3.0,4.1,4.2,2024-03-01
+EMP005,Soft Skills,Stakeholder Management,Expert,NULL,NULL,4.5,4.6,4.8,2024-03-01
+EMP005,Product,Agile/Scrum,Advanced,2023-01-10,Scrum Alliance,3.5,4.3,4.1,2024-03-01
+EMP006,Programming,Java,Expert,2022-12-15,Oracle,6.5,4.8,4.7,2024-03-01
+EMP006,Database,PostgreSQL,Expert,2023-06-30,PostgreSQL,4.0,4.5,4.6,2024-03-01
+EMP006,Database,MongoDB,Advanced,2023-09-18,MongoDB Inc,2.5,4.0,3.9,2024-03-01
+EMP006,Programming,Spring Framework,Advanced,2023-02-28,Pivotal,3.0,4.2,4.0,2024-03-01
+EMP007,Design,User Research,Advanced,2023-08-14,Nielsen Norman,2.5,4.3,4.1,2024-03-01
+EMP007,Design,Sketch,Expert,2022-10-20,Sketch,4.5,4.6,4.4,2024-03-01
+EMP007,Analytics,Google Analytics,Intermediate,2023-11-25,Google,1.5,3.7,3.8,2024-03-01
+EMP007,Soft Skills,User Interviewing,Advanced,NULL,NULL,3.0,4.4,4.2,2024-03-01
+EMP008,Cloud,Jenkins,Intermediate,2023-07-12,CloudBees,1.5,3.2,3.4,2024-03-01
+EMP008,Programming,Python,Intermediate,2023-04-18,Python Institute,2.0,3.6,3.5,2024-03-01
+EMP008,Cloud,Terraform,Beginner,2024-01-20,HashiCorp,0.5,2.8,3.0,2024-03-01
+EMP008,Monitoring,Prometheus,Intermediate,2023-10-15,CNCF,1.0,3.4,3.3,2024-03-01
+EMP009,Product,Market Research,Expert,2022-09-12,Market Research Society,4.5,4.7,4.6,2024-03-01
+EMP009,Analytics,Excel,Advanced,NULL,NULL,5.0,4.4,4.3,2024-03-01
+EMP009,Product,Competitive Intelligence,Advanced,2023-03-08,CI Institute,3.0,4.2,4.4,2024-03-01
+EMP009,Soft Skills,Presentation Skills,Expert,NULL,NULL,4.0,4.8,4.7,2024-03-01
+EMP010,Cloud,Azure,Advanced,2023-05-30,Microsoft,3.0,4.1,3.9,2024-03-01
+EMP010,Security,Cybersecurity,Advanced,2023-11-08,ISC2,2.5,4.0,4.2,2024-03-01
+EMP010,Cloud,Terraform,Intermediate,2023-08-25,HashiCorp,1.5,3.7,3.6,2024-03-01
+EMP010,Programming,PowerShell,Advanced,NULL,NULL,3.5,4.3,4.1,2024-03-01

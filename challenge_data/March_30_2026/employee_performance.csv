@@ -1,0 +1,21 @@
+employee_id,employee_name,department,project_id,project_type,completion_rate,quality_score,hours_planned,hours_actual,start_date,end_date,role_on_project
+EMP001,Sarah Chen,Engineering,PRJ101,Web Development,0.95,4.2,120,115,2024-01-15,2024-02-28,Lead Developer
+EMP001,Sarah Chen,Engineering,PRJ105,Mobile App,0.88,4.0,80,92,2024-03-01,2024-03-25,Senior Developer
+EMP002,Marcus Johnson,Engineering,PRJ102,Data Pipeline,0.92,4.5,160,158,2024-01-20,2024-03-15,Tech Lead
+EMP002,Marcus Johnson,Engineering,PRJ108,API Development,0.97,4.7,100,95,2024-03-20,2024-04-10,Lead Developer
+EMP003,Elena Rodriguez,Design,PRJ101,Web Development,0.90,4.3,60,65,2024-01-15,2024-02-28,UI/UX Designer
+EMP003,Elena Rodriguez,Design,PRJ106,Brand Redesign,0.85,3.8,140,165,2024-02-01,2024-04-01,Creative Lead
+EMP004,David Kim,Engineering,PRJ103,Infrastructure,0.78,3.5,200,245,2024-02-01,2024-04-15,DevOps Engineer
+EMP004,David Kim,Engineering,PRJ107,Cloud Migration,0.82,3.9,180,195,2024-03-15,2024-05-01,Senior Engineer
+EMP005,Lisa Wang,Product,PRJ104,Feature Planning,0.93,4.4,90,88,2024-01-10,2024-02-15,Product Manager
+EMP005,Lisa Wang,Product,PRJ109,Market Research,0.89,4.1,70,75,2024-02-20,2024-03-20,Senior PM
+EMP006,James Brown,Engineering,PRJ102,Data Pipeline,0.91,4.2,120,125,2024-01-20,2024-03-15,Backend Developer
+EMP006,James Brown,Engineering,PRJ110,Database Optimization,0.94,4.6,80,78,2024-03-25,2024-04-20,Database Specialist
+EMP007,Anna Kowalski,Design,PRJ105,Mobile App,0.87,4.0,100,108,2024-03-01,2024-03-25,UX Designer
+EMP007,Anna Kowalski,Design,PRJ111,User Research,0.92,4.5,60,58,2024-04-01,2024-04-25,UX Researcher
+EMP008,Carlos Martinez,Engineering,PRJ103,Infrastructure,0.75,3.2,150,185,2024-02-01,2024-04-15,Junior DevOps
+EMP008,Carlos Martinez,Engineering,PRJ112,Monitoring Setup,0.88,3.9,90,95,2024-04-20,2024-05-15,DevOps Engineer
+EMP009,Jennifer Park,Product,PRJ106,Brand Redesign,0.91,4.3,80,82,2024-02-01,2024-04-01,Product Strategist
+EMP009,Jennifer Park,Product,PRJ113,Competitive Analysis,0.96,4.8,50,48,2024-04-05,2024-04-30,Senior Strategist
+EMP010,Robert Taylor,Engineering,PRJ107,Cloud Migration,0.79,3.6,160,190,2024-03-15,2024-05-01,Cloud Engineer
+EMP010,Robert Taylor,Engineering,PRJ114,Security Audit,0.93,4.4,120,118,2024-05-05,2024-06-01,Security Engineer
