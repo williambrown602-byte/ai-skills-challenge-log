@@ -1,0 +1,21 @@
+client_id,client_name,industry,client_since,total_revenue_to_date,relationship_tier,primary_contact,location,company_size,repeat_client
+C101,TechStart Industries,Technology,2022-03-15,245000,Gold,John Stevens,"New York, NY",Mid-market,Yes
+C102,Innovate Corp,Technology,2021-08-20,890000,Platinum,Sarah Johnson,"San Francisco, CA",Enterprise,Yes
+C103,Regional Manufacturing,Manufacturing,2023-01-10,125000,Silver,Mike Davis,"Austin, TX",Mid-market,Yes
+C104,Global Dynamics,Conglomerate,2020-05-12,1250000,Platinum,Lisa Chen,"Wilmington, DE",Enterprise,Yes
+C105,Sunshine Properties,Real Estate,2023-06-22,89000,Silver,Tom Wilson,"Miami, FL",Small Business,No
+C106,Pension Fund Alliance,Financial Services,2019-11-30,2100000,Platinum,Robert Martinez,"New York, NY",Enterprise,Yes
+C107,Family Enterprises LLC,Family Office,2022-09-18,156000,Gold,Patricia Brown,"Various",Mid-market,Yes
+C108,Creative Solutions,Marketing,2024-02-14,32000,Bronze,Jennifer Lee,"Los Angeles, CA",Small Business,No
+C109,Partnership Ventures,Investment,2021-12-08,340000,Gold,David Kim,"Chicago, IL",Mid-market,Yes
+C110,Consumer Products Inc,Consumer Goods,2020-03-25,675000,Platinum,Amanda Garcia,"San Diego, CA",Enterprise,Yes
+C111,Metro Construction,Construction,2022-07-11,298000,Gold,Carlos Rodriguez,"Houston, TX",Mid-market,Yes
+C112,Allied Insurance Group,Insurance,2023-04-03,145000,Silver,Nancy Taylor,"New York, NY",Mid-market,No
+C113,Healthcare Systems,Healthcare,2021-10-16,425000,Gold,Michael Johnson,"San Francisco, CA",Enterprise,Yes
+C114,Green Energy Corp,Energy,2020-12-05,520000,Platinum,Susan Davis,"Washington, DC",Enterprise,Yes
+C115,DataSecure Technologies,Technology,2023-11-28,98000,Silver,Kevin Park,"Seattle, WA",Mid-market,No
+C116,Market Leaders Inc,Retail,2019-06-14,785000,Platinum,Rachel White,"Various",Enterprise,Yes
+C117,Heritage Family Trust,Family Office,2022-02-20,178000,Gold,Thomas Anderson,"New York, NY",High Net Worth,Yes
+C118,Software Solutions,Technology,2023-08-07,67000,Silver,Linda Martinez,"Palo Alto, CA",Small Business,No
+C119,Public Corporation,Public Company,2020-09-30,1450000,Platinum,James Wilson,"Wilmington, DE",Enterprise,Yes
+C120,Regulated Industries,Financial Services,2022-11-12,245000,Gold,Mary Thompson,"New York, NY",Mid-market,Yes

@@ -1,0 +1,21 @@
+matter_id,matter_name,practice_area,client_id,lead_attorney_id,start_date,end_date,original_budget,final_cost,outcome,complexity_score,jurisdiction,opposing_counsel_firm,matter_type,settlement_amount,hours_billed,client_satisfaction_score
+LM001,Contract Dispute Resolution,Commercial Litigation,C101,A001,2024-06-15,2024-12-20,75000,82500,Won,7,New York,Smith & Associates,Contract Dispute,125000,412,8.2
+LM002,Patent Infringement Defense,Intellectual Property,C102,A002,2024-03-10,2024-11-30,150000,189000,Settled,9,California,Tech Legal Partners,Patent Litigation,75000,945,7.8
+LM003,Employment Termination,Employment Law,C103,A003,2024-07-22,2024-09-15,25000,18500,Won,4,Texas,Johnson Law Group,Wrongful Termination,0,92,9.1
+LM004,M&A Due Diligence,Corporate,C104,A001,2024-02-01,2024-05-30,200000,195000,Completed,8,Delaware,Corporate Solutions LLC,Merger,0,975,8.9
+LM005,Real Estate Acquisition,Real Estate,C105,A004,2024-04-12,2024-08-25,45000,52000,Completed,5,Florida,Property Law Experts,Purchase Agreement,0,260,8.5
+LM006,Securities Class Action,Securities Litigation,C106,A005,2024-01-15,2024-12-15,300000,425000,Settled,10,New York,BigLaw Partners,Class Action,2500000,2125,6.8
+LM007,Tax Audit Defense,Tax Law,C107,A006,2024-05-20,2024-07-30,35000,28000,Won,6,Federal,IRS Counsel,Audit Defense,0,140,8.7
+LM008,Trademark Registration,Intellectual Property,C108,A002,2024-08-01,2024-10-15,15000,12500,Completed,3,Federal,Patent & Mark Associates,Trademark Filing,0,62.5,9.2
+LM009,Partnership Dissolution,Corporate,C109,A007,2024-03-25,2024-09-10,85000,95000,Settled,7,Illinois,Business Law Group,Partnership Dispute,150000,475,7.5
+LM010,Product Liability Defense,Litigation,C110,A008,2024-06-01,2024-12-31,180000,165000,Won,8,California,Consumer Rights Law,Product Liability,0,825,8.1
+LM011,Construction Contract Dispute,Construction Law,C111,A009,2024-04-05,2025-02-28,120000,145000,Ongoing,9,Texas,Construction Legal,Contract Dispute,0,725,7.9
+LM012,Insurance Coverage Analysis,Insurance Law,C112,A010,2024-07-10,2024-08-20,20000,22000,Completed,4,New York,Insurance Defense Group,Coverage Opinion,0,110,8.8
+LM013,Whistleblower Investigation,Employment Law,C113,A003,2024-05-15,2024-11-30,65000,78000,Settled,8,California,Employment Defense LLC,Investigation,45000,390,7.3
+LM014,Environmental Compliance,Environmental Law,C114,A011,2024-02-20,2024-06-15,95000,88000,Completed,7,Federal,Green Law Partners,Compliance Review,0,440,8.6
+LM015,Cybersecurity Breach Response,Data Privacy,C115,A012,2024-09-01,2024-11-15,55000,62000,Completed,6,Multi-state,Cyber Defense Attorneys,Breach Response,0,310,8.4
+LM016,Antitrust Investigation,Antitrust,C116,A005,2024-01-30,2024-08-25,175000,198000,Settled,9,Federal,Competition Law Group,DOJ Investigation,125000,990,7.1
+LM017,Family Business Succession,Estate Planning,C117,A013,2024-04-18,2024-10-30,40000,35000,Completed,5,New York,Estate Law Associates,Succession Planning,0,175,9.0
+LM018,Software Licensing Agreement,Technology Law,C118,A014,2024-06-30,2024-08-15,30000,28500,Completed,4,California,Tech Contract Law,Licensing,0,142.5,8.9
+LM019,Shareholder Derivative Suit,Corporate Litigation,C119,A001,2024-03-12,2024-12-20,250000,285000,Ongoing,10,Delaware,Shareholder Rights Law,Derivative Action,0,1425,7.6
+LM020,Regulatory Compliance Audit,Regulatory,C120,A015,2024-05-08,2024-07-22,42000,39000,Completed,5,Federal,Regulatory Defense Group,Compliance Audit,0,195,8.7

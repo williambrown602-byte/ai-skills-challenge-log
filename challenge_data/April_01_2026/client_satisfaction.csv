@@ -1,0 +1,21 @@
+matter_id,client_id,communication_score,timeliness_score,value_score,expertise_score,overall_score,likelihood_to_recommend,feedback_comments,survey_date
+LM001,C101,8.5,7.8,8.0,9.2,8.2,9,"Excellent technical expertise, minor delays in updates",2024-12-22
+LM002,C102,7.5,7.2,7.8,9.1,7.8,8,"Strong patent knowledge but communication could improve",2024-12-02
+LM003,C103,9.2,9.5,9.0,8.8,9.1,10,"Outstanding responsiveness and achieved great outcome",2024-09-17
+LM004,C104,9.0,8.5,9.2,9.0,8.9,9,"Professional handling of complex transaction",2024-06-01
+LM005,C105,8.2,8.8,8.5,8.5,8.5,9,"Smooth process, good value for money",2024-08-27
+LM006,C106,6.5,6.8,7.2,8.5,6.8,7,"Costs exceeded expectations significantly",2024-12-17
+LM007,C107,8.8,9.0,8.5,8.5,8.7,9,"Efficient resolution of tax matter",2024-08-01
+LM008,C108,9.5,9.2,9.0,9.0,9.2,10,"Perfect handling of trademark application",2024-10-17
+LM009,C109,7.2,7.8,7.5,8.0,7.5,8,"Satisfactory outcome but lengthy process",2024-09-12
+LM010,C110,8.0,8.2,8.1,8.2,8.1,8,"Good defense strategy and execution",2024-12-31
+LM011,C111,7.8,7.5,8.5,8.2,7.9,8,"Matter still ongoing but progress is good",2025-01-15
+LM012,C112,9.0,8.8,8.5,8.8,8.8,9,"Clear analysis and practical recommendations",2024-08-22
+LM013,C113,7.0,7.2,7.8,8.2,7.3,7,"Sensitive matter handled adequately",2024-12-02
+LM014,C114,8.5,8.8,8.5,8.5,8.6,9,"Thorough compliance review",2024-06-17
+LM015,C115,8.2,8.5,8.5,8.5,8.4,8,"Quick response to breach incident",2024-11-17
+LM016,C116,7.0,6.8,7.5,8.2,7.1,7,"Complex matter with mixed results",2024-08-27
+LM017,C117,9.2,8.8,9.0,9.0,9.0,10,"Excellent estate planning guidance",2024-11-01
+LM018,C118,8.8,9.2,8.8,9.0,8.9,9,"Efficient contract negotiation",2024-08-17
+LM019,C119,7.5,7.2,8.0,8.5,7.6,8,"Ongoing matter showing good progress",2024-12-22
+LM020,C120,8.5,8.8,8.8,8.8,8.7,9,"Comprehensive regulatory analysis",2024-07-24
