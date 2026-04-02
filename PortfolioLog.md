@@ -798,3 +798,28 @@ Build an intelligent legal matter performance analysis system that identifies ke
 - Partner presentation with top 5 strategic recommendations for firm growth
 
 ---
+# Daily AI Challenge – April 02, 2026
+
+**Domain:** Business Development/Consulting
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an automated RFP evaluation and pricing recommendation system that can process incoming RFPs, assess win probability based on firm capabilities, and generate competitive pricing suggestions within 2 hours instead of the current 2-day manual process.
+
+## Skills Trained
+- Document processing and information extraction
+- Business development analytics and opportunity assessment
+- Pricing strategy and competitive analysis
+- Multi-criteria decision modeling
+- Professional services business intelligence
+
+## Deliverables
+- RFP viability dashboard showing go/no-go recommendations with confidence scores
+- Automated pricing calculator with competitive positioning analysis
+- Resource requirement estimates for each viable opportunity
+- Risk-adjusted win probability assessment for each RFP
+- Weekly pipeline report showing prioritized opportunities and resource allocation
+
+---
