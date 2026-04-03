@@ -1,0 +1,31 @@
+vendor_id,vendor_name,contract_type,contract_start_date,contract_end_date,annual_cost,auto_renewal,payment_terms,primary_contact,department,contract_status
+V001,Microsoft Corporation,Software License,2024-01-15,2025-01-14,85000,TRUE,Net 30,sarah.johnson@microsoft.com,IT,Active
+V002,Salesforce Inc,SaaS Platform,2023-06-01,2025-05-31,120000,TRUE,Net 15,account@salesforce.com,Sales,Active
+V003,AWS Amazon,Cloud Services,2024-03-01,2025-02-28,95000,FALSE,Net 30,billing@aws.com,IT,Active
+V004,Dell Technologies,Hardware,2023-11-15,2024-11-14,45000,FALSE,Net 45,orders@dell.com,IT,Renewal Pending
+V005,Slack Technologies,Communication,2024-02-01,2025-01-31,28000,TRUE,Net 30,billing@slack.com,All Departments,Active
+V006,Zoom Communications,Video Conferencing,2023-12-01,2024-11-30,35000,TRUE,Net 30,accounts@zoom.us,All Departments,Active
+V007,Adobe Systems,Creative Suite,2024-04-01,2025-03-31,67000,FALSE,Net 30,enterprise@adobe.com,Marketing,Active
+V008,Oracle Corporation,Database License,2023-05-15,2025-05-14,180000,TRUE,Net 45,licensing@oracle.com,IT,Active
+V009,Atlassian,Project Management,2024-01-01,2024-12-31,42000,FALSE,Net 30,billing@atlassian.com,Engineering,Renewal Pending
+V010,ServiceNow,ITSM Platform,2023-08-01,2025-07-31,95000,TRUE,Net 30,accounts@servicenow.com,IT,Active
+V011,Okta Inc,Identity Management,2024-05-01,2025-04-30,55000,FALSE,Net 30,billing@okta.com,IT,Active
+V012,DocuSign,Digital Signatures,2023-10-01,2024-09-30,25000,TRUE,Net 30,accounts@docusign.com,Legal,Renewal Pending
+V013,HubSpot,Marketing Automation,2024-02-15,2025-02-14,48000,FALSE,Net 30,billing@hubspot.com,Marketing,Active
+V014,Tableau Software,Analytics Platform,2023-07-01,2025-06-30,75000,TRUE,Net 30,enterprise@tableau.com,Analytics,Active
+V015,GitHub Inc,Code Repository,2024-03-15,2025-03-14,36000,FALSE,Net 30,billing@github.com,Engineering,Active
+V016,Cisco Systems,Network Equipment,2023-09-01,2024-08-31,125000,FALSE,Net 45,orders@cisco.com,IT,Renewal Pending
+V017,VMware Inc,Virtualization,2024-01-30,2025-01-29,89000,TRUE,Net 30,licensing@vmware.com,IT,Active
+V018,Workday Inc,HR Platform,2023-04-01,2025-03-31,135000,TRUE,Net 30,billing@workday.com,HR,Active
+V019,Splunk Inc,Log Analytics,2024-06-01,2025-05-31,92000,FALSE,Net 30,accounts@splunk.com,IT,Active
+V020,Zendesk Inc,Customer Support,2023-12-15,2024-12-14,38000,TRUE,Net 30,billing@zendesk.com,Support,Active
+V021,DataDog Inc,Monitoring,2024-04-15,2025-04-14,52000,FALSE,Net 30,billing@datadoghq.com,IT,Active
+V022,Snowflake Inc,Data Warehouse,2023-11-01,2024-10-31,78000,FALSE,Net 30,billing@snowflake.com,Analytics,Renewal Pending
+V023,Twilio Inc,Communications API,2024-02-01,2025-01-31,29000,TRUE,Net 30,billing@twilio.com,Engineering,Active
+V024,MongoDB Inc,Database,2023-08-15,2025-08-14,65000,TRUE,Net 30,sales@mongodb.com,Engineering,Active
+V025,Elastic NV,Search Platform,2024-05-15,2025-05-14,44000,FALSE,Net 30,billing@elastic.co,IT,Active
+V026,JetBrains,Development Tools,2023-06-01,2024-05-31,32000,FALSE,Net 30,sales@jetbrains.com,Engineering,Renewal Pending
+V027,New Relic,APM Platform,2024-01-15,2025-01-14,58000,TRUE,Net 30,billing@newrelic.com,IT,Active
+V028,Palo Alto Networks,Security Platform,2023-10-15,2024-10-14,145000,FALSE,Net 45,orders@paloaltonetworks.com,Security,Renewal Pending
+V029,CrowdStrike,Endpoint Security,2024-03-01,2025-02-28,98000,TRUE,Net 30,billing@crowdstrike.com,Security,Active
+V030,SentinelOne,Endpoint Protection,2023-07-15,2025-07-14,76000,FALSE,Net 30,billing@sentinelone.com,Security,Active

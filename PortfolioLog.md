@@ -823,3 +823,28 @@ Build an automated RFP evaluation and pricing recommendation system that can pro
 - Weekly pipeline report showing prioritized opportunities and resource allocation
 
 ---
+# Daily AI Challenge – April 03, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent vendor relationship management system that automates contract tracking, evaluates vendor performance against KPIs, identifies consolidation opportunities, and generates strategic procurement recommendations with measurable ROI impact. The system aims to reduce administrative overhead by 60% while preventing costly contract oversights.
+
+## Skills Trained
+- Vendor relationship management and procurement analytics
+- Multi-criteria performance evaluation and scoring
+- Contract lifecycle management automation
+- Strategic sourcing and cost optimization analysis
+- Executive-level procurement reporting and recommendations
+
+## Deliverables
+- Automated contract renewal alert system with 90/60/30 day notifications
+- Vendor performance scorecard ranking all suppliers by value and reliability
+- Contract consolidation analysis showing potential savings opportunities
+- Risk assessment matrix identifying high-risk vendor relationships
+- Strategic procurement plan with 12-month optimization timeline and projected savings
+
+---

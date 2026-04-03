@@ -1,0 +1,31 @@
+vendor_id,vendor_name,uptime_percentage,avg_support_response_hours,delivery_quality_score,sla_compliance_rate,incident_count_last_12m,resolution_time_hours,performance_trend
+V001,Microsoft Corporation,99.2,4.5,8.7,94.2,3,12.3,Improving
+V002,Salesforce Inc,98.8,2.1,9.2,96.8,1,8.5,Stable
+V003,AWS Amazon,99.9,1.8,9.5,98.2,0,6.2,Excellent
+V004,Dell Technologies,99.1,6.2,8.1,89.5,5,18.4,Declining
+V005,Slack Technologies,99.5,3.2,8.9,95.1,2,9.7,Stable
+V006,Zoom Communications,99.7,2.8,9.1,97.3,1,7.2,Improving
+V007,Adobe Systems,98.6,5.1,8.4,91.7,4,15.6,Stable
+V008,Oracle Corporation,98.2,8.7,7.9,87.4,7,24.3,Declining
+V009,Atlassian,99.3,3.6,8.8,94.6,2,11.2,Stable
+V010,ServiceNow,99.1,4.2,8.6,93.8,3,13.5,Improving
+V011,Okta Inc,99.6,2.4,9.3,97.1,1,8.9,Excellent
+V012,DocuSign,98.9,4.8,8.3,92.4,3,16.7,Stable
+V013,HubSpot,99.4,3.1,8.9,95.7,2,10.4,Improving
+V014,Tableau Software,98.7,5.5,8.2,90.3,4,19.1,Declining
+V015,GitHub Inc,99.8,2.2,9.4,98.1,0,7.8,Excellent
+V016,Cisco Systems,99.0,7.3,8.0,88.9,6,22.7,Declining
+V017,VMware Inc,98.4,6.8,7.8,86.2,8,25.9,Declining
+V018,Workday Inc,99.2,4.1,8.7,94.5,3,12.8,Stable
+V019,Splunk Inc,99.5,3.4,8.9,95.8,2,10.1,Improving
+V020,Zendesk Inc,99.1,4.6,8.5,93.2,3,14.2,Stable
+V021,DataDog Inc,99.7,2.6,9.2,96.9,1,8.3,Excellent
+V022,Snowflake Inc,99.3,3.8,8.8,94.9,2,11.6,Stable
+V023,Twilio Inc,99.6,2.9,9.0,96.4,1,9.2,Improving
+V024,MongoDB Inc,99.1,4.3,8.6,93.7,3,13.8,Stable
+V025,Elastic NV,99.4,3.5,8.8,95.2,2,10.8,Improving
+V026,JetBrains,99.8,2.1,9.4,98.3,0,7.5,Excellent
+V027,New Relic,99.2,4.0,8.7,94.8,2,12.5,Stable
+V028,Palo Alto Networks,98.8,6.5,8.1,89.7,5,20.3,Declining
+V029,CrowdStrike,99.6,2.7,9.1,96.8,1,8.7,Excellent
+V030,SentinelOne,99.3,3.7,8.8,94.6,2,11.9,Improving
