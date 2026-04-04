@@ -1,0 +1,16 @@
+customer_id,company_name,industry,company_size,current_plan,monthly_arr,contract_start_date,contract_end_date,account_manager,region,headquarters_country
+CUST-001,TechFlow Solutions,Technology,Mid-Market,Professional,2500,2024-01-15,2025-01-15,Sarah Chen,North America,United States
+CUST-002,Green Manufacturing Co,Manufacturing,Small Business,Starter,750,2024-03-01,2025-03-01,Mike Rodriguez,North America,United States
+CUST-003,Global Financial Services,Financial Services,Enterprise,Enterprise,8500,2023-11-20,2024-11-20,Lisa Thompson,North America,United States
+CUST-004,HealthTech Innovations,Healthcare,Mid-Market,Professional,3200,2024-02-10,2025-02-10,David Kim,North America,United States
+CUST-005,Retail Dynamics Inc,Retail,Small Business,Professional,1800,2024-04-05,2025-04-05,Jennifer Walsh,North America,United States
+CUST-006,EduPlatform Systems,Education,Mid-Market,Professional,2800,2023-12-01,2024-12-01,Carlos Mendez,North America,Canada
+CUST-007,CloudServ Partners,Technology,Small Business,Starter,950,2024-01-20,2025-01-20,Sarah Chen,North America,United States
+CUST-008,Manufacturing Plus,Manufacturing,Enterprise,Enterprise,12000,2023-09-15,2024-09-15,Mike Rodriguez,North America,United States
+CUST-009,Digital Marketing Hub,Marketing,Small Business,Professional,2100,2024-03-15,2025-03-15,Lisa Thompson,North America,United States
+CUST-010,AutoTech Solutions,Automotive,Mid-Market,Professional,3500,2023-10-01,2024-10-01,David Kim,North America,United States
+CUST-011,Legal Advisors Group,Legal,Small Business,Professional,1900,2024-02-28,2025-02-28,Jennifer Walsh,North America,United States
+CUST-012,Construction Dynamics,Construction,Mid-Market,Professional,2700,2024-01-10,2025-01-10,Carlos Mendez,North America,United States
+CUST-013,BioTech Innovations,Biotechnology,Enterprise,Enterprise,15000,2023-08-01,2024-08-01,Sarah Chen,North America,United States
+CUST-014,Energy Solutions Corp,Energy,Enterprise,Enterprise,9800,2023-11-10,2024-11-10,Mike Rodriguez,North America,Canada
+CUST-015,Media Content Systems,Media,Mid-Market,Professional,3100,2024-03-20,2025-03-20,Lisa Thompson,North America,United States

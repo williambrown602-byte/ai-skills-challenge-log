@@ -848,3 +848,28 @@ Build an intelligent vendor relationship management system that automates contra
 - Strategic procurement plan with 12-month optimization timeline and projected savings
 
 ---
+# Daily AI Challenge – April 04, 2026
+
+**Domain:** Customer Success/Revenue Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent customer expansion opportunity engine that analyzes customer data to identify high-potential upsell opportunities and generate personalized expansion strategies. Transform reactive customer success into proactive revenue generation by predicting expansion opportunities 30-45 days before customers hit usage limits.
+
+## Skills Trained
+- Customer lifecycle analytics and expansion modeling
+- Predictive revenue analytics and opportunity scoring
+- Customer success automation and workflow optimization
+- Multi-factor customer health assessment
+- Revenue operations and growth strategy implementation
+
+## Deliverables
+- Top 50 expansion-ready accounts ranked by opportunity value and success probability
+- Personalized expansion playbooks with optimal timing and messaging
+- Revenue opportunity analysis showing potential ARR increase by segment
+- Customer success team dashboard with real-time opportunity tracking
+- Implementation roadmap for systematic expansion revenue growth
+
+---
