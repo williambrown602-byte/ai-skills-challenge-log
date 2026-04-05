@@ -1,0 +1,31 @@
+case_id,product_name,therapeutic_area,patient_age,patient_gender,event_date,reported_date,reporter_type,severity,outcome,event_description,medical_terminology_code,patient_exposure_days,dose_mg,indication,country,previous_medications,concomitant_medications
+AE001,Cardiomax,Cardiovascular,68,M,2024-08-15,2024-08-18,Physician,Serious,Recovered,Chest pain and shortness of breath,PT10008479,45,10,Hypertension,USA,Lisinopril,Aspirin;Metformin
+AE002,Cardiomax,Cardiovascular,72,F,2024-09-02,2024-09-05,Hospital,Serious,Fatal,Cardiac arrest,PT10007515,23,10,Hypertension,Canada,None,Warfarin
+AE003,NeuroCalm,Neurology,34,F,2024-07-12,2024-07-15,Patient,Moderate,Recovered,Dizziness and nausea,PT10013573,12,25,Anxiety,UK,Sertraline,None
+AE004,ImmunoShield,Immunology,45,M,2024-06-28,2024-07-01,Clinical Trial,Mild,Ongoing,Injection site reaction,PT10022095,1,500,Rheumatoid Arthritis,Germany,Methotrexate,Folic Acid
+AE005,Cardiomax,Cardiovascular,59,M,2024-10-03,2024-10-06,Physician,Serious,Hospitalized,Myocardial infarction,PT10029415,67,10,Hypertension,France,Atorvastatin,Aspirin;Clopidogrel
+AE006,DiabetaControl,Endocrinology,58,F,2024-05-20,2024-05-23,Patient,Moderate,Recovered,Severe hypoglycemia,PT10020993,89,1000,Type 2 Diabetes,Spain,Insulin,Metformin
+AE007,NeuroCalm,Neurology,28,M,2024-08-30,2024-09-02,Physician,Moderate,Recovered,Tremor and confusion,PT10044565,8,25,Depression,Italy,None,None
+AE008,RespiraEase,Respiratory,63,F,2024-09-18,2024-09-20,Hospital,Serious,Recovered,Respiratory failure,PT10038695,34,200,COPD,USA,Albuterol,Prednisone
+AE009,Cardiomax,Cardiovascular,76,M,2024-07-25,2024-07-28,Physician,Serious,Recovered,Stroke,PT10042244,112,10,Hypertension,Australia,Metoprolol,Aspirin;Simvastatin
+AE010,ImmunoShield,Immunology,52,F,2024-06-15,2024-06-18,Clinical Trial,Moderate,Recovered,Severe headache,PT10020772,14,500,Psoriasis,Netherlands,None,Ibuprofen
+AE011,DiabetaControl,Endocrinology,61,M,2024-11-08,2024-11-11,Patient,Mild,Recovered,Gastrointestinal upset,PT10017947,156,1000,Type 2 Diabetes,Japan,Glipizide,Metformin;Lisinopril
+AE012,NeuroCalm,Neurology,41,F,2024-04-17,2024-04-20,Physician,Serious,Ongoing,Suicidal ideation,PT10042458,21,50,Bipolar Disorder,Sweden,Lithium,Lamotrigine
+AE013,Cardiomax,Cardiovascular,55,M,2024-12-01,2024-12-04,Hospital,Serious,Fatal,Sudden cardiac death,PT10042632,78,10,Hypertension,Brazil,Hydrochlorothiazide,Amlodipine
+AE014,RespiraEase,Respiratory,48,F,2024-10-22,2024-10-25,Patient,Moderate,Recovered,Pneumonia,PT10035742,67,200,Asthma,Mexico,Fluticasone,Albuterol
+AE015,ImmunoShield,Immunology,39,M,2024-09-07,2024-09-10,Clinical Trial,Serious,Hospitalized,Anaphylaxis,PT10002199,2,500,Crohn's Disease,Norway,Azathioprine,Prednisone
+AE016,DiabetaControl,Endocrinology,64,F,2024-08-14,2024-08-17,Physician,Moderate,Recovered,Diabetic ketoacidosis,PT10012378,201,1000,Type 2 Diabetes,South Korea,Insulin,Metformin
+AE017,NeuroCalm,Neurology,26,M,2024-11-20,2024-11-23,Patient,Mild,Recovered,Sleep disturbances,PT10040984,5,25,Anxiety,Finland,None,None
+AE018,Cardiomax,Cardiovascular,69,F,2024-06-05,2024-06-08,Physician,Serious,Recovered,Atrial fibrillation,PT10003658,95,10,Hypertension,Denmark,Diltiazem,Warfarin
+AE019,RespiraEase,Respiratory,57,M,2024-07-30,2024-08-02,Hospital,Serious,Ongoing,Acute respiratory distress,PT10001375,45,200,COPD,Belgium,Theophylline,Prednisone;Oxygen
+AE020,ImmunoShield,Immunology,43,F,2024-10-12,2024-10-15,Clinical Trial,Moderate,Recovered,Liver enzyme elevation,PT10024574,28,500,Ulcerative Colitis,Switzerland,Mesalamine,Folic Acid
+AE021,Cardiomax,Cardiovascular,71,M,2024-05-08,2024-05-11,Physician,Moderate,Recovered,Peripheral edema,PT10034570,134,10,Heart Failure,Austria,Furosemide,Digoxin;Spironolactone
+AE022,DiabetaControl,Endocrinology,53,F,2024-09-25,2024-09-28,Patient,Mild,Recovered,Weight gain,PT10047700,178,1000,Type 2 Diabetes,Portugal,None,Metformin;Atorvastatin
+AE023,NeuroCalm,Neurology,37,M,2024-12-10,2024-12-13,Physician,Serious,Ongoing,Seizure,PT10039906,33,50,Epilepsy,Ireland,Carbamazepine,None
+AE024,RespiraEase,Respiratory,66,F,2024-04-25,2024-04-28,Hospital,Moderate,Recovered,Bronchospasm,PT10006451,23,200,Asthma,Czech Republic,Montelukast,Albuterol;Budesonide
+AE025,ImmunoShield,Immunology,29,M,2024-08-08,2024-08-11,Clinical Trial,Mild,Recovered,Fatigue,PT10016256,7,500,Psoriatic Arthritis,Poland,Sulfasalazine,Methotrexate
+AE026,Cardiomax,Cardiovascular,62,F,2024-11-30,2024-12-03,Physician,Serious,Recovered,Heart failure exacerbation,PT10019663,89,10,Hypertension,Hungary,Enalapril,Furosemide;Carvedilol
+AE027,DiabetaControl,Endocrinology,47,M,2024-06-18,2024-06-21,Patient,Moderate,Recovered,Hypoglycemic episode,PT10020993,123,1000,Type 2 Diabetes,Greece,Metformin,Glimepiride
+AE028,NeuroCalm,Neurology,44,F,2024-07-03,2024-07-06,Physician,Moderate,Recovered,Memory impairment,PT10027175,67,25,Depression,Slovenia,Fluoxetine,None
+AE029,RespiraEase,Respiratory,71,M,2024-09-15,2024-09-18,Hospital,Serious,Fatal,Respiratory arrest,PT10038687,56,200,COPD,Slovakia,Ipratropium,Prednisone;Oxygen
+AE030,ImmunoShield,Immunology,36,F,2024-10-28,2024-10-31,Clinical Trial,Serious,Hospitalized,Serious infection,PT10040047,21,500,Rheumatoid Arthritis,Estonia,Hydroxychloroquine,Prednisone

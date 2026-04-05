@@ -1,0 +1,15 @@
+product_name,therapeutic_area,patient_population,total_exposure_person_years,indication,age_group,gender_distribution_m_f,average_duration_days,market_launch_date,regulatory_status
+Cardiomax,Cardiovascular,245000,180500,Hypertension,55-75,45-55,365,2019-03-15,Approved
+Cardiomax,Cardiovascular,89000,65400,Heart Failure,60-80,48-52,420,2019-03-15,Approved
+NeuroCalm,Neurology,156000,89200,Anxiety,25-45,35-65,180,2020-07-22,Approved
+NeuroCalm,Neurology,78000,56800,Depression,30-55,30-70,240,2020-07-22,Approved
+NeuroCalm,Neurology,34000,28900,Bipolar Disorder,25-50,42-58,365,2021-02-10,Approved
+DiabetaControl,Endocrinology,312000,298400,Type 2 Diabetes,45-70,52-48,365,2018-11-08,Approved
+DiabetaControl,Endocrinology,45000,43200,Type 1 Diabetes,18-65,48-52,365,2019-05-15,Approved
+RespiraEase,Respiratory,123000,98400,COPD,55-75,55-45,365,2019-09-30,Approved
+RespiraEase,Respiratory,89000,67200,Asthma,25-60,45-55,365,2019-09-30,Approved
+ImmunoShield,Immunology,67000,45600,Rheumatoid Arthritis,40-65,25-75,365,2021-01-20,Approved
+ImmunoShield,Immunology,34000,23800,Psoriasis,30-55,55-45,365,2021-06-14,Approved
+ImmunoShield,Immunology,23000,16100,Crohn's Disease,25-50,45-55,365,2021-11-03,Approved
+ImmunoShield,Immunology,18000,12600,Ulcerative Colitis,30-60,50-50,365,2022-03-18,Approved
+ImmunoShield,Immunology,12000,8400,Psoriatic Arthritis,35-55,40-60,365,2022-08-25,Approved
