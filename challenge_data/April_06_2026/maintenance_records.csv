@@ -1,0 +1,31 @@
+work_order_id,equipment_id,date,maintenance_type,labor_hours,parts_cost,total_cost,description,technician_id
+WO001,EQ001,2024-10-15,Corrective,8.5,1250.00,2090.00,Bearing replacement after failure,TECH001
+WO002,EQ003,2024-10-14,Preventive,2.0,85.00,235.00,Routine lubrication and inspection,TECH002
+WO003,EQ007,2024-10-12,Corrective,12.0,3200.00,4100.00,Motor replacement due to burnout,TECH003
+WO004,EQ015,2024-10-10,Preventive,1.5,45.00,157.50,Filter replacement,TECH001
+WO005,EQ021,2024-10-09,Corrective,6.0,890.00,1340.00,Hydraulic pump repair,TECH002
+WO006,EQ008,2024-10-08,Preventive,3.0,120.00,345.00,Belt replacement and alignment,TECH003
+WO007,EQ012,2024-10-05,Emergency,15.0,4500.00,5625.00,Critical gearbox failure,TECH001
+WO008,EQ034,2024-10-03,Preventive,2.5,75.00,262.50,Coolant system maintenance,TECH002
+WO009,EQ045,2024-10-01,Corrective,4.0,320.00,620.00,Sensor calibration after drift,TECH003
+WO010,EQ067,2024-09-28,Preventive,1.0,25.00,100.00,Basic inspection and cleaning,TECH001
+WO011,EQ002,2024-09-26,Corrective,9.0,1800.00,2475.00,Conveyor chain replacement,TECH002
+WO012,EQ019,2024-09-24,Emergency,18.0,6200.00,7550.00,Complete control system failure,TECH003
+WO013,EQ023,2024-09-22,Preventive,2.0,90.00,240.00,Routine maintenance checklist,TECH001
+WO014,EQ038,2024-09-20,Corrective,5.5,680.00,1092.50,Valve actuator repair,TECH002
+WO015,EQ041,2024-09-18,Preventive,1.5,35.00,147.50,Oil change and filter,TECH003
+WO016,EQ053,2024-09-15,Corrective,7.0,950.00,1475.00,Pneumatic cylinder rebuild,TECH001
+WO017,EQ011,2024-09-12,Emergency,14.0,3800.00,4850.00,Spindle bearing failure,TECH002
+WO018,EQ026,2024-09-10,Preventive,2.5,110.00,297.50,Electrical connection inspection,TECH003
+WO019,EQ039,2024-09-08,Corrective,6.5,420.00,907.50,Temperature sensor replacement,TECH001
+WO020,EQ048,2024-09-05,Preventive,1.0,20.00,95.00,Lubrication service,TECH002
+WO021,EQ014,2024-09-03,Corrective,11.0,2100.00,2925.00,Coupling alignment and replacement,TECH003
+WO022,EQ031,2024-09-01,Emergency,20.0,5500.00,7000.00,Hydraulic system catastrophic failure,TECH001
+WO023,EQ057,2024-08-29,Preventive,3.0,150.00,375.00,Quarterly maintenance inspection,TECH002
+WO024,EQ062,2024-08-27,Corrective,4.5,290.00,627.50,Limit switch replacement,TECH003
+WO025,EQ073,2024-08-25,Preventive,2.0,80.00,230.00,Preventive maintenance cycle,TECH001
+WO026,EQ005,2024-08-22,Corrective,8.0,1100.00,1700.00,Drive motor repair,TECH002
+WO027,EQ018,2024-08-20,Emergency,16.0,4200.00,5400.00,Press brake hydraulic failure,TECH003
+WO028,EQ029,2024-08-18,Preventive,1.5,60.00,172.50,Filter and fluid check,TECH001
+WO029,EQ044,2024-08-15,Corrective,5.0,380.00,755.00,Encoder replacement,TECH002
+WO030,EQ050,2024-08-12,Preventive,2.5,95.00,282.50,Belt tension adjustment,TECH003

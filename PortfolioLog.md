@@ -898,3 +898,28 @@ Build an intelligent pharmacovigilance analytics system that automatically proce
 - Executive safety dashboard showing portfolio-wide risk indicators
 
 ---
+# Daily AI Challenge – April 06, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent maintenance optimization system that predicts equipment failure risks and recommends optimal maintenance schedules to transform reactive maintenance into a data-driven preventive operation. The system aims to reduce unplanned downtime by 40% and minimize monthly equipment costs averaging $180K.
+
+## Skills Trained
+- Predictive maintenance modeling
+- Multi-factor risk assessment
+- Manufacturing operations analytics
+- Equipment lifecycle management
+- Executive-level operational reporting
+
+## Deliverables
+- Equipment failure risk assessment with probability scores
+- Optimized maintenance schedule with cost-benefit analysis
+- Parts inventory optimization recommendations
+- Monthly maintenance budget projections
+- Executive dashboard with maintenance KPIs
+
+---

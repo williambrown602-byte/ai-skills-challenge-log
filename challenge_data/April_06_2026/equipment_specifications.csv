@@ -1,0 +1,36 @@
+equipment_id,equipment_name,manufacturer,model,install_date,equipment_type,criticality,current_age_years,replacement_cost,utilization_hours_weekly
+EQ001,CNC Machining Center 1,Haas,VF-2SS,2018-03-15,Machining,High,6.7,125000,65
+EQ002,Conveyor System A,FlexLink,X85,2019-06-22,Material Handling,Medium,5.3,45000,80
+EQ003,Hydraulic Press 1,Schuler,MSP 500,2017-01-10,Forming,High,7.8,180000,55
+EQ004,Assembly Robot 1,KUKA,KR 10 R1100,2020-09-14,Assembly,High,4.2,95000,70
+EQ005,Drive Motor Unit 1,Siemens,1LA7,2016-11-30,Drive,Medium,7.9,8500,85
+EQ006,Air Compressor 1,Atlas Copco,GA 37,2018-05-20,Utility,Medium,6.4,32000,40
+EQ007,Welding Station 1,Lincoln,Power Wave,2019-02-28,Welding,Medium,5.7,25000,45
+EQ008,Packaging Line 1,Bosch,SVP 64,2017-08-15,Packaging,High,7.2,75000,90
+EQ009,Quality Scanner 1,Cognex,In-Sight 7000,2021-01-12,Quality Control,Medium,3.8,15000,30
+EQ010,Cooling System 1,Johnson Controls,YVWA,2016-07-25,HVAC,High,8.3,55000,168
+EQ011,Spindle Unit 1,Fischer,MFW 1240,2018-12-05,Machining,High,5.9,45000,60
+EQ012,Gearbox Assembly 1,SEW,R97DT,2017-04-18,Drive,High,7.5,18000,75
+EQ013,Pneumatic Actuator 1,Festo,DSBC-63,2019-10-30,Actuation,Medium,5.1,2500,50
+EQ014,Coupling Unit 1,Lovejoy,L-190,2020-03-08,Drive,Medium,4.6,1200,80
+EQ015,Filter System 1,Donaldson,UMA,2018-07-12,Filtration,Low,6.3,3500,24
+EQ016,Transformer 1,ABB,ONAN,2016-12-20,Electrical,High,7.8,25000,168
+EQ017,Pump Motor 1,Grundfos,CR 32,2019-05-15,Pumping,Medium,5.4,4800,60
+EQ018,Press Brake 1,Amada,HFE 100,2017-09-22,Forming,High,7.1,95000,40
+EQ019,Control System 1,Allen Bradley,CompactLogix,2020-11-18,Control,High,3.9,35000,168
+EQ020,Bearing Assembly 1,SKF,22220E,2018-08-30,Support,Medium,6.2,800,85
+EQ021,Hydraulic Pump 1,Rexroth,A10VSO,2017-06-14,Hydraulic,High,7.4,15000,65
+EQ022,Vision System 1,Keyence,CV-X100,2021-04-26,Inspection,Medium,3.5,12000,35
+EQ023,Motor Drive 1,ABB,ACS880,2019-01-20,Control,High,5.8,8500,70
+EQ024,Servo Motor 1,Mitsubishi,HG-KR,2020-07-03,Motion,High,4.3,6500,55
+EQ025,Safety System 1,Pilz,PNOZ,2018-10-17,Safety,High,6.1,4200,168
+EQ026,Electrical Panel 1,Schneider,Prisma,2017-12-08,Electrical,Medium,6.9,8800,168
+EQ027,Chiller Unit 1,Carrier,30HXC,2016-08-28,Cooling,High,8.2,28000,120
+EQ028,Vibration Damper 1,LORD,J-6213,2019-07-11,Isolation,Low,5.3,350,85
+EQ029,Fluid System 1,Parker,P1D,2018-02-25,Hydraulic,Medium,6.7,7200,45
+EQ030,Encoder Unit 1,Heidenhain,ROD 426,2020-12-15,Feedback,Medium,3.9,2800,70
+EQ031,Hydraulic Manifold 1,Sun Hydraulics,CVCS,2017-05-09,Hydraulic,High,7.6,9500,65
+EQ032,Temperature Controller 1,Watlow,EZ-ZONE,2019-09-04,Control,Medium,5.2,1800,50
+EQ033,Pressure Sensor 1,Honeywell,TJE,2021-02-17,Sensing,Low,3.7,450,168
+EQ034,Coolant Pump 1,ITT Goulds,3196,2018-06-28,Pumping,Medium,6.3,3200,80
+EQ035,Linear Actuator 1,Thomson,PC25,2020-01-22,Motion,Medium,4.8,5500,40

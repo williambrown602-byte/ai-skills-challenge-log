@@ -1,0 +1,26 @@
+incident_id,equipment_id,failure_date,failure_type,root_cause,downtime_hours,production_loss,repair_cost,severity
+INC001,EQ007,2024-09-15,Motor Burnout,Overheating due to blocked ventilation,18,45000,4100,Critical
+INC002,EQ012,2024-08-22,Gearbox Failure,Metal fatigue from excessive load cycles,24,60000,5625,Critical
+INC003,EQ019,2024-07-30,Control System Failure,Software corruption after power surge,12,30000,7550,High
+INC004,EQ031,2024-07-18,Hydraulic System Failure,Seal degradation causing internal leakage,36,90000,7000,Critical
+INC005,EQ018,2024-06-25,Hydraulic Line Rupture,Pressure spike beyond design limits,15,37500,5400,Critical
+INC006,EQ003,2024-06-10,Press Malfunction,Hydraulic pump cavitation,8,20000,2090,Medium
+INC007,EQ001,2024-05-28,Bearing Failure,Inadequate lubrication schedule,6,15000,2090,Medium
+INC008,EQ021,2024-05-15,Pump Failure,Impeller wear from contaminated fluid,9,22500,1340,Medium
+INC009,EQ011,2024-04-20,Spindle Seizure,Bearing contamination,21,52500,4850,Critical
+INC010,EQ026,2024-04-05,Electrical Fault,Moisture ingress in panel,4,10000,297.50,Low
+INC011,EQ005,2024-03-18,Motor Failure,Winding insulation breakdown,14,35000,1700,High
+INC012,EQ014,2024-03-02,Coupling Failure,Misalignment causing excessive vibration,7,17500,2925,Medium
+INC013,EQ002,2024-02-14,Chain Break,Chain tensioner malfunction,10,25000,2475,Medium
+INC014,EQ016,2024-01-28,Transformer Overload,Load imbalance causing overheating,5,12500,4500,High
+INC015,EQ027,2024-01-10,Chiller Failure,Refrigerant leak from corroded coils,20,50000,15000,Critical
+INC016,EQ008,2023-12-22,Belt Failure,Belt stretching beyond tolerance,3,7500,345,Low
+INC017,EQ023,2023-12-08,Drive Failure,Power module thermal shutdown,11,27500,3800,High
+INC018,EQ034,2023-11-20,Pump Cavitation,Suction line blockage,6,15000,620,Medium
+INC019,EQ045,2023-11-05,Sensor Drift,Temperature cycling degradation,2,5000,620,Low
+INC020,EQ053,2023-10-18,Cylinder Failure,Seal wear from contaminated air,13,32500,1475,High
+INC021,EQ039,2023-10-01,Sensor Failure,Moisture damage to electronics,4,10000,907.50,Low
+INC022,EQ041,2023-09-15,Oil Contamination,External contamination source,8,20000,500,Medium
+INC023,EQ048,2023-09-02,Lubrication Failure,Lubricant degradation,5,12500,400,Medium
+INC024,EQ057,2023-08-18,Mechanical Wear,Normal wear beyond service limit,9,22500,850,Medium
+INC025,EQ062,2023-08-05,Switch Malfunction,Contact wear from high cycle count,3,7500,627.50,Low
