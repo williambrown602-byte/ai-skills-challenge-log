@@ -923,3 +923,28 @@ Build an intelligent maintenance optimization system that predicts equipment fai
 - Executive dashboard with maintenance KPIs
 
 ---
+# Daily AI Challenge – April 07, 2026
+
+**Domain:** Customer Success/Healthcare Technology
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent customer health scoring system that automatically processes multi-source customer data to generate prioritized intervention lists and reduce manual analysis time from 3 days to 30 minutes. Enable data-driven customer success management to reduce churn by 35% through proactive interventions.
+
+## Skills Trained
+- Customer lifecycle analytics and churn prediction modeling
+- Multi-source data integration and health scoring algorithms
+- Healthcare technology industry knowledge and customer success optimization
+- Predictive analytics for customer relationship management
+- Revenue retention strategy and business impact measurement
+
+## Deliverables
+- Top 25 at-risk customers ranked by churn probability with specific risk factors
+- Automated customer health scoring system (0-100 scale) with trend analysis
+- Personalized intervention playbooks for each risk category
+- Monthly customer portfolio health report showing segment distributions
+- ROI projection showing potential revenue retention from proactive interventions
+
+---

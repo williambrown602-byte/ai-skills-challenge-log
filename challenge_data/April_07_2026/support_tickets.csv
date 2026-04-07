@@ -1,0 +1,26 @@
+ticket_id,customer_id,created_date,resolved_date,category,priority,resolution_time_hours,satisfaction_rating,ticket_status
+TKT-1001,CUST-002,2026-03-15,2026-03-18,Login Issues,High,72,2,Resolved
+TKT-1002,CUST-005,2026-03-10,2026-03-15,Feature Request,Medium,120,3,Resolved
+TKT-1003,CUST-001,2026-03-20,2026-03-20,General Question,Low,4,5,Resolved
+TKT-1004,CUST-009,2026-03-22,2026-03-25,Technical Bug,High,78,2,Resolved
+TKT-1005,CUST-014,2026-03-12,2026-03-16,Integration Issue,High,96,1,Resolved
+TKT-1006,CUST-003,2026-03-25,2026-03-25,Feature Request,Low,6,4,Resolved
+TKT-1007,CUST-002,2026-03-28,2026-04-02,Login Issues,High,120,2,Resolved
+TKT-1008,CUST-011,2026-03-30,2026-04-01,Technical Bug,Medium,48,3,Resolved
+TKT-1009,CUST-017,2026-04-01,2026-04-03,Training Request,Low,48,4,Resolved
+TKT-1010,CUST-005,2026-04-02,,Performance Issue,High,0,0,Open
+TKT-1011,CUST-008,2026-04-03,2026-04-03,General Question,Low,2,5,Resolved
+TKT-1012,CUST-022,2026-04-04,2026-04-06,Login Issues,Medium,48,3,Resolved
+TKT-1013,CUST-002,2026-04-05,,Technical Bug,High,0,0,Open
+TKT-1014,CUST-013,2026-04-05,2026-04-05,Feature Request,Low,8,4,Resolved
+TKT-1015,CUST-020,2026-04-06,2026-04-06,General Question,Low,4,5,Resolved
+TKT-1016,CUST-007,2026-03-18,2026-03-20,Integration Issue,Medium,48,4,Resolved
+TKT-1017,CUST-016,2026-03-26,2026-03-27,Technical Bug,Medium,24,4,Resolved
+TKT-1018,CUST-004,2026-03-29,2026-03-31,Training Request,Low,48,3,Resolved
+TKT-1019,CUST-019,2026-04-01,2026-04-02,General Question,Low,18,4,Resolved
+TKT-1020,CUST-014,2026-04-03,,Performance Issue,High,0,0,Open
+TKT-1021,CUST-025,2026-04-04,2026-04-05,Feature Request,Medium,24,4,Resolved
+TKT-1022,CUST-006,2026-04-05,2026-04-05,General Question,Low,6,5,Resolved
+TKT-1023,CUST-012,2026-04-06,2026-04-06,Technical Bug,Medium,12,4,Resolved
+TKT-1024,CUST-018,2026-04-06,2026-04-06,Feature Request,Low,4,5,Resolved
+TKT-1025,CUST-024,2026-04-06,,Login Issues,Medium,0,0,Open

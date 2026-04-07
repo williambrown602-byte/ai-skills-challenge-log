@@ -1,0 +1,26 @@
+customer_id,company_name,contract_value_annual,implementation_date,contract_end_date,team_size,industry_specialty,payment_status,account_manager,contract_type
+CUST-001,Central Valley Medical Group,24000,2024-08-15,2027-08-15,32,Family Medicine,Current,Sarah Johnson,Multi-year
+CUST-002,Riverside Family Practice,12000,2024-11-20,2025-11-20,15,Family Medicine,Overdue,Mike Chen,Annual
+CUST-003,Metro Health Partners,85000,2023-05-10,2026-05-10,180,Multi-specialty,Current,Emily Rodriguez,Multi-year
+CUST-004,Sunrise Pediatrics,18000,2024-09-01,2026-09-01,18,Pediatrics,Current,David Kim,Multi-year
+CUST-005,Oakwood Internal Medicine,15000,2025-01-15,2026-01-15,12,Internal Medicine,Overdue,Sarah Johnson,Annual
+CUST-006,Pacific Coast Cardiology,32000,2024-06-20,2027-06-20,28,Cardiology,Current,Lisa Wang,Multi-year
+CUST-007,Mountain View Orthopedics,42000,2024-07-10,2026-07-10,45,Orthopedics,Current,Mike Chen,Multi-year
+CUST-008,Harbor Medical Center,78000,2023-03-15,2026-03-15,95,Multi-specialty,Current,Emily Rodriguez,Multi-year
+CUST-009,Desert Wellness Clinic,9500,2024-12-01,2025-12-01,12,Wellness,Current,David Kim,Annual
+CUST-010,Northside Family Health,36000,2024-04-20,2027-04-20,48,Family Medicine,Current,Lisa Wang,Multi-year
+CUST-011,Westfield Dermatology,21000,2024-10-05,2025-10-05,18,Dermatology,Current,Sarah Johnson,Annual
+CUST-012,Eastgate Surgery Center,38000,2024-08-30,2026-08-30,32,Surgery,Current,Mike Chen,Multi-year
+CUST-013,Lakeside Medical Associates,65000,2023-09-15,2026-09-15,85,Multi-specialty,Current,Emily Rodriguez,Multi-year
+CUST-014,Hillcrest Urgent Care,16000,2025-02-01,2026-02-01,16,Urgent Care,Overdue,David Kim,Annual
+CUST-015,Bayshore Women's Health,28000,2024-11-10,2026-11-10,26,Women's Health,Current,Lisa Wang,Multi-year
+CUST-016,Valley View Neurology,45000,2024-05-25,2027-05-25,36,Neurology,Current,Sarah Johnson,Multi-year
+CUST-017,Crossroads Family Medicine,22000,2024-12-15,2025-12-15,22,Family Medicine,Current,Mike Chen,Annual
+CUST-018,Summit Healthcare Group,95000,2023-01-20,2026-01-20,158,Multi-specialty,Current,Emily Rodriguez,Multi-year
+CUST-019,Riverside Oncology,52000,2024-03-10,2027-03-10,35,Oncology,Current,David Kim,Multi-year
+CUST-020,Coastal Primary Care,26000,2024-10-20,2025-10-20,24,Primary Care,Current,Lisa Wang,Annual
+CUST-021,Midtown Radiology,48000,2024-02-15,2027-02-15,32,Radiology,Current,Sarah Johnson,Multi-year
+CUST-022,Parkside Pediatric Group,19000,2025-01-05,2026-01-05,16,Pediatrics,Current,Mike Chen,Annual
+CUST-023,Heritage Medical Practice,58000,2023-11-30,2026-11-30,55,Multi-specialty,Current,Emily Rodriguez,Multi-year
+CUST-024,Gateway Rehabilitation,34000,2024-09-20,2026-09-20,26,Rehabilitation,Current,David Kim,Multi-year
+CUST-025,Northern Lights Psychiatry,29000,2024-12-10,2026-12-10,21,Psychiatry,Current,Lisa Wang,Multi-year

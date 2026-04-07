@@ -1,0 +1,26 @@
+customer_id,company_name,login_frequency_30d,feature_adoption_score,user_growth_rate,active_users,total_licensed_users,last_login_date,avg_session_duration_min,core_features_used,advanced_features_used
+CUST-001,Central Valley Medical Group,45,0.85,0.12,28,32,2026-04-06,42,8,3
+CUST-002,Riverside Family Practice,12,0.34,−0.08,8,15,2026-03-28,18,4,0
+CUST-003,Metro Health Partners,67,0.92,0.25,156,180,2026-04-06,38,12,7
+CUST-004,Sunrise Pediatrics,23,0.67,0.03,12,18,2026-04-05,31,6,2
+CUST-005,Oakwood Internal Medicine,8,0.28,−0.15,4,12,2026-03-15,12,3,0
+CUST-006,Pacific Coast Cardiology,41,0.78,0.18,22,28,2026-04-06,45,9,4
+CUST-007,Mountain View Orthopedics,29,0.71,0.09,35,45,2026-04-05,35,7,3
+CUST-008,Harbor Medical Center,73,0.89,0.22,89,95,2026-04-06,41,11,6
+CUST-009,Desert Wellness Clinic,15,0.41,−0.05,6,12,2026-03-30,22,5,1
+CUST-010,Northside Family Health,52,0.83,0.14,41,48,2026-04-06,39,10,5
+CUST-011,Westfield Dermatology,19,0.52,0.02,11,18,2026-04-03,28,6,1
+CUST-012,Eastgate Surgery Center,38,0.75,0.11,24,32,2026-04-05,36,8,3
+CUST-013,Lakeside Medical Associates,61,0.87,0.19,78,85,2026-04-06,44,11,5
+CUST-014,Hillcrest Urgent Care,14,0.38,−0.12,7,16,2026-03-25,16,4,0
+CUST-015,Bayshore Women's Health,33,0.69,0.07,19,26,2026-04-04,33,7,2
+CUST-016,Valley View Neurology,47,0.81,0.16,31,36,2026-04-06,40,9,4
+CUST-017,Crossroads Family Medicine,21,0.55,0.01,13,22,2026-04-02,26,5,1
+CUST-018,Summit Healthcare Group,69,0.91,0.24,142,158,2026-04-06,43,12,8
+CUST-019,Riverside Oncology,36,0.73,0.08,28,35,2026-04-05,37,8,3
+CUST-020,Coastal Primary Care,25,0.61,0.04,16,24,2026-04-04,29,6,2
+CUST-021,Midtown Radiology,44,0.79,0.13,26,32,2026-04-06,38,9,4
+CUST-022,Parkside Pediatric Group,18,0.47,−0.02,9,16,2026-03-31,24,5,0
+CUST-023,Heritage Medical Practice,56,0.85,0.17,49,55,2026-04-06,41,10,5
+CUST-024,Gateway Rehabilitation,31,0.66,0.06,18,26,2026-04-04,32,7,2
+CUST-025,Northern Lights Psychiatry,27,0.63,0.05,14,21,2026-04-03,30,6,2
