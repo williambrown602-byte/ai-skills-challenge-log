@@ -1,0 +1,13 @@
+department,shift,minimum_staff,required_skills,productivity_target_units_per_hour,critical_positions
+Assembly,Morning,12,mechanical_assembly|quality_check,45,line_lead|quality_inspector
+Assembly,Evening,10,mechanical_assembly|quality_check,40,line_lead|quality_inspector
+Assembly,Night,8,mechanical_assembly|quality_check,35,line_lead
+Quality Control,Morning,6,quality_inspection|documentation|testing,25,senior_inspector
+Quality Control,Evening,5,quality_inspection|documentation|testing,22,senior_inspector
+Quality Control,Night,4,quality_inspection|documentation|testing,20,senior_inspector
+Packaging,Morning,8,packaging|labeling|inventory,60,packaging_lead
+Packaging,Evening,7,packaging|labeling|inventory,55,packaging_lead
+Packaging,Night,6,packaging|labeling|inventory,50,packaging_lead
+Maintenance,Morning,4,electrical|mechanical|troubleshooting,8,senior_technician
+Maintenance,Evening,3,electrical|mechanical|troubleshooting,6,senior_technician
+Maintenance,Night,3,electrical|mechanical|troubleshooting,5,senior_technician

@@ -1,0 +1,37 @@
+date,shift,department,staff_count,units_produced,target_units,quality_defects,downtime_minutes,overtime_hours_used
+2024-10-15,Morning,Assembly,11,495,540,12,45,5.0
+2024-10-15,Evening,Assembly,9,360,400,8,30,4.0
+2024-10-15,Night,Assembly,7,245,280,6,60,2.5
+2024-10-15,Morning,Quality Control,6,150,150,3,15,3.5
+2024-10-15,Evening,Quality Control,4,88,110,2,25,7.0
+2024-10-15,Night,Quality Control,3,60,80,1,20,4.0
+2024-10-15,Morning,Packaging,8,480,480,2,10,1.0
+2024-10-15,Evening,Packaging,6,330,385,4,35,4.0
+2024-10-15,Night,Packaging,5,250,300,1,40,3.5
+2024-10-15,Morning,Maintenance,4,32,32,0,0,1.5
+2024-10-15,Evening,Maintenance,3,18,18,0,0,3.0
+2024-10-15,Night,Maintenance,3,15,15,0,0,2.5
+2024-10-16,Morning,Assembly,12,540,540,8,20,2.0
+2024-10-16,Evening,Assembly,10,400,400,5,15,2.0
+2024-10-16,Night,Assembly,8,280,280,4,25,4.5
+2024-10-16,Morning,Quality Control,5,125,150,4,30,6.5
+2024-10-16,Evening,Quality Control,5,110,110,1,10,3.0
+2024-10-16,Night,Quality Control,4,80,80,2,15,0
+2024-10-16,Morning,Packaging,8,480,480,1,5,0
+2024-10-16,Evening,Packaging,6,330,385,3,20,1.5
+2024-10-16,Night,Packaging,6,300,300,2,15,0
+2024-10-16,Morning,Maintenance,3,24,32,0,45,7.5
+2024-10-16,Evening,Maintenance,3,18,18,0,0,1.5
+2024-10-16,Night,Maintenance,3,15,15,0,0,0
+2024-10-17,Morning,Assembly,11,495,540,10,35,2.5
+2024-10-17,Evening,Assembly,9,360,400,7,40,3.0
+2024-10-17,Night,Assembly,8,280,280,3,10,1.0
+2024-10-17,Morning,Quality Control,5,125,150,3,25,5.0
+2024-10-17,Evening,Quality Control,5,110,110,2,20,1.5
+2024-10-17,Night,Quality Control,4,80,80,1,5,3.0
+2024-10-17,Morning,Packaging,8,480,480,2,12,2.5
+2024-10-17,Evening,Packaging,7,385,385,1,8,3.0
+2024-10-17,Night,Packaging,6,300,300,3,18,2.0
+2024-10-17,Morning,Maintenance,3,24,32,0,30,7.0
+2024-10-17,Evening,Maintenance,3,18,18,0,0,0
+2024-10-17,Night,Maintenance,3,15,15,0,0,1.0

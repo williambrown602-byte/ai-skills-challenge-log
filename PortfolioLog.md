@@ -948,3 +948,28 @@ Build an intelligent customer health scoring system that automatically processes
 - ROI projection showing potential revenue retention from proactive interventions
 
 ---
+# Daily AI Challenge – April 08, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent workforce scheduling optimization system that predicts staffing needs, identifies coverage gaps, and automatically generates shift recommendations to reduce overtime costs by 30% while maintaining 95%+ production target achievement for a mid-sized manufacturing company.
+
+## Skills Trained
+- Workforce analytics and operational optimization
+- Predictive modeling for business operations
+- Multi-constraint scheduling and resource allocation
+- Manufacturing industry operational knowledge
+- Cost reduction strategy development and ROI calculation
+
+## Deliverables
+- Optimal shift staffing recommendations for next 4 weeks with coverage gap alerts
+- Absenteeism prediction model identifying high-risk shifts requiring backup planning
+- Overtime cost reduction strategy with specific implementation steps and projected savings
+- Employee utilization analysis showing optimal skill-shift matches
+- Weekly workforce planning dashboard with real-time staffing health indicators
+
+---

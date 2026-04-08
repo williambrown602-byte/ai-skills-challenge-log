@@ -1,0 +1,21 @@
+employee_id,employee_name,department,primary_skills,secondary_skills,availability_preference,performance_rating,hire_date,hourly_rate,certifications
+E001,John Smith,Assembly,mechanical_assembly|quality_check,inventory,Morning,4.2,2023-03-15,22.50,ISO9001
+E002,Sarah Johnson,Quality Control,quality_inspection|documentation,testing|training,Evening,4.7,2022-11-08,26.75,Six Sigma Green Belt
+E003,Mike Chen,Packaging,packaging|labeling|inventory,quality_check,Night,4.1,2023-07-22,21.00,Forklift Certified
+E004,Lisa Rodriguez,Maintenance,electrical|mechanical|troubleshooting,quality_inspection,Morning,4.8,2021-05-12,31.25,Master Electrician
+E005,David Wilson,Assembly,mechanical_assembly,packaging,Evening,3.9,2023-09-03,20.75,
+E006,Jennifer Brown,Quality Control,quality_inspection|testing,documentation,Night,4.3,2022-12-14,25.50,OSHA 30
+E007,Robert Taylor,Packaging,packaging|inventory,labeling|quality_check,Morning,4.0,2023-06-18,22.00,
+E008,Amanda Davis,Maintenance,mechanical|troubleshooting,electrical,Evening,4.6,2022-02-28,29.50,HVAC Certified
+E009,Christopher Lee,Assembly,mechanical_assembly|quality_check,training,Night,4.4,2022-08-07,24.25,Lean Manufacturing
+E010,Michelle Garcia,Quality Control,quality_inspection|documentation|testing,training,Morning,4.9,2021-09-21,28.00,Six Sigma Black Belt
+E011,Kevin Martinez,Packaging,packaging|labeling,inventory,Evening,3.8,2024-01-10,19.75,
+E012,Nicole White,Maintenance,electrical|troubleshooting,mechanical,Night,4.5,2022-04-03,30.00,Automation Specialist
+E013,Daniel Anderson,Assembly,mechanical_assembly,quality_check,Morning,4.1,2023-02-14,21.50,
+E014,Jessica Thomas,Quality Control,quality_inspection|testing,documentation,Evening,4.2,2022-10-19,25.75,
+E015,Ryan Jackson,Packaging,packaging|inventory|labeling,mechanical_assembly,Night,4.3,2022-07-11,23.25,Safety Coordinator
+E016,Stephanie Moore,Maintenance,electrical|mechanical,troubleshooting,Morning,4.7,2021-12-06,32.00,PLC Programming
+E017,Brian Clark,Assembly,mechanical_assembly,packaging|quality_check,Evening,4.0,2023-04-25,21.25,
+E018,Ashley Lewis,Quality Control,quality_inspection|documentation,testing,Night,4.6,2022-01-17,27.25,Statistical Process Control
+E019,Thomas Wilson,Assembly,mechanical_assembly|quality_check|training,troubleshooting,Morning,4.8,2020-08-15,26.50,Team Lead Certified
+E020,Maria Gonzalez,Quality Control,quality_inspection|testing|documentation|training,statistical_analysis,Evening,4.9,2021-03-22,29.75,Quality Manager Certified

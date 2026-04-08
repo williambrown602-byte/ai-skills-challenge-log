@@ -1,0 +1,55 @@
+employee_id,employee_name,date,shift,department,attendance_status,overtime_hours,regular_hours
+E001,John Smith,2024-10-15,Morning,Assembly,Present,2.5,8
+E001,John Smith,2024-10-16,Morning,Assembly,Present,0,8
+E001,John Smith,2024-10-17,Morning,Assembly,Absent,0,0
+E002,Sarah Johnson,2024-10-15,Evening,Quality Control,Present,1.0,8
+E002,Sarah Johnson,2024-10-16,Evening,Quality Control,Present,3.0,8
+E002,Sarah Johnson,2024-10-17,Evening,Quality Control,Present,0,8
+E003,Mike Chen,2024-10-15,Night,Packaging,Present,0,8
+E003,Mike Chen,2024-10-16,Night,Packaging,Present,4.0,8
+E003,Mike Chen,2024-10-17,Night,Packaging,Present,2.0,8
+E004,Lisa Rodriguez,2024-10-15,Morning,Maintenance,Present,1.5,8
+E004,Lisa Rodriguez,2024-10-16,Morning,Maintenance,Absent,0,0
+E004,Lisa Rodriguez,2024-10-17,Morning,Maintenance,Present,3.5,8
+E005,David Wilson,2024-10-15,Evening,Assembly,Present,0,8
+E005,David Wilson,2024-10-16,Evening,Assembly,Present,2.0,8
+E005,David Wilson,2024-10-17,Evening,Assembly,Late,1.0,6
+E006,Jennifer Brown,2024-10-15,Night,Quality Control,Present,2.0,8
+E006,Jennifer Brown,2024-10-16,Night,Quality Control,Present,0,8
+E006,Jennifer Brown,2024-10-17,Night,Quality Control,Absent,0,0
+E007,Robert Taylor,2024-10-15,Morning,Packaging,Present,1.0,8
+E007,Robert Taylor,2024-10-16,Morning,Packaging,Present,0,8
+E007,Robert Taylor,2024-10-17,Morning,Packaging,Present,2.5,8
+E008,Amanda Davis,2024-10-15,Evening,Maintenance,Present,3.0,8
+E008,Amanda Davis,2024-10-16,Evening,Maintenance,Present,1.5,8
+E008,Amanda Davis,2024-10-17,Evening,Maintenance,Present,0,8
+E009,Christopher Lee,2024-10-15,Night,Assembly,Present,0,8
+E009,Christopher Lee,2024-10-16,Night,Assembly,Present,4.5,8
+E009,Christopher Lee,2024-10-17,Night,Assembly,Present,1.0,8
+E010,Michelle Garcia,2024-10-15,Morning,Quality Control,Present,2.0,8
+E010,Michelle Garcia,2024-10-16,Morning,Quality Control,Present,0,8
+E010,Michelle Garcia,2024-10-17,Morning,Quality Control,Late,1.5,6
+E011,Kevin Martinez,2024-10-15,Evening,Packaging,Present,1.0,8
+E011,Kevin Martinez,2024-10-16,Evening,Packaging,Absent,0,0
+E011,Kevin Martinez,2024-10-17,Evening,Packaging,Present,3.0,8
+E012,Nicole White,2024-10-15,Night,Maintenance,Present,2.5,8
+E012,Nicole White,2024-10-16,Night,Maintenance,Present,0,8
+E012,Nicole White,2024-10-17,Night,Maintenance,Present,1.0,8
+E013,Daniel Anderson,2024-10-15,Morning,Assembly,Present,0,8
+E013,Daniel Anderson,2024-10-16,Morning,Assembly,Present,2.0,8
+E013,Daniel Anderson,2024-10-17,Morning,Assembly,Present,0,8
+E014,Jessica Thomas,2024-10-15,Evening,Quality Control,Absent,0,0
+E014,Jessica Thomas,2024-10-16,Evening,Quality Control,Present,4.0,8
+E014,Jessica Thomas,2024-10-17,Evening,Quality Control,Present,1.5,8
+E015,Ryan Jackson,2024-10-15,Night,Packaging,Present,1.5,8
+E015,Ryan Jackson,2024-10-16,Night,Packaging,Present,0,8
+E015,Ryan Jackson,2024-10-17,Night,Packaging,Present,2.0,8
+E016,Stephanie Moore,2024-10-15,Morning,Maintenance,Present,3.5,8
+E016,Stephanie Moore,2024-10-16,Morning,Maintenance,Present,1.0,8
+E016,Stephanie Moore,2024-10-17,Morning,Maintenance,Absent,0,0
+E017,Brian Clark,2024-10-15,Evening,Assembly,Present,0,8
+E017,Brian Clark,2024-10-16,Evening,Assembly,Present,2.5,8
+E017,Brian Clark,2024-10-17,Evening,Assembly,Present,0,8
+E018,Ashley Lewis,2024-10-15,Night,Quality Control,Present,2.0,8
+E018,Ashley Lewis,2024-10-16,Night,Quality Control,Present,0,8
+E018,Ashley Lewis,2024-10-17,Night,Quality Control,Present,3.0,8
