@@ -1,0 +1,11 @@
+agent_id,agent_name,department,hire_date,skill_level,avg_resolution_time,tickets_resolved_month,customer_satisfaction_avg,first_call_resolution_rate,workload_capacity,specializations
+AGT003,Sarah Johnson,Technical Support,2022-03-15,senior,24.5,89,8.2,0.75,85,"network_issues,hardware_troubleshooting"
+AGT005,Mike Chen,Customer Relations,2021-07-22,senior,18.3,76,7.8,0.68,90,"billing_disputes,complaints_resolution"
+AGT007,Emily Davis,Billing Support,2023-01-10,intermediate,42.1,67,7.1,0.62,80,"billing_inquiries,payment_processing"
+AGT009,David Rodriguez,Technical Support,2022-11-05,intermediate,38.7,72,7.4,0.58,75,"mobile_support,basic_technical"
+AGT012,Lisa Wong,Account Management,2020-09-18,senior,35.2,81,6.9,0.55,95,"account_changes,service_upgrades"
+AGT015,James Smith,Technical Support,2023-05-20,junior,58.3,45,6.5,0.45,70,"basic_support,password_resets"
+AGT018,Amanda Brown,Billing Support,2021-12-03,intermediate,39.8,69,7.2,0.59,85,"billing_disputes,plan_changes"
+AGT021,Robert Taylor,Customer Relations,2022-08-14,intermediate,31.4,73,7.6,0.64,80,"complaint_handling,retention"
+AGT024,Jennifer Lee,Technical Support,2020-04-12,senior,22.1,92,8.4,0.78,90,"advanced_technical,business_support"
+AGT027,Kevin Martinez,Account Management,2023-02-28,junior,45.6,52,6.8,0.48,75,"account_setup,basic_changes"

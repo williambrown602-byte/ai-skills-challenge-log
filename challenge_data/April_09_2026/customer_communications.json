@@ -1,0 +1,82 @@
+[
+  {
+    "ticket_id": "TKT001",
+    "communication_type": "email",
+    "timestamp": "2024-01-15 09:30:00",
+    "from": "customer",
+    "content": "I'm really frustrated with my bill this month. There are charges I don't recognize and it's $40 higher than usual. This is the third time this has happened and I'm considering switching providers if this isn't resolved quickly.",
+    "sentiment_score": -0.7
+  },
+  {
+    "ticket_id": "TKT001",
+    "communication_type": "email",
+    "timestamp": "2024-01-16 10:15:00",
+    "from": "agent",
+    "content": "Thank you for contacting us. I understand your frustration regarding the billing discrepancy. I've reviewed your account and identified the error. I'll be processing a credit for the incorrect charges and ensuring this doesn't happen again.",
+    "sentiment_score": 0.3
+  },
+  {
+    "ticket_id": "TKT002",
+    "communication_type": "phone",
+    "timestamp": "2024-01-15 11:20:00",
+    "from": "customer",
+    "content": "My internet has been down for 3 hours and I work from home. This is urgent - I have a client presentation in 2 hours and need this fixed immediately!",
+    "sentiment_score": -0.8
+  },
+  {
+    "ticket_id": "TKT002",
+    "communication_type": "phone",
+    "timestamp": "2024-01-15 16:25:00",
+    "from": "agent",
+    "content": "I was able to remotely reset your modem and your service should be fully restored now. I've also applied a service credit to your account for the inconvenience. Is everything working properly on your end?",
+    "sentiment_score": 0.5
+  },
+  {
+    "ticket_id": "TKT004",
+    "communication_type": "social_media",
+    "timestamp": "2024-01-16 08:45:00",
+    "from": "customer",
+    "content": "@TelecomCompany Your service has been out for 6 hours in our neighborhood. No updates, no communication. This is completely unacceptable for what we pay! #servicedown #terrible",
+    "sentiment_score": -0.9
+  },
+  {
+    "ticket_id": "TKT005",
+    "communication_type": "email",
+    "timestamp": "2024-01-16 13:20:00",
+    "from": "customer",
+    "content": "Hi, my internet speed has been consistently slow for the past week. I'm paying for 100Mbps but only getting 15-20Mbps. Can someone help me figure out what's wrong?",
+    "sentiment_score": -0.3
+  },
+  {
+    "ticket_id": "TKT008",
+    "communication_type": "email",
+    "timestamp": "2024-01-18 09:45:00",
+    "from": "customer",
+    "content": "My account was suspended even though I made my payment on time. This is ridiculous and I'm very upset. I need this fixed today as I rely on internet for my business.",
+    "sentiment_score": -0.8
+  },
+  {
+    "ticket_id": "TKT009",
+    "communication_type": "phone",
+    "timestamp": "2024-01-18 14:20:00",
+    "from": "customer",
+    "content": "I called yesterday about a billing issue and the agent was rude and unhelpful. They hung up on me! This is the worst customer service I've ever experienced.",
+    "sentiment_score": -0.9
+  },
+  {
+    "ticket_id": "TKT012",
+    "communication_type": "email",
+    "timestamp": "2024-01-20 08:15:00",
+    "from": "customer",
+    "content": "Complete service outage at our business location. We have 50 employees unable to work. This is costing us thousands of dollars per hour. Need immediate response!",
+    "sentiment_score": -0.9
+  },
+  {
+    "ticket_id": "TKT023",
+    "communication_type": "email",
+    "timestamp": "2024-01-25 15:45:00",
+    "from": "customer",
+    "content": "I can't access my account and need to pay my bill today to avoid late fees. Can someone please unlock my account immediately?",
+    "sentiment_score": -0.4
+  }
+]
