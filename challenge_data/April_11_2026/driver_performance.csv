@@ -1,0 +1,13 @@
+driver_id,name,hire_date,experience_years,vehicle_assigned,total_deliveries_6months,on_time_deliveries,late_deliveries,avg_fuel_efficiency,overtime_hours,performance_rating,training_completed,age,license_type,incidents_count
+DRV101,John Martinez,2022-03-15,2.7,VH001,487,378,109,5.32,45.2,B+,Advanced_Driving,34,Commercial,2
+DRV102,Sarah Johnson,2021-08-22,3.2,VH002,523,445,78,5.89,32.1,A-,Defensive_Driving,29,Commercial,1
+DRV103,Mike Chen,2023-01-10,1.8,VH003,445,312,133,5.15,58.7,C+,Basic_Safety,41,Commercial,4
+DRV104,Lisa Rodriguez,2020-11-05,4.1,VH004,598,521,77,6.12,28.5,A,Customer_Service,36,Commercial,0
+DRV105,David Thompson,2022-07-18,2.4,VH005,456,389,67,5.67,38.9,B+,Advanced_Driving,31,Commercial,1
+DRV106,Anna Williams,2021-12-03,2.9,VH006,512,401,111,5.43,42.3,B,Fuel_Efficiency,28,Commercial,3
+DRV107,Robert Garcia,2023-04-12,1.6,VH007,398,334,64,5.78,35.6,B+,Basic_Safety,45,Commercial,2
+DRV108,Jennifer Brown,2020-09-14,4.3,VH008,567,478,89,6.08,31.2,A-,Customer_Service,33,Commercial,1
+DRV109,Carlos Lopez,2022-01-20,2.8,VH009,478,356,122,5.26,51.4,C+,Defensive_Driving,39,Commercial,3
+DRV110,Emily Davis,2021-05-30,3.5,VH010,534,463,71,5.95,29.8,A-,Advanced_Driving,27,Commercial,0
+DRV111,Kevin Wilson,2023-02-28,1.7,VH011,423,341,82,5.48,41.7,B,Basic_Safety,32,Commercial,2
+DRV112,Maria Gonzalez,2020-12-08,3.9,VH012,589,512,77,6.02,33.4,A,Fuel_Efficiency,30,Commercial,1
