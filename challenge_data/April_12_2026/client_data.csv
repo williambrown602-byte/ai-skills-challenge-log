@@ -1,0 +1,21 @@
+client_id,client_name,industry,account_manager,contract_start,monthly_retainer,client_satisfaction_score,retention_risk,annual_revenue,company_size,seasonal_pattern
+CL001,TechStyle Commerce,E-commerce,Sarah Johnson,2023-03-01,8500,8.2,Low,2400000,Medium,Q4 Peak
+CL002,CloudFlow Solutions,SaaS,Mike Chen,2023-01-15,12000,7.5,Medium,8500000,Large,Steady
+CL003,Urban Retail Co,Retail,Lisa Rodriguez,2023-06-01,6500,6.9,High,1800000,Medium,Q4 Peak
+CL004,HealthFirst Medical,Healthcare,David Park,2022-11-01,15000,9.1,Low,12000000,Large,Steady
+CL005,Luxe Fashion House,Fashion,Sarah Johnson,2023-08-15,9500,8.7,Low,3200000,Medium,Q2/Q4 Peak
+CL006,Premier Financial,Finance,Emily Watson,2023-02-01,11000,6.2,High,6800000,Large,Q1/Q3 Peak
+CL007,EliteCommerce Hub,E-commerce,Mike Chen,2023-09-01,7500,7.8,Medium,2100000,Medium,Q4 Peak
+CL008,Metro Realty Group,Real Estate,Lisa Rodriguez,2022-12-15,13500,8.4,Low,9500000,Large,Spring/Summer Peak
+CL009,EduTech Academy,Education,David Park,2023-10-01,8000,7.3,Medium,1600000,Small,Back-to-school
+CL010,Glow Beauty Brand,Beauty,Sarah Johnson,2022-10-15,10500,9.0,Low,4500000,Medium,Q2/Q4 Peak
+CL011,Justice Partners LLP,Legal,Emily Watson,2023-11-01,14000,8.1,Low,8900000,Large,Steady
+CL012,StreamPlay Entertainment,Entertainment,Mike Chen,2022-12-01,9000,6.5,High,2800000,Medium,Weekend/Holiday Peak
+CL013,Wanderlust Travel Co,Travel,Lisa Rodriguez,2023-05-15,12500,8.6,Low,7200000,Large,Summer/Winter Peak
+CL014,InnovateTech B2B,B2B Tech,David Park,2023-04-01,11500,7.9,Medium,5600000,Medium,Steady
+CL015,Gourmet Delights,Food & Beverage,Emily Watson,2023-07-01,7000,7.2,Medium,1900000,Small,Holiday Peak
+CL016,HomeStyle Living,Home & Garden,Sarah Johnson,2023-03-15,8500,8.8,Low,3100000,Medium,Spring/Summer Peak
+CL017,FitLife Studios,Fitness,Mike Chen,2023-02-15,6500,6.8,High,1400000,Small,New Year/Summer Peak
+CL018,SecureShield Insurance,Insurance,Lisa Rodriguez,2023-08-01,10000,8.3,Low,4800000,Medium,Q4/Q1 Peak
+CL019,Elegant Interiors,Home Decor,David Park,2022-11-15,7500,7.6,Medium,2200000,Medium,Spring/Fall Peak
+CL020,AutoMax Dealers,Automotive,Emily Watson,2023-09-15,13000,8.9,Low,11200000,Large,Spring/Summer Peak

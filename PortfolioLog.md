@@ -1048,3 +1048,28 @@ Build an intelligent delivery performance analytics system that identifies key p
 - Executive dashboard with KPIs and strategic recommendations
 
 ---
+# Daily AI Challenge – April 12, 2026
+
+**Domain:** Marketing
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent campaign performance analysis system that automatically evaluates multi-channel marketing data and identifies success patterns to transform campaign management from reactive troubleshooting into proactive strategic optimization. The system aims to reduce client churn by 25% while supporting 15-20% premium pricing through demonstrated performance superiority.
+
+## Skills Trained
+- Marketing attribution modeling and multi-channel analytics
+- Pattern recognition in campaign performance data
+- Strategic pricing and value proposition development
+- Client relationship management through data insights
+- Digital marketing industry business intelligence
+
+## Deliverables
+- Campaign Performance Diagnostic Report identifying top 15 success drivers
+- Client risk assessment showing accounts requiring immediate optimization attention
+- Channel allocation optimization recommendations with projected ROAS improvements
+- Account manager coaching priorities based on campaign performance patterns
+- Strategic pricing justification framework linking performance capabilities to fee structure
+
+---
