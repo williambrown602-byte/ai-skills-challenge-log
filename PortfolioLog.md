@@ -1073,3 +1073,28 @@ Build an intelligent campaign performance analysis system that automatically eva
 - Strategic pricing justification framework linking performance capabilities to fee structure
 
 ---
+# Daily AI Challenge – April 14, 2026
+
+**Domain:** Legal Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent legal case portfolio optimization system that analyzes case data to identify profitability patterns, predict resource needs, and generate strategic recommendations for improving case selection and resource allocation. The goal is to enable data-driven case management decisions that could improve firm profitability by 15-25%.
+
+## Skills Trained
+- Legal industry business intelligence
+- Multi-practice profitability analysis
+- Predictive resource planning
+- Professional services optimization
+- Strategic business analysis
+
+## Deliverables
+- Case profitability analysis
+- Attorney productivity optimization recommendations
+- Case duration prediction model
+- Client portfolio analysis
+- Strategic case selection framework
+
+---

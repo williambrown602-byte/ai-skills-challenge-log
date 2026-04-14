@@ -1,0 +1,13 @@
+attorney_id,attorney_name,practice_area,years_experience,hourly_rate,total_billable_hours_2024,total_collected_2024,realization_rate,utilization_rate,avg_case_duration,specializations
+ATT-001,Sarah Mitchell,Litigation,12,350,1847,582450,89.5,92.3,8.2,Personal Injury;Product Liability;Class Action
+ATT-002,David Chen,Corporate,15,400,1923,730680,95.0,96.1,7.8,Securities;M&A;Compliance
+ATT-003,Maria Rodriguez,Family Law,8,300,1654,446580,90.2,82.7,5.1,Divorce;Custody;Adoption
+ATT-004,James Thompson,Family Law,6,275,1432,354180,90.0,71.6,3.8,Child Custody;Support;Prenups
+ATT-005,Lisa Park,Corporate,18,450,1756,712980,90.2,87.8,6.4,M&A;Real Estate;Transactions
+ATT-006,Robert Williams,Litigation,10,325,1589,464775,89.8,79.4,6.9,Employment;Civil Rights
+ATT-007,Jennifer Lee,Family Law,14,325,1378,402910,89.5,68.9,4.2,Estate Planning;Probate;Wills
+ATT-008,Michael Brown,Corporate,7,350,1445,455950,90.1,72.2,5.6,Business Formation;Tax;Compliance
+ATT-009,Amanda Davis,Litigation,9,375,1512,510030,89.0,75.6,7.8,Medical Malpractice;Personal Injury
+ATT-010,Kevin Wilson,Litigation,5,300,1234,333180,90.0,61.7,5.2,Criminal Defense;DUI
+ATT-011,Rachel Green,Litigation,13,425,1689,645705,89.7,84.4,8.7,IP Litigation;Construction
+ATT-012,Thomas Anderson,Litigation,4,250,1123,252675,89.8,56.1,5.8,Bankruptcy;Consumer Law
