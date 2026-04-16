@@ -1,0 +1,31 @@
+vendor_id,vendor_name,category,primary_contact,contact_email,phone,address,vendor_since,status,tier
+V001,CloudTech Solutions,Software,Sarah Johnson,sarah.j@cloudtech.com,555-0101,123 Tech Ave Seattle WA,2022-03-15,Active,Tier 1
+V002,DataSecure Pro,Software,Mike Chen,m.chen@datasecure.com,555-0102,456 Cyber St Austin TX,2021-08-22,Active,Tier 1
+V003,Office Dynamics,Facilities,Lisa Rodriguez,lrodriguez@officedyn.com,555-0103,789 Service Blvd Chicago IL,2020-01-10,Active,Tier 2
+V004,TechHardware Inc,Hardware,David Kim,dkim@techhw.com,555-0104,321 Hardware Way San Jose CA,2019-05-18,Active,Tier 1
+V005,Marketing Boost,Services,Jennifer White,jwhite@marketboost.com,555-0105,654 Creative Dr New York NY,2021-11-03,Active,Tier 2
+V006,SecureNet Systems,Software,Robert Brown,rbrown@securenet.com,555-0106,987 Security Ln Denver CO,2020-09-12,Active,Tier 1
+V007,CleanPro Services,Facilities,Maria Garcia,mgarcia@cleanpro.com,555-0107,147 Clean St Miami FL,2022-02-28,Active,Tier 3
+V008,Analytics Pro,Software,James Wilson,jwilson@analyticspro.com,555-0108,258 Data Ave Boston MA,2021-06-14,Active,Tier 2
+V009,Cloud Infrastructure Co,Software,Amanda Davis,adavis@cloudinfra.com,555-0109,369 Cloud Rd Portland OR,2020-04-07,Active,Tier 1
+V010,Legal Eagles,Services,Thomas Miller,tmiller@legaleagles.com,555-0110,741 Law St Washington DC,2019-12-20,Active,Tier 2
+V011,Mobile Device Solutions,Hardware,Karen Taylor,ktaylor@mobiledev.com,555-0111,852 Mobile Ave Phoenix AZ,2021-01-15,Active,Tier 2
+V012,HR Solutions Plus,Services,Steven Anderson,sanderson@hrsolutions.com,555-0112,963 HR Blvd Atlanta GA,2020-07-30,Active,Tier 2
+V013,Network Pros,Software,Rachel Thompson,rthompson@networkpros.com,555-0113,159 Network St Dallas TX,2022-05-08,Active,Tier 2
+V014,Facility Management Co,Facilities,Daniel Martinez,dmartinez@facilityco.com,555-0114,357 Facility Rd Houston TX,2019-08-25,Active,Tier 2
+V015,Backup Solutions Inc,Software,Michelle Johnson,mjohnson@backupsol.com,555-0115,468 Backup Way Nashville TN,2021-09-17,Active,Tier 2
+V016,Consulting Group Alpha,Services,Christopher Lee,clee@consultingalpha.com,555-0116,579 Consult Ave Minneapolis MN,2020-11-05,Active,Tier 1
+V017,Server Hardware Co,Hardware,Ashley Wilson,awilson@serverhw.com,555-0117,681 Server St Kansas City MO,2022-01-12,Active,Tier 1
+V018,CRM Software Solutions,Software,Mark Davis,mdavis@crmsoftware.com,555-0118,792 CRM Blvd San Diego CA,2021-04-23,Active,Tier 2
+V019,Office Supplies Direct,Facilities,Laura Brown,lbrown@officesupplies.com,555-0119,814 Supply Rd Columbus OH,2019-06-18,Active,Tier 3
+V020,IT Support Services,Services,Kevin Miller,kmiller@itsupport.com,555-0120,925 Support Ave Indianapolis IN,2020-12-09,Active,Tier 2
+V021,Database Systems Pro,Software,Nicole Garcia,ngarcia@dbsystems.com,555-0121,136 Database St Milwaukee WI,2021-07-26,Active,Tier 2
+V022,Security Hardware Inc,Hardware,Ryan Martinez,rmartinez@securityhw.com,555-0122,247 Security Way Oklahoma City OK,2022-03-31,Active,Tier 2
+V023,Training Solutions,Services,Stephanie Taylor,staylor@trainingsol.com,555-0123,358 Training Blvd Las Vegas NV,2020-05-14,Active,Tier 3
+V024,Cloud Storage Pro,Software,Brian Anderson,banderson@cloudstorage.com,555-0124,469 Storage Rd Louisville KY,2021-10-07,Active,Tier 1
+V025,Maintenance Plus,Facilities,Melissa Thompson,mthompson@maintenanceplus.com,555-0125,570 Maintenance St Memphis TN,2019-11-22,Active,Tier 3
+V026,AI Analytics Corp,Software,Jonathan Lee,jlee@aianalytics.com,555-0126,681 Analytics Ave Richmond VA,2022-06-15,Active,Tier 1
+V027,Network Hardware Solutions,Hardware,Heather Wilson,hwilson@networkhw.com,555-0127,792 Network Blvd Providence RI,2021-02-18,Active,Tier 2
+V028,Financial Services Co,Services,Andrew Davis,adavis@financialservices.com,555-0128,813 Finance St Salt Lake City UT,2020-08-11,Active,Tier 2
+V029,Monitoring Software Inc,Software,Jennifer Brown,jbrown@monitoring.com,555-0129,924 Monitor Way Jacksonville FL,2021-12-04,Active,Tier 2
+V030,Catering Services,Facilities,Matthew Miller,mmiller@catering.com,555-0130,135 Catering Rd Raleigh NC,2019-09-27,Active,Tier 3

@@ -1123,3 +1123,28 @@ Build an intelligent student success analytics system that identifies key driver
 - Executive presentation quantifying potential revenue impact of improved retention
 
 ---
+# Daily AI Challenge – April 16, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Create an intelligent vendor relationship analytics system that consolidates vendor data, identifies optimization opportunities, and generates strategic recommendations for improving vendor portfolio performance while reducing costs and risks.
+
+## Skills Trained
+- Strategic procurement and vendor relationship analytics
+- Multi-criteria performance evaluation and risk scoring
+- Contract lifecycle management and renewal optimization
+- Cost reduction strategy development through supplier portfolio analysis
+- Executive-level operations reporting and strategic recommendations
+
+## Deliverables
+- Vendor portfolio health dashboard with risk indicators
+- Top 25 vendor optimization opportunities ranked by potential impact
+- Contract renewal calendar with 90/60/30 day alerts and negotiation strategies
+- Vendor consolidation analysis showing potential savings from portfolio rationalization
+- Strategic sourcing plan with implementation timeline and projected ROI
+
+---

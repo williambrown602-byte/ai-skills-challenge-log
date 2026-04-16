@@ -1,0 +1,16 @@
+incident_id,vendor_id,incident_date,incident_type,severity,description,resolution_time_hours,business_impact,status,root_cause
+INC001,V002,2024-01-15,Service Outage,High,Database service unavailable for 4 hours,4,Production downtime affecting 500 users,Resolved,Server hardware failure
+INC002,V006,2024-02-03,Security Issue,Critical,Delayed security patch deployment,24,Potential vulnerability exposure,Resolved,Process delay
+INC003,V009,2024-01-28,Performance,Medium,Cloud infrastructure slow response times,12,Reduced system performance,Resolved,Traffic surge
+INC004,V013,2024-02-14,Service Outage,High,Network connectivity issues,6,Remote work disruption,Resolved,ISP routing problem
+INC005,V003,2024-01-22,Quality Issue,Low,Cleaning service missed scheduled maintenance,2,Minor facility cleanliness,Resolved,Scheduling error
+INC006,V018,2024-02-07,Performance,Medium,CRM system slow data loading,8,Sales team productivity impact,Resolved,Database optimization needed
+INC007,V020,2024-01-31,Support Issue,Medium,IT support response time exceeded SLA,48,Delayed issue resolution,Resolved,Resource shortage
+INC008,V024,2024-02-12,Service Outage,Critical,Cloud storage service completely down,3,File access unavailable,Resolved,Data center power issue
+INC009,V008,2024-02-05,Performance,Low,Analytics dashboard loading slowly,4,Minor reporting delays,Resolved,Query optimization
+INC010,V014,2024-01-18,Quality Issue,Medium,HVAC system maintenance incomplete,16,Office temperature issues,Resolved,Parts unavailable
+INC011,V027,2024-02-20,Hardware Failure,High,Network switch failure,8,Office network disruption,Resolved,Hardware defect
+INC012,V012,2024-01-25,Support Issue,Low,HR system user training delayed,24,Training schedule adjustment,Resolved,Trainer illness
+INC013,V021,2024-02-15,Performance,Medium,Database backup taking too long,6,Backup window exceeded,Resolved,Storage optimization
+INC014,V015,2024-02-08,Service Outage,Medium,Backup service failed to complete,12,Backup gap for one day,Resolved,Network connectivity
+INC015,V029,2024-01-12,Performance,Low,Monitoring alerts delayed,2,Delayed notification,Resolved,Configuration issue
