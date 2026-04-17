@@ -1148,3 +1148,28 @@ Create an intelligent vendor relationship analytics system that consolidates ven
 - Strategic sourcing plan with implementation timeline and projected ROI
 
 ---
+# Daily AI Challenge – April 17, 2026
+
+**Domain:** Healthcare
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent patient readmission risk assessment system that predicts 30-day readmission probability and generates personalized care transition protocols to reduce readmission rates below 10%. The system analyzes patient data across 8 hospitals and 25 clinics to identify risk factors and provide clinical decision support.
+
+## Skills Trained
+- Healthcare industry analytics and clinical decision support
+- Multi-factor risk prediction modeling with confidence intervals
+- Healthcare quality improvement methodology
+- Regulatory compliance and patient outcome optimization
+- Strategic healthcare operations analysis
+
+## Deliverables
+- Risk-stratified patient list for next 30 days with intervention priorities
+- Clinical protocol recommendations for high-risk patient populations
+- Facility-specific readmission pattern analysis with improvement opportunities
+- Care coordination workflow recommendations
+- Executive dashboard showing projected readmission reduction and cost savings
+
+---

@@ -1,0 +1,41 @@
+patient_id,age,gender,race,insurance_type,primary_diagnosis,secondary_diagnosis,length_of_stay,discharge_disposition,facility_id,facility_type,admission_date,discharge_date,medication_adherence_score,social_risk_score,readmitted_30_days
+P001,72,M,White,Medicare,Heart Failure,Diabetes Type 2,5,Home,H001,Hospital,2024-08-15,2024-08-20,0.85,3,1
+P002,45,F,Black,Commercial,Pneumonia,Hypertension,3,Home with Home Health,H002,Hospital,2024-08-16,2024-08-19,0.92,2,0
+P003,68,M,Hispanic,Medicare,COPD Exacerbation,Heart Disease,7,Skilled Nursing Facility,H001,Hospital,2024-08-17,2024-08-24,0.67,4,1
+P004,34,F,White,Medicaid,Diabetes Complications,Depression,4,Home,C001,Clinic,2024-08-18,2024-08-22,0.78,5,0
+P005,81,F,Asian,Medicare,Hip Fracture,Osteoporosis,12,Rehabilitation Facility,H003,Hospital,2024-08-19,2024-08-31,0.88,2,0
+P006,59,M,Black,Commercial,Myocardial Infarction,Hyperlipidemia,6,Home with Home Health,H002,Hospital,2024-08-20,2024-08-26,0.73,3,1
+P007,42,F,White,Commercial,Appendectomy,None,2,Home,H004,Hospital,2024-08-21,2024-08-23,0.95,1,0
+P008,76,M,White,Medicare,Stroke,Atrial Fibrillation,9,Skilled Nursing Facility,H001,Hospital,2024-08-22,2024-08-31,0.61,4,1
+P009,28,M,Hispanic,Medicaid,Asthma Exacerbation,Anxiety,3,Home,C002,Clinic,2024-08-23,2024-08-26,0.82,3,0
+P010,65,F,Black,Medicare,Kidney Disease,Hypertension,8,Home with Home Health,H003,Hospital,2024-08-24,2024-09-01,0.71,4,1
+P011,53,M,White,Commercial,Chest Pain,Diabetes Type 2,2,Home,H002,Hospital,2024-08-25,2024-08-27,0.89,2,0
+P012,79,F,White,Medicare,Heart Failure,COPD,11,Skilled Nursing Facility,H004,Hospital,2024-08-26,2024-09-06,0.58,5,1
+P013,36,F,Asian,Commercial,Gallbladder Surgery,None,3,Home,H001,Hospital,2024-08-27,2024-08-30,0.93,1,0
+P014,71,M,Black,Medicare,Pneumonia,Heart Disease,6,Home with Home Health,H003,Hospital,2024-08-28,2024-09-03,0.75,3,0
+P015,47,F,Hispanic,Medicaid,Diabetes Complications,Obesity,5,Home,C003,Clinic,2024-08-29,2024-09-03,0.69,4,1
+P016,83,M,White,Medicare,Falls,Dementia,8,Rehabilitation Facility,H002,Hospital,2024-08-30,2024-09-07,0.52,5,1
+P017,29,F,Black,Commercial,Normal Delivery,None,2,Home,H004,Hospital,2024-08-31,2024-09-02,0.97,1,0
+P018,62,M,White,Medicare,COPD Exacerbation,Depression,7,Home with Home Health,H001,Hospital,2024-09-01,2024-09-08,0.66,3,1
+P019,55,F,Asian,Commercial,Hypertension Crisis,Kidney Disease,4,Home,H003,Hospital,2024-09-02,2024-09-06,0.84,2,0
+P020,74,M,Hispanic,Medicare,Heart Attack,Diabetes Type 2,10,Skilled Nursing Facility,H002,Hospital,2024-09-03,2024-09-13,0.63,4,1
+P021,41,F,White,Commercial,Migraine,Anxiety,1,Home,C001,Clinic,2024-09-04,2024-09-05,0.91,2,0
+P022,67,M,Black,Medicare,Stroke,Hypertension,12,Rehabilitation Facility,H004,Hospital,2024-09-05,2024-09-17,0.59,4,1
+P023,33,F,Hispanic,Medicaid,Postpartum Complications,Depression,4,Home with Home Health,H001,Hospital,2024-09-06,2024-09-10,0.76,3,0
+P024,78,F,White,Medicare,Hip Replacement,Arthritis,9,Skilled Nursing Facility,H003,Hospital,2024-09-07,2024-09-16,0.81,3,0
+P025,52,M,Asian,Commercial,Kidney Stones,Hypertension,3,Home,H002,Hospital,2024-09-08,2024-09-11,0.87,2,0
+P026,69,F,Black,Medicare,Heart Failure,Diabetes Type 2,8,Home with Home Health,H004,Hospital,2024-09-09,2024-09-17,0.68,4,1
+P027,44,M,White,Commercial,Back Surgery,None,5,Home,H001,Hospital,2024-09-10,2024-09-15,0.94,1,0
+P028,75,F,Hispanic,Medicare,Pneumonia,COPD,6,Skilled Nursing Facility,H003,Hospital,2024-09-11,2024-09-17,0.62,4,1
+P029,38,F,Asian,Commercial,Thyroid Surgery,None,2,Home,H002,Hospital,2024-09-12,2024-09-14,0.96,1,0
+P030,73,M,White,Medicare,Diabetes Complications,Heart Disease,7,Home with Home Health,H004,Hospital,2024-09-13,2024-09-20,0.71,3,1
+P031,49,F,Black,Commercial,Breast Surgery,Anxiety,3,Home,H001,Hospital,2024-09-14,2024-09-17,0.88,2,0
+P032,82,M,White,Medicare,Falls,Osteoporosis,9,Rehabilitation Facility,H003,Hospital,2024-09-15,2024-09-24,0.55,5,1
+P033,27,F,Hispanic,Medicaid,Asthma,None,2,Home,C002,Clinic,2024-09-16,2024-09-18,0.83,2,0
+P034,66,M,Asian,Medicare,Heart Surgery,Diabetes Type 2,14,Skilled Nursing Facility,H002,Hospital,2024-09-17,2024-10-01,0.77,3,0
+P035,56,F,Black,Commercial,Hypertension,Kidney Disease,4,Home,H004,Hospital,2024-09-18,2024-09-22,0.85,2,0
+P036,77,M,White,Medicare,COPD Exacerbation,Heart Failure,10,Home with Home Health,H001,Hospital,2024-09-19,2024-09-29,0.64,4,1
+P037,31,F,Asian,Commercial,Appendectomy,None,2,Home,H003,Hospital,2024-09-20,2024-09-22,0.98,1,0
+P038,70,M,Hispanic,Medicare,Stroke,Diabetes Type 2,11,Rehabilitation Facility,H002,Hospital,2024-09-21,2024-10-02,0.60,4,1
+P039,48,F,White,Commercial,Gallbladder Surgery,Obesity,4,Home,H004,Hospital,2024-09-22,2024-09-26,0.90,2,0
+P040,84,F,Black,Medicare,Heart Failure,Dementia,13,Skilled Nursing Facility,H001,Hospital,2024-09-23,2024-10-06,0.51,5,1

@@ -1,0 +1,77 @@
+{
+  "hospitals": [
+    {
+      "facility_id": "H001",
+      "name": "Regional Medical Center",
+      "type": "Hospital",
+      "location": "Downtown",
+      "bed_capacity": 450,
+      "specialties": ["Cardiology", "Emergency Medicine", "Internal Medicine", "Surgery"],
+      "quality_rating": 4,
+      "nurse_to_patient_ratio": 1.2,
+      "case_management_score": 0.82
+    },
+    {
+      "facility_id": "H002", 
+      "name": "Northside General Hospital",
+      "type": "Hospital",
+      "location": "Northside",
+      "bed_capacity": 320,
+      "specialties": ["Cardiology", "Orthopedics", "Emergency Medicine", "Oncology"],
+      "quality_rating": 4,
+      "nurse_to_patient_ratio": 1.3,
+      "case_management_score": 0.85
+    },
+    {
+      "facility_id": "H003",
+      "name": "Westside Community Hospital", 
+      "type": "Hospital",
+      "location": "Westside",
+      "bed_capacity": 280,
+      "specialties": ["Internal Medicine", "Surgery", "Rehabilitation", "Emergency Medicine"],
+      "quality_rating": 3,
+      "nurse_to_patient_ratio": 1.1,
+      "case_management_score": 0.78
+    },
+    {
+      "facility_id": "H004",
+      "name": "Southside Medical Center",
+      "type": "Hospital", 
+      "location": "Southside",
+      "bed_capacity": 380,
+      "specialties": ["Cardiology", "Neurology", "Emergency Medicine", "Maternity"],
+      "quality_rating": 4,
+      "nurse_to_patient_ratio": 1.25,
+      "case_management_score": 0.88
+    }
+  ],
+  "clinics": [
+    {
+      "facility_id": "C001",
+      "name": "Downtown Family Practice",
+      "type": "Clinic",
+      "location": "Downtown", 
+      "specialties": ["Family Medicine", "Diabetes Management"],
+      "quality_rating": 3,
+      "case_management_score": 0.75
+    },
+    {
+      "facility_id": "C002", 
+      "name": "Eastside Health Center",
+      "type": "Clinic",
+      "location": "Eastside",
+      "specialties": ["Internal Medicine", "Pulmonology"],
+      "quality_rating": 4,
+      "case_management_score": 0.80
+    },
+    {
+      "facility_id": "C003",
+      "name": "Community Wellness Clinic",
+      "type": "Clinic", 
+      "location": "Westside",
+      "specialties": ["Endocrinology", "Nutrition"],
+      "quality_rating": 3,
+      "case_management_score": 0.73
+    }
+  ]
+}

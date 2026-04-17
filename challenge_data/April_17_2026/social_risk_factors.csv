@@ -1,0 +1,41 @@
+patient_id,housing_stability,transportation_access,food_security,social_support,health_literacy,financial_hardship,insurance_gaps,language_barrier
+P001,Stable,Limited,Adequate,Strong,Moderate,Moderate,None,No
+P002,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P003,Unstable,Limited,Limited,Moderate,Low,High,Frequent,Yes
+P004,Temporary,Limited,Limited,Weak,Low,High,Frequent,No
+P005,Stable,Adequate,Adequate,Strong,Moderate,Moderate,None,Yes
+P006,Stable,Limited,Adequate,Moderate,Moderate,Moderate,Occasional,No
+P007,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P008,Assisted Living,Limited,Adequate,Weak,Low,High,None,No
+P009,Stable,Adequate,Limited,Moderate,Moderate,High,Frequent,Yes
+P010,Stable,Limited,Limited,Moderate,Low,High,Occasional,No
+P011,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P012,Assisted Living,Limited,Adequate,Weak,Low,High,None,No
+P013,Stable,Adequate,Adequate,Strong,High,Low,None,Yes
+P014,Stable,Adequate,Adequate,Moderate,Moderate,Moderate,None,No
+P015,Unstable,Limited,Limited,Weak,Low,High,Frequent,Yes
+P016,Assisted Living,Limited,Adequate,Weak,Low,Moderate,None,No
+P017,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P018,Stable,Limited,Adequate,Moderate,Moderate,Moderate,None,No
+P019,Stable,Adequate,Adequate,Strong,High,Low,None,Yes
+P020,Stable,Limited,Adequate,Moderate,Low,High,None,Yes
+P021,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P022,Stable,Limited,Limited,Weak,Low,High,None,No
+P023,Temporary,Limited,Limited,Moderate,Moderate,High,Frequent,Yes
+P024,Stable,Adequate,Adequate,Strong,Moderate,Moderate,None,No
+P025,Stable,Adequate,Adequate,Strong,High,Low,None,Yes
+P026,Stable,Limited,Limited,Moderate,Low,High,Occasional,No
+P027,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P028,Assisted Living,Limited,Adequate,Weak,Low,High,None,Yes
+P029,Stable,Adequate,Adequate,Strong,High,Low,None,Yes
+P030,Stable,Limited,Adequate,Moderate,Moderate,Moderate,None,No
+P031,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P032,Assisted Living,Limited,Adequate,Weak,Low,High,None,No
+P033,Stable,Adequate,Limited,Moderate,Moderate,High,Frequent,Yes
+P034,Stable,Adequate,Adequate,Strong,Moderate,Low,None,Yes
+P035,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P036,Stable,Limited,Limited,Moderate,Low,High,None,No
+P037,Stable,Adequate,Adequate,Strong,High,Low,None,Yes
+P038,Stable,Limited,Adequate,Moderate,Low,High,None,Yes
+P039,Stable,Adequate,Adequate,Strong,High,Low,None,No
+P040,Assisted Living,Limited,Adequate,Weak,Low,High,None,No
