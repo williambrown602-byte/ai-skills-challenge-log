@@ -1,0 +1,36 @@
+engagement_id,client_id,client_name,client_size,industry,engagement_type,service_combination,complexity_score,start_date,end_date,budgeted_hours,actual_hours,hour_variance,budgeted_amount,actual_billing,profit_margin,partner_hours,senior_hours,staff_hours,partner_rate,senior_rate,staff_rate,engagement_year,season
+ENG001,CLI001,TechFlow Solutions,Large,Technology,Individual Tax + Business,Tax Prep + Consulting + Audit Support,8.5,2024-02-15,2024-04-10,120,145,25,18000,21750,0.18,25,60,60,350,200,120,2024,2024
+ENG002,CLI002,Green Valley Farms,Medium,Agriculture,Business Only,Tax Prep + Payroll,6.2,2024-01-20,2024-03-15,85,78,-7,12750,11700,0.22,18,35,25,350,200,120,2024,2024
+ENG003,CLI003,Metro Construction LLC,Large,Construction,Business + Multi-State,Tax Prep + Consulting + State Filings,9.1,2024-02-01,2024-04-15,160,195,35,24000,29250,0.08,35,80,80,350,200,120,2024,2024
+ENG004,CLI004,Sarah Johnson,Small,Individual,Individual Tax,Tax Prep Only,3.2,2024-02-10,2024-02-28,12,10,-2,1800,1500,0.31,2,4,4,350,200,120,2024,2024
+ENG005,CLI005,Riverside Medical Group,Large,Healthcare,Business + Estate,Tax Prep + Estate Planning + Consulting,7.8,2024-01-15,2024-04-05,140,158,18,21000,23700,0.15,30,70,58,350,200,120,2024,2024
+ENG006,CLI006,Downtown Retail Partners,Medium,Retail,Business Only,Tax Prep + Sales Tax,5.9,2024-02-05,2024-03-20,70,82,12,10500,12300,0.19,15,35,32,350,200,120,2024,2024
+ENG007,CLI007,Mountain View Consulting,Small,Professional Services,Individual Tax + Business,Tax Prep + Consulting,4.5,2024-02-20,2024-03-30,45,52,7,6750,7800,0.16,10,22,20,350,200,120,2024,2024
+ENG008,CLI008,Pacific Manufacturing,Large,Manufacturing,Business + Multi-State,Tax Prep + R&D Credits + Consulting,9.8,2024-01-10,2024-04-20,200,235,35,30000,35250,0.05,45,95,95,350,200,120,2024,2024
+ENG009,CLI009,Local Coffee Roasters,Small,Food Service,Business Only,Tax Prep + Inventory,4.1,2024-02-25,2024-03-10,35,31,-4,5250,4650,0.28,8,15,8,350,200,120,2024,2024
+ENG010,CLI010,Regional Bank Corp,Large,Financial Services,Business + Regulatory,Tax Prep + Regulatory + Consulting,9.5,2024-01-05,2024-04-25,180,215,35,27000,32250,0.12,40,85,90,350,200,120,2024,2024
+ENG011,CLI011,Smith Family Trust,Medium,Individual,Individual Tax + Estate,Tax Prep + Estate Planning,6.5,2024-02-12,2024-04-01,60,68,8,9000,10200,0.17,12,28,28,350,200,120,2024,2024
+ENG012,CLI012,Urban Development LLC,Large,Real Estate,Business + Multi-State,Tax Prep + 1031 Exchange + Consulting,8.9,2024-01-25,2024-04-10,150,172,22,22500,25800,0.14,32,70,70,350,200,120,2024,2024
+ENG013,CLI013,Neighborhood Pharmacy,Small,Healthcare,Business Only,Tax Prep + Inventory,3.8,2024-03-01,2024-03-15,28,25,-3,4200,3750,0.25,6,12,7,350,200,120,2024,2024
+ENG014,CLI014,Energy Solutions Inc,Large,Energy,Business + Environmental,Tax Prep + Tax Credits + Consulting,9.2,2024-01-15,2024-04-15,170,198,28,25500,29700,0.11,38,80,80,350,200,120,2024,2024
+ENG015,CLI015,Mike's Auto Repair,Small,Automotive,Business Only,Tax Prep Only,2.9,2024-02-28,2024-03-12,25,22,-3,3750,3300,0.29,5,10,7,350,200,120,2024,2024
+ENG016,CLI001,TechFlow Solutions,Large,Technology,Individual Tax + Business,Tax Prep + Consulting + Audit Support,8.2,2023-02-10,2023-04-05,115,138,23,17250,20700,0.16,24,58,56,325,185,110,2023,2023
+ENG017,CLI002,Green Valley Farms,Medium,Agriculture,Business Only,Tax Prep + Payroll,6.0,2023-01-25,2023-03-20,80,76,-4,12000,11400,0.24,17,33,26,325,185,110,2023,2023
+ENG018,CLI016,Global Logistics Corp,Large,Transportation,Business + Multi-State,Tax Prep + Fuel Credits + Multi-State,9.6,2023-01-12,2023-04-18,185,225,40,27750,33750,0.04,42,90,93,325,185,110,2023,2023
+ENG019,CLI017,Creative Design Studio,Small,Professional Services,Individual Tax + Business,Tax Prep + Consulting,4.2,2023-02-15,2023-03-25,40,45,5,6000,6750,0.15,9,20,16,325,185,110,2023,2023
+ENG020,CLI005,Riverside Medical Group,Large,Healthcare,Business + Estate,Tax Prep + Estate Planning + Consulting,7.5,2023-01-20,2023-04-01,135,152,17,20250,22800,0.17,29,68,55,325,185,110,2023,2023
+ENG021,CLI018,Sunset Restaurant Group,Medium,Food Service,Business + Multi-Location,Tax Prep + Multi-Location + Payroll,7.1,2023-02-05,2023-03-25,95,108,13,14250,16200,0.13,20,48,40,325,185,110,2023,2023
+ENG022,CLI019,Jennifer Martinez CPA,Small,Professional Services,Individual Tax,Tax Prep Only,3.5,2023-02-20,2023-03-05,15,13,-2,2250,1950,0.33,3,6,4,325,185,110,2023,2023
+ENG023,CLI008,Pacific Manufacturing,Large,Manufacturing,Business + Multi-State,Tax Prep + R&D Credits + Consulting,9.4,2023-01-08,2023-04-15,195,228,33,29250,34200,0.07,43,92,93,325,185,110,2023,2023
+ENG024,CLI020,Valley Insurance Agency,Medium,Insurance,Business Only,Tax Prep + Regulatory,5.8,2023-02-25,2023-03-18,65,71,6,9750,10650,0.21,14,32,25,325,185,110,2023,2023
+ENG025,CLI021,Premium Wine Distributors,Large,Wholesale,Business + Multi-State,Tax Prep + Excise Tax + Multi-State,8.7,2023-01-18,2023-04-12,155,182,27,23250,27300,0.09,35,75,72,325,185,110,2023,2023
+ENG026,CLI022,Davis Family Office,Large,Individual,Individual Tax + Estate + Trust,Tax Prep + Estate + Trust + Investment,8.3,2025-02-08,2025-04-08,125,148,23,20000,23680,0.16,28,65,55,375,220,135,2025,2025
+ENG027,CLI023,NextGen Software,Medium,Technology,Business Only,Tax Prep + R&D Credits,6.8,2025-01-22,2025-03-18,88,92,4,14080,14720,0.19,18,42,32,375,220,135,2025,2025
+ENG028,CLI024,Coastal Properties LLC,Large,Real Estate,Business + Multi-State,Tax Prep + Depreciation + 1031 + Consulting,9.3,2025-01-15,2025-04-20,175,205,30,28000,32800,0.10,38,85,82,375,220,135,2025,2025
+ENG029,CLI025,Tony's Pizza Chain,Medium,Food Service,Business + Multi-Location,Tax Prep + Multi-Location + Sales Tax,6.4,2025-02-12,2025-03-28,75,82,7,12000,13120,0.18,16,38,28,375,220,135,2025,2025
+ENG030,CLI026,Regional Credit Union,Large,Financial Services,Business + Regulatory,Tax Prep + Regulatory + CUSO,9.1,2025-01-08,2025-04-22,165,192,27,26400,30720,0.13,36,80,76,375,220,135,2025,2025
+ENG031,CLI027,Wilson Manufacturing,Medium,Manufacturing,Business Only,Tax Prep + Inventory + Depreciation,7.2,2025-02-01,2025-03-25,95,108,13,15200,17280,0.15,20,48,40,375,220,135,2025,2025
+ENG032,CLI028,Heritage Law Firm,Small,Professional Services,Business + Individual,Tax Prep + Consulting,4.8,2025-02-18,2025-03-30,48,55,7,7680,8800,0.14,11,24,20,375,220,135,2025,2025
+ENG033,CLI029,Quantum Analytics,Large,Technology,Business + Multi-State,Tax Prep + R&D + Stock Options + Multi-State,9.7,2025-01-10,2025-04-25,190,228,38,30400,36480,0.06,45,95,88,375,220,135,2025,2025
+ENG034,CLI030,Mountain Ski Resort,Medium,Hospitality,Business + Seasonal,Tax Prep + Seasonal + Payroll,6.9,2025-01-28,2025-03-22,82,89,7,13120,14240,0.17,17,40,32,375,220,135,2025,2025
+ENG035,CLI031,Premier Medical Devices,Large,Healthcare,Business + Regulatory,Tax Prep + FDA + R&D + Consulting,8.8,2025-01-12,2025-04-18,145,168,23,23200,26880,0.12,32,70,66,375,220,135,2025,2025

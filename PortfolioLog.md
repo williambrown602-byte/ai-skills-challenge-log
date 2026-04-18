@@ -1173,3 +1173,28 @@ Build an intelligent patient readmission risk assessment system that predicts 30
 - Executive dashboard showing projected readmission reduction and cost savings
 
 ---
+# Daily AI Challenge – April 18, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent tax engagement profitability analysis system that identifies key drivers of engagement success/failure and generates strategic pricing recommendations for next year's tax season planning. Enable partners to make data-driven pricing decisions and improve firm profitability by 15-20%.
+
+## Skills Trained
+- Accounting industry business intelligence
+- Profitability modeling and variance analysis
+- Strategic pricing optimization
+- Professional services analytics
+- Partner-level business communication
+
+## Deliverables
+- Tax engagement profitability segmentation analysis
+- Optimal pricing recommendation engine
+- Client portfolio analysis with strategic recommendations
+- Resource allocation optimization
+- Next season strategic plan with pricing adjustments
+
+---
