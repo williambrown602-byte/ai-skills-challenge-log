@@ -1,0 +1,26 @@
+employee_id,name,role,skill_level,hourly_rate,skills,availability_percent,current_utilization_percent,overtime_rate,max_weekly_hours
+EMP001,Sarah Johnson,Senior Full Stack Developer,Senior,95,JavaScript;React;Node.js;PostgreSQL,100,85,142.50,45
+EMP002,Michael Chen,Lead Backend Developer,Lead,110,Python;Django;AWS;Docker,90,92,165.00,40
+EMP003,Emma Rodriguez,Frontend Developer,Mid,75,React;Vue.js;CSS;TypeScript,100,78,112.50,40
+EMP004,David Kim,Senior DevOps Engineer,Senior,105,AWS;Kubernetes;Docker;Terraform,95,88,157.50,42
+EMP005,Lisa Wang,UI/UX Designer,Mid,80,Figma;Adobe XD;Prototyping;User Research,100,72,120.00,40
+EMP006,James Thompson,Project Manager,Senior,85,Agile;Scrum;JIRA;Stakeholder Management,100,95,127.50,45
+EMP007,Anna Kowalski,QA Engineer,Mid,70,Selenium;Jest;Manual Testing;API Testing,100,82,105.00,40
+EMP008,Roberto Silva,Junior Frontend Developer,Junior,55,HTML;CSS;JavaScript;React,100,65,82.50,40
+EMP009,Priya Patel,Senior Backend Developer,Senior,100,Java;Spring Boot;MySQL;Microservices,85,90,150.00,38
+EMP010,Thomas Mueller,Database Administrator,Senior,90,PostgreSQL;MySQL;MongoDB;Performance Tuning,100,87,135.00,40
+EMP011,Sophie Martin,Mobile Developer,Mid,85,React Native;Flutter;iOS;Android,95,80,127.50,40
+EMP012,Alex Johnson,Security Specialist,Senior,115,Cybersecurity;Penetration Testing;OWASP;Compliance,80,75,172.50,32
+EMP013,Maria Garcia,Data Analyst,Mid,78,Python;R;SQL;Tableau,100,70,117.00,40
+EMP014,Kevin O'Brien,Cloud Architect,Lead,125,AWS;Azure;GCP;Serverless,90,85,187.50,38
+EMP015,Yuki Tanaka,Full Stack Developer,Mid,82,JavaScript;Python;React;FastAPI,100,83,123.00,40
+EMP016,Rachel Green,Product Owner,Senior,88,Product Strategy;User Stories;Roadmapping;Analytics,100,89,132.00,42
+EMP017,Carlos Mendez,Junior Backend Developer,Junior,58,Python;Flask;SQL;Git,100,68,87.00,40
+EMP018,Olga Petrov,Senior QA Engineer,Senior,92,Automation Testing;Cypress;Performance Testing;CI/CD,95,91,138.00,42
+EMP019,Nathan Williams,DevOps Engineer,Mid,88,Docker;Jenkins;Linux;Monitoring,100,79,132.00,40
+EMP020,Isabella Rossi,Frontend Developer,Senior,88,Vue.js;Angular;SASS;Webpack,90,86,132.00,38
+EMP021,Ahmed Hassan,Mobile Developer,Senior,92,Native iOS;Swift;Objective-C;App Store,85,84,138.00,36
+EMP022,Grace Liu,Data Engineer,Senior,98,Apache Spark;Kafka;Airflow;BigQuery,100,88,147.00,42
+EMP023,Lucas Brown,Junior Full Stack Developer,Junior,62,JavaScript;Node.js;MongoDB;React,100,71,93.00,40
+EMP024,Fatima Al-Rashid,Business Analyst,Mid,75,Requirements Analysis;Process Modeling;Stakeholder Communication,100,77,112.50,40
+EMP025,Viktor Petersen,Senior Security Engineer,Senior,108,Network Security;Incident Response;Risk Assessment,80,73,162.00,32

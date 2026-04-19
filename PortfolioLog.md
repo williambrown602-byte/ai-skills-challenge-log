@@ -1198,3 +1198,28 @@ Build an intelligent tax engagement profitability analysis system that identifie
 - Next season strategic plan with pricing adjustments
 
 ---
+# Daily AI Challenge – April 19, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent project portfolio optimization system that analyzes resource constraints, project dependencies, and client priorities to generate optimal project scheduling recommendations and predict delivery risks 2-3 weeks in advance for a software development agency managing 45+ client projects.
+
+## Skills Trained
+- Multi-constraint optimization and operations research
+- Project portfolio management and resource allocation
+- Predictive risk modeling for delivery planning
+- Software development industry business intelligence
+- Executive decision support system design
+
+## Deliverables
+- Optimized project schedule for next 8 weeks with resource assignments
+- Top 15 high-risk projects requiring immediate intervention
+- Resource conflict resolution recommendations with impact analysis
+- Client communication templates for schedule adjustments
+- Weekly capacity planning dashboard with utilization optimization
+
+---
