@@ -1223,3 +1223,28 @@ Build an intelligent project portfolio optimization system that analyzes resourc
 - Weekly capacity planning dashboard with utilization optimization
 
 ---
+# Daily AI Challenge – April 20, 2026
+
+**Domain:** Construction/Real Estate Development
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent construction project risk monitoring and optimization system that transforms scattered project data into predictive insights to reduce cost overruns to under 8% and timeline delays to under 2 weeks.
+
+## Skills Trained
+- Construction industry business intelligence
+- Multi-factor risk prediction modeling
+- Resource optimization across concurrent projects
+- Predictive analytics for operational planning
+- Executive dashboard design for complex project portfolios
+
+## Deliverables
+- Risk-prioritized project dashboard
+- Predictive cost overrun analysis with confidence intervals
+- Resource reallocation recommendations
+- Automated weekly risk reports with intervention strategies
+- ROI analysis showing potential savings
+
+---

@@ -1,0 +1,16 @@
+contractor_id,contractor_name,specialty,projects_completed,avg_completion_rate,avg_cost_variance_pct,reliability_score,current_projects,last_performance_review
+CTR001,BuildRight Construction,General Contractor,28,94,3.2,8.5,"PRJ001,PRJ005,PRJ011",2024-04-01
+CTR002,SteelFrame Masters,Structural,35,91,5.8,7.8,"PRJ002,PRJ013",2024-03-15
+CTR003,Foundation Plus,Foundation Work,42,96,2.1,9.2,"PRJ003,PRJ008,PRJ015",2024-04-10
+CTR004,Premier Framing Co,Framing,31,89,7.4,7.2,PRJ004,2024-02-20
+CTR005,MediCare Builders,Healthcare Specialty,19,97,1.8,9.5,PRJ005,2024-04-05
+CTR006,Industrial Solutions,Industrial Construction,25,88,8.9,6.9,PRJ006,2024-03-08
+CTR007,Luxury Interiors Inc,Interior Finishing,33,92,4.5,8.1,PRJ007,2024-04-12
+CTR008,Campus Contractors,Educational Buildings,22,95,3.7,8.7,PRJ008,2024-04-18
+CTR009,ElectriPro Systems,Electrical,45,93,2.9,8.8,"PRJ009,PRJ012",2024-04-01
+CTR010,TechBuild Solutions,Commercial Tech,29,90,6.1,7.6,PRJ010,2024-03-25
+CTR011,Affordable Housing Corp,Residential Budget,38,87,9.2,6.8,PRJ011,2024-02-15
+CTR012,HVAC Masters,Mechanical Systems,41,94,3.4,8.6,"PRJ012,PRJ010",2024-04-08
+CTR013,MixedDev Specialists,Mixed-Use Development,24,85,11.3,6.2,PRJ013,2024-01-30
+CTR014,LogiCorp Builders,Logistics/Warehouse,32,91,4.8,8.0,PRJ014,2024-04-15
+CTR015,Retail Spaces Inc,Retail Construction,27,93,3.1,8.4,PRJ015,2024-04-20

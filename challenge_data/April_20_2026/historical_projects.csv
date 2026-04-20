@@ -1,0 +1,16 @@
+project_id,project_name,planned_duration_days,actual_duration_days,planned_budget,actual_budget,completion_date,success_rating,primary_delay_reason,primary_cost_overrun_reason
+HIST001,Metro Office Complex,520,615,35000000,41200000,2023-12-15,6,Weather Delays,Material Cost Increases
+HIST002,Residential Phase A,380,425,22000000,24800000,2023-10-30,7,Permit Delays,Change Orders
+HIST003,Shopping Center East,450,398,28000000,26500000,2023-11-20,9,None,None
+HIST004,Industrial Park Unit 1,365,456,31000000,38500000,2023-09-15,4,Contractor Issues,Design Changes
+HIST005,Hospital Wing Addition,680,742,58000000,63200000,2024-01-10,6,Material Shortages,Regulatory Changes
+HIST006,School Building Renovation,280,312,15000000,17100000,2023-08-25,7,Weather Delays,Change Orders
+HIST007,Luxury Condos Tower,650,598,48000000,45800000,2024-02-28,8,None,Early Completion Bonus
+HIST008,Warehouse Distribution,320,378,26000000,29800000,2023-12-05,5,Equipment Delays,Material Cost Increases
+HIST009,Mixed Use Development,720,825,62000000,74500000,2024-03-20,4,Multiple Factors,Design Changes
+HIST010,Retail Strip Plaza,240,268,18000000,19600000,2023-07-15,7,Weather Delays,Material Cost Increases
+HIST011,Office Tower Downtown,580,634,42000000,47800000,2023-11-30,6,Permit Delays,Change Orders
+HIST012,Residential Community,420,385,32000000,30200000,2023-10-10,8,None,Efficient Management
+HIST013,Medical Facility,480,552,38000000,43100000,2024-01-25,5,Contractor Issues,Material Cost Increases
+HIST014,University Dormitory,365,412,29000000,33400000,2023-09-30,6,Weather Delays,Design Changes
+HIST015,Hotel Conference Center,510,475,41000000,39200000,2023-12-20,8,None,Early Completion

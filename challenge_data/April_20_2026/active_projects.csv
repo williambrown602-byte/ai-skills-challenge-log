@@ -1,0 +1,16 @@
+project_id,project_name,location,start_date,planned_end_date,current_phase,total_budget,spent_to_date,completion_percentage,project_manager,project_type
+PRJ001,Sunset Ridge Condos,Phoenix AZ,2024-01-15,2026-03-30,Foundation,45000000,8500000,18,Sarah Johnson,Residential
+PRJ002,Downtown Office Tower,Seattle WA,2024-03-01,2026-08-15,Structural,62000000,15200000,25,Michael Chen,Commercial
+PRJ003,Riverside Shopping Center,Austin TX,2024-02-10,2025-12-20,Site Prep,38000000,4800000,12,Emily Rodriguez,Retail
+PRJ004,Green Valley Homes Phase 1,Denver CO,2023-11-20,2025-09-15,Framing,28000000,18500000,65,David Kim,Residential
+PRJ005,Medical Campus Expansion,Miami FL,2024-04-01,2026-10-30,Foundation,55000000,7200000,14,Lisa Thompson,Healthcare
+PRJ006,Industrial Warehouse Complex,Dallas TX,2024-01-08,2025-11-30,Roofing,32000000,19800000,62,Robert Martinez,Industrial
+PRJ007,Luxury Hotel Resort,San Diego CA,2023-12-15,2026-06-30,Interior,75000000,28500000,38,Amanda Foster,Hospitality
+PRJ008,University Student Housing,Portland OR,2024-05-15,2026-01-20,Site Prep,41000000,3200000,8,James Wilson,Educational
+PRJ009,Senior Living Community,Nashville TN,2024-02-20,2025-10-15,Electrical,35000000,20100000,57,Maria Gonzalez,Healthcare
+PRJ010,Tech Campus Phase 2,Raleigh NC,2024-03-10,2026-05-30,Mechanical,48000000,12800000,28,Kevin Chang,Commercial
+PRJ011,Affordable Housing Complex,Las Vegas NV,2024-06-01,2025-12-15,Foundation,29000000,4350000,15,Jennifer Lee,Residential
+PRJ012,Sports Recreation Center,Salt Lake City UT,2024-01-25,2025-11-10,HVAC,33000000,21450000,65,Thomas Brown,Recreation
+PRJ013,Mixed-Use Development,Charlotte NC,2023-10-30,2026-04-20,Structural,67000000,24800000,37,Sandra White,Mixed-Use
+PRJ014,Logistics Distribution Hub,Atlanta GA,2024-04-20,2025-10-30,Site Prep,44000000,5720000,13,Carlos Vega,Industrial
+PRJ015,Boutique Retail Plaza,Sacramento CA,2024-07-01,2025-09-30,Foundation,22000000,3800000,17,Rachel Adams,Retail

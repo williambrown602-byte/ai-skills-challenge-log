@@ -1,0 +1,21 @@
+date,material_type,cost_per_unit,unit,supplier,location,volatility_index,delivery_lead_days
+2024-04-20,Concrete,$125,cubic_yard,ConcreteCorp,Phoenix,2.3,5
+2024-04-20,Steel Rebar,$0.85,pound,SteelSupply Co,Seattle,4.1,12
+2024-04-20,Lumber 2x4,$8.50,board_foot,TimberMart,Austin,5.2,8
+2024-04-20,Drywall,$1.75,square_foot,WallPro Supply,Denver,1.8,7
+2024-04-20,Electrical Wire,$2.30,linear_foot,ElectriSource,Miami,3.4,10
+2024-04-20,Roofing Shingles,$285,square,RoofMasters,Dallas,2.1,14
+2024-04-20,Insulation,$1.95,square_foot,InsulCorp,San Diego,1.6,6
+2024-04-20,Plumbing Copper,$4.80,linear_foot,PipePro,Portland,6.1,15
+2024-04-20,HVAC Ducting,$12.40,linear_foot,AirFlow Systems,Nashville,2.8,18
+2024-04-20,Windows,$485,unit,GlassTech,Raleigh,3.7,21
+2024-04-20,Flooring Tile,$4.25,square_foot,FloorMax,Las Vegas,2.2,9
+2024-04-20,Paint,$48,gallon,ColorPro,Salt Lake City,1.9,4
+2024-04-20,Concrete Block,$2.85,unit,BlockBuilders,Charlotte,2.4,6
+2024-04-20,Steel Beam,$3.20,linear_foot,BeamCorp,Atlanta,4.8,20
+2024-04-20,Asphalt,$95,ton,PaveCorp,Sacramento,3.9,7
+2024-04-19,Concrete,$123,cubic_yard,ConcreteCorp,Phoenix,2.3,5
+2024-04-19,Steel Rebar,$0.83,pound,SteelSupply Co,Seattle,4.1,12
+2024-04-19,Lumber 2x4,$8.35,board_foot,TimberMart,Austin,5.2,8
+2024-04-19,Drywall,$1.74,square_foot,WallPro Supply,Denver,1.8,7
+2024-04-19,Electrical Wire,$2.28,linear_foot,ElectriSource,Miami,3.4,10

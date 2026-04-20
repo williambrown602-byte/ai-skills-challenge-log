@@ -1,0 +1,21 @@
+project_id,permit_type,application_date,approval_date,status,processing_days,jurisdiction,inspector_assigned,next_inspection_due
+PRJ001,Building Permit,2024-01-02,2024-01-28,Approved,26,Phoenix Building Dept,John Smith,2024-04-25
+PRJ001,Electrical Permit,2024-02-15,,Pending,65,Phoenix Building Dept,Sarah Davis,
+PRJ002,Building Permit,2024-02-15,2024-03-20,Approved,34,Seattle DCI,Mike Johnson,2024-04-30
+PRJ002,Environmental Permit,2024-02-20,,Under Review,60,Seattle DCI,Lisa Wong,
+PRJ003,Site Development,2024-01-28,2024-02-25,Approved,28,Austin Development,Carlos Rodriguez,2024-04-28
+PRJ003,Building Permit,2024-03-01,,Pending,50,Austin Development,Jennifer Lee,
+PRJ004,Building Permit,2023-11-05,2023-12-10,Approved,35,Denver Building,Robert Chen,2024-05-15
+PRJ004,Occupancy Permit,2024-04-10,,Applied,10,Denver Building,Amanda Foster,
+PRJ005,Building Permit,2024-03-15,2024-04-18,Approved,34,Miami-Dade Building,Maria Gonzalez,2024-05-01
+PRJ005,Health Department,2024-03-20,,Under Review,31,Miami-Dade Health,David Kim,
+PRJ006,Building Permit,2023-12-20,2024-01-25,Approved,36,Dallas Building,Thomas Brown,2024-04-22
+PRJ006,Fire Safety,2024-02-01,2024-03-15,Approved,43,Dallas Fire Dept,Kevin Chang,2024-05-20
+PRJ007,Coastal Commission,2023-11-30,2024-02-15,Approved,77,San Diego Planning,Sandra White,2024-04-26
+PRJ007,Building Permit,2024-01-08,2024-02-20,Approved,43,San Diego Building,James Wilson,2024-05-10
+PRJ008,Building Permit,2024-05-01,,Applied,19,Portland Building,Rachel Adams,
+PRJ009,Building Permit,2024-02-05,2024-03-12,Approved,36,Nashville Building,Emily Rodriguez,2024-04-29
+PRJ009,Fire Safety,2024-03-01,2024-04-05,Approved,35,Nashville Fire,Michael Chen,2024-05-25
+PRJ010,Building Permit,2024-02-25,2024-03-28,Approved,32,Raleigh Building,Lisa Thompson,2024-05-05
+PRJ011,Building Permit,2024-05-20,,Applied,31,Las Vegas Building,Carlos Vega,
+PRJ012,Building Permit,2024-01-10,2024-02-15,Approved,36,Salt Lake Building,Jennifer Lee,2024-04-27

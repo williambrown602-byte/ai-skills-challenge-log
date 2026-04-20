@@ -1,0 +1,21 @@
+date,location,temperature_high,temperature_low,precipitation_inches,wind_speed_mph,weather_condition,work_stoppage_risk
+2024-04-20,Phoenix AZ,85,62,0.0,8,Clear,Low
+2024-04-20,Seattle WA,58,45,0.3,12,Light Rain,Medium
+2024-04-20,Austin TX,78,59,0.1,10,Partly Cloudy,Low
+2024-04-20,Denver CO,65,38,0.0,15,Sunny,Low
+2024-04-20,Miami FL,82,71,0.2,11,Scattered Showers,Medium
+2024-04-20,Dallas TX,81,63,0.0,9,Clear,Low
+2024-04-20,San Diego CA,72,59,0.0,7,Sunny,Low
+2024-04-20,Portland OR,61,46,0.4,14,Rain,High
+2024-04-20,Nashville TN,74,52,0.0,8,Clear,Low
+2024-04-20,Raleigh NC,73,48,0.0,6,Sunny,Low
+2024-04-20,Las Vegas NV,88,65,0.0,12,Clear,Low
+2024-04-20,Salt Lake City UT,68,41,0.0,11,Sunny,Low
+2024-04-20,Charlotte NC,76,54,0.1,9,Partly Cloudy,Low
+2024-04-20,Atlanta GA,79,58,0.0,7,Clear,Low
+2024-04-20,Sacramento CA,75,48,0.0,8,Sunny,Low
+2024-04-19,Phoenix AZ,83,60,0.0,6,Clear,Low
+2024-04-19,Seattle WA,55,43,0.8,16,Heavy Rain,High
+2024-04-19,Austin TX,75,57,0.0,8,Sunny,Low
+2024-04-19,Denver CO,62,35,0.0,18,Windy,Medium
+2024-04-19,Miami FL,84,73,0.5,13,Thunderstorms,High
