@@ -1,0 +1,51 @@
+activity_id,lead_id,activity_type,activity_date,duration_minutes,outcome,sales_rep,follow_up_scheduled,notes
+A001,L001,Email,2024-08-17,5,Response Received,Sarah Johnson,1,Interested in product demo
+A002,L001,Phone Call,2024-08-20,25,Meeting Scheduled,Sarah Johnson,1,Discussed pain points and budget
+A003,L001,Demo,2024-08-25,45,Positive,Sarah Johnson,1,Technical questions about integration
+A004,L001,Follow-up Email,2024-09-02,3,No Response,Sarah Johnson,1,Sent proposal and pricing
+A005,L001,Phone Call,2024-09-10,18,Negotiation,Sarah Johnson,1,Price concerns addressed
+A006,L003,Email,2024-09-05,4,Response Received,Mike Chen,1,Requested more information
+A007,L003,Phone Call,2024-09-08,32,Meeting Scheduled,Mike Chen,1,Qualified as decision maker
+A008,L003,Demo,2024-09-15,50,Very Positive,Mike Chen,1,Strong interest in premium features
+A009,L003,Proposal Sent,2024-09-20,10,Under Review,Mike Chen,1,Waiting for stakeholder approval
+A010,L003,Follow-up Call,2024-09-28,22,Ready to Close,Mike Chen,0,Contract negotiations complete
+A011,L005,Email,2024-10-14,6,Response Received,David Rodriguez,1,Enterprise requirements discussion
+A012,L005,Phone Call,2024-10-18,35,Meeting Scheduled,David Rodriguez,1,Multiple stakeholders involved
+A013,L005,Demo,2024-10-25,60,Positive,David Rodriguez,1,Custom integration requirements
+A014,L005,Technical Call,2024-11-02,40,Requirements Clarified,David Rodriguez,1,Security and compliance focus
+A015,L005,Proposal Sent,2024-11-10,15,Under Review,David Rodriguez,1,Legal review process started
+A016,L007,Email,2024-08-30,3,Response Received,Lisa Wang,1,Basic interest expressed
+A017,L007,Phone Call,2024-09-05,28,Qualified,Lisa Wang,1,Budget confirmed
+A018,L007,Demo,2024-09-12,42,Positive,Lisa Wang,1,Comparing with competitors
+A019,L007,Follow-up Email,2024-09-20,4,Response Received,Lisa Wang,1,Addressed competitor concerns
+A020,L007,Closing Call,2024-09-28,30,Closed Won,Lisa Wang,0,Contract signed
+A021,L008,Email,2024-09-17,5,Response Received,Tom Anderson,1,Initial interest confirmed
+A022,L008,Phone Call,2024-09-22,38,Meeting Scheduled,Tom Anderson,1,Complex enterprise requirements
+A023,L008,Demo,2024-10-01,55,Very Positive,Tom Anderson,1,Multiple use cases identified
+A024,L008,Technical Demo,2024-10-10,45,Positive,Tom Anderson,1,Integration capabilities confirmed
+A025,L008,Proposal Sent,2024-10-20,12,Negotiating,Tom Anderson,1,Volume discount requested
+A026,L010,Email,2024-08-12,4,Response Received,Sarah Johnson,1,Moderate interest level
+A027,L010,Phone Call,2024-08-18,26,Qualified,Sarah Johnson,1,Timeline discussion
+A028,L010,Demo,2024-08-28,48,Positive,Sarah Johnson,1,ROI calculations requested
+A029,L010,ROI Analysis,2024-09-05,20,Well Received,Sarah Johnson,1,Business case approved
+A030,L010,Contract Discussion,2024-09-15,35,Terms Agreed,Sarah Johnson,0,Ready to proceed
+A031,L012,Email,2024-09-22,3,Response Received,Mike Chen,1,Referral follow-up
+A032,L012,Phone Call,2024-09-28,22,Highly Interested,Mike Chen,1,Fast-track requested
+A033,L012,Demo,2024-10-05,40,Excellent,Mike Chen,1,Implementation timeline discussed
+A034,L012,Proposal Sent,2024-10-12,8,Approved,Mike Chen,1,Quick decision expected
+A035,L012,Closing Call,2024-10-20,25,Closed Won,Mike Chen,0,Small but profitable deal
+A036,L014,Email,2024-09-10,5,Response Received,David Rodriguez,1,Strong initial interest
+A037,L014,Phone Call,2024-09-16,42,Meeting Scheduled,David Rodriguez,1,Enterprise evaluation process
+A038,L014,Demo,2024-09-25,65,Very Positive,David Rodriguez,1,Scalability requirements
+A039,L014,Technical Review,2024-10-05,50,Approved,David Rodriguez,1,Architecture assessment complete
+A040,L014,Proposal Sent,2024-10-15,18,Under Review,David Rodriguez,1,Procurement process initiated
+A041,L016,Email,2024-08-24,4,Response Received,Lisa Wang,1,Healthcare compliance focus
+A042,L016,Phone Call,2024-08-30,30,Qualified,Lisa Wang,1,HIPAA requirements discussed
+A043,L016,Demo,2024-09-08,45,Positive,Lisa Wang,1,Security features highlighted
+A044,L016,Compliance Review,2024-09-18,35,Satisfied,Lisa Wang,1,All requirements met
+A045,L016,Contract Sent,2024-09-25,10,Signed,Lisa Wang,0,Successful healthcare deal
+A046,L017,Email,2024-09-27,6,Response Received,Tom Anderson,1,Retail industry focus
+A047,L017,Phone Call,2024-10-03,36,Meeting Scheduled,Tom Anderson,1,Multi-location requirements
+A048,L017,Demo,2024-10-12,52,Excellent,Tom Anderson,1,Scalability for retail chain
+A049,L017,Pilot Proposal,2024-10-22,15,Accepted,Tom Anderson,1,Proof of concept phase
+A050,L017,Pilot Review,2024-11-10,40,Successful,Tom Anderson,0,Full rollout approved
