@@ -1323,3 +1323,28 @@ Build an intelligent clinical trial monitoring system that automates compliance 
 - Resource optimization plan
 
 ---
+# Daily AI Challenge – April 24, 2026
+
+**Domain:** Finance
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent credit risk assessment and portfolio monitoring system that transforms manual risk analysis into automated, predictive insights for a regional bank struggling with increasing loan default rates. Generate real-time risk scores and actionable recommendations for weekly credit committee meetings.
+
+## Skills Trained
+- Financial risk modeling and credit analytics
+- Banking industry knowledge and regulatory awareness
+- Predictive modeling with confidence intervals
+- Executive-level financial reporting
+- Multi-factor risk assessment algorithms
+
+## Deliverables
+- Real-time loan portfolio risk dashboard with traffic light indicators
+- Top 50 highest-risk active loans requiring immediate committee review
+- Portfolio concentration risk analysis by geography industry and loan type
+- Predictive default model with 90-day risk forecasting
+- Weekly credit committee report with strategic recommendations
+
+---
