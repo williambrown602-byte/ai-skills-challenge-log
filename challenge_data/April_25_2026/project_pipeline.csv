@@ -1,0 +1,21 @@
+project_id,client_name,project_name,start_date,end_date,revenue_projected,probability,skill_requirements,hours_estimated,status
+PRJ001,TechCorp Industries,Digital Transformation Initiative,2026-05-01,2026-12-31,450000,0.85,"Digital Transformation:300,Software Development:200,Change Management:150",1800,Pipeline
+PRJ002,RetailMax,Supply Chain Optimization,2026-06-15,2026-11-30,320000,0.75,"Supply Chain:250,Data Analytics:180,Process Improvement:120",1500,Pipeline
+PRJ003,FinanceFirst Bank,Risk Management System,2026-04-20,2026-10-15,580000,0.90,"Risk Management:350,Compliance:200,Financial Analysis:180",2100,Confirmed
+PRJ004,HealthSystem Plus,Cloud Migration,2026-07-01,2027-03-31,680000,0.80,"Cloud Architecture:400,DevOps:250,Security:200",2800,Pipeline
+PRJ005,ManufacturingCo,Operations Excellence Program,2026-05-15,2026-09-30,290000,0.70,"Operations Excellence:200,Lean Six Sigma:150,Quality Management:100",1200,Pipeline
+PRJ006,StartupTech,Product Development,2026-08-01,2027-01-31,420000,0.65,"Software Development:300,UX Design:180,Product Management:120",2000,Pipeline
+PRJ007,GlobalServices,HR Transformation,2026-06-01,2026-12-15,360000,0.85,"HR Transformation:250,Organizational Design:180,Change Management:130",1600,Pipeline
+PRJ008,EnergyFirm,Data Analytics Platform,2026-09-01,2027-04-30,520000,0.75,"Data Engineering:350,Data Analytics:300,Big Data:200",2400,Pipeline
+PRJ009,InsurancePlus,Customer Experience Enhancement,2026-07-15,2026-12-31,380000,0.80,"Customer Experience:280,Service Design:200,Digital Transformation:150",1700,Pipeline
+PRJ010,TechStartup2,Cybersecurity Assessment,2026-05-01,2026-08-31,240000,0.90,"Cybersecurity:200,Risk Assessment:150,Compliance:100",1000,Confirmed
+PRJ011,RetailChain,E-commerce Platform,2026-10-01,2027-05-31,630000,0.70,"Full Stack Development:350,Frontend Development:250,API Development:180",2600,Pipeline
+PRJ012,FinTech Solutions,Financial Planning Tool,2026-08-15,2027-02-28,410000,0.75,"Financial Planning:280,Software Development:220,UX Design:120",1900,Pipeline
+PRJ013,LogisticsCorp,Automation Initiative,2026-11-01,2027-06-30,470000,0.65,"Automation:300,DevOps:200,Platform Engineering:170",2200,Pipeline
+PRJ014,ConsultingFirm,Strategy Development,2026-06-01,2026-10-31,350000,0.85,"Strategy:250,Market Research:180,Competitive Analysis:120",1500,Pipeline
+PRJ015,TechGiant,Infrastructure Modernization,2026-09-15,2027-07-31,750000,0.80,"Infrastructure:400,Cloud Architecture:350,Platform Engineering:250",3200,Pipeline
+PRJ016,HealthTech,Compliance Audit,2026-05-01,2026-09-30,280000,0.95,"Compliance:200,Audit Support:150,Risk Management:100",1100,Confirmed
+PRJ017,StartupFinance,Investment Analysis,2026-07-01,2026-11-15,310000,0.70,"Investment Analysis:220,Financial Modeling:180,Portfolio Management:120",1400,Pipeline
+PRJ018,ManufacturingTech,Quality Management System,2026-08-01,2027-01-31,390000,0.75,"Quality Management:280,Process Improvement:200,Lean Six Sigma:150",1800,Pipeline
+PRJ019,ServiceCorp,Digital Marketing Platform,2026-10-15,2027-04-30,460000,0.65,"Digital Transformation:300,Marketing Analytics:250,Customer Experience:180",2100,Pipeline
+PRJ020,GlobalTech,Talent Management System,2026-09-01,2027-03-31,540000,0.80,"Talent Management:350,HR Transformation:280,Organizational Design:200",2300,Pipeline

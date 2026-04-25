@@ -1348,3 +1348,28 @@ Build an intelligent credit risk assessment and portfolio monitoring system that
 - Weekly credit committee report with strategic recommendations
 
 ---
+# Daily AI Challenge – April 25, 2026
+
+**Domain:** Human Resources
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent workforce planning and hiring optimization system that analyzes current capacity, predicts future demand, identifies skill gaps, and generates strategic hiring recommendations with financial impact projections. Transform reactive hiring into strategic workforce optimization for a rapidly growing professional services firm.
+
+## Skills Trained
+- Strategic workforce planning and human capital analytics
+- Multi-scenario financial modeling with confidence intervals
+- Professional services industry business intelligence
+- Resource optimization and capacity planning algorithms
+- Executive-level business communication and strategic recommendations
+
+## Deliverables
+- Strategic hiring roadmap for next 24 months with month-by-month recommendations
+- Skill gap analysis showing critical shortage areas with business impact quantification
+- ROI-optimized hiring scenarios comparing 3 different growth strategies
+- Cost-benefit analysis showing potential savings from strategic versus reactive hiring
+- Executive presentation with budget requirements and expected margin improvements
+
+---

@@ -1,0 +1,22 @@
+skill_category,role_level,market_salary_25th,market_salary_median,market_salary_75th,target_utilization,industry_avg_utilization,billable_rate_range_low,billable_rate_range_high
+Strategy,Junior,68000,75000,82000,0.75,0.72,150,200
+Strategy,Senior,95000,105000,118000,0.85,0.81,225,275
+Strategy,Principal,125000,140000,158000,0.90,0.86,350,425
+Data Analytics,Junior,72000,80000,88000,0.80,0.76,160,210
+Data Analytics,Senior,98000,108000,122000,0.88,0.83,240,290
+Data Analytics,Principal,135000,150000,168000,0.92,0.87,380,450
+Software Development,Junior,75000,85000,95000,0.85,0.82,140,180
+Software Development,Senior,105000,118000,132000,0.90,0.86,200,250
+Software Development,Principal,145000,162000,182000,0.93,0.89,320,380
+Cloud Architecture,Junior,85000,95000,108000,0.88,0.84,180,230
+Cloud Architecture,Senior,120000,135000,152000,0.92,0.88,280,340
+Cloud Architecture,Principal,165000,185000,208000,0.95,0.91,420,500
+Change Management,Junior,70000,78000,86000,0.78,0.74,155,205
+Change Management,Senior,92000,102000,115000,0.86,0.82,230,280
+Change Management,Principal,128000,143000,161000,0.91,0.87,360,430
+Financial Analysis,Junior,69000,76000,84000,0.82,0.78,145,190
+Financial Analysis,Senior,89000,98000,110000,0.89,0.85,210,260
+Financial Analysis,Principal,125000,140000,157000,0.93,0.89,340,410
+Cybersecurity,Junior,78000,88000,98000,0.83,0.79,170,220
+Cybersecurity,Senior,108000,122000,138000,0.90,0.86,260,320
+Cybersecurity,Principal,148000,168000,192000,0.94,0.90,400,480

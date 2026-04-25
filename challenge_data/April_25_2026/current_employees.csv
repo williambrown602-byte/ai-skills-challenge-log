@@ -1,0 +1,26 @@
+employee_id,name,department,role,skill_primary,skill_secondary,skill_tertiary,hire_date,salary,current_utilization,years_experience,performance_rating
+EMP001,Sarah Johnson,Consulting,Senior Consultant,Data Analytics,Project Management,Strategy,2023-03-15,95000,0.87,8,4.2
+EMP002,Michael Chen,Technology,Tech Lead,Software Development,Cloud Architecture,DevOps,2022-01-10,110000,0.92,12,4.5
+EMP003,Emily Rodriguez,Consulting,Principal,Strategy,Change Management,Leadership,2021-06-20,125000,0.89,15,4.8
+EMP004,David Kim,Technology,Developer,Software Development,Database Design,API Development,2024-02-01,85000,0.78,5,4.0
+EMP005,Lisa Wang,Finance,Senior Analyst,Financial Analysis,Risk Management,Compliance,2023-07-12,88000,0.83,7,4.3
+EMP006,James Thompson,Consulting,Consultant,Business Analysis,Process Improvement,Data Visualization,2024-01-15,75000,0.81,4,3.9
+EMP007,Maria Garcia,Technology,Architect,Cloud Architecture,Security,Enterprise Solutions,2022-05-30,130000,0.94,18,4.7
+EMP008,Robert Wilson,Consulting,Senior Consultant,Change Management,Training,Communications,2023-09-05,92000,0.85,9,4.1
+EMP009,Jennifer Lee,Technology,Developer,Frontend Development,UX Design,Mobile Development,2024-03-20,82000,0.76,6,4.2
+EMP010,Thomas Brown,Finance,Manager,Financial Planning,Budget Analysis,Forecasting,2022-11-08,105000,0.88,11,4.4
+EMP011,Amanda Davis,Consulting,Consultant,Market Research,Competitive Analysis,Survey Design,2024-04-10,73000,0.79,3,3.8
+EMP012,Kevin Martinez,Technology,DevOps Engineer,DevOps,Infrastructure,Automation,2023-12-01,98000,0.91,8,4.3
+EMP013,Rachel Green,Consulting,Senior Consultant,Digital Transformation,Agile Methodology,Stakeholder Management,2023-05-18,96000,0.86,10,4.5
+EMP014,Christopher Taylor,Technology,Data Engineer,Data Engineering,ETL Processes,Big Data,2022-08-25,102000,0.89,9,4.2
+EMP015,Nicole Anderson,Finance,Analyst,Cost Analysis,Procurement,Vendor Management,2024-06-03,69000,0.74,2,3.7
+EMP016,Daniel Clark,Consulting,Principal,Operations Excellence,Lean Six Sigma,Quality Management,2021-09-14,128000,0.92,16,4.6
+EMP017,Stephanie White,Technology,QA Engineer,Quality Assurance,Test Automation,Performance Testing,2023-10-22,87000,0.82,6,4.0
+EMP018,Brian Miller,Consulting,Consultant,Supply Chain,Logistics,Inventory Management,2024-05-17,76000,0.80,4,3.9
+EMP019,Jessica Moore,Technology,Security Analyst,Cybersecurity,Risk Assessment,Compliance,2023-08-30,94000,0.87,7,4.4
+EMP020,Matthew Jackson,Finance,Senior Analyst,Investment Analysis,Portfolio Management,Financial Modeling,2022-12-12,91000,0.84,8,4.1
+EMP021,Lauren Harris,Consulting,Senior Consultant,HR Transformation,Talent Management,Organizational Design,2023-04-07,93000,0.88,11,4.3
+EMP022,Andrew Lewis,Technology,Full Stack Developer,Full Stack Development,API Design,Database Management,2024-01-28,88000,0.83,7,4.2
+EMP023,Megan Turner,Consulting,Consultant,Customer Experience,Service Design,Journey Mapping,2024-07-15,74000,0.77,3,3.8
+EMP024,Jonathan Hill,Technology,Platform Engineer,Platform Engineering,Kubernetes,Microservices,2023-11-09,99000,0.90,9,4.4
+EMP025,Samantha Parker,Finance,Manager,Tax Planning,Regulatory Compliance,Audit Support,2022-04-18,107000,0.86,12,4.5
