@@ -1,0 +1,21 @@
+maintenance_id,installation_id,site_name,equipment_type,maintenance_date,maintenance_type,downtime_hours,repair_cost_usd,technician_notes,next_service_due,priority_level
+MNT001,WF001,Prairie Wind Farm,turbine_gearbox,2024-09-15,scheduled,8.5,12500,Gearbox oil change and bearing inspection completed. Minor vibration detected in unit 3.,2025-03-15,medium
+MNT002,SF002,Desert Sun Array,inverter,2024-09-20,emergency,16.2,8750,Inverter failure on string 4. Replaced faulty power module. Heat damage evident.,2024-12-20,high
+MNT003,WF003,Mountain Ridge Wind,blade_assembly,2024-08-10,scheduled,24.0,18900,Blade tip repair due to lightning strike. Applied composite patch and rebalanced rotor.,2025-02-10,low
+MNT004,SF004,Valley Solar Park,tracking_system,2024-09-28,emergency,6.8,5200,East tracking motor seized. Replaced motor and recalibrated positioning system.,2025-06-28,medium
+MNT005,WF005,Coastal Wind Station,generator,2024-09-05,scheduled,12.4,15600,Generator winding inspection and cooling system maintenance. All parameters normal.,2025-03-05,low
+MNT006,SF006,High Desert Solar,panel_cleaning,2024-10-01,scheduled,3.2,2100,Quarterly panel cleaning and electrical connection inspection. 2% efficiency gain observed.,2025-01-01,low
+MNT007,WF007,Plains Wind Farm,control_system,2024-09-12,emergency,18.7,9800,SCADA communication failure. Replaced network switch and updated firmware.,2024-12-12,high
+MNT008,SF008,Mesa Solar Field,transformer,2024-08-25,scheduled,14.5,22000,Step-up transformer oil analysis and bushing replacement. Preventive maintenance completed.,2025-08-25,medium
+MNT009,WF009,Ridge Line Wind,nacelle,2024-09-18,scheduled,20.1,16750,Nacelle housing seal replacement and yaw system lubrication. Weather protection improved.,2025-03-18,medium
+MNT010,SF010,Sunbelt Solar,combiner_box,2024-09-22,emergency,4.6,3450,Combiner box fuse failure on section B. Replaced fuses and tightened connections.,2024-12-22,medium
+MNT011,WF011,Thunder Creek Wind,foundation,2024-07-30,scheduled,36.0,28500,Foundation bolt tensioning and grout inspection. Structural integrity confirmed.,2026-07-30,low
+MNT012,SF012,Golden Valley Solar,monitoring_system,2024-09-30,emergency,2.3,1800,Data logger malfunction affecting performance monitoring. Replaced unit and restored connectivity.,2025-03-30,high
+MNT013,WF013,Frontier Wind Park,brake_system,2024-09-08,scheduled,10.7,11200,Disc brake pad replacement and hydraulic system service. Stopping performance optimized.,2025-06-08,medium
+MNT014,SF014,Cactus Solar Ranch,wiring,2024-08-15,emergency,8.9,6700,DC wiring degradation due to UV exposure. Replaced affected cables and improved cable management.,2025-02-15,high
+MNT015,WF015,Hilltop Wind Farm,tower,2024-09-25,scheduled,28.4,19800,Tower climbing safety system upgrade and structural inspection. Safety compliance updated.,2025-09-25,low
+MNT016,WF001,Prairie Wind Farm,pitch_system,2024-08-20,emergency,22.1,14300,Pitch actuator hydraulic leak on blade 2. Replaced seals and recalibrated pitch control.,2024-11-20,high
+MNT017,SF002,Desert Sun Array,grounding,2024-09-10,scheduled,5.8,3200,Grounding system resistance testing and connection cleaning. Electrical safety verified.,2025-09-10,low
+MNT018,WF003,Mountain Ridge Wind,anemometer,2024-09-14,emergency,1.5,950,Wind measurement instrument calibration error. Replaced sensor and updated control parameters.,2024-12-14,medium
+MNT019,SF004,Valley Solar Park,security_system,2024-09-03,scheduled,4.2,2800,Perimeter security camera maintenance and motion sensor calibration. Site security enhanced.,2025-06-03,low
+MNT020,WF005,Coastal Wind Station,lightning_protection,2024-08-28,emergency,15.3,8900,Lightning protection system damage after storm. Replaced air terminals and down conductors.,2025-08-28,high

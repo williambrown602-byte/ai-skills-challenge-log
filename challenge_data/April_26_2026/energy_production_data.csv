@@ -1,0 +1,46 @@
+installation_id,site_name,state,asset_type,date,wind_speed_mph,solar_irradiance_wm2,power_output_mwh,capacity_mwh,efficiency_percent,temperature_f,humidity_percent
+WF001,Prairie Wind Farm,TX,wind,2024-10-01,12.5,,8.2,15.0,54.7,72,45
+WF001,Prairie Wind Farm,TX,wind,2024-10-02,18.3,,13.1,15.0,87.3,75,52
+WF001,Prairie Wind Farm,TX,wind,2024-10-03,8.2,,3.4,15.0,22.7,78,48
+SF002,Desert Sun Array,CA,solar,2024-10-01,,850,12.8,18.0,71.1,89,28
+SF002,Desert Sun Array,CA,solar,2024-10-02,,920,15.2,18.0,84.4,92,25
+SF002,Desert Sun Array,CA,solar,2024-10-03,,780,11.1,18.0,61.7,86,31
+WF003,Mountain Ridge Wind,CO,wind,2024-10-01,22.1,,18.5,25.0,74.0,58,35
+WF003,Mountain Ridge Wind,CO,wind,2024-10-02,15.8,,11.2,25.0,44.8,61,42
+WF003,Mountain Ridge Wind,CO,wind,2024-10-03,28.5,,22.3,25.0,89.2,55,38
+SF004,Valley Solar Park,AZ,solar,2024-10-01,,895,21.4,28.0,76.4,94,22
+SF004,Valley Solar Park,AZ,solar,2024-10-02,,742,17.1,28.0,61.1,89,29
+SF004,Valley Solar Park,AZ,solar,2024-10-03,,915,24.2,28.0,86.4,97,24
+WF005,Coastal Wind Station,TX,wind,2024-10-01,16.7,,9.8,12.0,81.7,79,68
+WF005,Coastal Wind Station,TX,wind,2024-10-02,11.2,,5.1,12.0,42.5,82,71
+WF005,Coastal Wind Station,TX,wind,2024-10-03,19.4,,11.2,12.0,93.3,77,65
+SF006,High Desert Solar,NV,solar,2024-10-01,,825,14.8,20.0,74.0,91,27
+SF006,High Desert Solar,NV,solar,2024-10-02,,658,10.2,20.0,51.0,85,33
+SF006,High Desert Solar,NV,solar,2024-10-03,,890,16.7,20.0,83.5,93,25
+WF007,Plains Wind Farm,KS,wind,2024-10-01,21.3,,16.8,22.0,76.4,68,41
+WF007,Plains Wind Farm,KS,wind,2024-10-02,14.1,,8.9,22.0,40.5,71,47
+WF007,Plains Wind Farm,KS,wind,2024-10-03,25.8,,19.7,22.0,89.5,66,39
+SF008,Mesa Solar Field,NM,solar,2024-10-01,,812,18.6,24.0,77.5,88,31
+SF008,Mesa Solar Field,NM,solar,2024-10-02,,695,15.1,24.0,62.9,84,36
+SF008,Mesa Solar Field,NM,solar,2024-10-03,,875,20.8,24.0,86.7,91,28
+WF009,Ridge Line Wind,WY,wind,2024-10-01,24.6,,19.8,26.0,76.2,52,28
+WF009,Ridge Line Wind,WY,wind,2024-10-02,18.9,,13.5,26.0,51.9,48,32
+WF009,Ridge Line Wind,WY,wind,2024-10-03,31.2,,24.1,26.0,92.7,45,25
+SF010,Sunbelt Solar,TX,solar,2024-10-01,,798,16.2,22.0,73.6,87,42
+SF010,Sunbelt Solar,TX,solar,2024-10-02,,645,12.8,22.0,58.2,82,48
+SF010,Sunbelt Solar,TX,solar,2024-10-03,,852,18.9,22.0,85.9,89,39
+WF011,Thunder Creek Wind,OK,wind,2024-10-01,17.2,,11.4,16.0,71.3,74,55
+WF011,Thunder Creek Wind,OK,wind,2024-10-02,13.8,,7.8,16.0,48.8,77,61
+WF011,Thunder Creek Wind,OK,wind,2024-10-03,20.5,,14.1,16.0,88.1,72,52
+SF012,Golden Valley Solar,CA,solar,2024-10-01,,718,13.9,19.5,71.3,83,38
+SF012,Golden Valley Solar,CA,solar,2024-10-02,,892,17.8,19.5,91.3,88,32
+SF012,Golden Valley Solar,CA,solar,2024-10-03,,765,14.2,19.5,72.8,85,35
+WF013,Frontier Wind Park,NE,wind,2024-10-01,19.8,,15.2,21.0,72.4,63,44
+WF013,Frontier Wind Park,NE,wind,2024-10-02,16.3,,10.8,21.0,51.4,66,49
+WF013,Frontier Wind Park,NE,wind,2024-10-03,23.7,,18.1,21.0,86.2,61,41
+SF014,Cactus Solar Ranch,AZ,solar,2024-10-01,,841,19.8,25.5,77.6,95,21
+SF014,Cactus Solar Ranch,AZ,solar,2024-10-02,,756,17.1,25.5,67.1,91,26
+SF014,Cactus Solar Ranch,AZ,solar,2024-10-03,,898,22.4,25.5,87.8,98,19
+WF015,Hilltop Wind Farm,CO,wind,2024-10-01,26.4,,20.8,28.0,74.3,54,31
+WF015,Hilltop Wind Farm,CO,wind,2024-10-02,14.7,,8.2,28.0,29.3,59,38
+WF015,Hilltop Wind Farm,CO,wind,2024-10-03,29.8,,25.6,28.0,91.4,51,29

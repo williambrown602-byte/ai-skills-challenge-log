@@ -1373,3 +1373,28 @@ Build an intelligent workforce planning and hiring optimization system that anal
 - Executive presentation with budget requirements and expected margin improvements
 
 ---
+# Daily AI Challenge – April 26, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent renewable energy asset performance monitoring system that consolidates multi-site operational data, identifies performance anomalies, predicts maintenance needs, and generates regulatory compliance reports to improve overall fleet efficiency by 12-18% while reducing manual reporting overhead by 80%.
+
+## Skills Trained
+- Energy industry analytics
+- Time-series analysis and predictive maintenance modeling
+- Regulatory compliance automation
+- Multi-site operational efficiency analysis
+- Clean energy business intelligence
+
+## Deliverables
+- Real-time asset performance dashboard with efficiency rankings and alerts
+- Predictive maintenance calendar showing optimal service windows for next 6 months
+- Top 20 underperforming assets ranked by opportunity value with specific intervention recommendations
+- Automated quarterly regulatory compliance reports with variance explanations
+- ROI projection showing potential revenue recovery from performance optimization
+
+---
