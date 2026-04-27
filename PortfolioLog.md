@@ -1398,3 +1398,28 @@ Build an intelligent renewable energy asset performance monitoring system that c
 - ROI projection showing potential revenue recovery from performance optimization
 
 ---
+# Daily AI Challenge – April 27, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent client retention prediction system for an accounting firm to identify at-risk clients 60-90 days before they defect and generate personalized retention strategies to reduce churn from 22% to 12%.
+
+## Skills Trained
+- Client relationship analytics and churn prediction modeling
+- Professional services industry business intelligence
+- Revenue protection strategy development
+- Partner-level business communication
+- Competitive analysis and strategic positioning
+
+## Deliverables
+- Top 75 at-risk clients ranked by churn probability with specific risk factors
+- Personalized retention playbooks for each risk category
+- Revenue protection analysis showing potential losses and intervention costs
+- Partner action plans with prioritized client outreach strategies
+- Competitive positioning analysis with pricing adjustment recommendations
+
+---

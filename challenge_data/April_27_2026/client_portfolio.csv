@@ -1,0 +1,31 @@
+client_id,client_name,service_line,annual_revenue,client_since,primary_partner,industry_sector,client_size,geographic_region
+C001,Meridian Manufacturing LLC,Tax Compliance,45000,2019-03-15,Sarah Chen,Manufacturing,Mid-Market,Northeast
+C002,BlueTech Solutions Inc,Advisory Services,125000,2017-08-22,Michael Rodriguez,Technology,Enterprise,West Coast
+C003,Harbor Point Retail,Tax Compliance,32000,2021-01-10,David Kim,Retail,Small Business,Southeast
+C004,Greenfield Construction,Audit Services,78000,2018-11-05,Sarah Chen,Construction,Mid-Market,Midwest
+C005,Coastal Medical Group,Tax Compliance,28000,2020-06-18,Jennifer Walsh,Healthcare,Small Business,Northeast
+C006,Summit Financial Partners,Advisory Services,195000,2016-04-12,Michael Rodriguez,Financial Services,Enterprise,Northeast
+C007,Riverside Manufacturing,Audit Services,89000,2019-09-30,David Kim,Manufacturing,Mid-Market,Southeast
+C008,TechForward Innovations,Bookkeeping Services,15000,2022-02-14,Jennifer Walsh,Technology,Small Business,West Coast
+C009,Metropolitan Hotels Group,Tax Compliance,156000,2015-12-08,Sarah Chen,Hospitality,Enterprise,Northeast
+C010,Valley Agriculture Co,Advisory Services,67000,2020-03-25,Michael Rodriguez,Agriculture,Mid-Market,Midwest
+C011,Urban Development LLC,Audit Services,112000,2017-06-15,David Kim,Real Estate,Enterprise,West Coast
+C012,Precision Electronics,Tax Compliance,41000,2021-08-03,Jennifer Walsh,Manufacturing,Mid-Market,Northeast
+C013,Golden State Logistics,Payroll Services,23000,2019-11-20,Sarah Chen,Transportation,Small Business,West Coast
+C014,Atlantic Insurance Brokers,Advisory Services,134000,2018-01-30,Michael Rodriguez,Insurance,Enterprise,Northeast
+C015,Mountain View Dental,Bookkeeping Services,18000,2022-05-12,Jennifer Walsh,Healthcare,Small Business,West Coast
+C016,Central City Bank,Audit Services,245000,2014-09-18,David Kim,Financial Services,Enterprise,Midwest
+C017,Evergreen Foods Inc,Tax Compliance,73000,2020-10-07,Sarah Chen,Food & Beverage,Mid-Market,Northwest
+C018,Phoenix Software Solutions,Advisory Services,98000,2019-04-25,Michael Rodriguez,Technology,Mid-Market,Southwest
+C019,Lakeside Resort & Spa,Tax Compliance,52000,2018-07-11,Jennifer Walsh,Hospitality,Mid-Market,Midwest
+C020,Industrial Components Corp,Audit Services,167000,2016-12-03,David Kim,Manufacturing,Enterprise,Northeast
+C021,Sunshine Retail Chain,Tax Compliance,84000,2021-03-18,Sarah Chen,Retail,Mid-Market,Southeast
+C022,Northwest Energy Solutions,Advisory Services,178000,2017-10-26,Michael Rodriguez,Energy,Enterprise,Northwest
+C023,Heritage Properties,Bookkeeping Services,31000,2020-08-14,Jennifer Walsh,Real Estate,Small Business,Northeast
+C024,Quantum Research Labs,Tax Compliance,61000,2019-01-22,David Kim,Research & Development,Mid-Market,West Coast
+C025,Maple Healthcare Systems,Audit Services,143000,2018-05-09,Sarah Chen,Healthcare,Enterprise,Northeast
+C026,Desert Mining Operations,Advisory Services,189000,2015-11-30,Michael Rodriguez,Mining,Enterprise,Southwest
+C027,Seaside Restaurants Group,Tax Compliance,47000,2021-06-05,Jennifer Walsh,Food & Beverage,Mid-Market,Southeast
+C028,Continental Shipping,Payroll Services,39000,2020-01-17,David Kim,Transportation,Mid-Market,Northeast
+C029,Pinnacle Consulting Firm,Advisory Services,76000,2019-12-12,Sarah Chen,Professional Services,Mid-Market,West Coast
+C030,Gateway Manufacturing,Audit Services,102000,2017-03-08,Michael Rodriguez,Manufacturing,Mid-Market,Midwest

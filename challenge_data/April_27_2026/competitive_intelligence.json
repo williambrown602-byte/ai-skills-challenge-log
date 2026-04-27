@@ -1,0 +1,68 @@
+{
+  "competitive_landscape": {
+    "primary_competitors": [
+      {
+        "firm_name": "Richardson & Associates",
+        "market_position": "Aggressive Pricing Leader",
+        "pricing_strategy": "15-20% below market rates",
+        "target_client_segments": ["Small Business", "Mid-Market"],
+        "recent_client_acquisitions": 23,
+        "key_differentiators": ["Lower fees", "Quick turnaround", "Digital-first approach"]
+      },
+      {
+        "firm_name": "Metro Tax Solutions",
+        "market_position": "Technology Focused",
+        "pricing_strategy": "10-15% below market rates",
+        "target_client_segments": ["Technology", "Professional Services"],
+        "recent_client_acquisitions": 18,
+        "key_differentiators": ["Cloud-based services", "Real-time reporting", "Mobile accessibility"]
+      },
+      {
+        "firm_name": "Coastal Business Partners",
+        "market_position": "Full Service Premium",
+        "pricing_strategy": "5-10% above market rates",
+        "target_client_segments": ["Enterprise", "Financial Services"],
+        "recent_client_acquisitions": 12,
+        "key_differentiators": ["Industry expertise", "Partner attention", "Strategic advisory"]
+      }
+    ],
+    "pricing_pressure_points": {
+      "tax_compliance": {
+        "market_rate_range": "$110-150/hour",
+        "competitive_pressure": "High",
+        "client_price_sensitivity": 8.2,
+        "negotiation_frequency": "75% of renewals"
+      },
+      "audit_services": {
+        "market_rate_range": "$160-200/hour",
+        "competitive_pressure": "Medium",
+        "client_price_sensitivity": 6.8,
+        "negotiation_frequency": "45% of renewals"
+      },
+      "advisory_services": {
+        "market_rate_range": "$220-300/hour",
+        "competitive_pressure": "Low",
+        "client_price_sensitivity": 4.5,
+        "negotiation_frequency": "25% of renewals"
+      },
+      "bookkeeping_services": {
+        "market_rate_range": "$75-95/hour",
+        "competitive_pressure": "Very High",
+        "client_price_sensitivity": 9.1,
+        "negotiation_frequency": "85% of renewals"
+      },
+      "payroll_services": {
+        "market_rate_range": "$85-110/hour",
+        "competitive_pressure": "High",
+        "client_price_sensitivity": 7.9,
+        "negotiation_frequency": "68% of renewals"
+      }
+    },
+    "market_trends": {
+      "automation_adoption": "Increasing client expectations for digital solutions",
+      "pricing_transparency": "Clients demanding detailed fee breakdowns",
+      "service_bundling": "Preference for comprehensive service packages",
+      "relationship_importance": "Personal relationships still critical for retention"
+    }
+  }
+}
