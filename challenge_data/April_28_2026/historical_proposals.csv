@@ -1,0 +1,51 @@
+proposal_id,client_name,client_industry,project_type,proposal_date,outcome,win_amount,executive_summary_score,methodology_score,team_score,pricing_score,proposal_length_pages,competitor_count,rfp_response_time_days,client_relationship_score,proposal_manager
+PROP_001,TechCorp Industries,Technology,Digital Transformation,2023-01-15,Won,450000,8.5,9.2,8.8,7.9,45,3,12,8.2,Sarah Johnson
+PROP_002,Global Manufacturing Ltd,Manufacturing,Process Optimization,2023-01-22,Lost,0,6.2,7.1,7.5,6.8,38,5,18,5.5,Mike Chen
+PROP_003,HealthSystem Alliance,Healthcare,IT Infrastructure,2023-02-03,Won,320000,9.1,8.7,9.0,8.3,52,2,8,9.1,Lisa Rodriguez
+PROP_004,Regional Bank Corp,Financial Services,Risk Management,2023-02-14,Won,275000,8.3,8.9,8.1,8.7,41,4,15,7.8,David Park
+PROP_005,City Government,Public Sector,Smart City Initiative,2023-02-28,Lost,0,7.2,6.8,7.9,5.4,67,6,25,6.2,Sarah Johnson
+PROP_006,Energy Solutions Inc,Energy,Sustainability Audit,2023-03-10,Won,180000,8.7,8.4,8.6,8.1,33,3,10,8.0,Amanda Wilson
+PROP_007,Retail Giant Corp,Retail,Supply Chain,2023-03-18,Lost,0,5.9,6.5,7.2,6.1,29,4,22,5.8,Mike Chen
+PROP_008,AeroSpace Dynamics,Aerospace,Quality Systems,2023-03-25,Won,520000,9.3,9.0,9.1,8.8,48,2,7,8.9,Lisa Rodriguez
+PROP_009,Pharma Research Labs,Pharmaceutical,Regulatory Compliance,2023-04-02,Won,390000,8.8,9.1,8.5,8.4,55,3,11,8.5,David Park
+PROP_010,Construction Mega Corp,Construction,Project Management,2023-04-12,Lost,0,6.8,7.0,6.9,7.2,42,5,20,6.1,Sarah Johnson
+PROP_011,Auto Manufacturing,Automotive,Lean Operations,2023-04-20,Won,410000,8.9,8.6,8.8,8.2,44,2,9,8.3,Amanda Wilson
+PROP_012,Insurance Premier,Insurance,Digital Claims,2023-04-28,Lost,0,7.1,6.9,7.3,6.5,36,4,19,6.7,Mike Chen
+PROP_013,Telecom National,Telecommunications,Network Optimization,2023-05-05,Won,350000,8.4,8.8,8.0,8.6,39,3,13,7.9,Lisa Rodriguez
+PROP_014,Food Processing Co,Food & Beverage,Safety Protocols,2023-05-15,Won,240000,8.2,8.1,8.7,7.8,35,3,14,8.1,David Park
+PROP_015,University System,Education,Campus Technology,2023-05-22,Lost,0,6.5,7.4,7.8,5.9,51,4,24,6.4,Sarah Johnson
+PROP_016,Mining Operations,Mining,Environmental Compliance,2023-06-01,Won,480000,8.6,8.9,8.3,8.5,46,2,8,8.4,Amanda Wilson
+PROP_017,Logistics Hub,Transportation,Fleet Management,2023-06-10,Won,290000,8.1,8.5,8.4,7.9,37,3,12,7.7,Mike Chen
+PROP_018,Media Corporation,Media & Entertainment,Content Strategy,2023-06-18,Lost,0,6.7,6.6,7.1,6.3,32,5,21,5.9,Lisa Rodriguez
+PROP_019,Chemical Industries,Chemical,Process Safety,2023-06-25,Won,430000,9.0,8.7,8.9,8.1,43,2,10,8.6,David Park
+PROP_020,Real Estate Group,Real Estate,Property Analytics,2023-07-03,Lost,0,7.0,6.8,7.2,6.4,34,4,17,6.3,Sarah Johnson
+PROP_021,Defense Contractor,Defense,Security Systems,2023-07-12,Won,650000,9.2,9.3,9.0,8.9,58,2,6,9.0,Amanda Wilson
+PROP_022,Hospitality Chain,Hospitality,Guest Experience,2023-07-20,Won,220000,8.3,8.0,8.5,7.7,31,3,15,8.0,Mike Chen
+PROP_023,Agriculture Corp,Agriculture,Precision Farming,2023-07-28,Lost,0,6.4,7.2,6.8,6.0,40,5,23,6.0,Lisa Rodriguez
+PROP_024,Water Utilities,Utilities,Smart Metering,2023-08-05,Won,310000,8.5,8.4,8.2,8.0,38,3,11,7.8,David Park
+PROP_025,Sports Organization,Sports & Recreation,Fan Engagement,2023-08-14,Won,185000,8.0,7.8,8.6,7.6,29,2,13,7.9,Sarah Johnson
+PROP_026,Biotech Innovations,Biotechnology,Lab Optimization,2023-08-22,Lost,0,6.9,7.5,7.0,6.2,47,4,19,6.5,Amanda Wilson
+PROP_027,Fashion Retail,Fashion,Omnichannel Strategy,2023-08-30,Won,270000,8.2,8.1,8.4,7.8,35,3,12,7.6,Mike Chen
+PROP_028,Non-Profit Alliance,Non-Profit,Digital Fundraising,2023-09-07,Won,95000,7.8,8.2,8.0,8.3,27,2,16,8.2,Lisa Rodriguez
+PROP_029,Steel Manufacturing,Manufacturing,Automation Systems,2023-09-15,Lost,0,6.1,6.7,6.5,6.6,41,5,22,5.7,David Park
+PROP_030,Consulting Firm,Professional Services,Knowledge Management,2023-09-23,Won,380000,8.7,8.8,8.6,8.2,44,2,9,8.1,Sarah Johnson
+PROP_031,Gaming Company,Gaming,User Analytics,2023-10-01,Won,340000,8.4,8.3,8.7,8.0,36,3,14,7.8,Amanda Wilson
+PROP_032,Airline Corporation,Aviation,Operations Efficiency,2023-10-10,Lost,0,6.6,7.3,6.9,6.1,45,4,20,6.2,Mike Chen
+PROP_033,Pharmaceutical Giant,Pharmaceutical,Clinical Data,2023-10-18,Won,560000,9.1,8.9,8.8,8.7,53,2,7,8.8,Lisa Rodriguez
+PROP_034,E-commerce Platform,E-commerce,Customer Journey,2023-10-25,Won,420000,8.8,8.5,8.9,8.3,41,3,10,8.4,David Park
+PROP_035,Banking Consortium,Financial Services,Fraud Detection,2023-11-02,Lost,0,7.3,6.4,7.1,6.7,39,5,18,6.6,Sarah Johnson
+PROP_036,Green Energy Co,Renewable Energy,Grid Integration,2023-11-11,Won,490000,8.9,9.0,8.4,8.6,47,2,8,8.5,Amanda Wilson
+PROP_037,Retail Tech Startup,Technology,POS Systems,2023-11-19,Won,160000,7.9,8.1,8.3,7.5,28,3,16,7.4,Mike Chen
+PROP_038,Healthcare Network,Healthcare,Patient Experience,2023-11-27,Lost,0,6.8,7.0,7.4,6.3,48,4,21,6.4,Lisa Rodriguez
+PROP_039,Manufacturing Hub,Manufacturing,Supply Chain,2023-12-05,Won,370000,8.6,8.7,8.1,8.4,42,2,11,8.0,David Park
+PROP_040,Government Agency,Public Sector,Citizen Services,2023-12-13,Won,280000,8.1,8.3,8.5,7.9,50,3,13,7.7,Sarah Johnson
+PROP_041,Fintech Solutions,Financial Technology,Payment Processing,2024-01-08,Won,330000,8.5,8.4,8.2,8.1,37,3,12,7.8,Amanda Wilson
+PROP_042,Oil & Gas Corp,Oil & Gas,Asset Management,2024-01-16,Lost,0,6.3,6.8,6.6,6.4,44,5,24,5.8,Mike Chen
+PROP_043,Software Company,Technology,Agile Transformation,2024-01-24,Won,400000,8.7,8.9,8.6,8.0,40,2,9,8.3,Lisa Rodriguez
+PROP_044,Credit Union,Financial Services,Member Experience,2024-02-01,Won,210000,8.0,8.2,8.4,7.7,33,3,15,7.6,David Park
+PROP_045,Transportation Dept,Public Sector,Traffic Management,2024-02-09,Lost,0,7.0,6.5,7.2,6.1,52,6,26,6.0,Sarah Johnson
+PROP_046,Clean Tech Venture,Clean Technology,Carbon Tracking,2024-02-17,Won,250000,8.3,8.1,8.5,7.8,35,2,11,7.9,Amanda Wilson
+PROP_047,Restaurant Chain,Food Service,Kitchen Automation,2024-02-25,Won,180000,7.8,8.0,8.1,7.6,30,3,14,7.5,Mike Chen
+PROP_048,Research Institute,Research,Data Management,2024-03-05,Lost,0,6.7,7.1,6.9,6.2,46,4,19,6.3,Lisa Rodriguez
+PROP_049,Logistics Provider,Logistics,Route Optimization,2024-03-13,Won,360000,8.4,8.6,8.3,8.2,39,2,10,8.1,David Park
+PROP_050,Entertainment Studio,Entertainment,Content Distribution,2024-03-21,Won,290000,8.2,7.9,8.7,7.9,34,3,13,7.7,Sarah Johnson
