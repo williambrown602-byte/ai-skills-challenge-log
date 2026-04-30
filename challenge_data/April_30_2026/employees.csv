@@ -1,0 +1,41 @@
+employee_id,company,first_name,last_name,department,role,salary,location,hire_date,manager_id,employment_status
+1,Parent_Corp,John,Smith,IT,Director of IT,125000,New York,2019-03-15,,Active
+2,Parent_Corp,Sarah,Johnson,IT,Senior Developer,95000,New York,2020-01-10,1,Active
+3,Parent_Corp,Mike,Davis,IT,DevOps Engineer,88000,New York,2021-06-01,1,Active
+4,Parent_Corp,Lisa,Wilson,HR,HR Director,110000,New York,2018-11-20,,Active
+5,Parent_Corp,Tom,Brown,HR,HR Specialist,65000,New York,2022-02-14,4,Active
+6,Parent_Corp,Emma,Garcia,Finance,CFO,180000,New York,2017-05-10,,Active
+7,Parent_Corp,David,Miller,Finance,Senior Accountant,78000,New York,2021-03-22,6,Active
+8,Parent_Corp,Jennifer,Anderson,Marketing,Marketing Director,105000,New York,2019-07-30,,Active
+9,Parent_Corp,Robert,Taylor,Marketing,Digital Marketing Specialist,72000,New York,2022-04-11,8,Active
+10,Parent_Corp,Amanda,White,Sales,VP Sales,140000,New York,2018-09-05,,Active
+11,Parent_Corp,James,Lee,Sales,Account Executive,85000,New York,2020-12-01,10,Active
+12,Parent_Corp,Jessica,Moore,Operations,Operations Manager,95000,New York,2021-01-15,,Active
+13,Acquired_Tech,Carlos,Rodriguez,IT,IT Manager,98000,Austin,2020-02-20,,Active
+14,Acquired_Tech,Maria,Gonzalez,IT,Full Stack Developer,92000,Austin,2021-04-12,13,Active
+15,Acquired_Tech,Kevin,Thompson,IT,Systems Administrator,75000,Austin,2022-01-08,13,Active
+16,Acquired_Tech,Nicole,Jackson,HR,HR Manager,85000,Austin,2019-10-15,,Active
+17,Acquired_Tech,Brian,Martin,Finance,Finance Manager,95000,Austin,2020-06-30,,Active
+18,Acquired_Tech,Ashley,Clark,Finance,Financial Analyst,68000,Austin,2021-11-22,17,Active
+19,Acquired_Tech,Ryan,Lewis,Marketing,Marketing Manager,88000,Austin,2021-07-19,,Active
+20,Acquired_Tech,Michelle,Walker,Sales,Sales Manager,92000,Austin,2020-03-10,,Active
+21,Acquired_Tech,Steven,Hall,Sales,Sales Rep,70000,Austin,2022-05-16,20,Active
+22,CloudStart,Daniel,Allen,IT,Senior Developer,105000,San Francisco,2019-08-14,,Active
+23,CloudStart,Laura,Young,IT,Cloud Architect,115000,San Francisco,2020-04-22,,Active
+24,CloudStart,Matthew,King,IT,DevOps Engineer,98000,San Francisco,2021-09-07,23,Active
+25,CloudStart,Rachel,Wright,HR,HR Coordinator,58000,San Francisco,2021-12-13,,Active
+26,CloudStart,Christopher,Lopez,Finance,Senior Accountant,82000,San Francisco,2020-11-05,,Active
+27,CloudStart,Stephanie,Hill,Marketing,Content Marketing Specialist,75000,San Francisco,2022-03-28,,Active
+28,CloudStart,Jason,Scott,Sales,Enterprise Sales Rep,95000,San Francisco,2021-02-17,,Active
+29,DataFlow,Anthony,Green,IT,Data Engineer,108000,Seattle,2020-07-11,,Active
+30,DataFlow,Melissa,Adams,IT,Senior Data Scientist,125000,Seattle,2019-12-09,,Active
+31,DataFlow,Joshua,Baker,IT,Software Engineer,95000,Seattle,2021-05-03,30,Active
+32,DataFlow,Heather,Gonzalez,HR,HR Business Partner,78000,Seattle,2020-09-21,,Active
+33,DataFlow,Andrew,Nelson,Finance,Controller,98000,Seattle,2019-04-16,,Active
+34,DataFlow,Kimberly,Carter,Marketing,Product Marketing Manager,95000,Seattle,2021-08-30,,Active
+35,DataFlow,William,Mitchell,Sales,Sales Director,115000,Seattle,2020-01-27,,Active
+36,DataFlow,Crystal,Perez,Operations,Business Analyst,72000,Seattle,2022-01-10,,Active
+37,Parent_Corp,Brandon,Roberts,IT,Junior Developer,68000,New York,2022-08-15,1,Active
+38,Acquired_Tech,Samantha,Turner,Marketing,Social Media Manager,62000,Austin,2022-09-12,19,Active
+39,CloudStart,Eric,Phillips,IT,Security Engineer,112000,San Francisco,2021-10-25,23,Active
+40,DataFlow,Brittany,Campbell,Sales,Account Manager,78000,Seattle,2022-02-28,35,Active

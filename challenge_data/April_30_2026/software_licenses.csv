@@ -1,0 +1,41 @@
+license_id,company,software_name,vendor,license_type,annual_cost,users,expiry_date,category
+1,Parent_Corp,Microsoft Office 365,Microsoft,Subscription,15600,120,2026-12-31,Productivity
+2,Parent_Corp,Salesforce CRM,Salesforce,Subscription,48000,25,2026-08-15,CRM
+3,Parent_Corp,Slack Business,Slack,Subscription,9600,80,2026-10-31,Communication
+4,Parent_Corp,Adobe Creative Suite,Adobe,Subscription,7200,12,2026-09-30,Design
+5,Parent_Corp,Jira Software,Atlassian,Subscription,4800,30,2026-07-15,Project Management
+6,Parent_Corp,AWS Cloud Services,Amazon,Usage-based,36000,,2027-01-31,Cloud Infrastructure
+7,Parent_Corp,Zoom Pro,Zoom,Subscription,2400,50,2026-11-30,Video Conferencing
+8,Parent_Corp,DocuSign,DocuSign,Subscription,3600,20,2026-12-15,Document Management
+9,Parent_Corp,Okta Identity,Okta,Subscription,12000,100,2026-06-30,Security
+10,Parent_Corp,Tableau Desktop,Tableau,Subscription,8400,15,2026-08-31,Analytics
+11,Acquired_Tech,Microsoft Office 365,Microsoft,Subscription,7800,60,2026-11-15,Productivity
+12,Acquired_Tech,HubSpot CRM,HubSpot,Subscription,18000,15,2026-09-01,CRM
+13,Acquired_Tech,Microsoft Teams,Microsoft,Subscription,3600,45,2026-10-15,Communication
+14,Acquired_Tech,Canva Pro,Canva,Subscription,1800,8,2026-12-01,Design
+15,Acquired_Tech,Monday.com,Monday.com,Subscription,3600,25,2026-07-30,Project Management
+16,Acquired_Tech,Google Cloud Platform,Google,Usage-based,24000,,2026-12-31,Cloud Infrastructure
+17,Acquired_Tech,GoToMeeting,LogMeIn,Subscription,1800,30,2026-08-15,Video Conferencing
+18,Acquired_Tech,PandaDoc,PandaDoc,Subscription,2400,12,2026-11-30,Document Management
+19,Acquired_Tech,Auth0,Okta,Subscription,6000,50,2026-09-15,Security
+20,Acquired_Tech,Power BI,Microsoft,Subscription,3000,10,2026-10-31,Analytics
+21,CloudStart,Google Workspace,Google,Subscription,4200,35,2026-12-15,Productivity
+22,CloudStart,Pipedrive CRM,Pipedrive,Subscription,7200,10,2026-08-30,CRM
+23,CloudStart,Discord Business,Discord,Subscription,600,20,2026-09-15,Communication
+24,CloudStart,Figma Professional,Figma,Subscription,2400,6,2026-11-01,Design
+25,CloudStart,Asana Premium,Asana,Subscription,2400,18,2026-07-15,Project Management
+26,CloudStart,AWS Cloud Services,Amazon,Usage-based,18000,,2026-10-31,Cloud Infrastructure
+27,CloudStart,Zoom Basic,Zoom,Subscription,600,15,2026-12-30,Video Conferencing
+28,CloudStart,HelloSign,Dropbox,Subscription,1800,8,2026-09-30,Document Management
+29,CloudStart,LastPass Business,LogMeIn,Subscription,1200,25,2026-08-15,Security
+30,CloudStart,Google Analytics 360,Google,Subscription,15000,5,2026-11-15,Analytics
+31,DataFlow,Microsoft Office 365,Microsoft,Subscription,9100,70,2026-10-15,Productivity
+32,DataFlow,Salesforce CRM,Salesforce,Subscription,24000,12,2026-12-01,CRM
+33,DataFlow,Slack Standard,Slack,Subscription,4800,40,2026-09-30,Communication
+34,DataFlow,Adobe Acrobat Pro,Adobe,Subscription,1800,10,2026-11-30,Design
+35,DataFlow,Notion Team,Notion,Subscription,1200,20,2026-08-01,Project Management
+36,DataFlow,Azure Cloud Services,Microsoft,Usage-based,28000,,2027-02-28,Cloud Infrastructure
+37,DataFlow,WebEx Meetings,Cisco,Subscription,3600,35,2026-10-15,Video Conferencing
+38,DataFlow,Adobe Sign,Adobe,Subscription,2400,15,2026-12-15,Document Management
+39,DataFlow,Duo Security,Cisco,Subscription,4800,60,2026-07-31,Security
+40,DataFlow,Looker,Google,Subscription,24000,8,2026-09-15,Analytics
