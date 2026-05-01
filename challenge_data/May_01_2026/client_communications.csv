@@ -1,0 +1,26 @@
+communication_id,project_id,communication_date,communication_type,initiated_by,sentiment_score,urgency_level,topic_category,response_time_hours,issue_resolved,change_request_flag,budget_impact,timeline_impact_days
+COMM001,PRJ001,2025-01-10,Email,Client,3,Medium,Design Changes,24,Yes,Yes,25000,7
+COMM002,PRJ001,2025-01-08,Phone Call,Architect,7,Low,Progress Update,0,N/A,No,0,0
+COMM003,PRJ001,2024-12-15,Meeting,Client,5,High,Budget Concerns,48,No,No,0,0
+COMM004,PRJ002,2025-01-12,Email,Client,8,Low,Schedule Confirmation,12,Yes,No,0,0
+COMM005,PRJ002,2025-01-05,Phone Call,Client,4,Medium,Design Revisions,36,Yes,Yes,15000,3
+COMM006,PRJ003,2025-01-09,Email,Architect,6,Medium,Community Feedback,18,Yes,No,0,5
+COMM007,PRJ003,2024-12-20,Meeting,Client,2,High,Major Design Changes,72,No,Yes,45000,14
+COMM008,PRJ003,2024-12-18,Phone Call,Client,3,High,Budget Overrun Concerns,24,No,No,0,0
+COMM009,PRJ004,2025-01-07,Email,Client,7,Low,Approval Process,16,Yes,No,0,0
+COMM010,PRJ004,2024-12-28,Meeting,Architect,8,Low,Technical Review,0,N/A,No,0,0
+COMM011,PRJ005,2025-01-11,Phone Call,Client,2,High,Construction Quality Issues,8,No,No,0,10
+COMM012,PRJ005,2025-01-06,Email,Client,3,High,Schedule Delays,48,No,No,0,21
+COMM013,PRJ005,2024-12-30,Meeting,Client,1,Critical,Budget Overrun Discussion,24,No,Yes,75000,0
+COMM014,PRJ006,2025-01-13,Email,Client,4,Medium,Historic Compliance Issues,36,Yes,No,0,8
+COMM015,PRJ006,2025-01-01,Phone Call,Architect,6,Medium,Progress Update,0,N/A,No,0,0
+COMM016,PRJ006,2024-12-22,Meeting,Client,3,High,Scope Expansion Request,96,No,Yes,65000,21
+COMM017,PRJ007,2025-01-14,Email,Client,5,Medium,Educational Requirements,20,Yes,Yes,12000,5
+COMM018,PRJ007,2025-01-02,Phone Call,Client,7,Low,Design Approval,24,Yes,No,0,0
+COMM019,PRJ008,2025-01-15,Meeting,Client,4,Medium,Luxury Specifications,48,Yes,Yes,35000,10
+COMM020,PRJ008,2025-01-08,Email,Client,6,Low,Market Positioning,28,Yes,No,0,0
+COMM021,PRJ009,2025-01-04,Phone Call,Client,2,Critical,Construction Defects,4,No,No,0,15
+COMM022,PRJ009,2024-12-28,Email,Client,1,Critical,Major Schedule Concerns,12,No,No,0,28
+COMM023,PRJ009,2024-12-20,Meeting,Client,2,Critical,Budget Crisis Discussion,24,No,Yes,120000,0
+COMM024,PRJ010,2025-01-12,Email,Client,5,Medium,Programming Changes,32,Yes,Yes,18000,7
+COMM025,PRJ010,2024-12-29,Phone Call,Architect,7,Low,Holiday Schedule,0,N/A,No,0,0

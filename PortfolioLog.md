@@ -1499,3 +1499,28 @@ Build an intelligent post-merger integration analytics system that identifies re
 - Real estate optimization plan with relocation/closure recommendations
 
 ---
+# Daily AI Challenge – May 01, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent project health monitoring system that analyzes project communications, budget tracking, and milestone data to predict project risks 3-4 weeks before they become critical issues for a mid-sized architecture firm. Transform reactive project management into predictive oversight to reduce overruns and improve client retention.
+
+## Skills Trained
+- Multi-factor risk prediction modeling
+- Architecture/construction industry business intelligence
+- Early warning system design and implementation
+- Project management analytics and optimization
+- Executive-level risk communication and reporting
+
+## Deliverables
+- Top 25 highest-risk projects requiring immediate partner attention with specific risk factors
+- Predictive project health scoring system (0-100 scale) with trend analysis
+- Early warning alert system for budget overrun and timeline slip risks
+- Client relationship risk assessment based on communication patterns
+- Weekly project portfolio health report for senior leadership
+
+---

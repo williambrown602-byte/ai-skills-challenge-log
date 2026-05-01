@@ -1,0 +1,31 @@
+project_id,budget_category,phase,planned_budget,actual_spent,committed_costs,forecast_total,variance_pct,last_updated,burn_rate_weekly,remaining_budget
+PRJ001,Design Services,Design Development,350000,382000,45000,427000,22.0,2025-01-15,28000,-77000
+PRJ001,Consultant Fees,Design Development,120000,135000,25000,160000,33.3,2025-01-15,12000,-40000
+PRJ001,Travel & Expenses,Design Development,15000,18500,2000,20500,36.7,2025-01-15,1500,-5500
+PRJ002,Design Services,Construction Documents,480000,455000,85000,540000,12.5,2025-01-12,32000,25000
+PRJ002,Consultant Fees,Construction Documents,180000,165000,40000,205000,13.9,2025-01-12,15000,15000
+PRJ002,Printing & Reproductions,Construction Documents,25000,22000,5000,27000,8.0,2025-01-12,2000,3000
+PRJ003,Design Services,Schematic Design,180000,195000,30000,225000,25.0,2025-01-10,18000,-45000
+PRJ003,Site Surveys,Schematic Design,35000,42000,5000,47000,34.3,2025-01-10,3000,-12000
+PRJ003,Community Engagement,Schematic Design,25000,28000,8000,36000,44.0,2025-01-10,2500,-11000
+PRJ004,Design Services,Construction Documents,750000,720000,125000,845000,12.7,2025-01-08,45000,30000
+PRJ004,Structural Engineering,Construction Documents,180000,170000,35000,205000,13.9,2025-01-08,15000,10000
+PRJ004,MEP Engineering,Construction Documents,220000,215000,40000,255000,15.9,2025-01-08,18000,5000
+PRJ005,Construction Administration,Construction Administration,650000,698000,95000,793000,22.0,2025-01-14,38000,-143000
+PRJ005,Site Visits,Construction Administration,45000,52000,8000,60000,33.3,2025-01-14,4000,-15000
+PRJ005,Testing & Inspections,Construction Administration,65000,75000,12000,87000,33.8,2025-01-14,5500,-22000
+PRJ006,Design Services,Construction Documents,420000,467000,75000,542000,29.0,2025-01-13,35000,-122000
+PRJ006,Historic Preservation Consultant,Construction Documents,85000,98000,15000,113000,32.9,2025-01-13,8000,-28000
+PRJ006,Specialty Consultants,Construction Documents,55000,65000,12000,77000,40.0,2025-01-13,5500,-22000
+PRJ007,Design Services,Design Development,240000,268000,40000,308000,28.3,2025-01-11,22000,-68000
+PRJ007,Educational Consultant,Design Development,35000,38000,8000,46000,31.4,2025-01-11,3000,-11000
+PRJ007,Technology Consultant,Design Development,45000,52000,10000,62000,37.8,2025-01-11,4000,-17000
+PRJ008,Design Services,Schematic Design,420000,445000,65000,510000,21.4,2025-01-16,32000,-90000
+PRJ008,Market Research,Schematic Design,25000,28000,5000,33000,32.0,2025-01-16,2200,-8000
+PRJ008,Luxury Design Consultant,Schematic Design,85000,95000,15000,110000,29.4,2025-01-16,7500,-25000
+PRJ009,Construction Administration,Construction Administration,850000,920000,125000,1045000,22.9,2025-01-09,55000,-195000
+PRJ009,Construction Management,Construction Administration,150000,175000,25000,200000,33.3,2025-01-09,12000,-50000
+PRJ009,Quality Control,Construction Administration,85000,98000,18000,116000,36.5,2025-01-09,7500,-31000
+PRJ010,Design Services,Design Development,330000,358000,55000,413000,25.2,2025-01-12,28000,-83000
+PRJ010,Recreation Consultant,Design Development,45000,52000,8000,60000,33.3,2025-01-12,4000,-15000
+PRJ010,Equipment Planning,Design Development,35000,38000,7000,45000,28.6,2025-01-12,3000,-10000
