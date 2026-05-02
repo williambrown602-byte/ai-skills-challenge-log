@@ -1524,3 +1524,28 @@ Build an intelligent project health monitoring system that analyzes project comm
 - Weekly project portfolio health report for senior leadership
 
 ---
+# Daily AI Challenge – May 02, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent development resource optimization system that analyzes project data to improve development velocity by 35% and reduce rework incidents by 60% for a fast-growing SaaS company with coordination inefficiencies across 8 engineering teams.
+
+## Skills Trained
+- Software development analytics
+- Multi-constraint scheduling and capacity planning
+- Engineering productivity measurement
+- Technology industry business intelligence
+- Executive-level technical communication
+
+## Deliverables
+- Optimized team allocation recommendations with velocity projections
+- Dependency conflict resolution plan
+- Predictive scope change model
+- Resource reallocation strategy
+- Executive dashboard with development health metrics
+
+---
