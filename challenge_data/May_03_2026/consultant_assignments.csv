@@ -1,0 +1,52 @@
+consultant_id,consultant_name,seniority_level,department,project_id,role_on_project,hours_worked,project_start_date,project_end_date
+C001,Sarah Johnson,Partner,Strategy,P001,Project Lead,320,2024-01-15,2024-03-15
+C002,Michael Chen,Senior Manager,Operations,P001,Workstream Lead,280,2024-01-15,2024-03-15
+C003,Emily Rodriguez,Manager,Technology,P001,Subject Matter Expert,240,2024-01-20,2024-03-10
+C001,Sarah Johnson,Partner,Strategy,P007,Project Lead,450,2023-08-30,2023-10-30
+C004,David Kim,Senior Manager,Strategy,P007,Workstream Lead,380,2023-08-30,2023-10-30
+C005,Lisa Thompson,Manager,HR,P007,Subject Matter Expert,200,2023-09-15,2023-10-25
+C002,Michael Chen,Senior Manager,Operations,P003,Project Lead,350,2023-10-10,2023-12-10
+C006,Robert Martinez,Manager,Operations,P003,Workstream Lead,300,2023-10-10,2023-12-10
+C007,Amanda Foster,Senior Consultant,Operations,P003,Analyst,180,2023-10-15,2023-12-05
+C008,Jennifer Liu,Partner,Customer Strategy,P005,Project Lead,280,2023-09-18,2023-11-18
+C009,Thomas Anderson,Senior Manager,Marketing,P005,Workstream Lead,320,2023-09-18,2023-11-18
+C010,Rachel Green,Manager,Analytics,P005,Subject Matter Expert,200,2023-09-25,2023-11-15
+C011,James Wilson,Partner,Finance,P004,Project Lead,400,2023-12-28,2024-02-28
+C005,Lisa Thompson,Manager,HR,P004,Workstream Lead,350,2023-12-28,2024-02-28
+C012,Karen Davis,Senior Manager,Organization,P004,Subject Matter Expert,250,2024-01-05,2024-02-25
+C013,Brian Taylor,Senior Manager,Strategy,P002,Project Lead,200,2023-12-22,2024-01-22
+C014,Nicole Adams,Manager,Research,P002,Workstream Lead,180,2023-12-22,2024-01-22
+C015,Christopher Lee,Senior Consultant,Analytics,P002,Analyst,120,2023-12-28,2024-01-20
+C002,Michael Chen,Senior Manager,Operations,P006,Project Lead,250,2024-02-05,2024-04-05
+C016,Maria Garcia,Manager,Finance,P006,Workstream Lead,220,2024-02-05,2024-04-05
+C017,Paul Johnson,Senior Consultant,Operations,P006,Analyst,160,2024-02-10,2024-04-02
+C018,Susan Brown,Partner,Innovation,P008,Project Lead,180,2023-12-15,2024-01-15
+C019,Daniel White,Senior Manager,R&D,P008,Workstream Lead,200,2023-12-15,2024-01-15
+C020,Michelle Clark,Manager,Strategy,P008,Subject Matter Expert,140,2023-12-20,2024-01-12
+C009,Thomas Anderson,Senior Manager,Marketing,P009,Project Lead,300,2023-08-20,2023-09-20
+C021,Andrew Scott,Manager,Digital,P009,Workstream Lead,280,2023-08-20,2023-09-20
+C022,Stephanie Hall,Senior Consultant,Marketing,P009,Analyst,200,2023-08-25,2023-09-18
+C023,Kevin Young,Partner,Risk,P010,Project Lead,350,2024-01-08,2024-03-08
+C024,Laura Allen,Senior Manager,Compliance,P010,Workstream Lead,300,2024-01-08,2024-03-08
+C025,Mark Turner,Manager,Risk,P010,Subject Matter Expert,220,2024-01-15,2024-03-05
+C005,Lisa Thompson,Manager,HR,P011,Project Lead,200,2023-11-22,2023-12-22
+C026,Jessica King,Senior Consultant,Talent,P011,Workstream Lead,180,2023-11-22,2023-12-22
+C027,Ryan Moore,Consultant,Analytics,P011,Analyst,120,2023-11-28,2023-12-20
+C002,Michael Chen,Senior Manager,Operations,P012,Project Lead,380,2023-12-14,2024-02-14
+C028,Sandra Lewis,Manager,Process,P012,Workstream Lead,340,2023-12-14,2024-02-14
+C029,Gregory Hill,Senior Consultant,Technology,P012,Subject Matter Expert,240,2023-12-20,2024-02-10
+C030,Patricia Nelson,Partner,Sustainability,P013,Project Lead,220,2023-10-25,2023-11-25
+C031,Richard Parker,Senior Manager,Environment,P013,Workstream Lead,200,2023-10-25,2023-11-25
+C032,Janet Collins,Manager,Analytics,P013,Subject Matter Expert,160,2023-11-01,2023-11-23
+C033,Steven Phillips,Partner,Pricing,P014,Project Lead,240,2024-02-12,2024-04-12
+C034,Carol Evans,Senior Manager,Analytics,P014,Workstream Lead,220,2024-02-12,2024-04-12
+C035,Matthew Roberts,Manager,Economics,P014,Subject Matter Expert,180,2024-02-18,2024-04-10
+C001,Sarah Johnson,Partner,Strategy,P015,Project Lead,400,2023-06-17,2023-08-17
+C036,Diana Torres,Senior Manager,International,P015,Workstream Lead,350,2023-06-17,2023-08-17
+C037,Anthony Murphy,Manager,Research,P015,Subject Matter Expert,200,2023-06-25,2023-08-15
+C038,Melissa Cooper,Partner,Technology,P016,Project Lead,280,2023-11-30,2024-01-30
+C003,Emily Rodriguez,Manager,Technology,P016,Workstream Lead,240,2023-11-30,2024-01-30
+C039,Joseph Reed,Senior Consultant,IT,P016,Subject Matter Expert,180,2023-12-05,2024-01-28
+C010,Rachel Green,Manager,Analytics,P017,Project Lead,320,2023-11-05,2023-12-05
+C040,Dorothy Howard,Senior Consultant,Data Science,P017,Workstream Lead,280,2023-11-05,2023-12-05
+C041,Gary Ward,Consultant,Analytics,P017,Analyst,200,2023-11-10,2023-12-03

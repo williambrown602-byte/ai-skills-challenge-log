@@ -1549,3 +1549,28 @@ Build an intelligent development resource optimization system that analyzes proj
 - Executive dashboard with development health metrics
 
 ---
+# Daily AI Challenge – May 03, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Create an intelligent knowledge extraction and expertise mapping system that transforms historical project documents into a searchable strategic asset and generates knowledge-based recommendations for current engagements. Build a document processing pipeline that extracts insights, themes, and methodologies from project archives while creating expertise profiles and developing a recommendation engine for knowledge reuse.
+
+## Skills Trained
+- Advanced document processing and text analysis
+- Knowledge management system architecture
+- Expertise mapping and organizational intelligence
+- Strategic business analysis and recommendations
+- Professional services industry optimization
+
+## Deliverables
+- Strategic knowledge repository with searchable insights and methodologies
+- Consultant expertise mapping showing subject matter specializations
+- Knowledge gap analysis identifying areas lacking internal expertise
+- Active project support recommendations linking current needs to historical solutions
+- Partner presentation quantifying knowledge management ROI potential
+
+---
