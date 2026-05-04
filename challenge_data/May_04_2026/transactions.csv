@@ -1,0 +1,41 @@
+transaction_id,merchant_id,amount,currency,transaction_date,transaction_time,merchant_category,customer_location,payment_method,ip_address,device_type,status
+TXN001,MCH2847,1247.50,USD,2024-11-15,14:23:45,SaaS Software,New York NY,Credit Card,192.168.1.45,Desktop,completed
+TXN002,MCH1203,89.99,USD,2024-11-15,09:15:22,E-commerce,Los Angeles CA,Debit Card,10.0.0.123,Mobile,completed
+TXN003,MCH4521,25000.00,USD,2024-11-15,16:47:13,B2B Services,Chicago IL,Bank Transfer,172.16.254.1,Desktop,completed
+TXN004,MCH0892,156.78,USD,2024-11-15,11:32:09,Retail,Miami FL,Credit Card,203.0.113.0,Mobile,completed
+TXN005,MCH3674,2890.25,USD,2024-11-15,13:41:56,Healthcare,Seattle WA,ACH,198.51.100.42,Desktop,completed
+TXN006,MCH1847,45.60,USD,2024-11-15,08:19:33,Food Service,Austin TX,Credit Card,10.0.0.200,Mobile,completed
+TXN007,MCH5023,15670.00,USD,2024-11-15,15:28:17,Manufacturing,Detroit MI,Wire Transfer,192.0.2.146,Desktop,completed
+TXN008,MCH2109,234.89,USD,2024-11-15,10:45:02,Professional Services,Boston MA,Credit Card,203.0.113.195,Desktop,completed
+TXN009,MCH7834,78.45,USD,2024-11-15,12:17:28,Entertainment,Las Vegas NV,Debit Card,198.51.100.200,Mobile,completed
+TXN010,MCH4456,3450.00,USD,2024-11-15,17:33:41,Real Estate,Phoenix AZ,Check,172.16.0.100,Desktop,completed
+TXN011,MCH2847,89000.00,USD,2024-11-14,23:45:12,SaaS Software,Moscow RU,Credit Card,5.255.255.55,Desktop,flagged
+TXN012,MCH1203,12.99,USD,2024-11-14,02:15:33,E-commerce,Vancouver BC,Credit Card,192.168.1.45,Mobile,completed
+TXN013,MCH8821,456.78,USD,2024-11-14,14:22:17,Consulting,Denver CO,Credit Card,10.0.0.155,Desktop,disputed
+TXN014,MCH0892,25.00,USD,2024-11-14,09:47:23,Retail,Miami FL,Debit Card,203.0.113.12,Mobile,completed
+TXN015,MCH3674,1200.50,USD,2024-11-14,16:33:45,Healthcare,Portland OR,ACH,198.51.100.75,Desktop,completed
+TXN016,MCH5023,99999.99,USD,2024-11-13,03:12:08,Manufacturing,Lagos NG,Credit Card,41.203.72.219,Mobile,flagged
+TXN017,MCH7834,15.75,USD,2024-11-13,19:28:34,Entertainment,Orlando FL,Credit Card,192.168.2.100,Desktop,completed
+TXN018,MCH1847,567.89,USD,2024-11-13,12:45:19,Food Service,San Diego CA,Credit Card,10.0.1.50,Mobile,completed
+TXN019,MCH2109,8900.00,USD,2024-11-13,11:17:42,Professional Services,Atlanta GA,Wire Transfer,203.0.113.88,Desktop,completed
+TXN020,MCH4456,145.67,USD,2024-11-13,15:39:55,Real Estate,Dallas TX,Credit Card,198.51.100.150,Mobile,completed
+TXN021,MCH6677,50000.00,USD,2024-11-12,01:23:45,Cryptocurrency,Unknown,Bitcoin,185.220.101.182,Desktop,flagged
+TXN022,MCH2847,750.00,USD,2024-11-12,13:45:22,SaaS Software,San Francisco CA,Credit Card,192.168.1.200,Desktop,completed
+TXN023,MCH8821,89.99,USD,2024-11-12,10:33:17,Consulting,Nashville TN,Credit Card,10.0.0.99,Mobile,disputed
+TXN024,MCH1203,299.99,USD,2024-11-12,16:22:08,E-commerce,Philadelphia PA,Debit Card,203.0.113.44,Desktop,completed
+TXN025,MCH0892,67.43,USD,2024-11-12,14:17:33,Retail,Tampa FL,Credit Card,198.51.100.88,Mobile,completed
+TXN026,MCH3674,4500.00,USD,2024-11-11,09:45:12,Healthcare,Minneapolis MN,ACH,192.168.3.150,Desktop,completed
+TXN027,MCH7834,25.99,USD,2024-11-11,20:33:45,Entertainment,Reno NV,Credit Card,10.0.2.75,Mobile,completed
+TXN028,MCH1847,123.45,USD,2024-11-11,12:22:17,Food Service,Houston TX,Credit Card,203.0.113.200,Desktop,completed
+TXN029,MCH2109,15000.00,USD,2024-11-11,15:17:42,Professional Services,Charlotte NC,Check,198.51.100.123,Desktop,completed
+TXN030,MCH5023,678.90,USD,2024-11-11,11:39:28,Manufacturing,Cleveland OH,Credit Card,192.168.4.100,Mobile,completed
+TXN031,MCH4456,234000.00,USD,2024-11-10,22:15:33,Real Estate,Beijing CN,Wire Transfer,61.135.169.121,Desktop,flagged
+TXN032,MCH8821,159.99,USD,2024-11-10,13:45:22,Consulting,Salt Lake City UT,Credit Card,10.0.3.88,Desktop,disputed
+TXN033,MCH2847,445.67,USD,2024-11-10,09:33:17,SaaS Software,Portland OR,Credit Card,203.0.113.155,Mobile,completed
+TXN034,MCH1203,78.90,USD,2024-11-10,16:22:08,E-commerce,Sacramento CA,Debit Card,198.51.100.200,Desktop,completed
+TXN035,MCH0892,189.45,USD,2024-11-10,14:17:33,Retail,Jacksonville FL,Credit Card,192.168.5.75,Mobile,completed
+TXN036,MCH6677,75000.00,USD,2024-11-09,04:45:12,Cryptocurrency,Tor Network,Monero,172.70.207.89,Desktop,flagged
+TXN037,MCH3674,890.25,USD,2024-11-09,10:33:45,Healthcare,Kansas City MO,ACH,10.0.4.150,Desktop,completed
+TXN038,MCH7834,45.99,USD,2024-11-09,19:22:17,Entertainment,Atlantic City NJ,Credit Card,203.0.113.99,Mobile,completed
+TXN039,MCH1847,267.83,USD,2024-11-09,12:17:42,Food Service,San Antonio TX,Credit Card,198.51.100.44,Desktop,completed
+TXN040,MCH2109,3400.00,USD,2024-11-09,15:39:28,Professional Services,Indianapolis IN,Wire Transfer,192.168.6.200,Desktop,completed

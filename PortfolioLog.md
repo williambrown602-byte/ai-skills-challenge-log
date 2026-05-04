@@ -1574,3 +1574,28 @@ Create an intelligent knowledge extraction and expertise mapping system that tra
 - Partner presentation quantifying knowledge management ROI potential
 
 ---
+# Daily AI Challenge – May 04, 2026
+
+**Domain:** Finance
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent transaction monitoring and dispute resolution system for a fintech startup to detect fraud patterns, predict dispute likelihood, and optimize case routing to reduce resolution times from 21 days to under 10 days. Transform reactive dispute management into predictive, data-driven operations that protect revenue while improving merchant relationships.
+
+## Skills Trained
+- Fintech industry analytics and fraud detection modeling
+- Multi-constraint resource optimization and case routing algorithms
+- Predictive risk assessment with confidence intervals
+- Executive-level operational reporting for board presentations
+- Revenue protection strategy through proactive dispute management
+
+## Deliverables
+- Real-time fraud risk dashboard with transaction monitoring alerts
+- Top 500 highest-risk pending transactions for specialist review
+- Optimal case routing recommendations to reduce specialist workload imbalance by 40%
+- Merchant risk assessment showing top 200 accounts requiring proactive outreach
+- Strategic operational plan with resource allocation recommendations and projected ROI
+
+---
