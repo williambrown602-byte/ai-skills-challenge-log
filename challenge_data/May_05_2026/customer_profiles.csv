@@ -1,0 +1,51 @@
+user_id,company_name,company_size,industry,user_role,signup_source,trial_start_date,trial_end_date,current_plan,monthly_spend,geographic_region
+U001,TechFlow Solutions,50-200,Technology,Product Manager,organic_search,2024-10-15,2024-10-29,trial,0,North America
+U002,Green Energy Co,20-50,Energy,Marketing Manager,paid_ads,2024-10-20,2024-11-03,trial,0,Europe
+U003,DataDriven Analytics,200-500,Consulting,Data Analyst,referral,2024-09-01,2024-09-15,premium,299,North America
+U004,StartupX,10-20,Technology,Founder,content_marketing,2024-10-25,2024-11-08,trial,0,North America
+U005,Local Marketing,5-10,Marketing,Owner,social_media,2024-10-28,2024-11-11,trial,0,North America
+U006,Enterprise Solutions,500+,Financial Services,Business Analyst,webinar,2024-09-15,2024-09-29,professional,149,Europe
+U007,Growth Hackers,20-50,Marketing,Growth Manager,organic_search,2024-10-10,2024-10-24,trial,0,North America
+U008,Mobile First,10-20,Technology,Developer,github,2024-10-30,2024-11-13,trial,0,Asia Pacific
+U009,BigCorp Analytics,1000+,Enterprise,Director of Analytics,direct_sales,2024-08-20,2024-09-03,enterprise,899,North America
+U010,MidSize Consulting,100-200,Consulting,Senior Consultant,partner,2024-09-25,2024-10-09,professional,149,Europe
+U011,AgileTeam,20-50,Technology,Scrum Master,organic_search,2024-10-18,2024-11-01,trial,0,North America
+U012,QuickStart,5-10,Retail,Manager,paid_ads,2024-10-31,2024-11-14,trial,0,North America
+U013,InnovateNow,200-500,Manufacturing,Operations Manager,webinar,2024-08-30,2024-09-13,premium,299,Europe
+U014,DigitalFirst,50-100,Marketing,Digital Manager,content_marketing,2024-10-22,2024-11-05,trial,0,North America
+U015,NewBusiness,5-10,Services,Founder,social_media,2024-11-01,2024-11-15,trial,0,North America
+U016,ScaleUp Inc,100-200,Technology,VP Product,referral,2024-09-05,2024-09-19,premium,299,North America
+U017,TeamWork Solutions,50-100,Consulting,Project Manager,organic_search,2024-10-12,2024-10-26,trial,0,Europe
+U018,AppDev Studio,10-20,Technology,Lead Developer,github,2024-10-29,2024-11-12,trial,0,Asia Pacific
+U019,GlobalTech,1000+,Technology,Chief Data Officer,direct_sales,2024-08-15,2024-08-29,enterprise,899,North America
+U020,BusinessOptimize,50-100,Financial Services,Analyst,partner,2024-10-05,2024-10-19,trial,0,Europe
+U021,LocalShop,5-10,Retail,Owner,social_media,2024-10-26,2024-11-09,trial,0,North America
+U022,GrowthAgency,20-50,Marketing,Account Manager,webinar,2024-09-10,2024-09-24,professional,149,North America
+U023,TechStartup,10-20,Technology,CTO,content_marketing,2024-10-16,2024-10-30,trial,0,North America
+U024,SmallBiz,5-10,Services,Owner,paid_ads,2024-10-30,2024-11-13,trial,0,North America
+U025,MidMarket Corp,200-500,Manufacturing,Analytics Manager,referral,2024-09-20,2024-10-04,premium,299,Europe
+U026,ProductTeam,20-50,Technology,Product Owner,organic_search,2024-10-08,2024-10-22,trial,0,North America
+U027,DevShop,10-20,Technology,Senior Developer,github,2024-10-27,2024-11-10,trial,0,Asia Pacific
+U028,BigData Solutions,500+,Consulting,Principal Consultant,direct_sales,2024-08-25,2024-09-08,enterprise,899,North America
+U029,Strategy Consulting,100-200,Consulting,Senior Manager,partner,2024-09-28,2024-10-12,professional,149,Europe
+U030,QuickLaunch,5-10,Technology,Founder,social_media,2024-10-31,2024-11-14,trial,0,North America
+U031,AgencyGrowth,20-50,Marketing,Creative Director,webinar,2024-10-14,2024-10-28,trial,0,North America
+U032,RetailTech,10-20,Retail,IT Manager,content_marketing,2024-10-29,2024-11-12,trial,0,North America
+U033,EnterpriseAnalytics,1000+,Financial Services,Head of Analytics,direct_sales,2024-08-18,2024-09-01,enterprise,899,North America
+U034,ConsultingPro,50-100,Consulting,Managing Partner,referral,2024-09-12,2024-09-26,professional,149,Europe
+U035,DigitalAgency,20-50,Marketing,Strategy Lead,organic_search,2024-10-21,2024-11-04,trial,0,North America
+U036,MobileDev,10-20,Technology,Mobile Developer,github,2024-10-28,2024-11-11,trial,0,Asia Pacific
+U037,GrowthCorp,200-500,Technology,VP Growth,partner,2024-09-03,2024-09-17,premium,299,North America
+U038,TeamEfficiency,50-100,Services,Operations Lead,webinar,2024-10-11,2024-10-25,trial,0,Europe
+U039,StartupLife,5-10,Technology,Co-founder,social_media,2024-10-30,2024-11-13,trial,0,North America
+U040,DataCorp,500+,Technology,Data Science Manager,direct_sales,2024-08-28,2024-09-11,enterprise,899,North America
+U041,BusinessIntel,100-200,Consulting,BI Specialist,referral,2024-09-22,2024-10-06,professional,149,Europe
+U042,LocalTech,10-20,Technology,Developer,content_marketing,2024-10-25,2024-11-08,trial,0,North America
+U043,ScaleTeam,200-500,Manufacturing,Process Manager,webinar,2024-09-07,2024-09-21,premium,299,Europe
+U044,CreativeAgency,20-50,Marketing,Account Executive,organic_search,2024-10-17,2024-10-31,trial,0,North America
+U045,FreshStart,5-10,Services,Entrepreneur,social_media,2024-11-02,2024-11-16,trial,0,North America
+U046,MegaCorp,1000+,Enterprise,SVP Analytics,direct_sales,2024-08-12,2024-08-26,enterprise,899,North America
+U047,ProjectPro,50-100,Consulting,Senior PM,partner,2024-10-09,2024-10-23,trial,0,Europe
+U048,WebDev Studio,10-20,Technology,Full Stack Developer,github,2024-10-23,2024-11-06,trial,0,Asia Pacific
+U049,TechGiants,1000+,Technology,Principal Engineer,direct_sales,2024-08-22,2024-09-05,enterprise,899,North America
+U050,SmallAgency,5-10,Marketing,Freelancer,paid_ads,2024-10-26,2024-11-09,trial,0,North America
