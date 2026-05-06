@@ -1,0 +1,28 @@
+client_id,client_name,client_type,industry,relationship_start,total_matters_3yr,total_revenue_3yr,avg_matter_size,fee_realization_rate,payment_terms,relationship_strength,retention_risk
+C001,TechCorp Industries,Enterprise,Technology,2019-03-15,3,439575,146525,0.99,Net 30,High,Low
+C002,Metropolitan Insurance,Enterprise,Insurance,2020-07-10,2,290000,145000,0.89,Net 45,Medium,Medium
+C003,Downtown Properties LLC,Mid-Market,Real Estate,2021-02-20,1,40750,40750,1.00,Net 15,Medium,Low
+C004,Regional Manufacturing,Mid-Market,Manufacturing,2022-01-10,1,75000,75000,0.85,Net 60,Low,High
+C005,Innovation Labs Inc,Mid-Market,Technology,2020-11-05,1,89000,89000,1.00,Net 30,High,Low
+C006,MedHealth Systems,Enterprise,Healthcare,2019-08-20,1,108000,108000,0.94,Net 30,Medium,Medium
+C007,Green Solutions Co,Mid-Market,Environmental,2021-06-15,1,70000,70000,0.85,Net 45,Low,High
+C008,StartupVentures LLC,Small Business,Technology,2023-05-01,1,38175,38175,1.00,Net 15,Medium,Low
+C009,National Retail Chain,Enterprise,Retail,2022-12-01,1,290000,290000,0.91,Net 30,High,Low
+C010,Global Finance Corp,Enterprise,Financial Services,2020-01-15,1,435000,435000,0.98,Net 30,High,Low
+C011,Plaza Commercial Real Estate,Mid-Market,Real Estate,2021-09-10,1,19050,19050,1.00,Net 30,Medium,Medium
+C012,Diverse Workforce Solutions,Mid-Market,HR Services,2022-03-20,1,78000,78000,0.85,Net 45,Low,High
+C013,Family Business Enterprises,Small Business,Various,2020-05-15,1,65000,65000,1.00,Net 30,High,Low
+C014,Brand Protection Agency,Mid-Market,Marketing,2021-11-30,1,105000,105000,0.95,Net 30,Medium,Low
+C015,Regional Hospital Network,Enterprise,Healthcare,2019-12-10,1,47125,47125,1.00,Net 30,High,Low
+C016,Industrial Cleanup Corp,Mid-Market,Environmental,2022-04-05,1,140000,140000,0.85,Net 60,Low,High
+C017,Premier Insurance Group,Enterprise,Insurance,2021-07-20,1,135000,135000,0.91,Net 30,Medium,Medium
+C018,Acquisition Partners LLC,Enterprise,Private Equity,2019-06-25,1,320000,320000,0.98,Net 15,High,Low
+C019,Consumer Products Inc,Enterprise,Manufacturing,2020-10-15,1,180000,180000,0.90,Net 30,Medium,Medium
+C020,Development Holdings,Mid-Market,Real Estate,2021-01-20,1,93500,93500,1.00,Net 30,Medium,Low
+C021,Executive Search Firm,Mid-Market,HR Services,2020-08-10,1,37125,37125,1.00,Net 30,High,Low
+C022,Tax Advisory Group,Mid-Market,Financial Services,2019-11-15,1,91075,91075,1.00,Net 30,High,Low
+C023,Creative Media Solutions,Mid-Market,Media,2021-03-05,1,92000,92000,0.94,Net 30,Medium,Medium
+C024,Medical Practice Group,Mid-Market,Healthcare,2020-02-28,1,125000,125000,0.88,Net 45,Medium,Medium
+C025,Environmental Consulting,Small Business,Environmental,2021-12-01,1,50250,50250,1.00,Net 30,Medium,Low
+C026,Investment Holdings Inc,Enterprise,Financial Services,2019-04-10,1,50875,50875,1.00,Net 15,High,Low
+C027,Public Company Defense,Enterprise,Various,2020-09-05,1,205000,205000,0.90,Net 30,Medium,Medium
