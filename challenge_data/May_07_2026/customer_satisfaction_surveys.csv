@@ -1,0 +1,31 @@
+response_id,customer_id,survey_date,overall_satisfaction,ease_of_use,performance,support_quality,feature_completeness,value_for_money,likelihood_to_recommend,primary_concern,improvement_suggestion
+SURV001,CUST001,2024-11-01,2,3,1,2,3,3,2,System Performance,Fix slow loading times during peak hours
+SURV002,CUST002,2024-11-03,4,4,4,4,3,4,4,Feature Gaps,Add more customizable reporting options
+SURV003,CUST003,2024-11-05,3,4,2,3,4,3,3,System Performance,Improve database response times
+SURV004,CUST004,2024-11-07,4,5,4,4,4,4,4,Training,More comprehensive user training materials
+SURV005,CUST005,2024-11-09,1,2,1,2,3,2,1,System Performance,Critical performance issues need immediate attention
+SURV006,CUST006,2024-11-11,3,3,3,4,3,3,3,Billing Issues,Clearer billing statements and pricing
+SURV007,CUST007,2024-11-13,2,3,2,1,3,2,2,Support Quality,Support team needs better technical knowledge
+SURV008,CUST008,2024-11-15,3,4,3,3,2,3,3,Feature Gaps,Missing key features for our specialty
+SURV009,CUST009,2024-11-17,1,2,1,1,2,2,1,Integration Issues,Third-party integrations constantly breaking
+SURV010,CUST010,2024-11-19,4,4,4,4,4,3,4,Pricing,Consider more flexible pricing tiers
+SURV011,CUST011,2024-11-21,2,3,2,2,3,3,2,System Reliability,Too many system outages and bugs
+SURV012,CUST012,2024-11-23,4,4,3,4,4,4,4,None,Overall satisfied with the service
+SURV013,CUST013,2024-11-25,2,2,1,3,3,2,2,System Performance,Login and authentication issues
+SURV014,CUST014,2024-11-27,3,4,3,3,2,3,3,Feature Gaps,Need more advanced reporting capabilities
+SURV015,CUST015,2024-11-29,1,2,1,2,3,1,1,System Performance,Database performance unacceptable for patient care
+SURV016,CUST016,2024-12-01,3,3,3,2,3,3,3,Support Quality,Support response times too slow
+SURV017,CUST017,2024-12-03,1,2,1,1,2,2,1,Integration Issues,EHR integration problems affecting workflow
+SURV018,CUST018,2024-12-05,2,3,2,2,3,2,2,Billing Issues,Billing disputes and overcharges
+SURV019,CUST019,2024-12-07,3,3,3,3,3,3,3,Security Concerns,Need better security features and monitoring
+SURV020,CUST020,2024-12-09,4,4,4,4,3,4,4,Feature Gaps,Analytics and reporting could be enhanced
+SURV021,CUST021,2024-12-11,1,2,1,2,2,2,1,System Performance,Report generation extremely slow
+SURV022,CUST022,2024-12-13,3,4,3,3,3,3,3,Feature Gaps,Need patient flow analytics
+SURV023,CUST023,2024-12-15,2,3,3,2,3,2,2,Support Quality,Email delivery issues with notifications
+SURV024,CUST024,2024-12-17,4,4,4,4,4,4,4,Documentation,Better tax reporting documentation needed
+SURV025,CUST025,2024-12-19,2,3,2,2,3,2,2,System Reliability,Calendar sync issues causing missed appointments
+SURV026,CUST026,2024-12-21,3,3,3,3,3,3,3,Training,More comprehensive admin training needed
+SURV027,CUST027,2024-12-23,1,2,2,1,2,1,1,Integration Issues,Insurance verification constantly failing
+SURV028,CUST028,2024-12-25,3,4,3,3,2,3,3,Feature Gaps,Need automation for appointment reminders
+SURV029,CUST029,2024-12-27,4,4,4,4,4,4,4,None,Satisfied after recent improvements
+SURV030,CUST030,2024-12-29,2,3,2,2,3,2,2,Billing Issues,Double billing incidents need to stop

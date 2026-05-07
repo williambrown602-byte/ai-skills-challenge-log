@@ -1,0 +1,41 @@
+ticket_id,customer_id,date_created,category,subcategory,priority,resolution_time_hours,satisfaction_rating,description,resolution_status
+TK001,CUST001,2024-11-15,Technical,Login Issues,High,2.5,2,Cannot access patient scheduling module after recent update,Resolved
+TK002,CUST003,2024-11-16,Billing,Invoice Questions,Medium,24.0,4,Need clarification on monthly billing cycle changes,Resolved
+TK003,CUST005,2024-11-17,Technical,Performance,High,72.0,1,System extremely slow during peak hours affecting patient care,Resolved
+TK004,CUST002,2024-11-18,Feature Request,Reporting,Low,168.0,3,Need custom report for insurance claim tracking,Resolved
+TK005,CUST007,2024-11-19,Technical,Data Sync,Critical,8.0,2,Patient data not syncing between modules,Resolved
+TK006,CUST004,2024-11-20,Training,User Guide,Low,48.0,4,Staff needs training on new appointment booking features,Resolved
+TK007,CUST009,2024-11-21,Technical,Integration,High,96.0,1,Third-party lab integration failing repeatedly,Resolved
+TK008,CUST006,2024-11-22,Billing,Payment Processing,Critical,4.0,3,Credit card processing down for patient payments,Resolved
+TK009,CUST011,2024-11-23,Technical,Backup,Medium,36.0,2,Daily backup notifications not working,Resolved
+TK010,CUST008,2024-11-24,Feature Request,Mobile Access,Medium,120.0,3,Mobile app crashes on iOS devices,Resolved
+TK011,CUST013,2024-11-25,Technical,Login Issues,High,6.0,2,Multi-factor authentication not working properly,Resolved
+TK012,CUST010,2024-11-26,Billing,Subscription,Low,72.0,4,Question about upgrading to premium plan,Resolved
+TK013,CUST015,2024-11-27,Technical,Performance,Critical,144.0,1,Database timeouts causing appointment booking failures,Resolved
+TK014,CUST012,2024-11-28,Training,Best Practices,Medium,24.0,4,Request for workflow optimization consultation,Resolved
+TK015,CUST017,2024-11-29,Technical,Data Export,High,48.0,2,Cannot export patient records for external audit,Resolved
+TK016,CUST014,2024-11-30,Feature Request,Customization,Low,96.0,3,Need custom fields for specialty-specific data,In Progress
+TK017,CUST019,2024-12-01,Technical,Integration,Critical,12.0,1,EHR integration breaking patient workflow,Resolved
+TK018,CUST016,2024-12-02,Billing,Refund,Medium,168.0,2,Request refund for unused premium features,Resolved
+TK019,CUST021,2024-12-03,Technical,Security,High,24.0,3,Suspicious login attempts notification system,Resolved
+TK020,CUST018,2024-12-04,Training,New Feature,Low,48.0,4,Training needed for telehealth module,Resolved
+TK021,CUST023,2024-12-05,Technical,Performance,High,84.0,1,Report generation taking over 10 minutes,Resolved
+TK022,CUST020,2024-12-06,Feature Request,Analytics,Medium,72.0,3,Need patient flow analytics dashboard,In Progress
+TK023,CUST025,2024-12-07,Technical,Login Issues,Medium,18.0,2,Password reset emails not being delivered,Resolved
+TK024,CUST022,2024-12-08,Billing,Tax Reporting,Low,120.0,4,Need tax documentation for annual filing,Resolved
+TK025,CUST027,2024-12-09,Technical,Data Sync,Critical,6.0,2,Appointment changes not syncing to calendar,Resolved
+TK026,CUST024,2024-12-10,Training,System Admin,Medium,36.0,3,New admin needs comprehensive system training,Resolved
+TK027,CUST029,2024-12-11,Technical,Integration,High,156.0,1,Insurance verification API constantly failing,Resolved
+TK028,CUST026,2024-12-12,Feature Request,Automation,Low,240.0,3,Automate appointment reminder system,Open
+TK029,CUST031,2024-12-13,Technical,Backup,Medium,12.0,4,Verify data backup integrity after server migration,Resolved
+TK030,CUST028,2024-12-14,Billing,Overcharge,High,48.0,2,Billed twice for same monthly subscription,Resolved
+TK031,CUST003,2024-12-15,Technical,Performance,Critical,96.0,1,System crashes during high patient volume,Resolved
+TK032,CUST033,2024-12-16,Training,Compliance,Medium,60.0,4,HIPAA compliance training for new staff,Resolved
+TK033,CUST030,2024-12-17,Technical,Data Export,High,72.0,2,Bulk patient data export timing out,Resolved
+TK034,CUST035,2024-12-18,Feature Request,Reporting,Low,144.0,3,Custom financial reporting capabilities,In Progress
+TK035,CUST032,2024-12-19,Technical,Login Issues,Medium,24.0,2,SSO integration not working with new domain,Resolved
+TK036,CUST037,2024-12-20,Billing,Plan Change,Low,36.0,4,Downgrade subscription plan effective next month,Resolved
+TK037,CUST034,2024-12-21,Technical,Integration,Critical,18.0,1,Lab results not importing automatically,Resolved
+TK038,CUST039,2024-12-22,Training,Advanced Features,Medium,48.0,3,Advanced scheduling features training needed,Resolved
+TK039,CUST036,2024-12-23,Technical,Performance,High,108.0,1,Medication management module extremely slow,Resolved
+TK040,CUST041,2024-12-24,Feature Request,Mobile Access,Medium,192.0,3,Tablet optimization for clinical workflows,Open
