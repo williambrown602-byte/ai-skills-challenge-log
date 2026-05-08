@@ -1,0 +1,46 @@
+property_id,building_name,market,address,total_sqft,occupied_sqft,occupancy_rate,avg_rent_psf,lease_count,avg_lease_term_months,property_age_years,parking_spaces,building_class,property_type
+P001,Metro Tower One,Chicago,123 Michigan Ave,145000,108750,0.75,42.50,18,36,12,280,A,Office
+P002,Riverfront Plaza,Chicago,456 Wacker Dr,98000,88200,0.90,38.75,22,42,8,180,A,Office
+P003,Oak Street Center,Chicago,789 Oak St,67000,45560,0.68,35.20,12,30,25,120,B,Office
+P004,Loop Business Park,Chicago,321 State St,112000,89600,0.80,40.10,16,38,15,200,A,Office
+P005,Millennium Square,Chicago,654 LaSalle St,89000,71200,0.80,44.25,14,40,6,160,A,Office
+P006,Downtown Heights,Atlanta,100 Peachtree St,134000,94380,0.70,36.80,20,34,18,250,B,Office
+P007,Buckhead Corporate,Atlanta,200 Lenox Rd,156000,140400,0.90,41.60,25,45,10,300,A,Office
+P008,Midtown Plaza,Atlanta,300 Spring St,78000,62400,0.80,35.50,15,32,22,140,B,Office
+P009,Tech Square Building,Atlanta,400 14th St,92000,73600,0.80,39.20,18,36,12,170,A,Office
+P010,Perimeter Center,Atlanta,500 Hammond Dr,87000,60900,0.70,33.75,13,28,28,160,C,Office
+P011,Harbor View Tower,Seattle,600 1st Ave,167000,125250,0.75,48.90,28,38,14,320,A,Office
+P012,Belltown Square,Seattle,700 2nd Ave,145000,130500,0.90,52.30,32,44,8,280,A,Office
+P013,Capitol Hill Center,Seattle,800 Pine St,56000,39200,0.70,41.80,10,30,30,100,B,Office
+P014,South Lake Union,Seattle,900 Westlake Ave,189000,170100,0.90,55.70,35,46,5,350,A,Office
+P015,Fremont Business Park,Seattle,1000 Aurora Ave,73000,51100,0.70,38.40,12,32,25,140,C,Office
+P016,Financial District Tower,Boston,1100 Federal St,198000,148500,0.75,58.20,38,40,16,380,A,Office
+P017,Back Bay Plaza,Boston,1200 Boylston St,134000,120600,0.90,62.10,28,42,12,250,A,Office
+P018,Cambridge Innovation,Boston,1300 Mass Ave,89000,62300,0.70,49.30,15,34,20,160,B,Office
+P019,Kendall Square Center,Boston,1400 Broadway,156000,140400,0.90,65.80,32,48,7,300,A,Office
+P020,Seaport District,Boston,1500 Summer St,112000,78400,0.70,54.60,18,36,9,210,A,Office
+P021,Penn Station Plaza,New York,1600 7th Ave,234000,175500,0.75,78.90,45,38,18,450,A,Office
+P022,Midtown East Tower,New York,1700 Lexington Ave,189000,170100,0.90,85.20,42,44,11,360,A,Office
+P023,Financial District,New York,1800 Wall St,167000,125250,0.75,72.40,35,40,25,320,A,Office
+P024,Times Square Center,New York,1900 Broadway,145000,130500,0.90,88.60,38,46,8,280,A,Office
+P025,Brooklyn Heights,New York,2000 Montague St,78000,54600,0.70,58.30,14,32,22,150,B,Office
+P026,Century City Tower,Los Angeles,2100 Ave of Stars,198000,148500,0.75,52.70,35,36,15,380,A,Office
+P027,Downtown LA Plaza,Los Angeles,2200 Figueroa St,156000,140400,0.90,48.90,32,42,12,300,A,Office
+P028,Hollywood Center,Los Angeles,2300 Sunset Blvd,89000,62300,0.70,41.20,16,30,28,170,B,Office
+P029,Santa Monica Business,Los Angeles,2400 Wilshire Blvd,134000,120600,0.90,55.80,28,44,9,260,A,Office
+P030,Beverly Hills Square,Los Angeles,2500 Wilshire Blvd,112000,78400,0.70,49.60,20,34,20,220,B,Office
+P031,Willis Tower Annex,Chicago,2600 S Wacker Dr,178000,133500,0.75,43.80,32,38,14,340,A,Office
+P032,Navy Pier Business,Chicago,2700 E Grand Ave,98000,68600,0.70,37.20,18,32,24,190,B,Office
+P033,Lincoln Park Center,Chicago,2800 N Clark St,67000,53600,0.80,39.40,12,36,16,130,B,Office
+P034,Wicker Park Plaza,Chicago,2900 N Milwaukee,45000,31500,0.70,33.60,8,28,35,90,C,Office
+P035,River North Tower,Chicago,3000 N State St,123000,98400,0.80,41.70,22,40,13,240,A,Office
+P036,Cobb County Center,Atlanta,3100 Cumberland Blvd,145000,101500,0.70,34.90,24,32,26,280,B,Office
+P037,Virginia Highland,Atlanta,3200 N Highland Ave,56000,44800,0.80,37.80,10,34,19,110,B,Office
+P038,Decatur Business Park,Atlanta,3300 E College Ave,78000,54600,0.70,32.40,14,30,32,150,C,Office
+P039,Alpharetta Tech Hub,Atlanta,3400 Windward Pkwy,134000,120600,0.90,40.50,26,44,8,260,A,Office
+P040,Roswell Corporate,Atlanta,3500 Holcomb Bridge,89000,71200,0.80,36.70,16,36,17,170,B,Office
+P041,Queen Anne District,Seattle,3600 Queen Anne Ave,98000,68600,0.70,44.30,18,32,27,190,B,Office
+P042,Georgetown Square,Seattle,3700 Airport Way,67000,53600,0.80,40.60,12,36,21,130,B,Office
+P043,Ballard Innovation,Seattle,3800 15th Ave NW,123000,98400,0.80,47.90,22,38,11,240,A,Office
+P044,Redmond Tech Center,Seattle,3900 156th Ave NE,156000,140400,0.90,51.20,30,42,6,300,A,Office
+P045,Kirkland Business,Seattle,4000 Lake Washington,89000,62300,0.70,43.50,16,34,23,170,B,Office

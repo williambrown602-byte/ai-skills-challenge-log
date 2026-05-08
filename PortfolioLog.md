@@ -1674,3 +1674,28 @@ Build an intelligent customer experience optimization system to identify root ca
 - Executive presentation with 90-day recovery roadmap and financial projections
 
 ---
+# Daily AI Challenge – May 08, 2026
+
+**Domain:** Real Estate
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Transform 18 months of scattered property performance data into an intelligent portfolio optimization system that identifies underperforming assets, analyzes occupancy drivers, and generates strategic recommendations for maximizing portfolio value and occupancy rates. The goal is to provide data-driven insights to optimize a $2.4B real estate portfolio and increase annual revenue by $12-18M.
+
+## Skills Trained
+- Commercial real estate analytics
+- Multi-factor performance modeling
+- Strategic asset management
+- Executive-level communication
+- Market analysis and competitive positioning
+
+## Deliverables
+- Portfolio performance analysis ranking all 340 properties
+- Statistical model identifying top 10 occupancy drivers
+- Strategic property improvement recommendations with ROI projections
+- Market positioning analysis
+- Board-ready presentation with 18-month optimization roadmap
+
+---
