@@ -1,0 +1,21 @@
+Client_ID,Client_Name,Industry,Total_Outstanding,Current_0_30,Days_31_60,Days_61_90,Days_Over_90,Payment_Terms,Avg_Payment_Days,Risk_Score,Credit_Limit
+CLI001,TechCorp Solutions,Technology,125000,85000,25000,10000,5000,Net 30,38,Medium,500000
+CLI002,Manufacturing Plus,Manufacturing,89000,45000,30000,14000,0,Net 45,42,Low,350000
+CLI003,Retail Dynamics,Retail,156000,95000,35000,20000,6000,Net 30,41,Medium,400000
+CLI004,Healthcare Systems,Healthcare,234000,180000,35000,15000,4000,Net 30,35,Low,750000
+CLI005,Financial Advisory Co,Finance,67000,35000,20000,8000,4000,Net 30,44,Medium,200000
+CLI006,Legal Partners LLP,Legal,145000,110000,25000,8000,2000,Net 30,33,Low,300000
+CLI007,Construction Group,Construction,198000,98000,55000,30000,15000,Net 45,52,High,450000
+CLI008,Marketing Agency,Marketing,78000,50000,18000,7000,3000,Net 30,39,Medium,180000
+CLI009,Consulting Experts,Consulting,167000,125000,28000,10000,4000,Net 30,36,Low,400000
+CLI010,Energy Solutions,Energy,289000,205000,45000,25000,14000,Net 45,43,Medium,600000
+CLI011,Real Estate Group,Real Estate,134000,85000,35000,10000,4000,Net 30,40,Medium,350000
+CLI012,Education Services,Education,56000,35000,15000,4000,2000,Net 30,37,Low,150000
+CLI013,Government Contract,Government,445000,380000,45000,15000,5000,Net 60,48,Low,1000000
+CLI014,Startup Ventures,Technology,45000,25000,12000,6000,2000,Net 30,43,Medium,100000
+CLI015,Insurance Corp,Insurance,167000,120000,30000,12000,5000,Net 30,38,Medium,400000
+CLI016,Logistics Ltd,Transportation,123000,78000,28000,12000,5000,Net 30,41,Medium,300000
+CLI017,Hospitality Inc,Hospitality,89000,45000,25000,15000,4000,Net 30,45,Medium,250000
+CLI018,Pharmaceutical Co,Healthcare,278000,215000,40000,18000,5000,Net 30,34,Low,600000
+CLI019,Agriculture Corp,Agriculture,98000,65000,22000,8000,3000,Net 30,39,Medium,200000
+CLI020,Media Group,Media,112000,75000,25000,9000,3000,Net 30,40,Medium,250000

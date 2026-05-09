@@ -1699,3 +1699,28 @@ Transform 18 months of scattered property performance data into an intelligent p
 - Board-ready presentation with 18-month optimization roadmap
 
 ---
+# Daily AI Challenge – May 09, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Create an intelligent cash flow forecasting and working capital optimization system that predicts quarterly cash flow patterns, identifies potential liquidity risks, and generates strategic recommendations for maintaining optimal cash positions while supporting business growth.
+
+## Skills Trained
+- Financial forecasting and predictive modeling
+- Working capital optimization and liquidity analysis
+- Cash flow management and scenario planning
+- Executive-level financial reporting and communication
+- Professional services industry financial intelligence
+
+## Deliverables
+- 90-day rolling cash flow forecast with weekly precision and confidence bands
+- Working capital optimization recommendations with scenario modeling
+- Client payment risk assessment identifying collection priorities
+- Cash flow stress testing showing liquidity under different scenarios
+- Board-ready executive summary with strategic financing recommendations
+
+---

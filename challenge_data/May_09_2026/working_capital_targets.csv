@@ -1,0 +1,8 @@
+Metric,Current_Value,Target_Min,Target_Max,Credit_Facility_Limit,Interest_Rate,Covenant_Requirements
+Cash_Balance,7334000,2000000,8000000,3000000,0.065,Maintain min 1.5M cash
+Days_Sales_Outstanding,42,35,45,NA,NA,Keep DSO below 50 days
+Current_Ratio,2.8,2.0,3.5,NA,NA,Maintain above 2.0
+Quick_Ratio,2.1,1.5,2.5,NA,NA,Maintain above 1.5
+Working_Capital,5200000,4000000,7000000,NA,NA,Minimum 4M working capital
+Debt_Service_Coverage,3.2,2.0,4.0,NA,NA,Maintain above 2.0
+Operating_Cash_Flow_Margin,0.18,0.15,0.25,NA,NA,Target 15-25%
