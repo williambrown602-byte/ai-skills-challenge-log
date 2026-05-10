@@ -1,0 +1,48 @@
+date,product_id,product_name,category,region,warehouse_id,units_sold,revenue,unit_price
+2024-11-01,P001,Wireless Bluetooth Headphones,Electronics,Pacific Northwest,WH001,245,12250.00,50.00
+2024-11-01,P001,Wireless Bluetooth Headphones,Electronics,California,WH002,389,19450.00,50.00
+2024-11-01,P001,Wireless Bluetooth Headphones,Electronics,Southwest,WH003,156,7800.00,50.00
+2024-11-01,P002,Organic Cotton T-Shirt,Apparel,Northeast,WH004,523,13075.00,25.00
+2024-11-01,P002,Organic Cotton T-Shirt,Apparel,Southeast,WH005,445,11125.00,25.00
+2024-11-01,P003,Smart Fitness Tracker,Electronics,Great Lakes,WH006,278,27800.00,100.00
+2024-11-01,P004,Eco-Friendly Water Bottle,Home & Garden,Texas,WH007,667,13340.00,20.00
+2024-11-01,P005,Premium Coffee Beans,Food & Beverage,Mountain West,WH008,234,7020.00,30.00
+2024-11-01,P006,Yoga Mat Premium,Sports & Fitness,Plains,WH009,189,11340.00,60.00
+2024-11-01,P007,LED Desk Lamp,Home & Garden,Atlantic,WH010,334,16700.00,50.00
+2024-11-01,P008,Protein Powder Vanilla,Health & Wellness,Central,WH011,445,17800.00,40.00
+2024-11-01,P009,Skincare Serum,Beauty,Pacific,WH012,567,42525.00,75.00
+2024-11-02,P001,Wireless Bluetooth Headphones,Electronics,Pacific Northwest,WH001,234,11700.00,50.00
+2024-11-02,P001,Wireless Bluetooth Headphones,Electronics,California,WH002,412,20600.00,50.00
+2024-11-02,P002,Organic Cotton T-Shirt,Apparel,Northeast,WH004,489,12225.00,25.00
+2024-11-02,P003,Smart Fitness Tracker,Electronics,Great Lakes,WH006,312,31200.00,100.00
+2024-11-02,P004,Eco-Friendly Water Bottle,Home & Garden,Texas,WH007,578,11560.00,20.00
+2024-11-02,P005,Premium Coffee Beans,Food & Beverage,Mountain West,WH008,267,8010.00,30.00
+2024-11-03,P001,Wireless Bluetooth Headphones,Electronics,Pacific Northwest,WH001,198,9900.00,50.00
+2024-11-03,P002,Organic Cotton T-Shirt,Apparel,Northeast,WH004,612,15300.00,25.00
+2024-11-03,P003,Smart Fitness Tracker,Electronics,Great Lakes,WH006,289,28900.00,100.00
+2024-11-04,P001,Wireless Bluetooth Headphones,Electronics,California,WH002,445,22250.00,50.00
+2024-11-04,P004,Eco-Friendly Water Bottle,Home & Garden,Texas,WH007,623,12460.00,20.00
+2024-11-04,P005,Premium Coffee Beans,Food & Beverage,Mountain West,WH008,298,8940.00,30.00
+2024-11-05,P002,Organic Cotton T-Shirt,Apparel,Southeast,WH005,534,13350.00,25.00
+2024-11-05,P006,Yoga Mat Premium,Sports & Fitness,Plains,WH009,223,13380.00,60.00
+2024-11-05,P007,LED Desk Lamp,Home & Garden,Atlantic,WH010,378,18900.00,50.00
+2024-11-06,P008,Protein Powder Vanilla,Health & Wellness,Central,WH011,512,20480.00,40.00
+2024-11-06,P009,Skincare Serum,Beauty,Pacific,WH012,634,47550.00,75.00
+2024-11-07,P001,Wireless Bluetooth Headphones,Electronics,Southwest,WH003,167,8350.00,50.00
+2024-11-07,P003,Smart Fitness Tracker,Electronics,Great Lakes,WH006,345,34500.00,100.00
+2024-11-08,P002,Organic Cotton T-Shirt,Apparel,Northeast,WH004,678,16950.00,25.00
+2024-11-08,P004,Eco-Friendly Water Bottle,Home & Garden,Texas,WH007,789,15780.00,20.00
+2024-11-09,P005,Premium Coffee Beans,Food & Beverage,Mountain West,WH008,345,10350.00,30.00
+2024-11-09,P006,Yoga Mat Premium,Sports & Fitness,Plains,WH009,267,16020.00,60.00
+2024-11-10,P007,LED Desk Lamp,Home & Garden,Atlantic,WH010,423,21150.00,50.00
+2024-11-10,P008,Protein Powder Vanilla,Health & Wellness,Central,WH011,567,22680.00,40.00
+2024-11-11,P009,Skincare Serum,Beauty,Pacific,WH012,712,53400.00,75.00
+2024-11-11,P001,Wireless Bluetooth Headphones,Electronics,Pacific Northwest,WH001,289,14450.00,50.00
+2024-11-12,P002,Organic Cotton T-Shirt,Apparel,Southeast,WH005,623,15575.00,25.00
+2024-11-12,P003,Smart Fitness Tracker,Electronics,Great Lakes,WH006,398,39800.00,100.00
+2024-11-13,P004,Eco-Friendly Water Bottle,Home & Garden,Texas,WH007,845,16900.00,20.00
+2024-11-13,P005,Premium Coffee Beans,Food & Beverage,Mountain West,WH008,412,12360.00,30.00
+2024-11-14,P006,Yoga Mat Premium,Sports & Fitness,Plains,WH009,334,20040.00,60.00
+2024-11-14,P007,LED Desk Lamp,Home & Garden,Atlantic,WH010,478,23900.00,50.00
+2024-11-15,P008,Protein Powder Vanilla,Health & Wellness,Central,WH011,634,25360.00,40.00
+2024-11-15,P009,Skincare Serum,Beauty,Pacific,WH012,789,59175.00,75.00

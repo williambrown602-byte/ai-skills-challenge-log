@@ -1724,3 +1724,28 @@ Create an intelligent cash flow forecasting and working capital optimization sys
 - Board-ready executive summary with strategic financing recommendations
 
 ---
+# Daily AI Challenge – May 10, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent inventory allocation optimization system for a 12-warehouse e-commerce company to reduce stockouts by 45% while minimizing overstock costs. The system analyzes regional sales patterns, predicts demand fluctuations, and generates automated distribution recommendations.
+
+## Skills Trained
+- Supply chain analytics and demand forecasting
+- Multi-regional operational optimization
+- Inventory management and working capital efficiency
+- Predictive modeling for business operations
+- E-commerce industry business intelligence
+
+## Deliverables
+- Regional demand forecasting model with 85%+ accuracy for next 90 days
+- Automated inventory reallocation recommendations prioritized by revenue impact
+- Stockout risk assessment dashboard showing high-priority transfer needs
+- Cost-benefit analysis of recommended inventory moves including shipping costs
+- Weekly inventory health report with regional performance metrics
+
+---

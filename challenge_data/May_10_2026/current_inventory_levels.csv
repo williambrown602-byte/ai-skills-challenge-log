@@ -1,0 +1,37 @@
+warehouse_id,warehouse_name,region,product_id,product_name,current_stock,reorder_point,max_capacity,last_updated
+WH001,Seattle Distribution Center,Pacific Northwest,P001,Wireless Bluetooth Headphones,1245,500,2000,2024-11-15
+WH001,Seattle Distribution Center,Pacific Northwest,P002,Organic Cotton T-Shirt,2341,800,3000,2024-11-15
+WH001,Seattle Distribution Center,Pacific Northwest,P003,Smart Fitness Tracker,567,200,1000,2024-11-15
+WH002,Los Angeles Hub,California,P001,Wireless Bluetooth Headphones,2134,800,3500,2024-11-15
+WH002,Los Angeles Hub,California,P004,Eco-Friendly Water Bottle,3421,1200,5000,2024-11-15
+WH002,Los Angeles Hub,California,P009,Skincare Serum,876,300,1500,2024-11-15
+WH003,Phoenix Center,Southwest,P001,Wireless Bluetooth Headphones,345,400,1500,2024-11-15
+WH003,Phoenix Center,Southwest,P005,Premium Coffee Beans,678,250,1200,2024-11-15
+WH003,Phoenix Center,Southwest,P006,Yoga Mat Premium,234,150,800,2024-11-15
+WH004,New York Metro,Northeast,P002,Organic Cotton T-Shirt,4567,1500,6000,2024-11-15
+WH004,New York Metro,Northeast,P007,LED Desk Lamp,1234,400,2000,2024-11-15
+WH004,New York Metro,Northeast,P008,Protein Powder Vanilla,2345,600,3000,2024-11-15
+WH005,Atlanta Regional,Southeast,P002,Organic Cotton T-Shirt,3456,1000,4000,2024-11-15
+WH005,Atlanta Regional,Southeast,P004,Eco-Friendly Water Bottle,2789,800,3500,2024-11-15
+WH005,Atlanta Regional,Southeast,P009,Skincare Serum,567,200,1000,2024-11-15
+WH006,Chicago Central,Great Lakes,P003,Smart Fitness Tracker,1456,500,2500,2024-11-15
+WH006,Chicago Central,Great Lakes,P005,Premium Coffee Beans,987,300,1500,2024-11-15
+WH006,Chicago Central,Great Lakes,P008,Protein Powder Vanilla,2134,700,3000,2024-11-15
+WH007,Dallas Southwest,Texas,P004,Eco-Friendly Water Bottle,5234,1800,7000,2024-11-15
+WH007,Dallas Southwest,Texas,P006,Yoga Mat Premium,1567,500,2500,2024-11-15
+WH007,Dallas Southwest,Texas,P007,LED Desk Lamp,2345,600,3000,2024-11-15
+WH008,Denver Mountain,Mountain West,P005,Premium Coffee Beans,2456,800,3500,2024-11-15
+WH008,Denver Mountain,Mountain West,P006,Yoga Mat Premium,1234,400,2000,2024-11-15
+WH008,Denver Mountain,Mountain West,P001,Wireless Bluetooth Headphones,678,300,1500,2024-11-15
+WH009,Kansas City Plains,Plains,P006,Yoga Mat Premium,3456,1000,4500,2024-11-15
+WH009,Kansas City Plains,Plains,P007,LED Desk Lamp,1789,500,2500,2024-11-15
+WH009,Kansas City Plains,Plains,P003,Smart Fitness Tracker,456,200,1200,2024-11-15
+WH010,Boston Atlantic,Atlantic,P007,LED Desk Lamp,2567,800,3500,2024-11-15
+WH010,Boston Atlantic,Atlantic,P008,Protein Powder Vanilla,1876,600,2500,2024-11-15
+WH010,Boston Atlantic,Atlantic,P002,Organic Cotton T-Shirt,3214,1000,4000,2024-11-15
+WH011,Minneapolis Central,Central,P008,Protein Powder Vanilla,4321,1200,5000,2024-11-15
+WH011,Minneapolis Central,Central,P003,Smart Fitness Tracker,1567,400,2000,2024-11-15
+WH011,Minneapolis Central,Central,P009,Skincare Serum,789,250,1200,2024-11-15
+WH012,Portland Pacific,Pacific,P009,Skincare Serum,2456,700,3000,2024-11-15
+WH012,Portland Pacific,Pacific,P001,Wireless Bluetooth Headphones,1234,400,2000,2024-11-15
+WH012,Portland Pacific,Pacific,P005,Premium Coffee Beans,1567,500,2500,2024-11-15
