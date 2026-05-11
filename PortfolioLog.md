@@ -1749,3 +1749,28 @@ Build an intelligent inventory allocation optimization system for a 12-warehouse
 - Weekly inventory health report with regional performance metrics
 
 ---
+# Daily AI Challenge – May 11, 2026
+
+**Domain:** HR
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Transform scattered compensation data into an intelligent pay equity and market positioning system that identifies compensation gaps and generates strategic salary adjustment recommendations with budget impact projections for a fast-growing consulting firm.
+
+## Skills Trained
+- Advanced people analytics and compensation modeling
+- Multi-factor equity analysis with statistical significance testing
+- Strategic HR decision support and budget impact analysis
+- Executive-level business communication for sensitive HR topics
+- Predictive modeling for retention risk assessment
+
+## Deliverables
+- Compensation equity analysis report
+- Market competitiveness assessment
+- Strategic salary adjustment recommendations with budget requirements
+- Retention risk mitigation plan for underpaid high performers
+- Partner presentation with implementation roadmap and projected ROI
+
+---

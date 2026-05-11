@@ -1,0 +1,51 @@
+employee_id,review_year,performance_score,goals_met_percentage,leadership_rating,client_satisfaction,promotion_eligible,promotion_date,previous_role,retention_risk
+EMP001,2025,4.2,85,3.8,4.5,Yes,,Consultant,Low
+EMP002,2025,4.7,92,4.5,4.8,No,2023-08-22,Senior Manager,Low
+EMP003,2025,3.8,78,3.2,4.0,Yes,,,Medium
+EMP004,2025,4.9,95,4.8,4.9,No,2022-05-18,Principal,Low
+EMP005,2025,4.3,88,4.0,4.4,Yes,,,Low
+EMP006,2025,3.5,72,3.0,3.8,No,,,High
+EMP007,2025,4.6,90,4.3,4.7,No,2024-01-05,Senior Manager,Low
+EMP008,2025,4.1,83,3.9,4.2,Yes,,,Medium
+EMP009,2025,3.9,80,3.5,4.1,Yes,,,Medium
+EMP010,2025,4.8,94,4.7,4.9,No,2021-11-20,Principal,Low
+EMP011,2025,4.4,87,4.1,4.6,Yes,,,Low
+EMP012,2025,3.6,75,3.1,3.9,No,,,High
+EMP013,2025,4.5,89,4.2,4.5,No,2023-12-08,Senior Manager,Low
+EMP014,2025,4.0,82,3.7,4.3,Yes,,,Medium
+EMP015,2025,3.7,76,3.3,3.8,Yes,,,Medium
+EMP016,2025,4.7,91,4.6,4.8,No,2022-02-14,Principal,Low
+EMP017,2025,4.2,86,3.8,4.4,Yes,,,Low
+EMP018,2025,3.4,70,2.9,3.7,No,,,High
+EMP019,2025,4.6,90,4.4,4.7,No,2024-03-10,Senior Manager,Low
+EMP020,2025,4.1,84,3.8,4.2,Yes,,,Medium
+EMP021,2025,3.3,68,2.8,3.6,No,,,High
+EMP022,2025,4.9,96,4.8,4.9,No,2022-09-12,Principal,Low
+EMP023,2025,4.3,88,4.0,4.5,Yes,,,Low
+EMP024,2025,3.8,79,3.4,4.0,Yes,,,Medium
+EMP025,2025,4.7,93,4.5,4.8,No,2023-11-15,Senior Manager,Low
+EMP026,2025,4.0,81,3.6,4.1,Yes,,,Medium
+EMP027,2025,3.5,73,3.1,3.8,Yes,,,High
+EMP028,2025,4.8,94,4.7,4.8,No,2021-12-05,Principal,Low
+EMP029,2025,4.2,85,3.9,4.4,Yes,,,Low
+EMP030,2025,3.6,74,3.2,3.9,No,,,Medium
+EMP031,2025,4.5,89,4.3,4.6,No,2024-02-28,Senior Manager,Low
+EMP032,2025,4.1,83,3.8,4.3,Yes,,,Medium
+EMP033,2025,3.4,71,2.9,3.7,No,,,High
+EMP034,2025,4.8,95,4.6,4.9,No,2022-06-25,Principal,Low
+EMP035,2025,4.3,87,4.1,4.5,Yes,,,Low
+EMP036,2025,3.7,77,3.3,4.0,Yes,,,Medium
+EMP037,2025,4.6,91,4.4,4.7,No,2023-10-20,Senior Manager,Low
+EMP038,2025,4.0,82,3.7,4.2,Yes,,,Medium
+EMP039,2025,3.8,78,3.4,4.0,Yes,,,Medium
+EMP040,2025,4.9,97,4.8,4.9,No,2022-01-08,Principal,Low
+EMP041,2025,4.4,88,4.2,4.6,Yes,,,Low
+EMP042,2025,3.2,67,2.7,3.5,No,,,High
+EMP043,2025,4.5,90,4.3,4.6,No,2024-01-12,Senior Manager,Low
+EMP044,2025,4.1,84,3.9,4.3,Yes,,,Medium
+EMP045,2025,3.6,75,3.2,3.9,Yes,,,Medium
+EMP046,2025,4.7,92,4.5,4.8,No,2021-10-30,Principal,Low
+EMP047,2025,4.2,86,3.9,4.4,Yes,,,Low
+EMP048,2025,3.5,72,3.0,3.8,No,,,High
+EMP049,2025,4.6,91,4.4,4.7,No,2023-09-18,Senior Manager,Low
+EMP050,2025,4.0,83,3.8,4.2,Yes,,,Medium
