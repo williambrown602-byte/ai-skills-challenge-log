@@ -1774,3 +1774,28 @@ Transform scattered compensation data into an intelligent pay equity and market 
 - Partner presentation with implementation roadmap and projected ROI
 
 ---
+# Daily AI Challenge – May 12, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent unit economics analysis engine to identify margin erosion drivers and generate strategic recommendations to restore gross margins above 70% within 6 months for a B2B software company.
+
+## Skills Trained
+- Advanced unit economics modeling
+- Multi-dimensional profitability analysis
+- Statistical correlation analysis
+- Executive-level financial communication
+- Strategic business planning
+
+## Deliverables
+- Unit economics dashboard
+- Margin erosion root cause analysis
+- Customer lifetime value optimization recommendations
+- Strategic action plan
+- Board-ready executive presentation
+
+---
