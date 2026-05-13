@@ -1799,3 +1799,28 @@ Build an intelligent unit economics analysis engine to identify margin erosion d
 - Board-ready executive presentation
 
 ---
+# Daily AI Challenge – May 13, 2026
+
+**Domain:** Telecommunications
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent network performance optimization system that analyzes multi-tower performance data, identifies service quality bottlenecks, predicts failure risks, and generates actionable infrastructure investment recommendations to restore customer satisfaction above 85% while reducing monthly network costs by 15-20%.
+
+## Skills Trained
+- Telecommunications industry business intelligence and network analytics
+- Multi-constraint optimization for infrastructure resource allocation
+- Predictive maintenance modeling with confidence intervals
+- Customer satisfaction correlation analysis and improvement strategy
+- Executive-level technical communication for board presentations
+
+## Deliverables
+- Tower performance ranking system identifying top 50 underperforming assets
+- Network optimization recommendations with projected customer satisfaction improvement
+- Predictive maintenance calendar showing optimal service windows for next 6 months
+- Infrastructure investment priority matrix with ROI projections
+- Executive dashboard with real-time network health indicators
+
+---
