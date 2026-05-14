@@ -1,0 +1,26 @@
+proposal_id,date,client_industry,service_area,proposal_value,competitor_present,competitor_name,won_lost,win_probability_initial,consultant_level,proposal_quality_score,competitive_factor_mentioned,client_feedback_score
+P001,2024-11-15,Manufacturing,Operations Improvement,450000,Yes,Deloitte Consulting,Lost,0.65,Senior,7.2,Pricing,6.5
+P002,2024-11-20,Financial Services,Strategy Consulting,280000,Yes,McKinsey & Company,Lost,0.45,Partner,8.1,Brand Recognition,7.8
+P003,2024-11-25,Healthcare,Digital Transformation,320000,No,,Won,0.75,Senior,8.5,,9.2
+P004,2024-12-01,Technology,Change Management,180000,Yes,Accenture Strategy,Won,0.55,Manager,7.8,Innovation,8.1
+P005,2024-12-05,Retail,Market Research,95000,Yes,L.E.K. Consulting,Won,0.70,Senior,8.9,Sector Expertise,8.7
+P006,2024-12-10,Energy,Financial Advisory,520000,Yes,PwC Consulting,Lost,0.40,Partner,7.5,Industry Credentials,6.2
+P007,2024-12-15,Manufacturing,Strategy Consulting,380000,Yes,Boston Consulting Group,Lost,0.35,Senior,7.9,Methodology,6.8
+P008,2024-12-20,Financial Services,Operations Improvement,290000,Yes,Oliver Wyman,Won,0.60,Partner,8.3,Relationship,8.5
+P009,2025-01-08,Healthcare,Digital Transformation,410000,Yes,Deloitte Consulting,Won,0.50,Senior,8.7,Technical Capability,8.9
+P010,2025-01-12,Technology,Strategy Consulting,350000,No,,Won,0.80,Manager,8.2,,8.8
+P011,2025-01-18,Retail,Change Management,140000,Yes,EY Consulting,Won,0.65,Senior,8.1,Cost Effectiveness,8.3
+P012,2025-01-25,Energy,Market Research,125000,Yes,ZS Associates,Lost,0.45,Manager,7.3,Specialization,6.9
+P013,2025-02-01,Manufacturing,Financial Advisory,480000,Yes,KPMG Advisory,Won,0.55,Partner,8.6,Local Presence,8.4
+P014,2025-02-08,Financial Services,Digital Transformation,390000,Yes,Accenture Strategy,Lost,0.40,Senior,7.6,Technology Platform,6.5
+P015,2025-02-15,Healthcare,Strategy Consulting,310000,Yes,Bain & Company,Lost,0.30,Manager,7.4,Case Studies,6.1
+P016,2025-02-22,Technology,Operations Improvement,270000,Yes,Roland Berger,Won,0.70,Senior,8.8,European Experience,8.6
+P017,2025-03-01,Retail,Market Research,88000,No,,Won,0.85,Manager,8.4,,9.1
+P018,2025-03-08,Energy,Change Management,195000,Yes,McKinsey & Company,Lost,0.25,Senior,7.7,Global Reach,5.8
+P019,2025-03-15,Manufacturing,Digital Transformation,425000,Yes,Boston Consulting Group,Won,0.45,Partner,8.9,Innovation Approach,8.7
+P020,2025-03-22,Financial Services,Financial Advisory,510000,Yes,Deloitte Consulting,Lost,0.35,Partner,7.8,Regulatory Expertise,6.4
+P021,2025-04-05,Healthcare,Strategy Consulting,340000,Yes,PwC Consulting,Won,0.60,Senior,8.2,Healthcare Focus,8.3
+P022,2025-04-12,Technology,Operations Improvement,220000,Yes,L.E.K. Consulting,Won,0.75,Manager,8.5,Agile Methodology,8.8
+P023,2025-04-19,Retail,Digital Transformation,160000,Yes,Oliver Wyman,Lost,0.50,Senior,7.5,Retail Experience,7.1
+P024,2025-04-26,Energy,Market Research,110000,Yes,EY Consulting,Won,0.65,Manager,8.1,Energy Sector Knowledge,8.4
+P025,2025-05-03,Manufacturing,Change Management,175000,No,,Won,0.90,Senior,8.7,,9.3

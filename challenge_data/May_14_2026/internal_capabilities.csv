@@ -1,0 +1,7 @@
+service_area,capability_score,team_size,years_experience_avg,key_differentiators,client_satisfaction,case_studies_count,certifications_count,recent_wins_rate
+Strategy Consulting,8.2,12,8.5,"Industry specialization in manufacturing and healthcare; proprietary strategic planning framework; C-suite relationships",8.7,15,8,0.58
+Operations Improvement,7.8,8,6.2,"Lean Six Sigma expertise; digital operations integration; supply chain optimization focus",8.3,12,15,0.62
+Digital Transformation,7.5,10,5.8,"Cloud migration expertise; agile transformation; cybersecurity integration",8.1,8,12,0.55
+Change Management,8.4,6,9.1,"Behavioral psychology approach; culture transformation focus; leadership coaching",9.1,10,6,0.67
+Financial Advisory,8.6,7,12.3,"CFO advisory services; M&A due diligence; financial systems implementation",8.9,18,10,0.71
+Market Research,8.8,5,7.4,"Advanced analytics; customer segmentation; competitive intelligence specialization",9.2,22,7,0.73

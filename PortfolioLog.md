@@ -1824,3 +1824,28 @@ Build an intelligent network performance optimization system that analyzes multi
 - Executive dashboard with real-time network health indicators
 
 ---
+# Daily AI Challenge – May 14, 2026
+
+**Domain:** Strategy/Consulting
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent competitive intelligence analysis system that processes competitor data and generates strategic differentiation recommendations to standardize competitive response across consulting proposals and improve firm-wide win rates.
+
+## Skills Trained
+- Competitive intelligence analysis
+- Multi-factor decision modeling
+- Statistical analysis for strategic decisions
+- Executive-level competitive strategy communication
+- Consulting industry business development
+
+## Deliverables
+- Competitive threat assessment matrix
+- Strategic positioning playbook
+- Pricing strategy recommendations
+- Proposal section templates
+- Weekly competitive intelligence dashboard
+
+---

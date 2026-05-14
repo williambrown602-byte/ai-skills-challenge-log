@@ -1,0 +1,116 @@
+{
+  "pricing_data": {
+    "McKinsey & Company": {
+      "partner_rate": 2800,
+      "principal_rate": 2200,
+      "engagement_manager_rate": 1800,
+      "associate_rate": 1200,
+      "typical_markup": 1.35,
+      "discount_flexibility": 0.15,
+      "value_based_pricing": true,
+      "recent_projects": [
+        {"type": "Strategy", "value": 850000, "duration_weeks": 16},
+        {"type": "Operations", "value": 1200000, "duration_weeks": 24}
+      ]
+    },
+    "Boston Consulting Group": {
+      "partner_rate": 2700,
+      "principal_rate": 2100,
+      "engagement_manager_rate": 1750,
+      "associate_rate": 1150,
+      "typical_markup": 1.32,
+      "discount_flexibility": 0.18,
+      "value_based_pricing": true,
+      "recent_projects": [
+        {"type": "Digital", "value": 950000, "duration_weeks": 18},
+        {"type": "Strategy", "value": 720000, "duration_weeks": 14}
+      ]
+    },
+    "Bain & Company": {
+      "partner_rate": 2750,
+      "principal_rate": 2150,
+      "engagement_manager_rate": 1780,
+      "associate_rate": 1180,
+      "typical_markup": 1.30,
+      "discount_flexibility": 0.12,
+      "value_based_pricing": true,
+      "recent_projects": [
+        {"type": "Strategy", "value": 680000, "duration_weeks": 12},
+        {"type": "Market Research", "value": 420000, "duration_weeks": 10}
+      ]
+    },
+    "Deloitte Consulting": {
+      "partner_rate": 2200,
+      "principal_rate": 1800,
+      "engagement_manager_rate": 1400,
+      "associate_rate": 950,
+      "typical_markup": 1.45,
+      "discount_flexibility": 0.25,
+      "value_based_pricing": false,
+      "recent_projects": [
+        {"type": "Digital", "value": 1100000, "duration_weeks": 20},
+        {"type": "Operations", "value": 890000, "duration_weeks": 16}
+      ]
+    },
+    "PwC Consulting": {
+      "partner_rate": 2100,
+      "principal_rate": 1750,
+      "engagement_manager_rate": 1350,
+      "associate_rate": 920,
+      "typical_markup": 1.48,
+      "discount_flexibility": 0.22,
+      "value_based_pricing": false,
+      "recent_projects": [
+        {"type": "Financial Advisory", "value": 980000, "duration_weeks": 18},
+        {"type": "Digital", "value": 650000, "duration_weeks": 14}
+      ]
+    },
+    "EY Consulting": {
+      "partner_rate": 2050,
+      "principal_rate": 1700,
+      "engagement_manager_rate": 1320,
+      "associate_rate": 900,
+      "typical_markup": 1.50,
+      "discount_flexibility": 0.28,
+      "value_based_pricing": false,
+      "recent_projects": [
+        {"type": "Financial Advisory", "value": 750000, "duration_weeks": 15},
+        {"type": "Change Management", "value": 380000, "duration_weeks": 12}
+      ]
+    },
+    "Accenture Strategy": {
+      "partner_rate": 2400,
+      "principal_rate": 1900,
+      "engagement_manager_rate": 1500,
+      "associate_rate": 1000,
+      "typical_markup": 1.40,
+      "discount_flexibility": 0.20,
+      "value_based_pricing": true,
+      "recent_projects": [
+        {"type": "Digital", "value": 1350000, "duration_weeks": 22},
+        {"type": "Strategy", "value": 780000, "duration_weeks": 16}
+      ]
+    },
+    "Oliver Wyman": {
+      "partner_rate": 2300,
+      "principal_rate": 1850,
+      "engagement_manager_rate": 1450,
+      "associate_rate": 980,
+      "typical_markup": 1.38,
+      "discount_flexibility": 0.15,
+      "value_based_pricing": true,
+      "recent_projects": [
+        {"type": "Financial Advisory", "value": 620000, "duration_weeks": 14},
+        {"type": "Operations", "value": 540000, "duration_weeks": 12}
+      ]
+    }
+  },
+  "market_benchmarks": {
+    "strategy_consulting_avg_rate": 2350,
+    "operations_consulting_avg_rate": 1850,
+    "digital_transformation_avg_rate": 1950,
+    "change_management_avg_rate": 1650,
+    "financial_advisory_avg_rate": 2100,
+    "market_research_avg_rate": 1450
+  }
+}
