@@ -1,0 +1,26 @@
+client_id,client_name,industry,monthly_ad_spend,account_manager,start_date,ctr_avg,cpa_avg,roas,impressions_monthly,clicks_monthly,conversions_monthly,campaign_types
+C001,TechFlow Solutions,Technology,45000,Sarah Chen,2024-08-15,2.8,125.50,4.2,1800000,50400,402,Search|Display|Video
+C002,Sunrise Wellness Spa,Health & Beauty,12000,Mike Rodriguez,2024-11-20,3.1,89.75,5.1,480000,14880,165,Search|Social
+C003,Metro Dental Group,Healthcare,8500,Sarah Chen,2025-01-10,2.2,156.80,3.8,340000,7480,47,Search|Display
+C004,Global Manufacturing Inc,Industrial,85000,David Park,2024-06-30,1.9,201.25,3.1,3400000,64600,321,Search|Display|Video|Shopping
+C005,Bella's Boutique,Retail,15000,Lisa Thompson,2024-09-05,4.2,67.30,6.8,600000,25200,223,Search|Social|Shopping
+C006,Premier Law Firm,Legal,28000,Mike Rodriguez,2024-12-01,1.8,245.60,2.9,1120000,20160,114,Search|Display
+C007,Fresh Foods Market,Food & Beverage,22000,David Park,2024-10-15,3.5,92.40,5.4,880000,30800,238,Search|Social|Shopping
+C008,AutoMax Dealership,Automotive,55000,Sarah Chen,2024-07-20,2.6,178.90,3.7,2200000,57200,307,Search|Display|Video
+C009,EcoGreen Solutions,Environmental,18000,Lisa Thompson,2025-02-01,2.9,134.70,4.5,720000,20880,138,Search|Display|Social
+C010,City Fitness Center,Health & Fitness,9500,Mike Rodriguez,2024-08-30,3.8,76.20,6.1,380000,14440,124,Search|Social
+C011,Horizon Real Estate,Real Estate,35000,David Park,2024-05-15,2.1,189.50,3.4,1400000,29400,185,Search|Display|Video
+C012,Quantum Software,Technology,42000,Sarah Chen,2024-09-25,3.2,112.80,4.9,1680000,53760,376,Search|Display|Social
+C013,Pearl Restaurant Group,Food & Beverage,16000,Lisa Thompson,2024-11-01,4.1,84.60,5.9,640000,26240,195,Search|Social|Shopping
+C014,Apex Consulting,Professional Services,31000,Mike Rodriguez,2024-06-10,2.4,167.30,3.6,1240000,29760,178,Search|Display
+C015,Bright Smile Dental,Healthcare,11000,David Park,2025-01-05,2.7,143.20,4.1,440000,11880,83,Search|Display
+C016,Fashion Forward,Retail,19500,Lisa Thompson,2024-12-15,3.9,71.40,6.5,780000,30420,259,Search|Social|Shopping
+C017,Pinnacle Insurance,Financial Services,48000,Sarah Chen,2024-04-20,2.0,198.70,3.2,1920000,38400,193,Search|Display|Video
+C018,Garden Center Plus,Home & Garden,13500,Mike Rodriguez,2024-10-08,3.6,95.80,5.2,540000,19440,142,Search|Social|Shopping
+C019,Elite Personal Training,Health & Fitness,7200,David Park,2024-08-12,4.5,68.90,6.9,288000,12960,102,Search|Social
+C020,Coastal Construction,Construction,38000,Lisa Thompson,2024-07-03,1.7,234.50,2.8,1520000,25840,164,Search|Display
+C021,Velocity Marketing,Professional Services,24000,Sarah Chen,2024-11-30,2.8,128.40,4.3,960000,26880,209,Search|Display|Social
+C022,Prime Medical Center,Healthcare,41000,Mike Rodriguez,2024-05-28,2.3,172.60,3.5,1640000,37720,218,Search|Display|Video
+C023,Artisan Coffee Co,Food & Beverage,14000,David Park,2024-09-18,3.7,87.30,5.7,560000,20720,157,Search|Social|Shopping
+C024,NextGen Electronics,Technology,52000,Lisa Thompson,2024-06-25,2.5,149.80,3.9,2080000,52000,347,Search|Display|Video|Shopping
+C025,Golden Years Senior Care,Healthcare,26000,Sarah Chen,2024-12-20,2.2,184.90,3.3,1040000,22880,123,Search|Display

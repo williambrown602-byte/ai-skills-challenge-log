@@ -1849,3 +1849,28 @@ Build an intelligent competitive intelligence analysis system that processes com
 - Weekly competitive intelligence dashboard
 
 ---
+# Daily AI Challenge – May 15, 2026
+
+**Domain:** Digital Marketing
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent client health monitoring and optimization system that identifies at-risk accounts and generates strategic retention recommendations to restore client satisfaction and protect $1.2M in threatened revenue from 15% client churn.
+
+## Skills Trained
+- Client relationship analytics and churn prediction modeling
+- Digital marketing industry business intelligence
+- Multi-factor risk assessment and scoring algorithms
+- Strategic account management optimization
+- Executive-level client retention strategy development
+
+## Deliverables
+- Top 25 highest-risk clients with intervention strategies
+- Client health scoring dashboard with trend analysis
+- Account manager workload optimization recommendations
+- Performance pattern analysis of high-satisfaction vs at-risk accounts
+- Strategic client retention plan with 90-day action items
+
+---

@@ -1,0 +1,26 @@
+client_id,monthly_revenue,monthly_margin,contract_value,payment_terms,revenue_trend_3m,margin_trend_3m,ltv_projection
+C001,13500,0.30,162000,Net 30,increasing,stable,486000
+C002,3600,0.30,43200,Net 15,stable,increasing,129600
+C003,2550,0.30,30600,Net 30,decreasing,decreasing,76500
+C004,25500,0.30,306000,Net 45,stable,stable,918000
+C005,4500,0.30,54000,Net 15,increasing,increasing,162000
+C006,8400,0.30,100800,Net 30,decreasing,decreasing,201600
+C007,6600,0.30,79200,Net 15,increasing,stable,237600
+C008,16500,0.30,198000,Net 30,stable,decreasing,495000
+C009,5400,0.30,64800,Net 30,stable,stable,194400
+C010,2850,0.30,34200,Net 15,increasing,increasing,102600
+C011,10500,0.30,126000,Net 45,decreasing,decreasing,252000
+C012,12600,0.30,151200,Net 30,increasing,stable,453600
+C013,4800,0.30,57600,Net 15,stable,increasing,172800
+C014,9300,0.30,111600,Net 30,stable,stable,279000
+C015,3300,0.30,39600,Net 30,stable,stable,118800
+C016,5850,0.30,70200,Net 15,increasing,increasing,210600
+C017,14400,0.30,172800,Net 45,decreasing,stable,345600
+C018,4050,0.30,48600,Net 15,stable,stable,145800
+C019,2160,0.30,25920,Net 15,increasing,stable,77760
+C020,11400,0.30,136800,Net 45,decreasing,decreasing,273600
+C021,7200,0.30,86400,Net 30,stable,increasing,259200
+C022,12300,0.30,147600,Net 30,stable,stable,442800
+C023,4200,0.30,50400,Net 15,increasing,stable,151200
+C024,15600,0.30,187200,Net 30,stable,decreasing,468000
+C025,7800,0.30,93600,Net 30,decreasing,decreasing,187200
