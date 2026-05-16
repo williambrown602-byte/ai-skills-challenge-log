@@ -1,0 +1,21 @@
+borrower_id,age,annual_income,employment_length_years,credit_score,dti_ratio,num_credit_accounts,bankruptcy_history,home_ownership,education_level,marital_status,dependents,industry_employment,years_in_business
+B101,45,125000,8,715,0.34,12,N,Own,Bachelor,Married,2,HEALTHCARE,
+B102,38,85000,5,665,0.47,8,N,Rent,High School,Single,0,RETAIL,12
+B103,52,180000,15,745,0.29,15,N,Own,MBA,Married,3,FINANCE,
+B104,29,95000,3,680,0.41,6,N,Rent,Bachelor,Single,0,TECH,
+B105,41,75000,12,620,0.56,10,Y,Own,High School,Married,2,RESTAURANT,18
+B106,34,68000,6,595,0.63,5,N,Rent,Associate,Divorced,1,MANUFACTURING,
+B107,48,110000,11,720,0.32,14,N,Own,Master,Married,2,EDUCATION,
+B108,55,220000,20,770,0.24,18,N,Own,PhD,Married,1,TECH,25
+B109,36,105000,7,700,0.36,9,N,Own,Bachelor,Married,1,HEALTHCARE,
+B110,43,95000,9,640,0.51,7,N,Rent,Bachelor,Single,0,RETAIL,15
+B111,31,88000,4,650,0.49,8,N,Rent,Bachelor,Single,0,FINANCE,
+B112,47,165000,12,760,0.26,16,N,Own,Master,Married,2,TECH,
+B113,39,82000,8,675,0.44,9,N,Own,Associate,Married,3,MANUFACTURING,
+B114,28,72000,3,660,0.42,5,N,Rent,High School,Single,0,RESTAURANT,8
+B115,50,135000,16,710,0.35,13,N,Own,Bachelor,Married,2,HEALTHCARE,
+B116,44,68000,10,630,0.54,6,Y,Rent,High School,Divorced,2,RETAIL,14
+B117,26,58000,2,580,0.68,4,N,Rent,Bachelor,Single,1,EDUCATION,
+B118,49,195000,18,740,0.30,17,N,Own,MBA,Married,2,FINANCE,
+B119,35,115000,6,690,0.39,11,N,Own,Bachelor,Married,1,TECH,
+B120,42,125000,9,720,0.33,12,N,Own,Master,Married,2,HEALTHCARE,

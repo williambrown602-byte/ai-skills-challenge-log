@@ -1874,3 +1874,28 @@ Build an intelligent client health monitoring and optimization system that ident
 - Strategic client retention plan with 90-day action items
 
 ---
+# Daily AI Challenge – May 16, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent loan portfolio risk monitoring system that predicts default probability, identifies high-risk segments, and generates strategic risk mitigation recommendations to reduce default rates from 4.2% to 2.5% within 12 months.
+
+## Skills Trained
+- Financial risk modeling and credit analytics
+- Banking industry regulatory knowledge
+- Predictive modeling with confidence intervals
+- Multi-factor risk assessment algorithms
+- Executive-level risk communication
+
+## Deliverables
+- Top 100 highest-risk active loans requiring immediate committee review
+- Portfolio concentration risk analysis by geography/industry/loan type
+- Predictive default model with 60-day early warning system
+- Strategic risk mitigation plan with projected impact
+- Executive risk dashboard for monthly committee meetings
+
+---
