@@ -1899,3 +1899,28 @@ Build an intelligent loan portfolio risk monitoring system that predicts default
 - Executive risk dashboard for monthly committee meetings
 
 ---
+# Daily AI Challenge – May 17, 2026
+
+**Domain:** Healthcare Operations
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Transform scattered emergency department data into an intelligent patient flow optimization system that predicts capacity constraints and generates strategic recommendations to reduce wait times by 45% while improving patient satisfaction above 85%. Build a multi-facility analysis engine for 6 hospital facilities to restore ED performance within 90 days.
+
+## Skills Trained
+- Healthcare operations analytics
+- Multi-facility capacity planning
+- Predictive modeling for healthcare delivery
+- Healthcare business intelligence
+- Executive-level healthcare administration communication
+
+## Deliverables
+- Real-time patient flow dashboard with capacity alerts
+- Predictive bottleneck identification system
+- Staffing optimization recommendations
+- Top 20 operational improvement opportunities
+- 90-day implementation roadmap
+
+---
