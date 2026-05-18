@@ -1,0 +1,23 @@
+site_id,site_name,location,region,coordinator_name,coordinator_experience_years,avg_enrollment_rate,total_trials_managed,active_trials,site_capacity,performance_score,last_audit_score
+SITE001,Metro Medical Center,New York NY,Northeast,Sarah Johnson,8.5,15.2,12,2,75,8.7,94.2
+SITE002,Advanced Research Institute,Los Angeles CA,West,Michael Chen,6.2,8.7,8,1,50,6.8,87.3
+SITE003,University Health System,Chicago IL,Midwest,Jennifer Williams,12.3,12.3,15,1,80,9.1,96.8
+SITE004,Regional Medical Plaza,Houston TX,South,David Rodriguez,9.1,15.2,10,1,60,8.9,92.5
+SITE005,Coastal Clinical Research,Miami FL,South,Lisa Thompson,5.8,11.2,6,1,45,7.2,89.6
+SITE006,Mountain View Research,Denver CO,West,Robert Kim,7.4,14.6,9,1,55,8.3,91.7
+SITE007,Northeast Clinical Center,Boston MA,Northeast,Amanda Davis,10.2,9.8,11,1,70,8.6,93.4
+SITE008,Southwest Medical Research,Phoenix AZ,West,Carlos Martinez,4.9,9.1,5,1,40,6.9,85.2
+SITE009,Great Lakes Research Hub,Detroit MI,Midwest,Michelle Brown,8.8,12.1,13,1,65,8.4,90.8
+SITE010,Pacific Research Institute,Seattle WA,West,Kevin Lee,6.7,8.5,7,1,50,7.1,88.9
+SITE011,Sunbelt Clinical Studies,Atlanta GA,South,Rachel White,9.5,10.2,14,1,75,8.2,91.3
+SITE012,Prairie Medical Research,Minneapolis MN,Midwest,Thomas Wilson,11.1,13.7,16,1,80,9.3,95.1
+SITE013,Bay Area Research Center,San Francisco CA,West,Jessica Garcia,5.2,7.5,4,1,35,6.5,84.7
+SITE014,Capital Clinical Research,Washington DC,Northeast,Andrew Taylor,8.3,10.9,9,1,60,8.1,90.2
+SITE015,Desert Medical Institute,Las Vegas NV,West,Nicole Anderson,6.9,8.9,7,1,45,7.4,87.8
+SITE016,Heartland Research Group,Kansas City MO,Midwest,Steven Clark,7.8,13.2,11,1,70,8.5,92.1
+SITE017,Eastern Clinical Studies,Philadelphia PA,Northeast,Maria Gonzalez,9.8,11.6,13,1,75,8.8,93.9
+SITE018,Gulf Coast Research,New Orleans LA,South,Jason Miller,6.1,9.4,8,1,55,7.6,88.4
+SITE019,Rocky Mountain Clinical,Salt Lake City UT,West,Laura Adams,8.7,10.8,10,1,60,8.0,90.5
+SITE020,Southern Research Alliance,Nashville TN,South,Mark Johnson,10.5,7.9,12,1,65,7.8,89.7
+SITE021,Pacific Northwest Studies,Portland OR,West,Emily Davis,7.2,12.4,9,1,55,8.2,91.0
+SITE022,Lone Star Medical Research,Dallas TX,South,Christopher Lee,5.5,9.7,6,1,50,7.3,86.9

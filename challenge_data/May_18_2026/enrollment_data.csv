@@ -1,0 +1,24 @@
+trial_id,trial_name,therapeutic_area,start_date,target_enrollment,current_enrollment,enrollment_rate_per_month,months_active,protocol_complexity_score,inclusion_criteria_count,primary_site_id,status
+TR001,CardioStent-2024,Cardiology,2024-01-15,450,287,18.5,16,7.2,12,SITE001,Active
+TR002,NeuroProtect-Phase3,Neurology,2023-08-20,320,298,12.3,21,8.9,18,SITE003,Active
+TR003,OncoTarget-Advanced,Oncology,2024-03-10,180,95,8.7,14,9.5,22,SITE002,Active
+TR004,DiabetesCare-Plus,Endocrinology,2023-12-05,275,201,15.2,17,6.1,8,SITE004,Active
+TR005,RheumaRelief-Study,Rheumatology,2024-05-01,200,67,11.2,12,7.8,15,SITE005,Active
+TR006,PsychWellness-Trial,Psychiatry,2024-02-14,350,189,14.6,15,8.2,19,SITE006,Active
+TR007,DermatoHeal-Phase2,Dermatology,2023-11-10,160,142,9.8,18,5.9,10,SITE007,Active
+TR008,PulmoStrong-Advanced,Pulmonology,2024-04-20,220,78,9.1,13,8.7,16,SITE008,Active
+TR009,GastroShield-Study,Gastroenterology,2024-01-30,195,134,12.1,15,7.3,13,SITE009,Active
+TR010,OphthalClear-Trial,Ophthalmology,2023-09-15,140,119,8.5,20,6.4,11,SITE010,Active
+TR011,UroFlow-Phase3,Urology,2024-03-25,185,89,10.2,14,7.6,14,SITE011,Active
+TR012,EndoBalance-Study,Endocrinology,2023-10-12,260,198,13.7,19,6.8,9,SITE012,Active
+TR013,NeuroRepair-Advanced,Neurology,2024-06-01,300,45,7.5,11,9.1,20,SITE013,Active
+TR014,CardioRhythm-Trial,Cardiology,2024-02-28,175,112,11.8,14,7.4,12,SITE001,Active
+TR015,OncoImmune-Phase2,Oncology,2023-12-20,210,156,10.9,16,9.3,21,SITE014,Active
+TR016,MetaboSync-Study,Metabolism,2024-04-05,155,73,8.9,13,6.2,7,SITE015,Active
+TR017,BoneStrength-Trial,Orthopedics,2024-01-08,240,167,13.2,16,7.1,12,SITE016,Active
+TR018,ImmunoBridge-Advanced,Immunology,2023-11-25,190,143,11.6,17,8.4,17,SITE017,Active
+TR019,VascularFlow-Study,Vascular Surgery,2024-03-18,165,86,9.4,14,8.1,15,SITE018,Active
+TR020,PainRelief-Phase3,Pain Management,2024-05-10,280,91,10.8,12,7.9,16,SITE019,Active
+TR021,SkinRepair-Trial,Dermatology,2023-08-30,145,128,7.9,20,5.7,9,SITE020,Active
+TR022,RespiCare-Advanced,Respiratory,2024-02-05,205,124,12.4,15,8.6,18,SITE021,Active
+TR023,HepatoShield-Study,Hepatology,2024-04-15,225,97,9.7,13,8.3,16,SITE022,Active
