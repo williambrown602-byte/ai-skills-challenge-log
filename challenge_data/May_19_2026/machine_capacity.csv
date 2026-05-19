@@ -1,0 +1,13 @@
+facility,machine_id,machine_type,max_capacity_per_hour,available_hours_per_day,maintenance_day,skill_level_required,compatible_product_categories,setup_time_minutes,efficiency_rating
+Facility_A,M_A_001,Multi_Line_Processor,320,16,Sunday,2,"Frozen_Entrees,Dairy",35,0.92
+Facility_A,M_A_002,Packaging_Line,450,14,Monday,1,"Frozen_Entrees,Beverages",25,0.95
+Facility_A,M_A_003,Bakery_Oven,280,18,Tuesday,3,Bakery,55,0.88
+Facility_A,M_A_004,Snack_Processor,520,16,Wednesday,2,"Snacks,Condiments",40,0.90
+Facility_B,M_B_001,Multi_Line_Processor,350,16,Thursday,2,"Beverages,Dairy,Condiments",30,0.93
+Facility_B,M_B_002,Packaging_Line,480,14,Friday,1,"Frozen_Entrees,Snacks",28,0.94
+Facility_B,M_B_003,Snack_Processor,580,16,Saturday,2,Snacks,42,0.91
+Facility_B,M_B_004,Bakery_Oven,300,18,Sunday,3,Bakery,58,0.87
+Facility_C,M_C_001,Multi_Line_Processor,300,16,Monday,2,"Condiments,Beverages",32,0.89
+Facility_C,M_C_002,Packaging_Line,420,14,Tuesday,1,"Beverages,Dairy",26,0.96
+Facility_C,M_C_003,Multi_Line_Processor,340,16,Wednesday,2,"Frozen_Entrees,Condiments",38,0.91
+Facility_C,M_C_004,Snack_Processor,500,16,Thursday,2,Snacks,45,0.89

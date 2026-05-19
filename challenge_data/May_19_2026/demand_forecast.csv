@@ -1,0 +1,30 @@
+product_code,product_name,category,week_starting,forecasted_demand,historical_avg,seasonal_factor,priority_level,customer_orders,safety_stock_required
+FE001,Chicken Alfredo,Frozen_Entrees,2024-11-11,2800,2650,1.15,High,2500,350
+FE002,Beef Stroganoff,Frozen_Entrees,2024-11-11,2400,2200,1.18,High,2100,300
+FE003,Vegetable Lasagna,Frozen_Entrees,2024-11-11,1900,1750,1.12,Medium,1650,250
+FE004,Turkey Meatballs,Frozen_Entrees,2024-11-11,1700,1600,1.08,Medium,1500,200
+BK001,Artisan Bread,Bakery,2024-11-11,3200,3000,1.25,High,2800,400
+BK002,Dinner Rolls,Bakery,2024-11-11,2800,2600,1.20,High,2500,300
+BK003,Croissants,Bakery,2024-11-11,2200,2100,1.15,Medium,1900,300
+DA001,Greek Yogurt,Dairy,2024-11-11,1800,1650,1.10,High,1600,200
+DA002,Cottage Cheese,Dairy,2024-11-11,1600,1500,1.05,Medium,1400,200
+DA003,Cream Cheese,Dairy,2024-11-11,1400,1300,1.08,Medium,1200,200
+SN001,Potato Chips,Snacks,2024-11-11,4500,4200,1.22,High,4000,500
+SN002,Pretzels,Snacks,2024-11-11,3800,3500,1.18,High,3400,400
+SN003,Trail Mix,Snacks,2024-11-11,3200,3000,1.15,Medium,2800,400
+SN004,Granola Bars,Snacks,2024-11-11,2800,2600,1.12,Medium,2500,300
+SN005,Rice Cakes,Snacks,2024-11-11,2400,2200,1.10,Low,2100,300
+BV001,Orange Juice,Beverages,2024-11-11,3600,3400,1.20,High,3200,400
+BV002,Apple Juice,Beverages,2024-11-11,3200,3000,1.18,High,2800,400
+BV003,Cranberry Juice,Beverages,2024-11-11,2800,2600,1.15,Medium,2500,300
+BV004,Grape Juice,Beverages,2024-11-11,2400,2200,1.12,Medium,2100,300
+CD001,Tomato Sauce,Condiments,2024-11-11,2200,2000,1.08,Medium,1900,300
+CD002,BBQ Sauce,Condiments,2024-11-11,1800,1700,1.05,Medium,1600,200
+CD003,Hot Sauce,Condiments,2024-11-11,1600,1500,1.12,Low,1400,200
+CD004,Salad Dressing,Condiments,2024-11-11,1400,1300,1.10,Low,1200,200
+FE001,Chicken Alfredo,Frozen_Entrees,2024-11-18,2900,2650,1.18,High,2600,350
+FE002,Beef Stroganoff,Frozen_Entrees,2024-11-18,2500,2200,1.22,High,2200,300
+BK001,Artisan Bread,Bakery,2024-11-18,3400,3000,1.30,High,3000,400
+SN001,Potato Chips,Snacks,2024-11-18,4800,4200,1.25,High,4200,500
+BV001,Orange Juice,Beverages,2024-11-18,3800,3400,1.25,High,3400,400
+DA001,Greek Yogurt,Dairy,2024-11-18,1900,1650,1.15,High,1700,200

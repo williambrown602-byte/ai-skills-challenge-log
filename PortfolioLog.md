@@ -1949,3 +1949,28 @@ Build an intelligent clinical trial enrollment optimization system that analyzes
 - Strategic enrollment acceleration plan with projected timeline improvements
 
 ---
+# Daily AI Challenge – May 19, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Transform scattered production data into an intelligent manufacturing optimization system that generates optimal production schedules and reduces overtime costs by 25% while improving on-time delivery rates to 95%+. Build a multi-constraint optimization engine for weekly production scheduling with capacity utilization analysis and bottleneck identification.
+
+## Skills Trained
+- Manufacturing operations analytics and optimization
+- Multi-constraint scheduling and resource allocation algorithms
+- Industrial engineering and capacity planning
+- Cost reduction strategy development with ROI projections
+- Executive-level operational reporting and performance management
+
+## Deliverables
+- Optimal weekly production schedules for all 3 facilities with resource assignments
+- Capacity constraint analysis identifying bottlenecks and overflow solutions
+- Overtime reduction strategy with specific operational changes and projected savings
+- On-time delivery improvement plan with performance predictions
+- Executive dashboard showing production efficiency metrics and cost impact
+
+---
