@@ -1,0 +1,21 @@
+deal_id,customer_id,deal_stage,probability,deal_value_arr,expected_close_date,sales_rep,lead_source,company_size,industry
+DEAL_001,CUST_021,qualified_lead,0.25,12000,2024-12-15,Sarah Johnson,website,50-100,technology
+DEAL_002,CUST_022,proposal_sent,0.65,8500,2024-11-30,Mike Chen,referral,10-50,healthcare
+DEAL_003,CUST_023,negotiation,0.85,45000,2024-11-15,Sarah Johnson,trade_show,500+,manufacturing
+DEAL_004,CUST_024,demo_scheduled,0.35,6500,2024-12-30,Lisa Wang,cold_outreach,10-50,financial_services
+DEAL_005,CUST_025,qualified_lead,0.28,18000,2025-01-15,Mike Chen,webinar,100-500,retail
+DEAL_006,CUST_026,proposal_sent,0.72,25000,2024-11-20,David Rodriguez,partner,100-500,education
+DEAL_007,CUST_027,contract_review,0.92,35000,2024-11-08,Sarah Johnson,referral,500+,healthcare
+DEAL_008,CUST_028,demo_scheduled,0.40,7200,2024-12-20,Lisa Wang,website,50-100,technology
+DEAL_009,CUST_029,qualified_lead,0.22,15000,2025-01-30,Mike Chen,cold_outreach,100-500,manufacturing
+DEAL_010,CUST_030,negotiation,0.78,28000,2024-11-25,David Rodriguez,trade_show,100-500,financial_services
+DEAL_011,CUST_031,proposal_sent,0.58,9800,2024-12-10,Sarah Johnson,website,50-100,retail
+DEAL_012,CUST_032,qualified_lead,0.30,22000,2025-01-20,Lisa Wang,referral,100-500,education
+DEAL_013,CUST_033,demo_scheduled,0.45,11000,2024-12-25,Mike Chen,webinar,50-100,technology
+DEAL_014,CUST_034,contract_review,0.88,55000,2024-11-12,David Rodriguez,partner,500+,healthcare
+DEAL_015,CUST_035,negotiation,0.81,33000,2024-11-18,Sarah Johnson,trade_show,500+,manufacturing
+DEAL_016,CUST_036,qualified_lead,0.26,13500,2024-12-28,Lisa Wang,cold_outreach,50-100,financial_services
+DEAL_017,CUST_037,proposal_sent,0.69,19500,2024-11-22,Mike Chen,website,100-500,retail
+DEAL_018,CUST_038,demo_scheduled,0.38,8900,2025-01-10,David Rodriguez,referral,10-50,education
+DEAL_019,CUST_039,qualified_lead,0.24,16800,2025-01-25,Sarah Johnson,webinar,100-500,technology
+DEAL_020,CUST_040,negotiation,0.75,42000,2024-11-28,Lisa Wang,partner,500+,healthcare

@@ -1974,3 +1974,28 @@ Transform scattered production data into an intelligent manufacturing optimizati
 - Executive dashboard showing production efficiency metrics and cost impact
 
 ---
+# Daily AI Challenge – May 20, 2026
+
+**Domain:** Finance
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent subscription revenue analytics and forecasting system that consolidates multi-source data to predict quarterly ARR with 90%+ accuracy and generates actionable growth recommendations for executive decision-making.
+
+## Skills Trained
+- SaaS revenue analytics and subscription metrics mastery
+- Advanced predictive modeling with uncertainty quantification
+- Multi-source business data integration and correlation analysis
+- Executive-level financial communication and board presentation skills
+- Strategic business intelligence and growth optimization
+
+## Deliverables
+- Quarterly ARR forecast with 95% confidence intervals for next 4 quarters
+- Top 15 revenue growth drivers ranked by impact and controllability
+- Customer segment analysis showing expansion opportunities worth $2.8M+
+- Churn risk mitigation plan targeting 200+ highest-risk accounts
+- Executive dashboard with real-time revenue health indicators
+
+---
