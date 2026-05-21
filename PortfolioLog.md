@@ -1999,3 +1999,28 @@ Build an intelligent subscription revenue analytics and forecasting system that 
 - Executive dashboard with real-time revenue health indicators
 
 ---
+# Daily AI Challenge – May 21, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Create an automated loan risk assessment system that evaluates new loan applications, provides approval recommendations with confidence scores, and monitors existing portfolio health to restore default rates to industry benchmarks. Build a multi-factor risk scoring algorithm that processes loan application data and generates ongoing monitoring alerts for portfolio management.
+
+## Skills Trained
+- Financial risk modeling and credit analytics
+- Banking industry regulatory knowledge
+- Multi-factor predictive algorithms
+- Executive-level financial communication
+- Automated decision support system design
+
+## Deliverables
+- Automated loan approval recommendation system with risk scores
+- Top 150 highest-risk existing loans requiring immediate review
+- New application processing recommendations with approval/decline rationale
+- Portfolio concentration risk analysis by geography/loan type/borrower segment
+- Board-ready risk management strategy with projected impact on default rates
+
+---
