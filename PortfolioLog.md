@@ -2024,3 +2024,28 @@ Create an automated loan risk assessment system that evaluates new loan applicat
 - Board-ready risk management strategy with projected impact on default rates
 
 ---
+# Daily AI Challenge – May 22, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent project success pattern analysis system for an architectural firm to identify characteristics of high-performing projects and generate actionable playbooks for replicating success across their portfolio. The goal is to understand what drives profitable projects versus money-losing ones to standardize best practices.
+
+## Skills Trained
+- Advanced business analytics and pattern recognition
+- Statistical correlation analysis and predictive modeling
+- Professional services industry expertise
+- Strategic business intelligence and performance optimization
+- Executive-level consulting recommendations and playbook development
+
+## Deliverables
+- Project success factor analysis identifying top 10 drivers of profitability
+- High-performance project playbook with specific practices and team compositions
+- Project risk assessment framework for future project evaluation
+- Client type profitability matrix with engagement recommendations
+- Team optimization recommendations for improved project outcomes
+
+---
