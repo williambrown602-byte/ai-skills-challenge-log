@@ -2049,3 +2049,28 @@ Build an intelligent project success pattern analysis system for an architectura
 - Team optimization recommendations for improved project outcomes
 
 ---
+# Daily AI Challenge – May 23, 2026
+
+**Domain:** Customer Support/Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent support performance optimization system that analyzes agent productivity patterns and generates actionable coaching recommendations to reduce resolution times from 3.8 days to under 2.5 days while maintaining quality scores.
+
+## Skills Trained
+- Customer support analytics and operational efficiency
+- Multi-factor performance analysis and agent optimization
+- Predictive modeling for service delivery improvement
+- Executive-level operational reporting and coaching framework development
+- Customer experience correlation analysis and retention strategy
+
+## Deliverables
+- Agent performance ranking with improvement opportunities
+- Support efficiency playbook
+- Personalized coaching recommendations
+- Channel optimization strategy
+- Executive dashboard with KPIs and 90-day roadmap
+
+---
