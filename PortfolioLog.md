@@ -2074,3 +2074,28 @@ Build an intelligent support performance optimization system that analyzes agent
 - Executive dashboard with KPIs and 90-day roadmap
 
 ---
+# Daily AI Challenge – May 24, 2026
+
+**Domain:** HR
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent workforce efficiency analysis system for a rapidly growing consulting firm to identify optimal staffing patterns and generate strategic workforce optimization recommendations to improve profitability by 15-20%.
+
+## Skills Trained
+- Workforce analytics and human capital optimization
+- Multi-dimensional business performance modeling
+- Strategic resource planning and capacity analysis
+- Professional services industry expertise
+- Executive-level strategic communication
+
+## Deliverables
+- Workforce optimization analysis identifying over/understaffed practice areas
+- Optimal staffing recommendations with projected financial impact
+- Utilization efficiency model showing capacity constraints and opportunities
+- Strategic workforce planning roadmap for next 12 months
+- ROI analysis quantifying potential profit improvement from optimization
+
+---
