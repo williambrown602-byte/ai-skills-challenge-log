@@ -1,0 +1,16 @@
+facility_id,facility_name,location,max_capacity_cubic_ft,current_utilization_pct,staff_count,operating_hours_per_day,equipment_count,monthly_fixed_cost,cost_per_cubic_ft,region
+FAC001,Northeast Distribution Hub,New York NY,50000,87.5,45,16,12,125000,2.85,Northeast
+FAC002,Boston Logistics Center,Boston MA,35000,92.3,32,14,8,89000,3.12,Northeast
+FAC003,Philadelphia Warehouse,Philadelphia PA,42000,78.9,38,16,10,98000,2.95,Northeast
+FAC004,Southeast Operations,Atlanta GA,48000,85.2,42,18,11,118000,2.78,Southeast
+FAC005,Miami Distribution,Miami FL,38000,91.7,35,16,9,95000,3.05,Southeast
+FAC006,Charlotte Fulfillment,Charlotte NC,41000,83.4,39,16,10,102000,2.88,Southeast
+FAC007,Midwest Central Hub,Chicago IL,55000,89.1,52,20,15,135000,2.65,Midwest
+FAC008,Detroit Logistics,Detroit MI,33000,94.8,28,14,7,78000,3.25,Midwest
+FAC009,Indianapolis Center,Indianapolis IN,39000,81.6,36,16,9,88000,2.92,Midwest
+FAC010,Southwest Operations,Dallas TX,52000,86.7,48,18,14,128000,2.72,Southwest
+FAC011,Phoenix Distribution,Phoenix AZ,36000,88.9,33,16,8,85000,3.08,Southwest
+FAC012,Houston Warehouse,Houston TX,44000,82.3,40,16,11,108000,2.85,Southwest
+FAC013,West Coast Hub,Los Angeles CA,58000,91.2,55,20,16,148000,2.58,West
+FAC014,San Francisco Bay,Oakland CA,40000,95.1,37,16,9,115000,3.18,West
+FAC015,Seattle Operations,Seattle WA,46000,84.6,43,18,12,122000,2.88,West

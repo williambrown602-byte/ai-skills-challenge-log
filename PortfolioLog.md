@@ -2099,3 +2099,28 @@ Build an intelligent workforce efficiency analysis system for a rapidly growing 
 - ROI analysis quantifying potential profit improvement from optimization
 
 ---
+# Daily AI Challenge – May 25, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent logistics network optimization system that analyzes cross-facility operations data to identify inefficiencies, predict demand patterns, and generate strategic recommendations to reduce costs by 20% while improving delivery performance. The system will help optimize coordination between 15 distribution centers to address rising shipping costs and declining customer satisfaction.
+
+## Skills Trained
+- Multi-facility operations analytics
+- Supply chain optimization and demand forecasting
+- Cost reduction strategy development with ROI modeling
+- Executive-level operational reporting and strategic communication
+- Logistics industry business intelligence and competitive analysis
+
+## Deliverables
+- Top 25 network optimization opportunities ranked by cost savings potential
+- Facility workload rebalancing recommendations with projected efficiency gains
+- Demand forecasting model for next 6 months with facility-specific predictions
+- Route optimization strategy showing potential 20% cost reduction pathway
+- Executive presentation with strategic network redesign recommendations
+
+---
