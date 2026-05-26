@@ -1,0 +1,16 @@
+consultant_id,name,seniority_level,years_experience,primary_specialization,certifications,avg_project_rating,projects_completed,hourly_rate,availability_pct,technical_skills_score,communication_score,leadership_score
+CONS001,Sarah Chen,Senior,8,Penetration Testing,"CISSP,CEH,OSCP",8.5,24,285,85,9.2,8.8,8.5
+CONS002,Michael Rodriguez,Principal,12,Compliance Audit,"CISA,CISM,ISO27001",7.8,18,320,75,8.9,8.2,9.1
+CONS003,Jennifer Kim,Principal,15,Security Architecture,"CISSP,SABSA,TOGAF",8.9,21,350,70,9.5,9.0,9.3
+CONS004,David Thompson,Mid-Level,5,Penetration Testing,"CEH,GCIH,Security+",7.6,15,225,90,8.1,7.9,7.2
+CONS005,Lisa Wang,Principal,11,Security Architecture,"CISSP,CISSP-ISSAP,TOGAF",7.4,16,340,65,9.1,8.0,8.8
+CONS006,Robert Johnson,Senior,7,Penetration Testing,"CISSP,OSCP,GPEN",8.4,19,270,88,8.8,8.6,8.0
+CONS007,Amanda Foster,Senior,6,Penetration Testing,"CEH,GCIH,CySA+",8.0,14,255,92,8.3,8.4,7.8
+CONS008,James Wilson,Senior,9,Compliance Audit,"CISA,ISO27001,NIST",7.9,17,295,80,8.7,8.1,8.3
+CONS009,Maria Garcia,Principal,13,Security Architecture,"CISSP,SABSA,CISSP-ISSEP",8.7,20,345,72,9.3,8.9,9.0
+CONS010,Thomas Brown,Mid-Level,4,Compliance Audit,"CISA,Security+,ITIL",7.2,12,210,95,7.8,7.6,6.9
+CONS011,Rachel Adams,Senior,6,Penetration Testing,"CEH,GCIH,OSCP",8.2,13,260,89,8.5,8.0,7.7
+CONS012,Kevin Lee,Mid-Level,3,Security Architecture,"Security+,CISSP Associate,AWS Security",6.8,8,195,98,7.5,7.2,6.5
+CONS013,Nicole Parker,Senior,8,Compliance Audit,"CISA,CISM,PCI-DSS",8.1,16,280,82,8.4,8.3,8.1
+CONS014,Christopher Davis,Principal,14,Security Architecture,"CISSP,TOGAF,Zachman",9.0,22,355,68,9.4,9.1,9.2
+CONS015,Sandra Martinez,Mid-Level,4,Penetration Testing,"CEH,GCIH,CySA+",7.4,11,220,93,7.9,7.7,7.0
