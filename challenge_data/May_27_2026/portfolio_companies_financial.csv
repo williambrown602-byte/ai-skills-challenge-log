@@ -1,0 +1,24 @@
+Company_ID,Company_Name,Industry,Investment_Date,Initial_Investment_M,Current_Revenue_M,Revenue_Growth_YoY,EBITDA_M,EBITDA_Margin,Free_Cash_Flow_M,Total_Debt_M,Cash_M,Current_Valuation_M
+PC001,TechFlow Solutions,Software,2022-03-15,25,42.5,18.2%,12.8,30.1%,8.4,15.2,6.8,180
+PC002,GreenEnergy Dynamics,Renewable Energy,2021-08-22,45,78.3,22.5%,18.9,24.1%,12.3,35.7,8.9,285
+PC003,MedDevice Innovations,Healthcare,2020-11-10,38,65.2,-3.2%,19.6,30.1%,14.2,28.4,12.7,245
+PC004,LogiChain Express,Logistics,2023-01-18,22,34.8,45.3%,6.9,19.8%,3.2,18.9,4.1,125
+PC005,DataSecure Pro,Cybersecurity,2022-06-30,32,48.7,28.7%,14.6,30.0%,9.8,12.3,7.5,195
+PC006,FinanceFlow Systems,Fintech,2021-12-05,28,51.9,15.4%,15.6,30.1%,11.2,16.8,9.3,220
+PC007,BioTech Therapeutics,Pharmaceuticals,2020-09-14,55,32.1,-8.5%,2.3,7.2%,-5.8,42.1,18.9,165
+PC008,SmartManufacture,Industrial Tech,2022-11-28,35,58.4,31.2%,17.5,30.0%,12.8,22.7,8.4,235
+PC009,RetailTech Solutions,E-commerce,2023-04-12,18,28.7,52.8%,5.7,19.9%,2.9,8.4,5.2,95
+PC010,CloudInfra Services,Cloud Computing,2021-05-20,42,71.8,19.8%,21.5,29.9%,16.3,25.9,11.7,295
+PC011,AgriTech Innovations,Agriculture,2022-02-08,25,38.9,12.5%,11.7,30.1%,7.8,14.2,6.1,155
+PC012,EduTech Platform,Education,2023-07-15,15,23.4,38.9%,4.7,20.1%,2.1,6.8,4.3,78
+PC013,HealthCare Analytics,Healthcare IT,2021-10-03,33,54.6,24.1%,16.4,30.0%,12.1,19.5,8.7,225
+PC014,CleanTech Materials,Materials,2020-12-18,48,69.2,8.7%,13.8,19.9%,9.2,38.4,7.6,195
+PC015,InsurTech Dynamics,Insurance,2022-09-25,29,46.3,21.3%,13.9,30.0%,9.7,17.1,7.8,185
+PC016,FoodTech Processing,Food & Beverage,2021-07-11,31,58.7,16.8%,11.7,19.9%,8.3,24.6,6.9,175
+PC017,PropTech Solutions,Real Estate,2023-02-28,26,35.2,42.1%,10.6,30.1%,6.8,15.7,5.4,142
+PC018,EnergyStorage Systems,Energy,2020-06-09,52,75.4,5.2%,15.1,20.0%,10.4,41.8,9.2,215
+PC019,AutoTech Components,Automotive,2022-12-14,24,39.7,33.4%,11.9,30.0%,7.9,13.8,5.7,158
+PC020,SportsTech Media,Entertainment,2021-09-30,19,31.8,18.9%,9.5,29.9%,6.2,11.2,4.8,128
+PC021,TravelTech Platform,Travel,2023-05-17,21,27.9,47.3%,5.6,20.1%,2.8,9.4,4.1,112
+PC022,ConstructionTech,Construction,2022-05-12,36,55.8,25.7%,16.7,29.9%,11.4,21.3,7.2,225
+PC023,WasteTech Solutions,Environmental,2021-11-22,27,44.1,19.4%,13.2,29.9%,8.9,16.5,6.3,175

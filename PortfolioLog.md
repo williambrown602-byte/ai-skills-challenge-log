@@ -2149,3 +2149,28 @@ Transform 24 months of cybersecurity consulting engagement data into an intellig
 - Executive dashboard
 
 ---
+# Daily AI Challenge – May 27, 2026
+
+**Domain:** Finance
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent portfolio performance monitoring and optimization system for a private equity firm to consolidate multi-company data, predict underperformance risks, and generate strategic recommendations for maximizing portfolio returns across 23 companies.
+
+## Skills Trained
+- Private equity and investment analytics
+- Multi-company performance modeling and benchmarking
+- Value creation strategy development and portfolio optimization
+- Executive-level investment committee communication
+- Predictive modeling for financial performance and risk assessment
+
+## Deliverables
+- Top 10 highest-risk portfolio companies requiring immediate partner attention
+- Value creation opportunity analysis showing potential upside by company and initiative
+- Portfolio performance dashboard with risk-adjusted returns and trend analysis
+- Predictive exit valuation model for companies approaching sale timeline
+- Quarterly investment committee presentation with strategic recommendations
+
+---
