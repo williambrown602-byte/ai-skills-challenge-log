@@ -1,0 +1,46 @@
+project_id,client_name,industry,project_type,start_date,end_date,original_budget,final_budget,original_timeline_days,actual_timeline_days,team_size,senior_ratio,project_manager_experience,client_tier,initial_scope_clarity,change_orders_count,total_change_value,final_margin_pct,original_margin_pct,scope_creep_occurred
+PRJ001,TechCorp Solutions,Technology,Digital Transformation,2024-01-15,2024-06-30,450000,520000,167,198,8,0.375,5,Enterprise,High,3,70000,18.2,28.5,1
+PRJ002,MedDevice Inc,Healthcare,System Integration,2024-02-01,2024-05-15,280000,285000,104,103,5,0.6,8,Mid-Market,High,1,5000,31.2,32.0,0
+PRJ003,RetailChain LLC,Retail,Data Analytics,2024-01-20,2024-08-10,650000,780000,203,233,12,0.25,3,Enterprise,Medium,5,130000,15.8,35.2,1
+PRJ004,FinanceFirst Bank,Financial Services,Compliance System,2024-03-01,2024-07-20,380000,420000,141,162,7,0.57,6,Enterprise,Low,4,40000,22.1,28.9,1
+PRJ005,StartupX,Technology,MVP Development,2024-02-15,2024-04-30,125000,115000,74,74,4,0.5,4,Startup,High,0,0,35.6,32.0,0
+PRJ006,ManufacturingCorp,Manufacturing,ERP Implementation,2024-01-10,2024-09-15,850000,1020000,248,279,15,0.33,7,Enterprise,Medium,6,170000,12.5,32.1,1
+PRJ007,NonProfitOrg,Non-Profit,Process Optimization,2024-03-10,2024-06-05,95000,98000,87,92,3,0.67,5,Small,Medium,2,3000,28.4,30.0,0
+PRJ008,EnergyGroup,Energy,Infrastructure Upgrade,2024-02-20,2024-10-30,720000,695000,253,253,10,0.4,9,Enterprise,High,1,-25000,38.2,35.8,0
+PRJ009,InsurancePlus,Insurance,Digital Platform,2024-04-01,2024-11-20,560000,685000,233,264,9,0.22,2,Enterprise,Low,7,125000,16.7,33.9,1
+PRJ010,LocalGov City,Government,Citizen Portal,2024-01-25,2024-07-10,320000,375000,167,198,6,0.5,6,Government,Medium,4,55000,19.3,28.1,1
+PRJ011,PharmaCorp,Healthcare,Regulatory System,2024-03-15,2024-08-25,480000,465000,163,163,8,0.625,7,Enterprise,High,2,-15000,33.8,31.2,0
+PRJ012,AgriTech Solutions,Agriculture,IoT Platform,2024-04-10,2024-09-30,290000,340000,173,204,5,0.4,4,Mid-Market,Low,5,50000,20.1,31.0,1
+PRJ013,TransportCo,Transportation,Fleet Management,2024-02-05,2024-06-20,410000,395000,135,136,7,0.57,8,Enterprise,High,1,-15000,32.7,30.8,0
+PRJ014,FashionBrand,Retail,E-commerce Platform,2024-05-01,2024-12-15,380000,485000,228,259,6,0.33,3,Mid-Market,Medium,6,105000,17.5,32.6,1
+PRJ015,ConsultingFirm,Professional Services,Knowledge Management,2024-03-20,2024-07-30,220000,235000,132,143,4,0.75,6,Mid-Market,Medium,3,15000,26.8,30.0,0
+PRJ016,HospitalNetwork,Healthcare,Patient System,2024-01-30,2024-08-15,620000,735000,198,229,11,0.36,5,Enterprise,Low,8,115000,15.2,34.2,1
+PRJ017,TechStartup Beta,Technology,Mobile App,2024-04-15,2024-07-10,150000,165000,86,97,4,0.5,4,Startup,High,2,15000,28.7,32.0,0
+PRJ018,UtilityCorp,Utilities,Smart Grid,2024-02-10,2024-11-05,780000,765000,268,268,12,0.42,9,Enterprise,High,2,-15000,36.1,34.6,0
+PRJ019,EducationTech,Education,Learning Platform,2024-05-10,2024-10-25,340000,415000,168,199,5,0.4,3,Mid-Market,Medium,5,75000,18.9,32.4,1
+PRJ020,RealEstate Group,Real Estate,Property Management,2024-03-25,2024-08-10,275000,295000,138,149,5,0.6,7,Mid-Market,High,2,20000,29.1,32.0,0
+PRJ021,FoodChain Inc,Food & Beverage,Supply Chain,2024-01-05,2024-07-25,520000,615000,201,232,9,0.33,4,Enterprise,Low,6,95000,17.8,33.5,1
+PRJ022,LegalFirm Associates,Legal,Document Management,2024-04-20,2024-08-15,185000,190000,117,128,3,0.67,8,Mid-Market,Medium,2,5000,30.5,32.4,0
+PRJ023,TravelCorp,Travel & Hospitality,Booking System,2024-02-25,2024-09-10,450000,535000,198,229,8,0.25,2,Enterprise,Medium,7,85000,16.4,32.9,1
+PRJ024,MediaGroup,Media & Entertainment,Content Platform,2024-05-15,2024-11-30,390000,425000,199,230,6,0.5,5,Enterprise,Low,4,35000,24.6,31.3,1
+PRJ025,AutomotiveCorp,Automotive,Dealer Portal,2024-03-05,2024-07-20,310000,285000,137,137,5,0.6,9,Enterprise,High,1,-25000,38.4,35.5,0
+PRJ026,SoftwareVendor,Technology,API Integration,2024-04-25,2024-08-30,240000,275000,127,158,4,0.5,3,Mid-Market,Medium,4,35000,21.8,32.5,1
+PRJ027,ChemicalCorp,Chemical,Safety System,2024-01-20,2024-06-15,680000,665000,146,146,10,0.5,8,Enterprise,High,1,-15000,34.6,33.4,0
+PRJ028,SportingGoods,Retail,Inventory System,2024-05-20,2024-10-05,280000,325000,138,169,5,0.4,4,Mid-Market,Low,5,45000,19.7,31.1,1
+PRJ029,TelecomProvider,Telecommunications,Network Management,2024-02-15,2024-08-20,590000,575000,186,186,9,0.56,7,Enterprise,High,2,-15000,35.3,33.8,0
+PRJ030,ArchFirm Design,Architecture,Project Management,2024-04-05,2024-09-15,195000,210000,163,174,3,0.67,6,Small,Medium,3,15000,27.4,30.8,0
+PRJ031,DataCenter Inc,Technology,Infrastructure Monitoring,2024-03-10,2024-11-25,720000,845000,260,291,11,0.27,2,Enterprise,Low,8,125000,14.6,33.3,1
+PRJ032,BiotechLab,Biotechnology,Research Platform,2024-05-25,2024-10-30,420000,395000,158,158,7,0.71,9,Mid-Market,High,1,-25000,36.2,33.3,0
+PRJ033,WealthManagement,Financial Services,Client Portal,2024-01-15,2024-06-10,350000,415000,146,177,6,0.33,3,Enterprise,Medium,5,65000,19.5,32.6,1
+PRJ034,CleanTech Solutions,Clean Technology,Monitoring System,2024-04-30,2024-09-20,290000,315000,143,174,5,0.6,5,Mid-Market,Low,4,25000,23.8,31.0,1
+PRJ035,ConstructionCorp,Construction,Fleet Tracking,2024-02-20,2024-07-05,260000,245000,135,135,4,0.75,8,Mid-Market,High,1,-15000,36.5,34.6,0
+PRJ036,SecurityFirm,Security,Access Control,2024-05-05,2024-10-15,180000,205000,163,194,3,0.33,4,Small,Medium,4,25000,22.0,32.2,1
+PRJ037,LogisticsCorp,Logistics,Route Optimization,2024-03-15,2024-08-30,480000,465000,168,168,8,0.5,7,Enterprise,High,2,-15000,33.8,32.1,0
+PRJ038,EventManagement,Events,Booking Platform,2024-01-25,2024-05-20,125000,145000,115,146,3,0.33,2,Small,Low,4,20000,20.7,32.0,1
+PRJ039,MiningCorp,Mining,Operations Dashboard,2024-04-10,2024-10-25,650000,620000,198,198,10,0.6,9,Enterprise,High,2,-30000,38.1,35.4,0
+PRJ040,CloudProvider,Technology,Service Management,2024-02-05,2024-07-15,420000,495000,160,191,7,0.29,3,Enterprise,Medium,6,75000,18.1,32.6,1
+PRJ041,WasteMgmt Inc,Environmental,Route Planning,2024-05-30,2024-11-10,310000,285000,164,164,5,0.8,8,Mid-Market,High,1,-25000,38.7,36.1,0
+PRJ042,PackagingCorp,Manufacturing,Quality System,2024-03-20,2024-09-05,380000,445000,169,200,6,0.33,4,Enterprise,Low,5,65000,18.9,32.9,1
+PRJ043,AerospaceDefense,Aerospace,Compliance Portal,2024-01-10,2024-08-25,780000,765000,227,227,12,0.58,9,Enterprise,High,2,-15000,36.8,35.9,0
+PRJ044,PetCareCorp,Pet Care,Appointment System,2024-04-15,2024-08-20,140000,160000,127,158,3,0.33,3,Small,Medium,4,20000,21.3,32.1,1
+PRJ045,SportsTech,Sports,Analytics Platform,2024-02-10,2024-06-25,220000,235000,135,146,4,0.5,5,Mid-Market,High,2,15000,28.4,31.8,0

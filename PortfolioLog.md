@@ -2174,3 +2174,28 @@ Build an intelligent portfolio performance monitoring and optimization system fo
 - Quarterly investment committee presentation with strategic recommendations
 
 ---
+# Daily AI Challenge – May 28, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent scope change prediction and financial impact system that identifies early warning signals of scope creep and generates proactive intervention strategies to protect project margins. Develop a multi-factor predictive model analyzing project characteristics, client behavior patterns, and team dynamics to predict scope change probability with 80%+ accuracy.
+
+## Skills Trained
+- Predictive risk modeling for professional services
+- Multi-factor business analytics and pattern recognition
+- Consulting industry financial intelligence and margin protection
+- Executive-level risk communication and intervention strategy development
+- Statistical analysis for operational decision support
+
+## Deliverables
+- Top 25 active projects ranked by scope creep risk with warning indicators
+- Scope change probability model for current engagements
+- Financial impact calculator for margin erosion scenarios
+- Client risk assessment identifying high-maintenance accounts
+- Partner intervention playbook with timing recommendations
+
+---
