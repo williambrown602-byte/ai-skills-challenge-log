@@ -2199,3 +2199,28 @@ Build an intelligent scope change prediction and financial impact system that id
 - Partner intervention playbook with timing recommendations
 
 ---
+# Daily AI Challenge – May 29, 2026
+
+**Domain:** Transportation/Operations
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent fleet optimization and predictive maintenance system for a regional transportation authority to achieve 18% cost reduction while maintaining service quality above 82%. Transform reactive fleet management into predictive operations through data-driven route planning, maintenance scheduling, and vehicle deployment optimization.
+
+## Skills Trained
+- Transportation industry analytics and fleet management optimization
+- Predictive maintenance modeling with cost-benefit analysis
+- Multi-constraint resource allocation and route optimization
+- Public sector operational efficiency and budget management
+- Executive-level transportation strategy communication
+
+## Deliverables
+- Fleet optimization dashboard showing underutilized vehicles and redeployment opportunities
+- Predictive maintenance calendar with cost-benefit analysis for next 6 months
+- Route efficiency analysis identifying consolidation opportunities worth 12-15% savings
+- Vehicle retirement/replacement recommendations with financial impact projections
+- Executive presentation with strategic cost reduction roadmap achieving 18% target
+
+---

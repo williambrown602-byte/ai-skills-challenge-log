@@ -1,0 +1,31 @@
+vehicle_id,maintenance_date,maintenance_type,cost,labor_hours,parts_replaced,mileage_at_service,predicted_failure,actual_failure,service_provider
+BUS001,2024-01-15,Scheduled,850,4,Oil Filter Brakes,42000,No,No,Internal
+BUS001,2024-03-22,Emergency,2500,12,Transmission,44500,No,Yes,External
+BUS001,2024-05-10,Scheduled,650,3,Oil Change,45800,No,No,Internal
+BUS002,2023-12-08,Emergency,3200,18,Engine Repair,35500,No,Yes,External
+BUS002,2024-02-14,Scheduled,750,4,Brakes Oil,37200,No,No,Internal
+BUS002,2024-04-20,Emergency,1800,8,Electrical,38900,No,Yes,Internal
+BUS003,2024-01-20,Scheduled,550,3,Oil Change,48000,No,No,Internal
+BUS003,2024-03-15,Scheduled,900,5,Brakes Tires,51200,No,No,Internal
+BUS003,2024-05-01,Scheduled,600,3,Oil Filter,52800,No,No,Internal
+BUS004,2024-02-05,Scheduled,700,4,Oil Brakes,39000,No,No,Internal
+BUS004,2024-04-18,Emergency,1500,7,Cooling System,41800,Yes,Yes,Internal
+BUS005,2023-11-30,Emergency,4200,24,Engine Overhaul,32000,No,Yes,External
+BUS005,2024-01-25,Emergency,2100,10,Transmission,34200,No,Yes,External
+BUS005,2024-03-30,Scheduled,1200,6,Brakes Suspension,36500,No,No,Internal
+BUS005,2024-05-15,Emergency,1900,9,Electrical,37800,Yes,Yes,Internal
+RAIL001,2024-02-10,Scheduled,2500,8,Brake Pads,72000,No,No,Internal
+RAIL001,2024-04-25,Scheduled,1800,6,Pantograph,76500,No,No,Internal
+RAIL002,2024-01-30,Scheduled,3200,12,Motor Brushes,65000,No,No,External
+RAIL002,2024-03-20,Emergency,5500,20,Traction Motor,68800,No,Yes,External
+RAIL002,2024-05-05,Scheduled,2100,7,Brakes,69500,No,No,Internal
+RAIL003,2024-03-01,Scheduled,1900,6,Brake System,78000,No,No,Internal
+RAIL003,2024-05-12,Scheduled,1600,5,Pantograph,82800,No,No,Internal
+PARA001,2024-01-10,Emergency,1200,8,Wheelchair Lift,16500,No,Yes,Internal
+PARA001,2024-03-25,Scheduled,650,4,Oil Brakes,18500,No,No,Internal
+PARA001,2024-05-08,Emergency,950,6,Electrical,19200,Yes,Yes,Internal
+PARA002,2024-02-15,Scheduled,550,3,Oil Change,15000,No,No,Internal
+PARA002,2024-04-30,Scheduled,800,5,Brakes Tires,17200,No,No,Internal
+PARA003,2023-12-20,Emergency,1800,12,Engine Repair,13500,No,Yes,External
+PARA003,2024-02-28,Emergency,1400,9,Transmission,14800,No,Yes,Internal
+PARA003,2024-04-15,Scheduled,900,5,Brakes Oil,16000,No,No,Internal
