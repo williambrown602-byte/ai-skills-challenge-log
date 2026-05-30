@@ -1,0 +1,46 @@
+consultant_id,consultant_name,practice_area,date,project_id,client_name,hours_scheduled,hours_actual,billable_rate,project_complexity
+C001,Sarah Johnson,Tax,2024-11-01,P2401,TechCorp Inc,8,7.5,175,Medium
+C001,Sarah Johnson,Tax,2024-11-02,P2401,TechCorp Inc,8,8,175,Medium
+C001,Sarah Johnson,Tax,2024-11-03,P2402,Small Retail LLC,6,5.5,175,Low
+C002,Michael Chen,Audit,2024-11-01,P2403,Regional Bank,8,8.5,185,High
+C002,Michael Chen,Audit,2024-11-02,P2403,Regional Bank,8,7,185,High
+C002,Michael Chen,Audit,2024-11-04,P2404,Manufacturing Co,7,7,185,Medium
+C003,Jennifer Smith,Advisory,2024-11-01,P2405,Healthcare Group,6,6,195,High
+C003,Jennifer Smith,Advisory,2024-11-02,P2405,Healthcare Group,8,8.5,195,High
+C003,Jennifer Smith,Tax,2024-11-03,P2406,Local Restaurant,4,3.5,175,Low
+C004,David Rodriguez,Tax,2024-11-01,P2407,Construction LLC,8,7.5,165,Medium
+C004,David Rodriguez,Tax,2024-11-02,P2407,Construction LLC,8,8,165,Medium
+C005,Lisa Wang,Audit,2024-11-01,P2408,Nonprofit Org,7,7,180,Medium
+C005,Lisa Wang,Audit,2024-11-02,P2408,Nonprofit Org,6,5.5,180,Medium
+C005,Lisa Wang,Advisory,2024-11-03,P2409,Tech Startup,8,8,190,High
+C006,Robert Taylor,Advisory,2024-11-01,P2410,Real Estate Fund,8,7.5,200,High
+C006,Robert Taylor,Advisory,2024-11-02,P2410,Real Estate Fund,8,8,200,High
+C007,Amanda Brown,Tax,2024-11-01,P2411,Family Trust,5,4.5,170,Medium
+C007,Amanda Brown,Tax,2024-11-02,P2411,Family Trust,6,6,170,Medium
+C007,Amanda Brown,Tax,2024-11-03,P2412,Auto Dealership,7,7.5,170,Low
+C008,James Wilson,Audit,2024-11-01,P2413,Insurance Co,8,8,175,High
+C008,James Wilson,Audit,2024-11-02,P2413,Insurance Co,8,7.5,175,High
+C009,Maria Garcia,Advisory,2024-11-01,P2414,Consulting Firm,7,7,185,Medium
+C009,Maria Garcia,Advisory,2024-11-02,P2414,Consulting Firm,8,8.5,185,Medium
+C010,Kevin Lee,Tax,2024-11-01,P2415,E-commerce Co,6,5.5,160,Low
+C010,Kevin Lee,Tax,2024-11-02,P2415,E-commerce Co,8,8,160,Low
+C001,Sarah Johnson,Tax,2024-11-04,P2416,Municipal Gov,8,7,175,High
+C002,Michael Chen,Audit,2024-11-05,P2417,Credit Union,7,7.5,185,Medium
+C003,Jennifer Smith,Advisory,2024-11-04,P2418,Private Equity,8,8,195,High
+C004,David Rodriguez,Tax,2024-11-03,P2419,Logistics Co,6,6,165,Medium
+C005,Lisa Wang,Audit,2024-11-04,P2420,School District,8,7.5,180,Medium
+C006,Robert Taylor,Advisory,2024-11-03,P2421,Investment Fund,7,7,200,High
+C007,Amanda Brown,Tax,2024-11-04,P2422,Medical Practice,8,8.5,170,Low
+C008,James Wilson,Audit,2024-11-03,P2423,Energy Co,8,7.5,175,High
+C009,Maria Garcia,Advisory,2024-11-03,P2424,Law Firm,6,6,185,Medium
+C010,Kevin Lee,Tax,2024-11-03,P2425,Retail Chain,8,8,160,Medium
+C011,Patricia Davis,Tax,2024-11-01,P2426,Agriculture Co,7,6.5,155,Low
+C011,Patricia Davis,Tax,2024-11-02,P2426,Agriculture Co,8,8,155,Low
+C012,Thomas Miller,Audit,2024-11-01,P2427,Gaming Co,8,8.5,190,High
+C012,Thomas Miller,Audit,2024-11-02,P2427,Gaming Co,8,7.5,190,High
+C013,Rachel Green,Advisory,2024-11-01,P2428,Pharma Co,8,8,205,High
+C013,Rachel Green,Advisory,2024-11-02,P2428,Pharma Co,7,7,205,High
+C014,Mark Thompson,Tax,2024-11-01,P2429,Transportation,6,5.5,150,Medium
+C014,Mark Thompson,Tax,2024-11-02,P2429,Transportation,8,8,150,Medium
+C015,Susan Anderson,Audit,2024-11-01,P2430,Utilities Co,8,7.5,185,High
+C015,Susan Anderson,Audit,2024-11-02,P2430,Utilities Co,7,7,185,High

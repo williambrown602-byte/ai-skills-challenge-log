@@ -2224,3 +2224,28 @@ Build an intelligent fleet optimization and predictive maintenance system for a 
 - Executive presentation with strategic cost reduction roadmap achieving 18% target
 
 ---
+# Daily AI Challenge – May 30, 2026
+
+**Domain:** Finance
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Transform scattered scheduling data into an intelligent capacity planning and resource optimization system that maximizes billable utilization while predicting and preventing capacity bottlenecks 2-3 weeks in advance for a regional accounting firm.
+
+## Skills Trained
+- Multi-constraint optimization and operations research
+- Professional services capacity planning and utilization analysis
+- Predictive analytics for workforce management
+- Executive-level operational reporting and strategic communication
+- Accounting industry business intelligence and practice management
+
+## Deliverables
+- Optimal weekly resource allocation recommendations for next 8 weeks
+- Capacity constraint predictions with early warning alerts
+- Practice area utilization optimization showing rebalancing opportunities
+- Revenue protection analysis quantifying potential engagement acceptance
+- Strategic hiring recommendations based on sustained capacity gaps
+
+---

@@ -1,0 +1,106 @@
+{
+  "current_engagements": [
+    {
+      "project_id": "P2431",
+      "client_name": "Global Manufacturing Corp",
+      "practice_area": "Tax",
+      "start_date": "2024-11-15",
+      "end_date": "2024-12-31",
+      "estimated_hours": 320,
+      "complexity": "High",
+      "required_skills": ["Corporate Tax", "International Tax"],
+      "client_priority": "A",
+      "revenue_potential": 85000
+    },
+    {
+      "project_id": "P2432",
+      "client_name": "Regional Hospital Network",
+      "practice_area": "Audit",
+      "start_date": "2024-11-20",
+      "end_date": "2025-01-15",
+      "estimated_hours": 480,
+      "complexity": "High",
+      "required_skills": ["Healthcare Compliance", "Financial Audits"],
+      "client_priority": "A",
+      "revenue_potential": 96000
+    },
+    {
+      "project_id": "P2433",
+      "client_name": "Tech Acquisition Target",
+      "practice_area": "Advisory",
+      "start_date": "2024-11-10",
+      "end_date": "2024-12-15",
+      "estimated_hours": 280,
+      "complexity": "High",
+      "required_skills": ["M&A Advisory", "Business Valuation"],
+      "client_priority": "A",
+      "revenue_potential": 112000
+    },
+    {
+      "project_id": "P2434",
+      "client_name": "Small Business Collective",
+      "practice_area": "Tax",
+      "start_date": "2024-11-25",
+      "end_date": "2025-01-31",
+      "estimated_hours": 160,
+      "complexity": "Low",
+      "required_skills": ["Small Business Tax", "Individual Tax"],
+      "client_priority": "B",
+      "revenue_potential": 24000
+    }
+  ],
+  "pipeline_engagements": [
+    {
+      "project_id": "P2435",
+      "client_name": "Energy Infrastructure Fund",
+      "practice_area": "Advisory",
+      "probability": 0.8,
+      "start_date": "2024-12-01",
+      "end_date": "2025-02-28",
+      "estimated_hours": 400,
+      "complexity": "High",
+      "required_skills": ["Strategic Advisory", "Financial Analysis"],
+      "client_priority": "A",
+      "revenue_potential": 160000
+    },
+    {
+      "project_id": "P2436",
+      "client_name": "Municipal Government",
+      "practice_area": "Audit",
+      "probability": 0.7,
+      "start_date": "2024-12-15",
+      "end_date": "2025-03-15",
+      "estimated_hours": 360,
+      "complexity": "Medium",
+      "required_skills": ["Public Sector Audits", "Compliance"],
+      "client_priority": "B",
+      "revenue_potential": 54000
+    },
+    {
+      "project_id": "P2437",
+      "client_name": "Fintech Startup Series B",
+      "practice_area": "Tax",
+      "probability": 0.6,
+      "start_date": "2024-12-10",
+      "end_date": "2025-01-20",
+      "estimated_hours": 200,
+      "complexity": "Medium",
+      "required_skills": ["Corporate Tax", "Stock Options"],
+      "client_priority": "A",
+      "revenue_potential": 45000
+    },
+    {
+      "project_id": "P2438",
+      "client_name": "Retail Chain Expansion",
+      "practice_area": "Advisory",
+      "probability": 0.9,
+      "start_date": "2024-11-30",
+      "end_date": "2025-01-30",
+      "estimated_hours": 240,
+      "complexity": "Medium",
+      "required_skills": ["Business Strategy", "Financial Planning"],
+      "client_priority": "A",
+      "revenue_potential": 72000
+    }
+  ]
+}

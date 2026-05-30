@@ -1,0 +1,16 @@
+consultant_id,consultant_name,tax_level,audit_level,advisory_level,cpa_certified,cisa_certified,years_experience,specialization,availability_pct
+C001,Sarah Johnson,Expert,Intermediate,Basic,Yes,No,8,Corporate Tax,95
+C002,Michael Chen,Basic,Expert,Intermediate,Yes,Yes,12,Financial Audits,90
+C003,Jennifer Smith,Intermediate,Advanced,Expert,Yes,No,15,M&A Advisory,85
+C004,David Rodriguez,Expert,Basic,Basic,Yes,No,6,Individual Tax,100
+C005,Lisa Wang,Basic,Expert,Advanced,Yes,Yes,10,Internal Audits,95
+C006,Robert Taylor,Advanced,Intermediate,Expert,Yes,No,18,Strategic Advisory,80
+C007,Amanda Brown,Expert,Basic,Intermediate,Yes,No,5,Small Business Tax,100
+C008,James Wilson,Intermediate,Expert,Basic,Yes,Yes,14,Regulatory Compliance,90
+C009,Maria Garcia,Basic,Advanced,Expert,Yes,No,11,Business Valuation,95
+C010,Kevin Lee,Advanced,Basic,Basic,No,No,3,E-commerce Tax,100
+C011,Patricia Davis,Expert,Basic,Basic,Yes,No,7,Agricultural Tax,95
+C012,Thomas Miller,Basic,Expert,Intermediate,Yes,Yes,9,IT Audits,85
+C013,Rachel Green,Intermediate,Advanced,Expert,Yes,No,16,Healthcare Advisory,90
+C014,Mark Thompson,Advanced,Basic,Basic,Yes,No,4,Transportation Tax,100
+C015,Susan Anderson,Basic,Expert,Advanced,Yes,Yes,13,Public Sector Audits,95
