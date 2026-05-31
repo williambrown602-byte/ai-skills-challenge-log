@@ -1,0 +1,141 @@
+{
+  "competitors": [
+    {
+      "company_name": "McKinsey & Company",
+      "market_position": "Premium",
+      "avg_proposal_time": 2.5,
+      "win_rate": 0.42,
+      "strength_areas": ["Strategy", "Digital Transformation", "Organizational Change"],
+      "typical_pricing": "High",
+      "team_size_range": [8, 15],
+      "geographic_focus": "Global",
+      "recent_wins": 23,
+      "key_differentiators": ["Brand Recognition", "Global Reach", "Senior Expertise"],
+      "common_weaknesses": ["High Cost", "Rigid Approach", "Long Timelines"]
+    },
+    {
+      "company_name": "Deloitte Consulting",
+      "market_position": "Premium",
+      "avg_proposal_time": 3.0,
+      "win_rate": 0.38,
+      "strength_areas": ["Technology", "Process Optimization", "Risk Management"],
+      "typical_pricing": "High-Medium",
+      "team_size_range": [6, 12],
+      "geographic_focus": "Global",
+      "recent_wins": 31,
+      "key_differentiators": ["Technology Integration", "Industry Expertise", "Scalable Solutions"],
+      "common_weaknesses": ["Resource Constraints", "Generic Approach", "Communication Issues"]
+    },
+    {
+      "company_name": "Accenture Strategy",
+      "market_position": "Premium",
+      "avg_proposal_time": 2.8,
+      "win_rate": 0.45,
+      "strength_areas": ["Digital Services", "Technology Implementation", "Change Management"],
+      "typical_pricing": "Medium-High",
+      "team_size_range": [5, 10],
+      "geographic_focus": "Global",
+      "recent_wins": 28,
+      "key_differentiators": ["Digital Focus", "Implementation Capability", "Fast Delivery"],
+      "common_weaknesses": ["High Turnover", "Outsourcing Concerns", "Cultural Fit"]
+    },
+    {
+      "company_name": "Boston Consulting Group",
+      "market_position": "Premium",
+      "avg_proposal_time": 2.2,
+      "win_rate": 0.41,
+      "strength_areas": ["Strategy Development", "Innovation", "Growth Strategy"],
+      "typical_pricing": "High",
+      "team_size_range": [4, 8],
+      "geographic_focus": "Global",
+      "recent_wins": 19,
+      "key_differentiators": ["Innovation Focus", "Analytical Rigor", "Speed to Market"],
+      "common_weaknesses": ["Limited Implementation", "High Cost", "Academic Approach"]
+    },
+    {
+      "company_name": "PwC Consulting",
+      "market_position": "Premium",
+      "avg_proposal_time": 3.2,
+      "win_rate": 0.36,
+      "strength_areas": ["Risk Management", "Compliance", "Financial Services"],
+      "typical_pricing": "Medium-High",
+      "team_size_range": [6, 11],
+      "geographic_focus": "Global",
+      "recent_wins": 25,
+      "key_differentiators": ["Risk Expertise", "Regulatory Knowledge", "Industry Depth"],
+      "common_weaknesses": ["Slow Decision Making", "Bureaucratic", "Limited Innovation"]
+    },
+    {
+      "company_name": "Bain & Company",
+      "market_position": "Premium",
+      "avg_proposal_time": 2.1,
+      "win_rate": 0.44,
+      "strength_areas": ["Private Equity", "Performance Improvement", "Customer Strategy"],
+      "typical_pricing": "High",
+      "team_size_range": [3, 7],
+      "geographic_focus": "Global",
+      "recent_wins": 16,
+      "key_differentiators": ["Results Focus", "PE Experience", "Pragmatic Approach"],
+      "common_weaknesses": ["Limited Capacity", "High Cost", "Narrow Focus"]
+    },
+    {
+      "company_name": "EY Consulting",
+      "market_position": "Premium",
+      "avg_proposal_time": 3.1,
+      "win_rate": 0.34,
+      "strength_areas": ["Finance Transformation", "Technology", "Sustainability"],
+      "typical_pricing": "Medium",
+      "team_size_range": [5, 9],
+      "geographic_focus": "Global",
+      "recent_wins": 22,
+      "key_differentiators": ["Finance Expertise", "Sustainability Focus", "Cost Effective"],
+      "common_weaknesses": ["Brand Recognition", "Limited Strategy", "Resource Allocation"]
+    },
+    {
+      "company_name": "KPMG Advisory",
+      "market_position": "Mid-Market",
+      "avg_proposal_time": 3.3,
+      "win_rate": 0.32,
+      "strength_areas": ["Operations", "Technology", "Healthcare"],
+      "typical_pricing": "Medium",
+      "team_size_range": [4, 8],
+      "geographic_focus": "Regional",
+      "recent_wins": 18,
+      "key_differentiators": ["Industry Focus", "Practical Solutions", "Local Presence"],
+      "common_weaknesses": ["Limited Innovation", "Brand Perception", "Scaling Issues"]
+    },
+    {
+      "company_name": "Oliver Wyman",
+      "market_position": "Specialist",
+      "avg_proposal_time": 2.7,
+      "win_rate": 0.39,
+      "strength_areas": ["Financial Services", "Risk", "Operations"],
+      "typical_pricing": "Medium-High",
+      "team_size_range": [4, 7],
+      "geographic_focus": "Global",
+      "recent_wins": 14,
+      "key_differentiators": ["Financial Expertise", "Specialized Knowledge", "Senior Access"],
+      "common_weaknesses": ["Limited Scope", "Capacity Constraints", "Geographic Coverage"]
+    },
+    {
+      "company_name": "Roland Berger",
+      "market_position": "Mid-Market",
+      "avg_proposal_time": 3.5,
+      "win_rate": 0.29,
+      "strength_areas": ["Automotive", "Industrial", "Restructuring"],
+      "typical_pricing": "Medium",
+      "team_size_range": [3, 6],
+      "geographic_focus": "European",
+      "recent_wins": 12,
+      "key_differentiators": ["European Focus", "Industry Specialization", "Restructuring"],
+      "common_weaknesses": ["Limited Global Reach", "Resource Constraints", "Technology Gap"]
+    }
+  ],
+  "market_trends": {
+    "average_win_rate": 0.37,
+    "pricing_pressure": "Increasing",
+    "key_success_factors": ["Speed to Market", "Digital Capabilities", "Industry Expertise", "Cost Effectiveness"],
+    "emerging_threats": ["Boutique Specialists", "Technology Vendors", "Internal Capabilities"],
+    "opportunity_areas": ["Mid-Market", "Digital Transformation", "Sustainability", "Data Analytics"]
+  }
+}

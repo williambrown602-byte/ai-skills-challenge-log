@@ -2249,3 +2249,28 @@ Transform scattered scheduling data into an intelligent capacity planning and re
 - Strategic hiring recommendations based on sustained capacity gaps
 
 ---
+# Daily AI Challenge – May 31, 2026
+
+**Domain:** Business Development/Consulting
+**Tool Focus:** Mixed Tools (Claude Code + Integration)
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent proposal acceleration and competitive positioning system that transforms RFP analysis from a 3-4 day manual process into a 4-hour strategic response framework while providing data-driven competitive insights to improve win probability.
+
+## Skills Trained
+- Document processing and intelligent content extraction
+- Competitive intelligence analysis and strategic positioning
+- Multi-constraint optimization for resource allocation
+- Professional services business development automation
+- Executive-level decision support system design
+
+## Deliverables
+- RFP complexity scoring system with effort estimation
+- Automated requirement-to-capability mapping analysis
+- Competitive threat assessment with positioning recommendations
+- Optimized proposal timeline with resource allocation
+- Go/no-go decision framework with win probability scoring
+
+---

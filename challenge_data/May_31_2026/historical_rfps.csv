@@ -1,0 +1,46 @@
+rfp_id,client_name,industry,project_type,budget_range,complexity_score,duration_months,requirements_count,won_lost,win_probability,submission_days,team_size,competitor_count
+RFP001,TechCorp Industries,Technology,Digital Transformation,500000-750000,8,12,45,Won,0.85,3,6,4
+RFP002,Global Manufacturing,Manufacturing,Process Optimization,250000-400000,6,8,32,Lost,0.65,4,4,3
+RFP003,HealthSystem Plus,Healthcare,Strategy Development,150000-300000,5,6,28,Won,0.78,2,3,2
+RFP004,Financial Services Inc,Financial,Risk Management,800000-1200000,9,18,67,Lost,0.42,5,8,6
+RFP005,RetailChain Corp,Retail,Supply Chain,400000-600000,7,10,38,Won,0.72,3,5,3
+RFP006,Energy Solutions,Energy,Sustainability,600000-900000,8,14,52,Lost,0.38,6,7,5
+RFP007,Government Agency,Public,Digital Services,300000-500000,6,9,41,Won,0.68,4,4,4
+RFP008,StartupTech,Technology,Growth Strategy,100000-200000,4,4,22,Won,0.82,1,2,2
+RFP009,MegaCorp International,Conglomerate,Organizational Change,1000000-1500000,10,24,89,Lost,0.28,7,12,8
+RFP010,Insurance Giant,Insurance,Process Automation,450000-650000,7,11,43,Won,0.75,3,5,3
+RFP011,Pharmaceutical Co,Healthcare,Compliance Review,350000-550000,6,8,35,Lost,0.55,4,4,4
+RFP012,Regional Bank,Financial,Digital Banking,700000-1000000,8,16,58,Won,0.71,4,7,5
+RFP013,Construction Corp,Construction,Safety Systems,200000-350000,5,7,29,Won,0.79,2,3,2
+RFP014,Logistics Leader,Logistics,Network Optimization,550000-800000,8,12,46,Lost,0.45,5,6,4
+RFP015,Aerospace Inc,Aerospace,Quality Assurance,650000-950000,9,15,61,Lost,0.41,6,8,6
+RFP016,Fashion Retailer,Retail,Customer Analytics,250000-400000,5,6,31,Won,0.76,2,3,3
+RFP017,University System,Education,Performance Management,180000-320000,4,8,26,Won,0.81,3,3,2
+RFP018,Telecom Giant,Telecommunications,Network Strategy,900000-1300000,9,20,74,Lost,0.35,7,10,7
+RFP019,Food Processing,Food & Beverage,Supply Chain,320000-480000,6,9,37,Won,0.73,3,4,3
+RFP020,Chemical Corp,Chemical,Environmental Compliance,480000-720000,7,13,49,Lost,0.48,5,6,4
+RFP021,Media Company,Media,Digital Transformation,380000-580000,7,11,42,Won,0.69,3,5,4
+RFP022,Mining Operations,Mining,Safety Systems,420000-630000,8,14,51,Lost,0.43,6,7,5
+RFP023,Agriculture Co,Agriculture,Technology Integration,280000-420000,6,8,34,Won,0.74,2,4,2
+RFP024,Transportation Hub,Transportation,Operations Optimization,350000-550000,6,10,39,Won,0.77,3,4,3
+RFP025,Defense Contractor,Defense,Security Systems,750000-1100000,9,18,66,Lost,0.39,6,9,6
+RFP026,Hospitality Group,Hospitality,Customer Experience,220000-380000,5,7,30,Won,0.78,2,3,2
+RFP027,Real Estate Corp,Real Estate,Portfolio Management,460000-690000,7,12,44,Lost,0.46,5,5,4
+RFP028,Utility Company,Utilities,Grid Modernization,580000-870000,8,16,55,Won,0.66,4,6,4
+RFP029,Software Vendor,Technology,Product Strategy,340000-510000,6,9,36,Won,0.72,3,4,3
+RFP030,Consulting Firm,Professional Services,Process Improvement,190000-330000,5,6,27,Won,0.80,2,3,2
+RFP031,Biotech Startup,Biotechnology,Regulatory Strategy,280000-440000,7,10,40,Lost,0.52,4,5,4
+RFP032,Entertainment Corp,Entertainment,Digital Strategy,310000-470000,6,8,33,Won,0.75,3,4,3
+RFP033,Automotive OEM,Automotive,Supply Chain,520000-780000,8,14,48,Lost,0.44,5,6,5
+RFP034,Credit Union,Financial,Member Experience,240000-390000,5,7,29,Won,0.79,2,3,2
+RFP035,Sports Organization,Sports,Performance Analytics,160000-290000,4,6,24,Won,0.83,2,2,2
+RFP036,Nonprofit Org,Nonprofit,Fundraising Strategy,120000-230000,4,5,21,Won,0.84,1,2,1
+RFP037,Logistics Startup,Logistics,Technology Platform,380000-570000,7,11,41,Lost,0.49,4,5,4
+RFP038,Healthcare Network,Healthcare,Operations Excellence,440000-660000,7,12,45,Won,0.70,3,5,3
+RFP039,Government Local,Public,Citizen Services,260000-410000,5,8,32,Won,0.76,3,3,3
+RFP040,Investment Firm,Financial,Risk Analytics,680000-1020000,8,15,59,Lost,0.40,6,7,5
+RFP041,Retail Startup,Retail,Market Entry,180000-310000,5,6,25,Won,0.81,2,3,2
+RFP042,Manufacturing SME,Manufacturing,Digital Factory,320000-480000,6,9,35,Won,0.74,3,4,3
+RFP043,Tech Startup,Technology,Scaling Strategy,200000-350000,5,7,28,Won,0.78,2,3,2
+RFP044,Energy Coop,Energy,Renewable Strategy,360000-540000,6,10,38,Lost,0.51,4,4,3
+RFP045,Service Provider,Professional Services,Business Model,140000-270000,4,5,23,Won,0.82,2,2,2
