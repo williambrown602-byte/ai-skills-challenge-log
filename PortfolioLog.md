@@ -2274,3 +2274,29 @@ Build an intelligent proposal acceleration and competitive positioning system th
 - Go/no-go decision framework with win probability scoring
 
 ---
+# Daily AI Challenge – June 01, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent project profitability analysis system to identify success/failure drivers and predict project profitability for a software development agency struggling with margin variance. Create actionable recommendations to improve firm-wide margins from 31% to 45% within 12 months.
+
+## Skills Trained
+- Advanced business analytics and profitability modeling
+- Software industry business intelligence and operational optimization
+- Multi-factor statistical analysis and pattern recognition
+- Executive-level strategic communication and action planning
+- Predictive modeling for business decision support
+
+## Deliverables
+- Strategic project profitability analysis identifying top 8 success/failure drivers
+- Predictive profitability model for new engagements with 85%+ accuracy
+- Optimal team composition recommendations by project type and client segment
+- Client portfolio analysis with strategic recommendations
+- 12-month margin improvement roadmap with projected financial impact
+- Executive presentation with implementation roadmap
+
+---

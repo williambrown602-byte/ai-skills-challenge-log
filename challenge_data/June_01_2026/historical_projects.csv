@@ -1,0 +1,36 @@
+project_id,project_name,client_id,client_industry,project_type,start_date,end_date,original_budget,final_cost,revenue,profit_margin,team_size,senior_devs,mid_devs,junior_devs,project_manager,tech_lead,scope_changes,client_satisfaction,technology_stack,contract_type,client_relationship_length
+P001,E-commerce Platform Rebuild,C001,Retail,Full Stack Development,2023-01-15,2023-06-30,280000,265000,420000,36.9,8,2,3,2,1,1,2,4.2,React/Node/AWS,Fixed Price,18
+P002,Mobile Banking App,C002,Financial Services,Mobile Development,2023-02-01,2023-08-15,450000,520000,650000,20.0,12,3,4,3,1,1,5,3.8,React Native/Firebase,Time & Materials,6
+P003,CRM Integration,C003,Healthcare,API Development,2023-01-10,2023-03-20,85000,75000,130000,42.3,4,1,2,0,1,0,1,4.7,Python/Django/PostgreSQL,Fixed Price,24
+P004,Data Analytics Dashboard,C004,Manufacturing,Data Engineering,2023-03-01,2023-07-31,320000,285000,480000,40.6,6,2,2,1,1,0,3,4.5,Python/React/Snowflake,Fixed Price,12
+P005,Legacy System Migration,C005,Insurance,System Migration,2023-02-15,2023-11-30,680000,780000,920000,15.2,15,4,6,3,1,1,8,3.2,Java/Spring/Oracle,Time & Materials,36
+P006,Marketing Automation Tool,C006,Marketing,SaaS Development,2023-04-01,2023-09-15,195000,175000,295000,40.7,5,1,2,1,1,0,2,4.6,Node.js/Vue/MongoDB,Fixed Price,8
+P007,Supply Chain Optimization,C007,Logistics,Custom Software,2023-03-15,2023-10-30,425000,390000,625000,37.6,9,2,4,2,1,0,4,4.3,Python/FastAPI/PostgreSQL,Fixed Price,15
+P008,Customer Portal,C008,Telecommunications,Web Development,2023-05-01,2023-08-30,165000,145000,245000,40.8,4,1,2,1,0,0,1,4.8,Angular/ASP.NET/SQL Server,Fixed Price,21
+P009,IoT Device Management,C009,Technology,IoT Development,2023-04-15,2024-02-28,520000,615000,750000,18.0,11,3,4,2,1,1,7,3.5,Python/MQTT/InfluxDB,Time & Materials,3
+P010,Payment Processing System,C010,FinTech,Backend Development,2023-06-01,2023-12-15,380000,350000,580000,39.7,7,2,3,1,1,0,3,4.4,Java/Spring Boot/Redis,Fixed Price,9
+P011,Inventory Management,C011,Retail,ERP Integration,2023-05-15,2023-09-30,225000,210000,340000,38.2,6,1,3,1,1,0,2,4.5,PHP/Laravel/MySQL,Fixed Price,27
+P012,Real Estate Platform,C012,Real Estate,Full Stack Development,2023-07-01,2024-01-31,465000,525000,680000,22.8,10,2,4,3,1,0,6,3.7,React/Ruby on Rails/PostgreSQL,Time & Materials,4
+P013,HR Management System,C013,Professional Services,SaaS Development,2023-06-15,2023-11-30,285000,260000,425000,38.8,7,2,2,2,1,0,3,4.3,Vue.js/Python/MongoDB,Fixed Price,16
+P014,Fleet Tracking Solution,C014,Transportation,Mobile + Web,2023-08-01,2024-03-15,395000,445000,580000,23.3,8,2,3,2,1,0,5,3.9,Flutter/Node.js/PostgreSQL,Time & Materials,11
+P015,Document Management,C015,Legal,Document Processing,2023-07-15,2023-12-31,175000,155000,270000,42.6,4,1,2,0,1,0,1,4.7,Python/Django/Elasticsearch,Fixed Price,33
+P016,E-learning Platform,C016,Education,EdTech Development,2023-09-01,2024-05-30,580000,650000,820000,20.7,13,3,5,3,1,1,7,3.6,React/Node.js/MongoDB,Time & Materials,7
+P017,Warehouse Automation,C017,Logistics,System Integration,2023-08-15,2024-02-29,445000,415000,665000,37.6,9,2,4,2,1,0,4,4.2,Python/FastAPI/Redis,Fixed Price,19
+P018,Social Media Analytics,C018,Marketing,Data Analytics,2023-09-15,2024-01-15,265000,240000,395000,39.2,5,2,2,1,0,0,2,4.6,Python/Pandas/Tableau,Fixed Price,13
+P019,Telemedicine App,C019,Healthcare,Mobile Development,2023-10-01,2024-06-30,485000,565000,720000,21.5,11,3,4,2,1,1,6,3.8,React Native/Express/MongoDB,Time & Materials,5
+P020,Financial Planning Tool,C020,Financial Services,FinTech Development,2023-09-30,2024-03-31,325000,295000,485000,39.2,6,2,2,1,1,0,3,4.4,Angular/Spring Boot/PostgreSQL,Fixed Price,14
+P021,Smart Building IoT,C021,Real Estate,IoT Development,2023-11-01,2024-07-31,565000,645000,810000,20.4,12,3,5,2,1,1,8,3.4,Python/MQTT/TimescaleDB,Time & Materials,2
+P022,Compliance Tracking,C022,Healthcare,Regulatory Software,2023-10-15,2024-02-28,195000,175000,295000,40.7,4,1,2,0,1,0,1,4.8,Java/Spring/Oracle,Fixed Price,28
+P023,Customer Analytics,C023,Retail,Data Science,2023-11-15,2024-04-30,385000,355000,575000,38.3,7,2,3,1,1,0,3,4.3,Python/Spark/Snowflake,Fixed Price,22
+P024,Procurement Portal,C024,Manufacturing,B2B Platform,2023-12-01,2024-06-15,425000,395000,640000,38.3,8,2,3,2,1,0,4,4.2,Vue.js/ASP.NET/SQL Server,Fixed Price,17
+P025,Gaming Platform,C025,Entertainment,Game Development,2024-01-01,2024-08-31,695000,785000,980000,19.9,14,4,6,3,1,0,9,3.3,Unity/C#/PlayFab,Time & Materials,1
+P026,Asset Management,C026,Financial Services,Enterprise Software,2023-12-15,2024-05-31,345000,315000,515000,38.8,6,2,2,1,1,0,3,4.5,React/Java/PostgreSQL,Fixed Price,20
+P027,Appointment Scheduling,C027,Healthcare,SaaS Development,2024-01-15,2024-05-15,185000,165000,280000,41.1,4,1,2,0,1,0,1,4.6,Vue.js/Node.js/MongoDB,Fixed Price,25
+P028,Delivery Optimization,C028,Logistics,Algorithm Development,2024-02-01,2024-07-15,465000,445000,695000,36.0,9,3,3,2,1,0,4,4.1,Python/Django/PostgreSQL,Fixed Price,10
+P029,Student Information System,C029,Education,EdTech Development,2024-01-30,2024-09-30,525000,595000,760000,21.7,12,3,4,3,1,1,7,3.7,Angular/Spring Boot/MySQL,Time & Materials,8
+P030,Energy Monitoring,C030,Utilities,IoT + Analytics,2024-03-01,2024-10-31,485000,525000,725000,27.6,10,2,4,3,1,0,5,3.9,Python/InfluxDB/Grafana,Time & Materials,6
+P031,Content Management,C031,Media,CMS Development,2024-02-15,2024-06-30,245000,225000,365000,38.4,5,1,2,1,1,0,2,4.4,WordPress/PHP/MySQL,Fixed Price,31
+P032,Quality Assurance System,C032,Manufacturing,Quality Management,2024-03-15,2024-08-31,385000,355000,575000,38.3,7,2,3,1,1,0,3,4.3,Java/Spring/Oracle,Fixed Price,26
+P033,Event Management Platform,C033,Entertainment,Event Software,2024-04-01,2024-09-30,325000,315000,485000,35.1,6,1,3,1,1,0,3,4.2,React/Node.js/PostgreSQL,Fixed Price,12
+P034,Risk Assessment Tool,C034,Insurance,FinTech Development,2024-03-30,2024-09-15,425000,395000,635000,37.8,8,2,3,2,1,0,4,4.3,Python/FastAPI/MongoDB,Fixed Price,23
+P035,Virtual Reality Training,C035,Education,VR Development,2024-05-01,2024-12-31,645000,745000,920000,19.0,13,4,5,3,1,0,8,3.4,Unity/C#/Oculus SDK,Time & Materials,3
