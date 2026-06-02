@@ -2300,3 +2300,28 @@ Build an intelligent project profitability analysis system to identify success/f
 - Executive presentation with implementation roadmap
 
 ---
+# Daily AI Challenge – June 02, 2026
+
+**Domain:** Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Transform 18 months of scattered solar farm performance data into an intelligent energy asset optimization system that identifies underperforming installations, predicts optimal maintenance windows, and generates strategic recommendations to restore energy output to industry-leading levels within 6 months.
+
+## Skills Trained
+- Renewable energy industry analytics
+- Multi-factor predictive modeling
+- Asset lifecycle management
+- Executive-level clean energy communication
+- Statistical correlation analysis
+
+## Deliverables
+- Top 25 underperforming installations ranked by revenue opportunity
+- Predictive maintenance calendar optimized for maximum energy capture
+- Performance improvement roadmap with 6-month milestones
+- Equipment upgrade recommendations with ROI projections
+- Executive dashboard showing portfolio health and optimization priorities
+
+---

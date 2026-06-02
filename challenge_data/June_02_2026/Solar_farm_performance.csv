@@ -1,0 +1,51 @@
+installation_id,date,daily_energy_output_mwh,capacity_mw,capacity_factor,state,region
+SF001,2025-01-01,45.2,50,0.376,California,West
+SF001,2025-01-02,48.7,50,0.405,California,West
+SF001,2025-01-03,42.1,50,0.351,California,West
+SF001,2025-01-04,39.8,50,0.331,California,West
+SF001,2025-01-05,51.3,50,0.427,California,West
+SF002,2025-01-01,28.4,35,0.338,Arizona,Southwest
+SF002,2025-01-02,31.2,35,0.371,Arizona,Southwest
+SF002,2025-01-03,33.7,35,0.401,Arizona,Southwest
+SF002,2025-01-04,29.9,35,0.356,Arizona,Southwest
+SF002,2025-01-05,35.1,35,0.418,Arizona,Southwest
+SF003,2025-01-01,18.9,25,0.315,Texas,South
+SF003,2025-01-02,22.4,25,0.373,Texas,South
+SF003,2025-01-03,16.7,25,0.278,Texas,South
+SF003,2025-01-04,20.1,25,0.334,Texas,South
+SF003,2025-01-05,23.8,25,0.396,Texas,South
+SF004,2025-01-01,67.8,75,0.377,Nevada,West
+SF004,2025-01-02,71.2,75,0.395,Nevada,West
+SF004,2025-01-03,63.4,75,0.352,Nevada,West
+SF004,2025-01-04,58.9,75,0.327,Nevada,West
+SF004,2025-01-05,74.5,75,0.414,Nevada,West
+SF005,2025-01-01,91.2,100,0.380,California,West
+SF005,2025-01-02,87.6,100,0.365,California,West
+SF005,2025-01-03,95.3,100,0.397,California,West
+SF005,2025-01-04,82.1,100,0.342,California,West
+SF005,2025-01-05,98.7,100,0.411,California,West
+SF006,2025-01-01,41.7,60,0.290,Colorado,Mountain
+SF006,2025-01-02,38.2,60,0.265,Colorado,Mountain
+SF006,2025-01-03,44.8,60,0.311,Colorado,Mountain
+SF006,2025-01-04,36.9,60,0.256,Colorado,Mountain
+SF006,2025-01-05,47.1,60,0.327,Colorado,Mountain
+SF007,2025-01-01,52.3,80,0.273,New Mexico,Southwest
+SF007,2025-01-02,58.7,80,0.306,New Mexico,Southwest
+SF007,2025-01-03,49.1,80,0.256,New Mexico,Southwest
+SF007,2025-01-04,55.4,80,0.289,New Mexico,Southwest
+SF007,2025-01-05,61.2,80,0.319,New Mexico,Southwest
+SF008,2025-01-01,34.5,45,0.320,Utah,Mountain
+SF008,2025-01-02,37.8,45,0.350,Utah,Mountain
+SF008,2025-01-03,31.2,45,0.289,Utah,Mountain
+SF008,2025-01-04,33.7,45,0.312,Utah,Mountain
+SF008,2025-01-05,39.4,45,0.365,Utah,Mountain
+SF009,2025-01-01,76.2,90,0.353,Arizona,Southwest
+SF009,2025-01-02,82.4,90,0.382,Arizona,Southwest
+SF009,2025-01-03,71.8,90,0.332,Arizona,Southwest
+SF009,2025-01-04,69.3,90,0.321,Arizona,Southwest
+SF009,2025-01-05,85.7,90,0.397,Arizona,Southwest
+SF010,2025-01-01,29.1,40,0.303,Florida,Southeast
+SF010,2025-01-02,31.8,40,0.331,Florida,Southeast
+SF010,2025-01-03,27.4,40,0.285,Florida,Southeast
+SF010,2025-01-04,33.2,40,0.346,Florida,Southeast
+SF010,2025-01-05,35.6,40,0.371,Florida,Southeast

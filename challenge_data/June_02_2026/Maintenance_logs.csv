@@ -1,0 +1,26 @@
+installation_id,maintenance_date,maintenance_type,duration_hours,cost_usd,equipment_affected,issue_description,technician_id,downtime_hours
+SF001,2024-12-15,Preventive,4,2800,Inverter Bank A,Routine inverter cleaning and inspection,TECH001,0
+SF001,2025-01-22,Corrective,8,4200,Panel Array Section 3,Replace damaged panels after hail storm,TECH003,6
+SF002,2024-11-08,Preventive,3,1950,Tracker System,Lubrication and calibration,TECH002,1
+SF002,2025-02-14,Corrective,12,6800,Main Transformer,Transformer oil leak repair,TECH001,10
+SF003,2024-12-03,Preventive,5,3100,Inverter Bank B,Software update and component testing,TECH004,0
+SF003,2025-01-18,Corrective,6,3600,DC Combiner Box,Replace faulty breakers,TECH002,4
+SF004,2024-10-28,Preventive,4,2600,Panel Cleaning,Automated cleaning system maintenance,TECH003,0
+SF004,2025-02-05,Corrective,14,8900,Inverter Bank C,Major inverter replacement,TECH001,12
+SF005,2024-11-20,Preventive,6,3800,Monitoring System,Upgrade monitoring sensors,TECH004,0
+SF005,2025-01-30,Corrective,10,5400,Tracker Drive Motor,Motor bearing replacement,TECH002,8
+SF006,2024-12-10,Preventive,4,2400,Weather Station,Calibration and sensor cleaning,TECH001,0
+SF006,2025-02-20,Corrective,16,9200,String Inverters,Multiple inverter failures due to cold,TECH003,14
+SF007,2024-11-12,Preventive,5,3200,Grounding System,Inspection and resistance testing,TECH002,0
+SF007,2025-01-25,Corrective,7,4100,DC Disconnect,Replace weathered disconnect switches,TECH004,5
+SF008,2024-12-28,Preventive,3,1800,Panel Array,Snow removal and inspection,TECH001,0
+SF008,2025-02-12,Corrective,9,5200,AC Collection System,Cable replacement after rodent damage,TECH003,7
+SF009,2024-10-15,Preventive,4,2700,Inverter Cooling,Fan replacement and filter cleaning,TECH002,0
+SF009,2025-01-08,Corrective,11,6300,Tracker Controller,Controller board failure,TECH004,9
+SF010,2024-11-25,Preventive,3,2100,Surge Protection,Replace aging surge arresters,TECH001,0
+SF010,2025-02-28,Corrective,8,4800,Panel Wiring,Repair corrosion damage to connections,TECH003,6
+SF001,2024-09-14,Preventive,4,2900,String Monitoring,Annual monitoring system check,TECH002,0
+SF003,2024-08-22,Corrective,15,8500,Main Inverter,Complete inverter overhaul,TECH001,13
+SF005,2024-10-05,Preventive,5,3300,Safety Systems,Emergency shutdown system test,TECH004,0
+SF007,2024-09-30,Corrective,6,3700,Panel Soiling,Unexpected soiling requiring deep cleaning,TECH003,3
+SF009,2024-08-18,Preventive,4,2500,Electrical Testing,Thermal imaging and electrical testing,TECH002,0
