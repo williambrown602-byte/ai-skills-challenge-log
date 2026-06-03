@@ -1,0 +1,31 @@
+date,lead_id,source,channel,campaign,cost_per_lead,utm_source,utm_medium,utm_campaign
+2024-06-01,L001,Google Ads,SEM,Enterprise CRM Solutions,45.50,google,cpc,enterprise-crm
+2024-06-01,L002,LinkedIn,Social,HR Tech Leaders,67.20,linkedin,social,hr-tech-leaders
+2024-06-01,L003,Content Marketing,Organic,SEO Blog,12.30,organic,blog,seo-content
+2024-06-01,L004,Webinar,Event,Q2 Product Demo,89.75,webinar,event,q2-demo
+2024-06-02,L005,Google Ads,SEM,Small Business CRM,38.90,google,cpc,smb-crm
+2024-06-02,L006,Trade Show,Event,SaaS Summit 2024,156.80,tradeshow,event,saas-summit
+2024-06-02,L007,Email Marketing,Email,Newsletter Signup,8.45,email,newsletter,june-newsletter
+2024-06-03,L008,Referral,Word of Mouth,Customer Referral,25.00,referral,wom,customer-ref
+2024-06-03,L009,LinkedIn,Social,CFO Network,72.15,linkedin,social,cfo-network
+2024-06-04,L010,Google Ads,SEM,Enterprise CRM Solutions,48.75,google,cpc,enterprise-crm
+2024-06-04,L011,Content Marketing,Organic,Case Study Download,15.60,organic,content,case-study
+2024-06-05,L012,Webinar,Event,Integration Workshop,94.25,webinar,event,integration-workshop
+2024-06-05,L013,LinkedIn,Social,Sales Directors,69.80,linkedin,social,sales-directors
+2024-06-06,L014,Google Ads,SEM,Small Business CRM,41.20,google,cpc,smb-crm
+2024-06-06,L015,Trade Show,Event,Tech Conference,145.90,tradeshow,event,tech-conf
+2024-06-07,L016,Email Marketing,Email,Product Update,9.75,email,product,update-june
+2024-06-07,L017,Referral,Word of Mouth,Partner Referral,30.00,referral,partner,partner-ref
+2024-06-08,L018,Content Marketing,Organic,White Paper Download,18.90,organic,content,whitepaper
+2024-06-08,L019,Google Ads,SEM,Enterprise CRM Solutions,52.30,google,cpc,enterprise-crm
+2024-06-09,L020,LinkedIn,Social,Operations Managers,65.45,linkedin,social,ops-managers
+2024-06-09,L021,Webinar,Event,Best Practices Session,87.60,webinar,event,best-practices
+2024-06-10,L022,Google Ads,SEM,Small Business CRM,39.85,google,cpc,smb-crm
+2024-06-10,L023,Trade Show,Event,Industry Expo,167.25,tradeshow,event,industry-expo
+2024-06-11,L024,Email Marketing,Email,Feature Announcement,11.20,email,feature,new-features
+2024-06-11,L025,Referral,Word of Mouth,Employee Referral,20.00,referral,employee,emp-ref
+2024-06-12,L026,Content Marketing,Organic,Tutorial Series,14.75,organic,content,tutorials
+2024-06-12,L027,LinkedIn,Social,IT Directors,74.30,linkedin,social,it-directors
+2024-06-13,L028,Google Ads,SEM,Enterprise CRM Solutions,46.90,google,cpc,enterprise-crm
+2024-06-13,L029,Webinar,Event,ROI Calculator Demo,91.40,webinar,event,roi-calculator
+2024-06-14,L030,LinkedIn,Social,Marketing Managers,68.55,linkedin,social,marketing-mgr

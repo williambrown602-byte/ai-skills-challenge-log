@@ -2325,3 +2325,29 @@ Transform 18 months of scattered solar farm performance data into an intelligent
 - Executive dashboard showing portfolio health and optimization priorities
 
 ---
+# Daily AI Challenge – June 03, 2026
+
+**Domain:** Revenue Operations
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent revenue funnel optimization system to analyze the complete customer journey, identify conversion breakdown points, and generate strategic recommendations to restore trial-to-paid conversion rates from 12% back to 18%+. Create predictive models and board-ready insights to recover $2-3M in annual recurring revenue growth.
+
+## Skills Trained
+- SaaS revenue analytics and conversion optimization
+- Multi-stage funnel analysis with statistical modeling
+- Customer journey analytics and behavioral prediction
+- Executive-level revenue strategy communication
+- Predictive modeling for business growth optimization
+
+## Deliverables
+- Funnel stage conversion analysis with drop-off rates
+- Top 200 active prospects ranked by conversion probability
+- Channel efficiency analysis with ROI metrics
+- Trial experience optimization recommendations
+- Strategic action plan with projected impact
+- Board-ready executive summary
+
+---

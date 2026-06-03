@@ -1,0 +1,31 @@
+trial_id,lead_id,signup_date,company_size,industry,job_role,geography,company_revenue,previous_crm,trial_length_days
+T001,L001,2024-06-02,500-1000,Technology,VP Sales,North America,25M,Salesforce,14
+T002,L002,2024-06-02,100-250,Healthcare,HR Director,Europe,8M,HubSpot,14
+T003,L003,2024-06-03,50-100,Manufacturing,Operations Manager,North America,12M,None,14
+T004,L005,2024-06-04,25-50,Professional Services,CEO,North America,3M,Excel,14
+T005,L008,2024-06-05,250-500,Financial Services,IT Director,North America,45M,Microsoft Dynamics,14
+T006,L009,2024-06-06,100-250,Technology,CFO,Europe,15M,Pipedrive,14
+T007,L011,2024-06-07,500-1000,Healthcare,Sales Director,North America,67M,Salesforce,14
+T008,L013,2024-06-08,50-100,Retail,Sales Manager,Asia Pacific,5M,None,14
+T009,L016,2024-06-09,25-50,Education,Admin,North America,2M,Google Sheets,14
+T010,L017,2024-06-10,250-500,Manufacturing,VP Operations,Europe,28M,SAP,14
+T011,L018,2024-06-11,100-250,Technology,Product Manager,North America,18M,HubSpot,14
+T012,L020,2024-06-12,500-1000,Financial Services,Operations Director,North America,89M,Salesforce,14
+T013,L022,2024-06-13,25-50,Professional Services,Owner,North America,1.5M,Excel,14
+T014,L024,2024-06-14,100-250,Healthcare,IT Manager,Europe,22M,Microsoft Dynamics,14
+T015,L025,2024-06-15,250-500,Technology,VP Sales,North America,34M,Pipedrive,14
+T016,L027,2024-06-16,50-100,Manufacturing,Plant Manager,Asia Pacific,8M,None,14
+T017,L028,2024-06-17,500-1000,Financial Services,Sales Director,North America,125M,Salesforce,14
+T018,L030,2024-06-18,100-250,Retail,Marketing Director,Europe,14M,HubSpot,14
+T019,L004,2024-06-19,250-500,Technology,CTO,North America,42M,Custom Built,14
+T020,L006,2024-06-20,500-1000,Healthcare,VP Operations,North America,78M,Epic,14
+T021,L007,2024-06-21,25-50,Professional Services,Partner,Europe,4M,Excel,14
+T022,L010,2024-06-22,100-250,Manufacturing,Sales Manager,North America,19M,Microsoft Dynamics,14
+T023,L012,2024-06-23,250-500,Financial Services,IT Director,Asia Pacific,56M,Oracle,14
+T024,L014,2024-06-24,50-100,Technology,Founder,North America,6M,None,14
+T025,L015,2024-06-25,500-1000,Retail,VP Sales,Europe,95M,SAP,14
+T026,L019,2024-06-26,100-250,Healthcare,Operations Manager,North America,16M,Salesforce,14
+T027,L021,2024-06-27,25-50,Education,IT Coordinator,North America,800K,Google Workspace,14
+T028,L023,2024-06-28,250-500,Manufacturing,VP Sales,Europe,31M,Salesforce,14
+T029,L026,2024-06-29,50-100,Professional Services,Operations Director,North America,7M,HubSpot,14
+T030,L029,2024-06-30,100-250,Technology,Sales Director,Asia Pacific,21M,Pipedrive,14
