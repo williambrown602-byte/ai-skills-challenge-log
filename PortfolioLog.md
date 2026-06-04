@@ -2351,3 +2351,28 @@ Build an intelligent revenue funnel optimization system to analyze the complete 
 - Board-ready executive summary
 
 ---
+# Daily AI Challenge – June 04, 2026
+
+**Domain:** Human Resources
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent consultant workload and wellbeing analytics system that identifies burnout patterns, predicts performance risks, and generates strategic workforce optimization recommendations to restore consultant satisfaction above 80% while maintaining project quality standards.
+
+## Skills Trained
+- People analytics and workforce optimization
+- Predictive modeling for human resources
+- Statistical analysis for employee engagement
+- Executive-level HR strategy communication
+- Talent retention and performance management
+
+## Deliverables
+- Top 25 at-risk consultants requiring immediate intervention with specific risk factors
+- Optimal workload distribution recommendations showing rebalancing opportunities
+- Burnout prediction model with early warning indicators for next 60 days
+- Strategic consultant retention plan with projected ROI from reduced turnover
+- Partner action plan with specific consultant development and workload adjustments
+
+---

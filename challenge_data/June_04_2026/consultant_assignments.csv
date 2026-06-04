@@ -1,0 +1,46 @@
+consultant_id,project_id,start_date,end_date,role,utilization_rate,billing_hours_week,overtime_hours_week,project_complexity,client_type,team_size
+C001,P101,2025-01-15,2025-03-30,Senior Consultant,0.85,34,8,High,Fortune_500,6
+C001,P102,2025-04-01,2025-06-15,Lead Consultant,0.92,37,12,Medium,Mid_Market,4
+C001,P103,2025-06-20,2025-09-10,Senior Consultant,0.88,35,10,High,Government,8
+C002,P104,2025-01-08,2025-04-22,Junior Consultant,0.75,30,3,Low,Startup,3
+C002,P105,2025-04-25,2025-07-18,Consultant,0.82,33,6,Medium,Mid_Market,5
+C002,P106,2025-07-22,2025-10-31,Senior Consultant,0.89,36,9,High,Fortune_500,7
+C003,P107,2025-02-01,2025-05-15,Principal,0.95,38,15,Very_High,Fortune_500,12
+C003,P108,2025-05-20,2025-08-30,Principal,0.93,37,13,High,Fortune_500,10
+C003,P109,2025-09-05,2025-12-20,Principal,0.96,38,16,Very_High,Government,15
+C004,P110,2025-01-10,2025-03-25,Consultant,0.78,31,4,Medium,Non_Profit,4
+C004,P111,2025-03-28,2025-06-12,Senior Consultant,0.86,34,8,High,Mid_Market,6
+C004,P112,2025-06-15,2025-09-28,Senior Consultant,0.91,36,11,High,Fortune_500,8
+C005,P113,2025-01-20,2025-04-05,Junior Consultant,0.72,29,2,Low,Startup,3
+C005,P114,2025-04-08,2025-07-22,Consultant,0.80,32,5,Medium,Mid_Market,5
+C005,P115,2025-07-25,2025-11-08,Consultant,0.83,33,7,Medium,Government,6
+C006,P116,2025-02-12,2025-05-28,Senior Consultant,0.90,36,10,High,Fortune_500,9
+C006,P117,2025-06-02,2025-09-15,Lead Consultant,0.94,38,14,Very_High,Fortune_500,11
+C006,P118,2025-09-18,2025-12-30,Senior Consultant,0.87,35,9,High,Mid_Market,7
+C007,P119,2025-01-25,2025-04-10,Principal,0.97,39,17,Very_High,Government,14
+C007,P120,2025-04-15,2025-07-30,Principal,0.95,38,15,High,Fortune_500,12
+C007,P121,2025-08-05,2025-11-20,Principal,0.98,39,18,Very_High,Fortune_500,16
+C008,P122,2025-02-05,2025-05-20,Consultant,0.81,32,5,Medium,Mid_Market,5
+C008,P123,2025-05-25,2025-09-08,Senior Consultant,0.88,35,9,High,Government,8
+C008,P124,2025-09-12,2025-12-25,Senior Consultant,0.85,34,8,Medium,Non_Profit,6
+C009,P125,2025-01-12,2025-04-28,Junior Consultant,0.74,30,3,Low,Startup,4
+C009,P126,2025-05-02,2025-08-16,Consultant,0.79,32,5,Medium,Mid_Market,5
+C009,P127,2025-08-20,2025-12-05,Consultant,0.84,34,7,Medium,Fortune_500,6
+C010,P128,2025-02-18,2025-06-03,Senior Consultant,0.89,36,10,High,Fortune_500,9
+C010,P129,2025-06-08,2025-09-22,Lead Consultant,0.92,37,12,High,Government,10
+C010,P130,2025-09-25,2026-01-08,Senior Consultant,0.86,34,8,Medium,Mid_Market,7
+C011,P131,2025-01-30,2025-05-15,Principal,0.96,38,16,Very_High,Fortune_500,13
+C011,P132,2025-05-18,2025-09-02,Principal,0.94,38,14,High,Fortune_500,11
+C011,P133,2025-09-08,2025-12-22,Principal,0.97,39,17,Very_High,Government,15
+C012,P134,2025-02-08,2025-05-25,Consultant,0.77,31,4,Low,Non_Profit,4
+C012,P135,2025-05-28,2025-09-12,Senior Consultant,0.84,34,7,Medium,Mid_Market,6
+C012,P136,2025-09-15,2025-12-30,Senior Consultant,0.87,35,9,High,Fortune_500,8
+C013,P137,2025-01-22,2025-05-08,Junior Consultant,0.73,29,2,Low,Startup,3
+C013,P138,2025-05-12,2025-08-26,Consultant,0.81,32,6,Medium,Mid_Market,5
+C013,P139,2025-08-30,2025-12-15,Consultant,0.85,34,8,Medium,Government,7
+C014,P140,2025-02-15,2025-06-02,Senior Consultant,0.91,37,11,High,Fortune_500,10
+C014,P141,2025-06-05,2025-09-20,Lead Consultant,0.93,37,13,Very_High,Fortune_500,12
+C014,P142,2025-09-23,2026-01-05,Senior Consultant,0.88,35,9,High,Mid_Market,8
+C015,P143,2025-01-18,2025-05-03,Principal,0.95,38,15,High,Government,13
+C015,P144,2025-05-08,2025-08-22,Principal,0.97,39,17,Very_High,Fortune_500,14
+C015,P145,2025-08-25,2025-12-10,Principal,0.96,38,16,Very_High,Government,16
