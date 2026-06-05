@@ -1,0 +1,65 @@
+{
+  "default_rates_by_loan_type": {
+    "mortgage": {
+      "industry_average": 0.08,
+      "excellent_credit": 0.03,
+      "good_credit": 0.06,
+      "fair_credit": 0.12,
+      "poor_credit": 0.25
+    },
+    "auto": {
+      "industry_average": 0.12,
+      "excellent_credit": 0.05,
+      "good_credit": 0.09,
+      "fair_credit": 0.18,
+      "poor_credit": 0.35
+    },
+    "personal": {
+      "industry_average": 0.18,
+      "excellent_credit": 0.08,
+      "good_credit": 0.14,
+      "fair_credit": 0.25,
+      "poor_credit": 0.45
+    }
+  },
+  "credit_score_ranges": {
+    "excellent": {"min": 750, "max": 850},
+    "good": {"min": 670, "max": 749},
+    "fair": {"min": 580, "max": 669},
+    "poor": {"min": 300, "max": 579}
+  },
+  "debt_to_income_thresholds": {
+    "mortgage": {
+      "excellent": 0.28,
+      "acceptable": 0.36,
+      "high_risk": 0.43
+    },
+    "auto": {
+      "excellent": 0.15,
+      "acceptable": 0.20,
+      "high_risk": 0.25
+    },
+    "personal": {
+      "excellent": 0.25,
+      "acceptable": 0.35,
+      "high_risk": 0.45
+    }
+  },
+  "employment_stability_requirements": {
+    "minimum_years_full_time": 2,
+    "minimum_years_contract": 3,
+    "minimum_years_part_time": 4
+  },
+  "loan_to_value_ratios": {
+    "mortgage": {
+      "excellent_credit": 0.95,
+      "good_credit": 0.90,
+      "fair_credit": 0.85,
+      "poor_credit": 0.75
+    },
+    "auto": {
+      "new_vehicle": 0.90,
+      "used_vehicle": 0.85
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "current_period": "2026-06",
+  "unemployment_rate": 4.2,
+  "federal_funds_rate": 5.25,
+  "inflation_rate": 2.8,
+  "gdp_growth_rate": 2.1,
+  "housing_price_index_change": 0.03,
+  "consumer_confidence_index": 108.5,
+  "regional_economic_factors": {
+    "local_unemployment_rate": 3.8,
+    "regional_income_growth": 0.025,
+    "housing_market_trend": "stable",
+    "major_employer_stability": "stable",
+    "population_growth_rate": 0.015
+  },
+  "interest_rate_environment": {
+    "treasury_10_year": 4.85,
+    "mortgage_rate_average": 7.25,
+    "auto_loan_rate_average": 8.15,
+    "personal_loan_rate_average": 12.75,
+    "savings_account_rate": 4.25
+  },
+  "risk_factors": {
+    "recession_probability_12_months": 0.25,
+    "banking_sector_stress": "low",
+    "credit_market_conditions": "tightening",
+    "regulatory_environment": "stable"
+  },
+  "historical_trends": {
+    "default_rate_correlation_unemployment": 0.78,
+    "loss_severity_correlation_housing_prices": -0.65,
+    "loan_demand_correlation_rates": -0.85
+  }
+}

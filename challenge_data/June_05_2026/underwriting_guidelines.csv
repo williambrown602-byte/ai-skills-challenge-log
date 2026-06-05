@@ -1,0 +1,11 @@
+criteria_id,loan_type,minimum_credit_score,maximum_debt_to_income,minimum_employment_years,minimum_down_payment_pct,maximum_loan_amount,income_verification_required,asset_verification_required,collateral_required,manual_review_triggers
+UW001,mortgage,620,0.43,2,0.03,500000,yes,yes,yes,credit_score<650 OR dti>0.36 OR employment<2_years
+UW002,auto,580,0.25,1,0.10,75000,yes,no,yes,credit_score<620 OR dti>0.20 OR previous_defaults>0
+UW003,personal,600,0.40,2,0,50000,yes,yes,no,credit_score<650 OR dti>0.35 OR loan_amount>25000
+UW004,mortgage_jumbo,700,0.36,3,0.20,1000000,yes,yes,yes,all_applications
+UW005,auto_luxury,650,0.20,2,0.15,150000,yes,yes,yes,loan_amount>100000
+UW006,personal_secured,550,0.45,1,0,100000,yes,yes,yes,collateral_value<loan_amount*1.2
+UW007,business_personal,680,0.30,3,0,250000,yes,yes,no,business_income>50pct_total
+UW008,mortgage_investment,720,0.30,5,0.25,750000,yes,yes,yes,investment_property
+UW009,auto_commercial,600,0.35,2,0.20,200000,yes,yes,yes,commercial_use
+UW010,personal_consolidation,640,0.38,2,0,75000,yes,yes,no,consolidating_debt>current_loan

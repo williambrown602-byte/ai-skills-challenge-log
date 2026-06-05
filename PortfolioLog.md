@@ -2376,3 +2376,28 @@ Build an intelligent consultant workload and wellbeing analytics system that ide
 - Partner action plan with specific consultant development and workload adjustments
 
 ---
+# Daily AI Challenge – June 05, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent credit risk assessment and decision support system that analyzes multi-dimensional borrower data to generate accurate risk predictions and automated lending recommendations to reduce default rates to industry benchmarks while improving decision speed.
+
+## Skills Trained
+- Financial risk modeling and credit analytics
+- Banking industry regulatory knowledge and compliance
+- Multi-factor predictive algorithms with confidence intervals
+- Automated decision support system design
+- Executive-level financial communication and risk management
+
+## Deliverables
+- Advanced credit risk scoring model with 85%+ accuracy
+- Automated loan approval/decline recommendation system with confidence scores
+- Top 150 highest-risk existing loans requiring immediate portfolio review
+- Risk-adjusted pricing recommendations for different borrower segments
+- Loan officer decision support dashboard with explainable AI recommendations
+
+---
