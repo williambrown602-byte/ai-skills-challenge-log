@@ -1,0 +1,39 @@
+facility_id,facility_name,state,order_date,product_code,product_name,quantity_ordered,unit_price,order_total,delivery_date
+FAC001,St. Mary's General Hospital,TX,2024-06-15,SURG001,Surgical Gloves - Nitrile Large,500,12.50,6250.00,2024-06-17
+FAC001,St. Mary's General Hospital,TX,2024-06-15,CATH002,Foley Catheter 16Fr,25,18.75,468.75,2024-06-17
+FAC001,St. Mary's General Hospital,TX,2024-06-20,SUTR003,Absorbable Sutures 4-0,100,8.90,890.00,2024-06-22
+FAC002,Regional Medical Center,CA,2024-06-18,SURG001,Surgical Gloves - Nitrile Large,750,12.50,9375.00,2024-06-20
+FAC002,Regional Medical Center,CA,2024-06-18,IMPL004,Hip Implant Titanium,2,2850.00,5700.00,2024-06-21
+FAC003,Metro General Hospital,NY,2024-06-22,CATH002,Foley Catheter 16Fr,40,18.75,750.00,2024-06-24
+FAC003,Metro General Hospital,NY,2024-06-22,BAND005,Elastic Bandages 4inch,200,3.25,650.00,2024-06-24
+FAC004,Valley Medical Center,AZ,2024-06-25,SURG001,Surgical Gloves - Nitrile Large,300,12.50,3750.00,2024-06-27
+FAC005,Cedar Hills Hospital,FL,2024-06-28,IMPL004,Hip Implant Titanium,1,2850.00,2850.00,2024-06-30
+FAC001,St. Mary's General Hospital,TX,2024-07-05,SURG001,Surgical Gloves - Nitrile Large,450,12.50,5625.00,2024-07-07
+FAC001,St. Mary's General Hospital,TX,2024-07-05,SYRI006,Disposable Syringes 10ml,1000,0.85,850.00,2024-07-07
+FAC006,Northside Regional,GA,2024-07-08,CATH002,Foley Catheter 16Fr,60,18.75,1125.00,2024-07-10
+FAC007,Pacific Coast Medical,WA,2024-07-12,SURG001,Surgical Gloves - Nitrile Large,600,12.50,7500.00,2024-07-14
+FAC002,Regional Medical Center,CA,2024-07-15,SUTR003,Absorbable Sutures 4-0,150,8.90,1335.00,2024-07-17
+FAC008,Mountain View Hospital,CO,2024-07-18,IMPL004,Hip Implant Titanium,3,2850.00,8550.00,2024-07-20
+FAC003,Metro General Hospital,NY,2024-07-20,BAND005,Elastic Bandages 4inch,250,3.25,812.50,2024-07-22
+FAC009,Riverside Medical,TX,2024-07-25,SURG001,Surgical Gloves - Nitrile Large,400,12.50,5000.00,2024-07-27
+FAC010,Central Valley Health,CA,2024-07-28,CATH002,Foley Catheter 16Fr,35,18.75,656.25,2024-07-30
+FAC004,Valley Medical Center,AZ,2024-08-02,SYRI006,Disposable Syringes 10ml,800,0.85,680.00,2024-08-04
+FAC011,Lakeside General,FL,2024-08-05,IMPL004,Hip Implant Titanium,2,2850.00,5700.00,2024-08-07
+FAC001,St. Mary's General Hospital,TX,2024-08-08,SURG001,Surgical Gloves - Nitrile Large,520,12.50,6500.00,2024-08-10
+FAC012,Summit Medical Center,NY,2024-08-12,SUTR003,Absorbable Sutures 4-0,75,8.90,667.50,2024-08-14
+FAC002,Regional Medical Center,CA,2024-08-15,BAND005,Elastic Bandages 4inch,180,3.25,585.00,2024-08-17
+FAC013,Desert Regional,AZ,2024-08-18,SURG001,Surgical Gloves - Nitrile Large,350,12.50,4375.00,2024-08-20
+FAC005,Cedar Hills Hospital,FL,2024-08-22,CATH002,Foley Catheter 16Fr,28,18.75,525.00,2024-08-24
+FAC014,Northwest Medical,WA,2024-08-25,SYRI006,Disposable Syringes 10ml,1200,0.85,1020.00,2024-08-27
+FAC006,Northside Regional,GA,2024-08-28,IMPL004,Hip Implant Titanium,1,2850.00,2850.00,2024-08-30
+FAC015,Eastern General,GA,2024-09-02,SURG001,Surgical Gloves - Nitrile Large,480,12.50,6000.00,2024-09-04
+FAC007,Pacific Coast Medical,WA,2024-09-05,SUTR003,Absorbable Sutures 4-0,120,8.90,1068.00,2024-09-07
+FAC016,Pine Ridge Hospital,CO,2024-09-08,BAND005,Elastic Bandages 4inch,220,3.25,715.00,2024-09-10
+FAC003,Metro General Hospital,NY,2024-09-12,CATH002,Foley Catheter 16Fr,45,18.75,843.75,2024-09-14
+FAC017,Gulf Coast Regional,TX,2024-09-15,SURG001,Surgical Gloves - Nitrile Large,380,12.50,4750.00,2024-09-17
+FAC008,Mountain View Hospital,CO,2024-09-18,SYRI006,Disposable Syringes 10ml,900,0.85,765.00,2024-09-20
+FAC018,Bay Area Medical,CA,2024-09-22,IMPL004,Hip Implant Titanium,4,2850.00,11400.00,2024-09-24
+FAC004,Valley Medical Center,AZ,2024-09-25,SUTR003,Absorbable Sutures 4-0,90,8.90,801.00,2024-09-27
+FAC019,Sunshine General,FL,2024-09-28,SURG001,Surgical Gloves - Nitrile Large,420,12.50,5250.00,2024-09-30
+FAC009,Riverside Medical,TX,2024-10-02,BAND005,Elastic Bandages 4inch,160,3.25,520.00,2024-10-04
+FAC020,Capital Regional,GA,2024-10-05,CATH002,Foley Catheter 16Fr,38,18.75,712.50,2024-10-07

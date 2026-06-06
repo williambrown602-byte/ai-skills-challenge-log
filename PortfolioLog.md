@@ -2401,3 +2401,28 @@ Build an intelligent credit risk assessment and decision support system that ana
 - Loan officer decision support dashboard with explainable AI recommendations
 
 ---
+# Daily AI Challenge – June 06, 2026
+
+**Domain:** Operations
+**Tool Focus:** Mixed Tools
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Transform scattered inventory and sales data into an intelligent demand forecasting and inventory optimization system for a regional medical device distributor to achieve 98%+ critical supply availability while reducing excess inventory by 60%.
+
+## Skills Trained
+- Healthcare supply chain analytics
+- Multi-facility inventory optimization
+- Working capital management
+- Healthcare business intelligence
+- Executive supply chain strategy communication
+
+## Deliverables
+- Facility-specific demand forecasting model with 90-day predictions
+- Optimal safety stock recommendations by product/facility combination
+- Automated reorder point calculator with economic order quantity optimization
+- Top 50 inventory reallocation opportunities ranked by financial impact
+- Critical supply availability dashboard with real-time stockout risk alerts
+
+---
