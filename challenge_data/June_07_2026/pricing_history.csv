@@ -1,0 +1,41 @@
+proposal_id,engagement_type,proposed_value,client_segment,win_loss,proposal_date,decision_date,competitor_count,pricing_strategy,discount_pct
+PROP001,Digital Transformation,2400000,Enterprise,Win,2024-05-15,2024-06-01,2,Premium,0
+PROP002,Cloud Migration,1950000,Mid-Market,Loss,2024-06-01,2024-06-20,3,Competitive,8
+PROP003,Data Analytics Platform,950000,Enterprise,Win,2024-07-15,2024-08-01,1,Premium,0
+PROP004,ERP Implementation,3200000,Enterprise,Win,2024-04-01,2024-04-20,2,Premium,5
+PROP005,Cybersecurity Assessment,520000,Mid-Market,Win,2024-08-01,2024-08-15,1,Premium,0
+PROP006,AI Strategy Development,1250000,Enterprise,Win,2024-05-30,2024-06-15,2,Premium,0
+PROP007,Process Automation,1850000,Enterprise,Loss,2024-07-01,2024-07-20,4,Competitive,12
+PROP008,Mobile App Development,720000,SMB,Win,2024-06-15,2024-07-01,2,Competitive,0
+PROP009,Infrastructure Modernization,2750000,Enterprise,Win,2024-04-15,2024-05-01,1,Premium,0
+PROP010,Business Intelligence,1100000,Mid-Market,Win,2024-08-15,2024-09-01,2,Premium,0
+PROP011,Digital Marketing Platform,980000,Mid-Market,Loss,2024-07-30,2024-08-15,3,Competitive,10
+PROP012,Supply Chain Optimization,2100000,Enterprise,Win,2024-05-01,2024-05-20,2,Premium,0
+PROP013,Customer Portal Development,1320000,Enterprise,Win,2024-06-30,2024-07-15,1,Premium,0
+PROP014,Data Governance Framework,675000,Mid-Market,Win,2024-08-30,2024-09-15,1,Premium,0
+PROP015,Cloud Security Implementation,1890000,Enterprise,Win,2024-05-15,2024-06-01,2,Premium,0
+PROP016,Workflow Automation,460000,SMB,Loss,2024-09-01,2024-09-20,2,Competitive,8
+PROP017,Enterprise Architecture,3200000,Enterprise,Loss,2024-04-01,2024-04-25,3,Premium,7
+PROP018,CRM Implementation,1560000,Mid-Market,Win,2024-07-01,2024-07-20,2,Premium,0
+PROP019,DevOps Transformation,980000,Mid-Market,Win,2024-08-01,2024-08-20,1,Premium,0
+PROP020,Compliance Automation,1080000,Enterprise,Win,2024-09-15,2024-10-01,1,Premium,0
+PROP021,API Development Platform,780000,Mid-Market,Win,2024-08-15,2024-09-01,2,Premium,0
+PROP022,Digital Twin Implementation,3800000,Enterprise,Loss,2024-03-15,2024-04-10,2,Premium,8
+PROP023,Customer Analytics,1650000,Enterprise,Win,2024-06-01,2024-06-20,2,Premium,0
+PROP024,Network Modernization,2650000,Enterprise,Loss,2024-04-30,2024-05-20,3,Competitive,7
+PROP025,Content Management System,920000,Mid-Market,Win,2024-07-15,2024-08-01,1,Premium,0
+PROP026,Robotic Process Automation,1580000,Enterprise,Loss,2024-06-15,2024-07-05,3,Competitive,9
+PROP027,IoT Platform Development,2950000,Enterprise,Loss,2024-04-01,2024-04-30,2,Premium,9
+PROP028,E-commerce Platform,1380000,Mid-Market,Win,2024-05-30,2024-06-15,2,Premium,0
+PROP029,Disaster Recovery Planning,540000,SMB,Win,2024-09-01,2024-09-20,1,Premium,0
+PROP030,Blockchain Implementation,2400000,Enterprise,Loss,2024-03-30,2024-04-20,3,Competitive,8
+PROP031,Quality Management System,1050000,Mid-Market,Win,2024-07-01,2024-07-20,1,Premium,0
+PROP032,Performance Optimization,480000,SMB,Loss,2024-09-15,2024-10-05,2,Competitive,6
+PROP033,Master Data Management,2750000,Enterprise,Loss,2024-04-15,2024-05-10,2,Premium,5
+PROP034,Customer Experience Platform,1520000,Enterprise,Win,2024-06-30,2024-07-15,2,Premium,0
+PROP035,Security Operations Center,3300000,Enterprise,Loss,2024-03-01,2024-03-25,3,Premium,6
+PROP036,Vendor Management System,1150000,Mid-Market,Win,2024-07-30,2024-08-15,1,Premium,0
+PROP037,Predictive Analytics,820000,Mid-Market,Win,2024-08-30,2024-09-15,1,Premium,0
+PROP038,Integration Platform,2050000,Enterprise,Loss,2024-05-15,2024-06-05,2,Competitive,8
+PROP039,Mobile Security Solution,715000,Mid-Market,Win,2024-08-01,2024-08-20,2,Premium,0
+PROP040,Digital Workplace,2550000,Enterprise,Loss,2024-04-30,2024-05-25,3,Competitive,7

@@ -1,0 +1,41 @@
+engagement_id,project_type,team_size,duration_months,client_industry,complexity_score,final_margin_pct,start_date,end_date,total_revenue,client_size,engagement_manager_level
+ENG001,Digital Transformation,12,8,Financial Services,8.5,42.3,2024-06-15,2025-02-15,2400000,Large,Senior Partner
+ENG002,Cloud Migration,8,6,Healthcare,7.2,38.7,2024-07-01,2024-12-31,1800000,Medium,Principal
+ENG003,Data Analytics Platform,6,4,Retail,6.8,55.2,2024-08-15,2024-12-15,950000,Large,Senior Manager
+ENG004,ERP Implementation,15,12,Manufacturing,9.1,22.4,2024-05-01,2025-05-01,3200000,Large,Partner
+ENG005,Cybersecurity Assessment,4,3,Technology,5.5,62.1,2024-09-01,2024-11-30,480000,Medium,Principal
+ENG006,AI Strategy Development,7,5,Financial Services,7.8,45.8,2024-06-30,2024-11-30,1250000,Large,Senior Partner
+ENG007,Process Automation,9,7,Healthcare,8.2,35.6,2024-08-01,2025-03-01,1680000,Large,Principal
+ENG008,Mobile App Development,5,6,Retail,6.5,48.9,2024-07-15,2025-01-15,720000,Small,Senior Manager
+ENG009,Infrastructure Modernization,11,9,Energy,8.7,28.5,2024-05-15,2025-02-15,2750000,Large,Partner
+ENG010,Business Intelligence,8,4,Financial Services,7.1,52.3,2024-09-15,2025-01-15,1100000,Medium,Principal
+ENG011,Digital Marketing Platform,6,5,Retail,6.9,41.7,2024-08-30,2025-01-30,890000,Medium,Senior Manager
+ENG012,Supply Chain Optimization,10,8,Manufacturing,8.4,33.2,2024-06-01,2025-02-01,2100000,Large,Senior Partner
+ENG013,Customer Portal Development,7,6,Healthcare,7.5,44.6,2024-07-30,2025-01-30,1320000,Large,Principal
+ENG014,Data Governance Framework,5,4,Technology,6.3,58.7,2024-09-30,2025-01-30,675000,Medium,Senior Manager
+ENG015,Cloud Security Implementation,9,7,Financial Services,8.6,36.8,2024-06-15,2025-01-15,1890000,Large,Partner
+ENG016,Workflow Automation,4,3,Professional Services,5.8,61.4,2024-10-01,2024-12-31,420000,Small,Principal
+ENG017,Enterprise Architecture,12,10,Energy,9.2,25.7,2024-05-01,2025-03-01,2980000,Large,Senior Partner
+ENG018,CRM Implementation,8,6,Retail,7.4,39.5,2024-08-01,2025-02-01,1560000,Medium,Principal
+ENG019,DevOps Transformation,6,5,Technology,7.7,47.2,2024-09-01,2025-02-01,980000,Medium,Senior Manager
+ENG020,Compliance Automation,7,4,Financial Services,6.6,51.8,2024-10-15,2025-02-15,1080000,Large,Principal
+ENG021,API Development Platform,5,4,Healthcare,6.4,54.3,2024-09-15,2025-01-15,780000,Medium,Senior Manager
+ENG022,Digital Twin Implementation,14,11,Manufacturing,9.5,19.2,2024-04-15,2025-03-15,3500000,Large,Partner
+ENG023,Customer Analytics,9,6,Retail,7.8,42.1,2024-07-01,2025-01-01,1650000,Large,Principal
+ENG024,Network Modernization,11,8,Technology,8.9,31.4,2024-05-30,2025-01-30,2450000,Large,Senior Partner
+ENG025,Content Management System,6,5,Professional Services,6.7,49.6,2024-08-15,2025-01-15,920000,Medium,Senior Manager
+ENG026,Robotic Process Automation,8,6,Financial Services,7.9,38.9,2024-07-15,2025-01-15,1440000,Large,Principal
+ENG027,IoT Platform Development,10,9,Energy,8.8,29.3,2024-05-01,2025-02-01,2680000,Large,Partner
+ENG028,E-commerce Platform,7,7,Retail,7.6,43.8,2024-06-30,2025-01-30,1380000,Medium,Principal
+ENG029,Disaster Recovery Planning,5,3,Healthcare,5.9,59.7,2024-10-01,2024-12-31,540000,Small,Senior Manager
+ENG030,Blockchain Implementation,9,8,Financial Services,9.0,27.6,2024-04-30,2024-12-30,2200000,Large,Senior Partner
+ENG031,Quality Management System,6,5,Manufacturing,6.8,46.5,2024-08-01,2025-01-01,1050000,Medium,Principal
+ENG032,Performance Optimization,4,3,Technology,5.6,63.2,2024-10-15,2025-01-15,450000,Small,Senior Manager
+ENG033,Master Data Management,11,9,Energy,8.5,32.7,2024-05-15,2025-02-15,2590000,Large,Partner
+ENG034,Customer Experience Platform,8,6,Retail,7.3,40.9,2024-07-30,2025-01-30,1520000,Large,Principal
+ENG035,Security Operations Center,12,10,Financial Services,9.3,24.8,2024-04-01,2025-02-01,3100000,Large,Senior Partner
+ENG036,Vendor Management System,7,5,Professional Services,6.9,48.4,2024-08-30,2025-01-30,1150000,Medium,Senior Manager
+ENG037,Predictive Analytics,6,4,Healthcare,7.1,53.6,2024-09-30,2025-01-30,820000,Medium,Principal
+ENG038,Integration Platform,9,7,Manufacturing,8.1,35.9,2024-06-15,2025-01-15,1890000,Large,Partner
+ENG039,Mobile Security Solution,5,4,Technology,6.5,56.8,2024-09-01,2025-01-01,715000,Medium,Senior Manager
+ENG040,Digital Workplace,10,8,Energy,8.3,33.5,2024-05-30,2025-01-30,2350000,Large,Principal

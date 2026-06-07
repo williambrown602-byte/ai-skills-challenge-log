@@ -2426,3 +2426,28 @@ Transform scattered inventory and sales data into an intelligent demand forecast
 - Critical supply availability dashboard with real-time stockout risk alerts
 
 ---
+# Daily AI Challenge – June 07, 2026
+
+**Domain:** Technology Consulting
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent engagement profitability analysis and pricing optimization system to identify key drivers of engagement success and generate strategic pricing recommendations with confidence intervals for a technology consulting firm. The goal is to improve firm profitability from 28% to 40%+ within 18 months through data-driven pricing methodology.
+
+## Skills Trained
+- Advanced business analytics and profitability modeling
+- Statistical correlation analysis and predictive pricing algorithms
+- Technology consulting industry business intelligence
+- Executive-level strategic communication and pricing strategy
+- Multi-factor decision support system development
+
+## Deliverables
+- Strategic engagement profitability analysis identifying top 10 margin drivers
+- Pricing recommendation engine with confidence intervals for different engagement types
+- Risk-adjusted pricing framework incorporating win probability analysis
+- Client portfolio profitability matrix with strategic account recommendations
+- Partner presentation with pricing methodology improvements and projected margin impact
+
+---
