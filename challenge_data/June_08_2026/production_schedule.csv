@@ -1,0 +1,31 @@
+batch_id,facility,production_date,chemical_compound,batch_size_kg,production_shift,complexity_rating,safety_risk_level,equipment_id,operator_count,batch_duration_hours
+B001,Plant_A,2026-04-01,Methanol,15000,Day,2,Medium,REACTOR_A1,4,8
+B002,Plant_B,2026-04-01,Sulfuric Acid,8500,Night,4,High,REACTOR_B2,6,12
+B003,Plant_C,2026-04-02,Benzene,12000,Day,5,High,REACTOR_C1,5,10
+B004,Plant_A,2026-04-02,Toluene,18000,Day,3,Medium,REACTOR_A2,4,6
+B005,Plant_B,2026-04-03,Acetone,9200,Night,2,Medium,REACTOR_B1,3,8
+B006,Plant_C,2026-04-03,Ammonia,22000,Day,4,High,REACTOR_C2,6,14
+B007,Plant_A,2026-04-04,Ethanol,16500,Day,1,Low,REACTOR_A1,3,6
+B008,Plant_B,2026-04-04,Hydrochloric Acid,7800,Night,4,High,REACTOR_B3,5,10
+B009,Plant_C,2026-04-05,Formaldehyde,5500,Day,5,High,REACTOR_C1,4,12
+B010,Plant_A,2026-04-05,Phenol,11200,Night,4,High,REACTOR_A2,5,9
+B011,Plant_B,2026-04-06,Mixed Solvents,14000,Day,3,Medium,REACTOR_B1,4,8
+B012,Plant_C,2026-04-06,Chlorine,3200,Night,5,High,REACTOR_C3,6,16
+B013,Plant_A,2026-04-07,Isopropanol,19500,Day,2,Medium,REACTOR_A1,3,7
+B014,Plant_B,2026-04-07,Nitric Acid,6900,Night,5,High,REACTOR_B2,6,11
+B015,Plant_C,2026-04-08,Acetonitrile,8700,Day,3,Medium,REACTOR_C1,4,9
+B016,Plant_A,2026-04-08,Hydrogen Peroxide,4500,Night,4,High,REACTOR_A3,5,13
+B017,Plant_B,2026-04-09,Dichloromethane,7200,Day,4,High,REACTOR_B1,4,10
+B018,Plant_C,2026-04-09,Heavy Metal Catalyst,1800,Night,5,High,REACTOR_C2,7,18
+B019,Plant_A,2026-04-10,Xylene,13500,Day,3,Medium,REACTOR_A1,4,8
+B020,Plant_B,2026-04-10,Acetic Acid,11800,Day,2,Medium,REACTOR_B3,3,6
+B021,Plant_C,2026-04-11,Methyl Ethyl Ketone,9800,Night,3,Medium,REACTOR_C1,4,9
+B022,Plant_A,2026-04-11,Propylene Glycol,17200,Day,2,Low,REACTOR_A2,3,7
+B023,Plant_B,2026-04-12,Sodium Hydroxide,25000,Day,3,Medium,REACTOR_B1,5,10
+B024,Plant_C,2026-04-12,Cyclohexane,14500,Night,4,High,REACTOR_C3,5,11
+B025,Plant_A,2026-04-13,PFAS Compounds,2100,Day,5,High,REACTOR_A3,6,20
+B026,Plant_B,2026-04-13,Ethylene Glycol,16800,Night,2,Medium,REACTOR_B2,4,8
+B027,Plant_C,2026-04-14,Phosphoric Acid,8900,Day,4,High,REACTOR_C1,5,12
+B028,Plant_A,2026-04-14,Butanol,12400,Night,3,Medium,REACTOR_A1,4,9
+B029,Plant_B,2026-04-15,Potassium Permanganate,3600,Day,4,High,REACTOR_B3,5,14
+B030,Plant_C,2026-04-15,Diethyl Ether,5200,Night,5,High,REACTOR_C2,6,15

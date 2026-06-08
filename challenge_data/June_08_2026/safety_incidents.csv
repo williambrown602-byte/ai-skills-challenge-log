@@ -1,0 +1,31 @@
+incident_id,facility,date,incident_type,severity,chemical_involved,violation_type,corrective_action_completed,days_to_resolution,inspector_notes,regulatory_citation
+SI001,Plant_A,2024-06-15,Chemical Spill,High,Methanol,PPE Violation,Yes,7,Inadequate protective equipment during transfer,REG-2024-067
+SI002,Plant_B,2024-06-22,Near Miss,Medium,Sulfuric Acid,Documentation,Yes,3,Missing safety data sheet at workstation,
+SI003,Plant_C,2024-07-03,Equipment Failure,High,Benzene,Maintenance,No,45,Safety valve malfunction - overdue maintenance,REG-2024-089
+SI004,Plant_A,2024-07-18,Chemical Exposure,Medium,Toluene,Training,Yes,12,Worker unaware of proper handling procedures,
+SI005,Plant_B,2024-08-01,Fire Hazard,High,Acetone,Storage,Yes,5,Improper storage temperature controls,REG-2024-134
+SI006,Plant_C,2024-08-15,Air Quality,Medium,Ammonia,Ventilation,No,23,Inadequate exhaust system performance,
+SI007,Plant_A,2024-09-02,Chemical Spill,Low,Ethanol,Containment,Yes,2,Small spill - containment system delayed response,
+SI008,Plant_B,2024-09-20,Near Miss,High,Hydrochloric Acid,PPE Violation,Yes,8,Acid-resistant gloves not available,REG-2024-201
+SI009,Plant_C,2024-10-05,Equipment Failure,Medium,Formaldehyde,Calibration,No,18,Gas detection system out of calibration,
+SI010,Plant_A,2024-10-22,Chemical Exposure,High,Phenol,Emergency Response,Yes,14,Emergency shower non-functional,REG-2024-267
+SI011,Plant_B,2024-11-08,Waste Violation,Medium,Mixed Solvents,Documentation,Yes,6,Improper waste classification records,
+SI012,Plant_C,2024-11-25,Air Quality,High,Chlorine,Monitoring,No,31,Continuous monitoring system offline,REG-2024-334
+SI013,Plant_A,2024-12-12,Fire Hazard,Medium,Isopropanol,Storage,Yes,4,Inadequate separation from ignition sources,
+SI014,Plant_B,2025-01-07,Chemical Spill,High,Nitric Acid,Training,Yes,21,New employee inadequate training,REG-2024-389
+SI015,Plant_C,2025-01-24,Near Miss,Medium,Acetonitrile,Maintenance,No,27,Pump seal leak - preventive maintenance missed,
+SI016,Plant_A,2025-02-10,Equipment Failure,High,Hydrogen Peroxide,Calibration,Yes,9,Pressure relief valve set incorrectly,REG-2025-045
+SI017,Plant_B,2025-02-27,Chemical Exposure,Medium,Dichloromethane,Ventilation,Yes,11,Local exhaust ventilation inadequate,
+SI018,Plant_C,2025-03-16,Waste Violation,High,Heavy Metals,Documentation,No,38,Missing hazardous waste manifests,REG-2025-089
+SI019,Plant_A,2025-04-02,Air Quality,Medium,Xylene,Monitoring,Yes,7,Personal monitoring equipment malfunction,
+SI020,Plant_B,2025-04-19,Chemical Spill,Low,Acetic Acid,Containment,Yes,3,Minor spill - adequate response time,
+SI021,Plant_C,2025-05-06,Fire Hazard,High,Methyl Ethyl Ketone,PPE Violation,Yes,15,Fire-resistant clothing not worn,REG-2025-156
+SI022,Plant_A,2025-05-23,Near Miss,Medium,Propylene Glycol,Emergency Response,No,19,Eyewash station blocked access,
+SI023,Plant_B,2025-06-09,Equipment Failure,High,Sodium Hydroxide,Maintenance,Yes,13,Corrosion damage to containment system,REG-2025-203
+SI024,Plant_C,2025-06-26,Chemical Exposure,Medium,Cyclohexane,Training,Yes,8,Contractor unfamiliar with site procedures,
+SI025,Plant_A,2025-07-13,Waste Violation,High,PFAS Compounds,Storage,No,42,Improper temporary storage arrangements,REG-2025-267
+SI026,Plant_B,2025-07-30,Air Quality,Medium,Ethylene Glycol,Calibration,Yes,10,Gas chromatograph calibration expired,
+SI027,Plant_C,2025-08-16,Chemical Spill,High,Phosphoric Acid,Documentation,Yes,16,Spill response plan not followed,REG-2025-334
+SI028,Plant_A,2025-09-02,Near Miss,Low,Butanol,Monitoring,Yes,4,Routine air sampling detected elevated levels,
+SI029,Plant_B,2025-09-19,Equipment Failure,Medium,Potassium Permanganate,Ventilation,No,25,Fume hood face velocity below standard,
+SI030,Plant_C,2025-10-06,Fire Hazard,High,Diethyl Ether,Storage,Yes,12,Peroxide formation risk - old inventory,REG-2025-401

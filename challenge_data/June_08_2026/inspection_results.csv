@@ -1,0 +1,31 @@
+inspection_id,facility,inspection_date,inspector_name,inspection_type,area_inspected,compliance_score,violations_found,violation_severity,follow_up_required,completion_status,days_since_last_inspection
+INS001,Plant_A,2024-05-15,Sarah Johnson,Routine,Production Floor,78,3,Medium,Yes,Completed,90
+INS002,Plant_B,2024-05-22,Mike Chen,Safety Audit,Chemical Storage,65,5,High,Yes,In Progress,45
+INS003,Plant_C,2024-06-03,Lisa Rodriguez,Environmental,Waste Management,82,2,Low,No,Completed,120
+INS004,Plant_A,2024-06-18,David Kim,Equipment,Reactor Systems,71,4,Medium,Yes,Completed,67
+INS005,Plant_B,2024-07-01,Sarah Johnson,Routine,Laboratory,88,1,Low,No,Completed,85
+INS006,Plant_C,2024-07-15,Tom Wilson,Safety Audit,Emergency Systems,59,7,High,Yes,Overdue,95
+INS007,Plant_A,2024-08-02,Mike Chen,Environmental,Air Quality,75,3,Medium,Yes,Completed,78
+INS008,Plant_B,2024-08-20,Lisa Rodriguez,Routine,Production Floor,83,2,Low,No,Completed,102
+INS009,Plant_C,2024-09-05,David Kim,Equipment,Safety Instrumentation,68,5,High,Yes,In Progress,56
+INS010,Plant_A,2024-09-22,Sarah Johnson,Safety Audit,PPE Compliance,72,4,Medium,Yes,Completed,89
+INS011,Plant_B,2024-10-08,Tom Wilson,Environmental,Chemical Storage,79,2,Medium,No,Completed,73
+INS012,Plant_C,2024-10-25,Mike Chen,Routine,Maintenance Area,85,1,Low,No,Completed,91
+INS013,Plant_A,2024-11-12,Lisa Rodriguez,Equipment,Process Controls,66,6,High,Yes,Overdue,112
+INS014,Plant_B,2024-11-25,David Kim,Safety Audit,Training Records,81,2,Low,No,Completed,67
+INS015,Plant_C,2024-12-12,Sarah Johnson,Environmental,Waste Handling,74,3,Medium,Yes,Completed,84
+INS016,Plant_A,2025-01-07,Tom Wilson,Routine,Quality Control,87,1,Low,No,Completed,98
+INS017,Plant_B,2025-01-24,Mike Chen,Equipment,Ventilation Systems,63,8,High,Yes,In Progress,45
+INS018,Plant_C,2025-02-10,Lisa Rodriguez,Safety Audit,Fire Protection,77,3,Medium,Yes,Completed,76
+INS019,Plant_A,2025-02-27,David Kim,Environmental,Monitoring Equipment,80,2,Medium,No,Completed,89
+INS020,Plant_B,2025-03-16,Sarah Johnson,Routine,Chemical Handling,69,5,High,Yes,Overdue,67
+INS021,Plant_C,2025-04-02,Tom Wilson,Equipment,Pressure Vessels,73,4,Medium,Yes,Completed,93
+INS022,Plant_A,2025-04-19,Mike Chen,Safety Audit,Emergency Procedures,76,3,Medium,Yes,Completed,78
+INS023,Plant_B,2025-05-06,Lisa Rodriguez,Environmental,Emissions Control,84,1,Low,No,Completed,102
+INS024,Plant_C,2025-05-23,David Kim,Routine,Operator Training,71,4,Medium,Yes,In Progress,56
+INS025,Plant_A,2025-06-09,Sarah Johnson,Equipment,Instrumentation,64,7,High,Yes,Overdue,87
+INS026,Plant_B,2025-06-26,Tom Wilson,Safety Audit,Contractor Safety,78,2,Medium,No,Completed,71
+INS027,Plant_C,2025-07-13,Mike Chen,Environmental,Water Treatment,82,2,Low,No,Completed,94
+INS028,Plant_A,2025-07-30,Lisa Rodriguez,Routine,Maintenance Logs,75,3,Medium,Yes,Completed,83
+INS029,Plant_B,2025-08-16,David Kim,Equipment,Safety Shutdown,67,5,High,Yes,In Progress,49
+INS030,Plant_C,2025-09-02,Sarah Johnson,Safety Audit,Documentation,79,2,Medium,No,Completed,88

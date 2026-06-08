@@ -2451,3 +2451,28 @@ Build an intelligent engagement profitability analysis and pricing optimization 
 - Partner presentation with pricing methodology improvements and projected margin impact
 
 ---
+# Daily AI Challenge – June 08, 2026
+
+**Domain:** Manufacturing Operations/Regulatory Compliance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent regulatory compliance risk assessment and optimization system that transforms scattered safety data into predictive insights and actionable compliance strategies for a chemical manufacturing company facing potential $2.8M in penalties.
+
+## Skills Trained
+- Regulatory compliance analytics
+- Manufacturing business intelligence
+- Multi-facility operations analysis
+- Predictive risk modeling
+- Executive crisis management communication
+
+## Deliverables
+- Top 25 highest-risk compliance areas with probability scores
+- Optimized 8-week inspection schedule
+- Facility-specific compliance dashboard
+- Predictive violation risk model
+- Strategic compliance improvement roadmap
+
+---
