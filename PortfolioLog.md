@@ -2476,3 +2476,28 @@ Build an intelligent regulatory compliance risk assessment and optimization syst
 - Strategic compliance improvement roadmap
 
 ---
+# Daily AI Challenge – June 09, 2026
+
+**Domain:** Finance
+**Tool Focus:** Primarily Claude Code
+**Time Box:** 90-120 minutes
+**Status:** Pending
+
+## Challenge Summary
+Build an intelligent client portfolio optimization system to analyze engagement profitability patterns and generate strategic recommendations to improve consulting firm portfolio margins by 15-25%. The system will process multi-dimensional client data to identify high-value characteristics and optimization opportunities across 45 active engagements worth $18M annual revenue.
+
+## Skills Trained
+- Advanced business analytics and client portfolio optimization
+- Multi-dimensional profitability analysis with statistical modeling
+- Strategic account management and relationship analytics
+- Consulting industry business intelligence and competitive positioning
+- Executive-level strategic communication and planning
+
+## Deliverables
+- Strategic client profitability segmentation analysis with profit/loss driver identification
+- High-value client characteristic model
+- Account management optimization recommendations for each portfolio segment
+- Partner-specific client portfolio health assessment with strategic guidance
+- 18-month strategic portfolio transformation plan with projected margin improvements
+
+---

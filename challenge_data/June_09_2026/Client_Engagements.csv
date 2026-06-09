@@ -1,0 +1,46 @@
+engagement_id,client_id,client_name,industry,project_type,start_date,end_date,team_size,duration_months,revenue,total_costs,partner_assigned,year
+ENG001,CLI001,TechFlow Solutions,Technology,Digital Transformation,2024-01-15,2024-07-15,8,6,450000,380000,Sarah Chen,2024
+ENG002,CLI002,MediCorp Healthcare,Healthcare,Process Optimization,2024-02-01,2024-05-01,5,3,280000,195000,Michael Rodriguez,2024
+ENG003,CLI003,RetailMax Inc,Retail,Strategic Planning,2024-01-10,2024-04-10,6,3,320000,210000,David Thompson,2024
+ENG004,CLI004,GreenEnergy Partners,Energy,Organizational Restructure,2024-03-01,2024-09-01,12,6,680000,720000,Sarah Chen,2024
+ENG005,CLI005,FinanceFirst Bank,Financial Services,Risk Management,2024-02-15,2024-08-15,10,6,520000,390000,Jennifer Walsh,2024
+ENG006,CLI006,ManufacturingPro Ltd,Manufacturing,Lean Operations,2024-04-01,2024-07-01,7,3,380000,285000,Michael Rodriguez,2024
+ENG007,CLI007,ConsumerBrand Co,Consumer Goods,Market Entry Strategy,2024-01-20,2024-06-20,9,5,425000,340000,David Thompson,2024
+ENG008,CLI008,LogisticsMaster,Transportation,Supply Chain Optimization,2024-03-15,2024-08-15,11,5,590000,472000,Robert Kim,2024
+ENG009,CLI009,TechStartup Alpha,Technology,Growth Strategy,2024-05-01,2024-08-01,4,3,180000,160000,Sarah Chen,2024
+ENG010,CLI010,GlobalManufacturing,Manufacturing,Digital Transformation,2024-04-15,2024-10-15,15,6,750000,600000,Jennifer Walsh,2024
+ENG011,CLI011,HealthSystem Plus,Healthcare,Cost Reduction,2024-06-01,2024-09-01,8,3,350000,280000,Michael Rodriguez,2024
+ENG012,CLI012,RetailChain Express,Retail,Operations Improvement,2024-05-15,2024-08-15,6,3,290000,232000,David Thompson,2024
+ENG013,CLI001,TechFlow Solutions,Technology,Cloud Migration,2023-03-01,2023-08-01,10,5,480000,360000,Sarah Chen,2023
+ENG014,CLI013,EnergyGrid Corp,Energy,Strategic Planning,2023-01-15,2023-07-15,9,6,560000,448000,Robert Kim,2023
+ENG015,CLI005,FinanceFirst Bank,Financial Services,Digital Banking,2023-04-01,2023-10-01,14,6,720000,576000,Jennifer Walsh,2023
+ENG016,CLI014,PharmaInnovate,Healthcare,R&D Optimization,2023-02-01,2023-11-01,12,9,890000,623000,Michael Rodriguez,2023
+ENG017,CLI015,AutoMaker Global,Manufacturing,Supply Chain,2023-05-01,2023-11-01,13,6,680000,544000,David Thompson,2023
+ENG018,CLI016,FoodService Inc,Consumer Goods,Franchise Model,2023-03-15,2023-09-15,7,6,420000,294000,Sarah Chen,2023
+ENG019,CLI017,TechGiant Beta,Technology,Innovation Strategy,2023-06-01,2023-12-01,16,6,920000,552000,Jennifer Walsh,2023
+ENG020,CLI008,LogisticsMaster,Transportation,Cost Optimization,2023-01-01,2023-04-01,8,3,340000,306000,Robert Kim,2023
+ENG021,CLI018,UtilityPower Co,Energy,Regulatory Compliance,2023-07-01,2023-12-01,11,5,580000,522000,Michael Rodriguez,2023
+ENG022,CLI019,InsuranceLeader,Financial Services,Process Automation,2023-08-01,2024-02-01,9,6,510000,357000,David Thompson,2023
+ENG023,CLI003,RetailMax Inc,Retail,E-commerce Strategy,2022-01-15,2022-07-15,8,6,380000,266000,Sarah Chen,2022
+ENG024,CLI020,TelecomConnect,Telecommunications,Network Optimization,2022-03-01,2022-09-01,12,6,650000,520000,Jennifer Walsh,2022
+ENG025,CLI021,ChemicalSolutions,Manufacturing,Sustainability Initiative,2022-02-15,2022-08-15,10,6,540000,432000,Michael Rodriguez,2022
+ENG026,CLI022,MediaGroup Pro,Media,Digital Strategy,2022-04-01,2022-10-01,11,6,590000,413000,David Thompson,2022
+ENG027,CLI023,AerospaceTech,Aerospace,Operational Excellence,2022-05-15,2022-11-15,14,6,780000,624000,Robert Kim,2022
+ENG028,CLI024,HospitalityChain,Hospitality,Revenue Management,2022-06-01,2022-12-01,7,6,420000,378000,Sarah Chen,2022
+ENG029,CLI002,MediCorp Healthcare,Healthcare,Quality Improvement,2022-07-01,2022-12-01,9,5,480000,336000,Jennifer Walsh,2022
+ENG030,CLI025,AgriTech Innovations,Agriculture,Technology Integration,2022-08-15,2023-02-15,6,6,350000,315000,Michael Rodriguez,2022
+ENG031,CLI026,RealEstate Ventures,Real Estate,Market Analysis,2022-09-01,2022-12-01,5,3,280000,224000,David Thompson,2022
+ENG032,CLI004,GreenEnergy Partners,Energy,Market Entry,2022-10-01,2023-04-01,13,6,720000,576000,Sarah Chen,2022
+ENG033,CLI027,SportsTech Corp,Sports,Fan Engagement,2022-11-01,2023-05-01,8,6,460000,368000,Robert Kim,2022
+ENG034,CLI028,EducationPlatform,Education,Growth Strategy,2022-12-01,2023-06-01,9,6,520000,416000,Jennifer Walsh,2022
+ENG035,CLI029,WasteManagement Pro,Environmental,Efficiency Program,2023-01-15,2023-07-15,7,6,400000,320000,Michael Rodriguez,2023
+ENG036,CLI030,CyberSecurity Shield,Technology,Security Assessment,2023-02-01,2023-05-01,12,3,480000,384000,David Thompson,2023
+ENG037,CLI031,BioPharma Research,Healthcare,Clinical Operations,2023-03-01,2023-12-01,15,9,950000,760000,Sarah Chen,2023
+ENG038,CLI032,ConstructionMega,Construction,Project Management,2023-04-15,2023-10-15,11,6,620000,496000,Robert Kim,2023
+ENG039,CLI033,FashionBrand Elite,Fashion,Brand Strategy,2023-05-01,2023-11-01,8,6,440000,308000,Jennifer Walsh,2023
+ENG040,CLI034,MiningCorp International,Mining,Safety Optimization,2023-06-15,2023-12-15,13,6,710000,568000,Michael Rodriguez,2023
+ENG041,CLI035,CloudServices Pro,Technology,Scaling Strategy,2024-01-01,2024-04-01,6,3,320000,256000,Sarah Chen,2024
+ENG042,CLI036,WealthManagement Plus,Financial Services,Client Experience,2024-02-15,2024-08-15,10,6,580000,406000,David Thompson,2024
+ENG043,CLI037,FoodTech Innovations,Food Technology,Product Launch,2024-03-01,2024-09-01,9,6,520000,364000,Jennifer Walsh,2024
+ENG044,CLI038,TransportGlobal,Transportation,Fleet Optimization,2024-04-01,2024-10-01,12,6,680000,476000,Robert Kim,2024
+ENG045,CLI039,SoftwareDev Corp,Technology,Agile Transformation,2024-05-15,2024-08-15,7,3,340000,238000,Michael Rodriguez,2024
